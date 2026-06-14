@@ -1,0 +1,53 @@
+{
+  "title": "Amazon Bee Wearable: O Futuro da Inteligência Artificial nos Dispositivos Portáteis",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionize Sua Vida com o Amazon Bee Wearable",
+      "subtext": "Descubra o Poder da Inteligência Artificial nos Seus Punhos",
+      "image_prompt": "futuristic wearable device on a person's wrist"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A tecnologia tem avançado a passos largos nos últimos anos, trazendo inovações que mudam a forma como vivemos e interagimos. O setor de dispositivos portáteis é um dos mais destacados.",
+      "highlight": "Amazon Bee Wearable: O Novo Capítulo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Amazon Bee Wearable é um dispositivo que combina funcionalidades de relógios, computadores e assistentes pessoais, com capacidade de aprender e se adaptar às necessidades do usuário.",
+      "visual_hint": "ícone de um relógio inteligente"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O Amazon Bee Wearable tem o potencial de revolucionar a forma como vivemos e interagimos com o mundo ao nosso redor, oferecendo uma experiência personalizada e única.",
+      "visual_hint": "ícone de uma pessoa interagindo com um dispositivo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Monitoramento de atividade física avançado",
+        "Controle de música e notificações personalizadas",
+        "Tecnologia de inteligência artificial para aprender e se adaptar"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Maior controle sobre a vida diária",
+        "Experiências personalizadas e únicas",
+        "Avanços na tecnologia de inteligência artificial"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre o Amazon Bee Wearable",
+      "subtext": "Não perca as últimas notícias e atualizações sobre o futuro da inteligência artificial nos dispositivos portáteis."
+    }
+  ]
+}

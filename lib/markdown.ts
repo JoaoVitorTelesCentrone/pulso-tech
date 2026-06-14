@@ -41,7 +41,7 @@ export function getSortedArticlesData(): ArticleFrontmatter[] {
       return {
         slug,
         title: matterResult.data.title || 'Sem Título',
-        date: matterResult.data.date || new Date().toISOString().split('T')[0],
+        date: matterResult.data.date || new Date().toISOString(),
         tags: matterResult.data.tags || [],
         image: matterResult.data.image,
         createdAt: fs.statSync(fullPath).mtimeMs,
@@ -77,7 +77,7 @@ export async function getArticleData(slug: string): Promise<Article> {
   return {
     slug,
     title: matterResult.data.title || 'Sem Título',
-    date: matterResult.data.date || new Date().toISOString().split('T')[0],
+    date: matterResult.data.date || new Date().toISOString(),
     tags: matterResult.data.tags || [],
     image: matterResult.data.image,
     contentHtml,

@@ -1,0 +1,53 @@
+{
+  "title": "Descontos Imperdíveis: O MacBook Air da Apple com $200 de Desconto no Memorial Day",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Descontos Imperdíveis no Memorial Day",
+      "subtext": "Aproveite $200 de desconto no MacBook Air",
+      "image_prompt": " Uma imagem de um MacBook Air com um fundo de promoção"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de tecnologia está em constante evolução, com novos lançamentos e inovações surgindo a cada dia. A Apple está oferecendo um desconto exclusivo de $200 em seu MacBook Air.",
+      "highlight": "Desconto de $200"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O MacBook Air é um laptop de ponta, conhecido por sua performance excepcional e design elegante. Com o processador M5, 16GB de RAM e uma tela Retina de alta resolução, é capaz de lidar com tarefas exigentes.",
+      "visual_hint": "Ícone de um processador ou uma imagem de um laptop em ação"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O desconto de $200 oferecido pela Apple é uma oportunidade imperdível para aqueles que estão procurando por um laptop de alta qualidade sem precisar gastar uma fortuna.",
+      "visual_hint": "Ícone de uma carteira ou uma imagem de alguém economizando"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "$200 de desconto",
+        "Processador M5",
+        "16GB de RAM"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Laptops mais acessíveis",
+        "Melhor performance para usuários",
+        "Oportunidade para atualizar para um laptop de ponta"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Aproveite essa oportunidade única",
+      "subtext": "Visite a loja da Apple ou o site oficial para saber mais sobre o desconto e adquirir seu MacBook Air com $200 de desconto"
+    }
+  ]
+}

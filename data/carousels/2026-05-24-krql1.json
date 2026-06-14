@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação sobre IA",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA na Indústria Nuclear",
+        "subtext": "Inovação em Energia"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA Otimiza",
+        "body": "Operações de Usinas Nucleares"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "30%",
+        "stat_label": "Redução de Custos com IA"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"IA é o futuro da energia nuclear\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA e Segurança",
+        "body": "Prevenindo Acidentes"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios da IA",
+        "items": [
+          "Otimização de Operações",
+          "Melhoria da Segurança",
+          "Redução de Custos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer saber mais sobre IA?",
+        "highlight_word": "Aprenda",
+        "subtext": "Descubra como a IA está revolucionando a indústria nuclear"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA e Você",
+        "subtext": "Como a IA afeta sua vida"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA no Trabalho",
+        "body": "Mudanças no Mercado de Trabalho"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "Profissionais que precisam de treinamento em IA"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A IA é uma ferramenta, não um substituto\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA e Carreira",
+        "body": "Oportunidades e Desafios"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Dicas para Sobreviver na Era da IA",
+        "items": [
+          "Aprenda a programar",
+          "Desenvolva habilidades emocionais",
+          "Seja adaptável"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer estar preparado?",
+        "highlight_word": "Aprenda",
+        "subtext": "Descubra como a IA pode ajudar em sua carreira"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA em Números",
+        "subtext": "Estatísticas e Tendências"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Investimento em IA",
+        "body": "Crescimento do Mercado"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "25%",
+        "stat_label": "Crescimento anual do mercado de IA"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Os dados são o novo petróleo\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA e Eficiência",
+        "body": "Redução de Custos e Melhoria da Produtividade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Setores que mais investem em IA",
+        "items": [
+          "Saúde",
+          "Finanças",
+          "Indústria"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer saber mais sobre o mercado de IA?",
+        "highlight_word": "Descubra",
+        "subtext": "Aprenda sobre as tendências e estatísticas do mercado de IA"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da IA",
+        "subtext": "Consequências e Desafios"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA e Ética",
+        "body": "Desafios e Responsabilidades"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Profissionais que acreditam que a IA precisa de regulamentação"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A IA é uma ferramenta, não um destino\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA e Sociedade",
+        "body": "Impactos na Sociedade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Desafios para o Futuro da IA",
+        "items": [
+          "Segurança",
+          "Privacidade",
+          "Ética"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer contribuir para um futuro melhor?",
+        "highlight_word": "Participe",
+        "subtext": "Descubra como você pode contribuir para um futuro mais ético e responsável com a IA"
+      }
+    ]
+  }
+]

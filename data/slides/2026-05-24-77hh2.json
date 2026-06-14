@@ -1,0 +1,53 @@
+{
+  "title": "A Inteligência Artificial na Fórmula 1: Como a Ferrari Está Redefinindo a Experiência do Fã",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolucionando a Pista",
+      "subtext": "A Inteligência Artificial chega à Fórmula 1",
+      "image_prompt": "uma imagem de um carro de Fórmula 1 com efeitos de IA"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Fórmula 1 é um dos esportes mais populares do mundo, com milhões de fãs. A Ferrari e a IBM unem forças para criar uma experiência inovadora.",
+      "highlight": "Parceria inédita entre a Ferrari e a IBM"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Ferrari está utilizando a Inteligência Artificial para analisar dados sobre os fãs e criar uma experiência personalizada, oferecendo conteúdo relevante e ofertas exclusivas.",
+      "visual_hint": "ícone de um robô analisando dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A utilização da IA na Fórmula 1 pode aumentar a lealdade e o engajamento dos fãs, além de melhorar a performance da equipe.",
+      "visual_hint": "gráfico de aumento de engajamento"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Milhões de fãs em todo o mundo",
+        "Análise de grandes quantidades de dados",
+        "Aumento de 20% no engajamento dos fãs"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Experiência do fã mais personalizada e interativa",
+        "Melhoria na performance da equipe",
+        "Novas oportunidades de negócios e patrocínio"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Não perca as novidades sobre a Inteligência Artificial na Fórmula 1"
+    }
+  ]
+}

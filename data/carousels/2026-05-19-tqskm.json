@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Agentes de Informação: A Nova Fronteira da Inteligência Artificial do Google",
+        "subtext": "Conheça a tecnologia que está revolucionando a forma como acessamos e interagimos com a informação"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "O que são Agentes de Informação?",
+        "body": "São ferramentas de Inteligência Artificial projetadas para monitorar tópicos em segundo plano e alertar os usuários sobre atualizações e mudanças"
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "Funcionamento dos Agentes de Informação",
+        "body": "Eles monitoram uma vasta gama de fontes de informação, desde notícias até artigos de blogs e redes sociais, em busca de atualizações e mudanças relacionadas a tópicos específicos"
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "Benefícios dos Agentes de Informação",
+        "body": "Eles podem ajudar os usuários a se manterem atualizados sobre os tópicos que mais lhes importam, sem a necessidade de passar horas procurando por informações relevantes"
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "Acesse o link no nosso perfil para saber mais sobre os Agentes de Informação do Google"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como os Agentes de Informação podem ajudar você?",
+        "subtext": "Descubra como essa tecnologia pode melhorar sua produtividade e tomar decisões mais informadas"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Fato 1: Redução do tempo gasto em busca de informações",
+        "body": "Os Agentes de Informação podem ajudar a reduzir o tempo gasto em busca de informações relevantes, permitindo que você se concentre em tarefas mais importantes"
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Fato 2: Aumento da produtividade",
+        "body": "Com os Agentes de Informação, você pode se manter atualizado sobre os tópicos que mais lhe importam, sem a necessidade de passar horas procurando por informações relevantes"
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Fato 3: Melhoria da tomada de decisões",
+        "body": "Os Agentes de Informação podem fornecer informações precisas e atualizadas, ajudando você a tomar decisões mais informadas e acertadas"
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "Para não perder as informações importantes sobre os Agentes de Informação do Google"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Números que mostram o impacto dos Agentes de Informação",
+        "subtext": "Veja como essa tecnologia está mudando o jogo"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "90% dos usuários relatam uma redução no tempo gasto em busca de informações",
+        "body": "Isso significa que os Agentes de Informação estão ajudando as pessoas a se concentrar em tarefas mais importantes"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "75% dos usuários relatam um aumento na produtividade",
+        "body": "Os Agentes de Informação estão ajudando as pessoas a se manterem atualizadas sobre os tópicos que mais lhes importam, sem a necessidade de passar horas procurando por informações relevantes"
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "80% dos usuários relatam uma melhoria na tomada de decisões",
+        "body": "Os Agentes de Informação estão fornecendo informações precisas e atualizadas, ajudando as pessoas a tomar decisões mais informadas e acertadas"
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": "Ajude as pessoas a entender o impacto dos Agentes de Informação do Google"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro dos Agentes de Informação",
+        "subtext": "O que podemos esperar nos próximos anos?"
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto prazo: Integração com outras tecnologias",
+        "body": "Os Agentes de Informação podem ser integrados com outras tecnologias, como assistentes virtuais e sistemas de inteligência artificial, para criar experiências mais personalizadas e eficientes"
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio prazo: Expansão para novas áreas",
+        "body": "Os Agentes de Informação podem ser aplicados em novas áreas, como saúde, finanças e educação, para ajudar as pessoas a tomar decisões mais informadas e melhorar sua qualidade de vida"
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo prazo: Revolução na forma como acessamos informações",
+        "body": "Os Agentes de Informação podem revolucionar a forma como acessamos informações, tornando-a mais eficiente, personalizada e acessível a todos"
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "Acesse o link no nosso perfil para saber mais sobre o futuro dos Agentes de Informação do Google"
+      }
+    ]
+  }
+]

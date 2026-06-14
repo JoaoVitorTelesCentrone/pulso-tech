@@ -1,0 +1,53 @@
+{
+  "title": "O Futuro da Inteligência Artificial: Google Aponta para Agentes, não Chatbots",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Inteligência Artificial",
+      "subtext": "Descubra como o Google está mudando o jogo com agentes de IA",
+      "image_prompt": "futuristic cityscape with robots and artificial intelligence"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário Atual",
+      "body": "A inteligência artificial está em constante evolução, com avanços significativos em áreas como processamento de linguagem natural e aprendizado de máquina. No entanto, a maioria das aplicações de IA atualmente se concentra em tarefas específicas.",
+      "highlight": "Gemini 3.5 Flash: o próximo grande passo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que é o Gemini 3.5 Flash?",
+      "body": "O Gemini 3.5 Flash é o modelo de IA mais poderoso do Google até o momento, capaz de executar tarefas complexas de forma autônoma e construir software do zero.",
+      "visual_hint": "ícone de robô ou circuito eletrônico"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que isso importa",
+      "body": "A capacidade de realizar tarefas complexas de forma autônoma pode revolucionar indústrias como desenvolvimento de software, gestão de projetos e automação de processos, tornando-os mais eficazes e eficientes.",
+      "visual_hint": "gráfico de aumento de produtividade"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "O Gemini 3.5 Flash pode construir software do zero",
+        "Pode executar tarefas complexas de forma autônoma",
+        "É projetado para ser altamente escalável"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Maior eficiência em indústrias como desenvolvimento de software e gestão de projetos",
+        "Possibilidade de aprendizado e adaptação contínua",
+        "Necessidade de abordar questões de responsabilidade e segurança"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre o futuro da inteligência artificial",
+      "subtext": "Fique por dentro das últimas notícias e tendências em IA e tecnologia"
+    }
+  ]
+}

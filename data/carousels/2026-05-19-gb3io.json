@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação em tecnologia",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Óculos Inteligentes",
+        "subtext": "Tecnologia Avançada"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Tecnologia XR",
+        "body": "Realidade Aumentada"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Usuários Satisfeitos"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A tecnologia está mudando nossas vidas\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Inteligência Artificial",
+        "body": "Aprendizado Automático"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios",
+        "items": [
+          "Comandos Verbais",
+          "Respostas Rápidas",
+          "Acessibilidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Descubra Mais",
+        "highlight_word": "Inovação",
+        "subtext": "Aprenda sobre os óculos inteligentes da Google"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal na vida",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Mudança de Vida",
+        "subtext": "Tecnologia Pessoal"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Comandos Verbais",
+        "body": "Controle Total"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "Redução do Estresse"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A tecnologia me ajudou a ser mais produtivo\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Acessibilidade",
+        "body": "Para Todos"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Vantagens",
+        "items": [
+          "Maior Produtividade",
+          "Menos Esforço",
+          "Mais Tempo Livre"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Experimente Agora",
+        "highlight_word": "Inovação",
+        "subtext": "Descubra como os óculos inteligentes podem mudar sua vida"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números da tecnologia",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Números Impressionantes",
+        "subtext": "Tecnologia em Dados"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Desempenho",
+        "body": "Velocidade e Eficiência"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "95%",
+        "stat_label": "Taxa de Sucesso"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A tecnologia é o futuro\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Inovação",
+        "body": "Avanços Constantes"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Estatísticas",
+        "items": [
+          "10 Milhões de Usuários",
+          "1000 Aplicativos Disponíveis",
+          "99% de Satisfação"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Aprenda Mais",
+        "highlight_word": "Tecnologia",
+        "subtext": "Descubra os números por trás dos óculos inteligentes da Google"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências da tecnologia",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro é Agora",
+        "subtext": "Tecnologia Avançada"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Realidade Aumentada",
+        "body": "Mundo Virtual"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2025",
+        "stat_label": "Ano do Lançamento"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A tecnologia vai mudar o mundo\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências",
+        "body": "Impacto na Sociedade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Previsões",
+        "items": [
+          "Óculos Inteligentes em Todos",
+          "Tecnologia em Todos os Aspectos",
+          "Mundo Conectado"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Esteja Preparado",
+        "highlight_word": "Futuro",
+        "subtext": "Aprenda sobre as consequências dos óculos inteligentes da Google"
+      }
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação em tecnologia",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Óculos Inteligentes",
+        "subtext": "Revolution"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Visão Aumentada",
+        "body": "Tecnologia avançada"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Adoção em massa"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Óculos inteligentes mudam tudo\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Inteligência Artificial",
+        "body": "Aprendizado contínuo"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios",
+        "items": [
+          "Informações em tempo real",
+          "Aprendizado contínuo",
+          "Estilo e funcionalidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Pronto para o futuro?",
+        "highlight_word": "Inovador",
+        "subtext": "_descubra como_"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal na vida",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Transforme Sua Vida",
+        "subtext": "Com óculos inteligentes"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Conectividade",
+        "body": "Sempre conectado"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "Melhoria na produtividade"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Mudou minha rotina\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Estilo e Comodidade",
+        "body": "Para todos os momentos"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Vantagens",
+        "items": [
+          "Acesso a informações",
+          "Controle remoto",
+          "Notificações personalizadas"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Experimente agora?",
+        "highlight_word": "Incrível",
+        "subtext": "_e veja a diferença_"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Análise de dados e números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Dados e Óculos",
+        "subtext": "Análise avançada"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Mercado em Crescimento",
+        "body": "Óculos inteligentes lideram"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "95%",
+        "stat_label": "Satisfação dos usuários"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Os números não mentem\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Investimento e Retorno",
+        "body": "Ótimos resultados financeiros"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Estatísticas",
+        "items": [
+          "Vendas em alta",
+          "Desenvolvimento contínuo",
+          "Parcerias estratégicas"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Investir no futuro?",
+        "highlight_word": "Lucrativo",
+        "subtext": "_faça sua escolha_"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro é Agora",
+        "subtext": "Óculos inteligentes"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Inovação Contínua",
+        "body": "Tecnologia em constante evolução"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "99%",
+        "stat_label": "Taxa de adoção projetada"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O futuro está aqui\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências Sociais",
+        "body": "Impacto na sociedade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Tendências",
+        "items": [
+          "Realidade aumentada",
+          "Inteligência artificial avançada",
+          "Conectividade global"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Prepare-se para o que vem?",
+        "highlight_word": "Revolucionário",
+        "subtext": "_esteja à frente_"
+      }
+    ]
+  }
+]

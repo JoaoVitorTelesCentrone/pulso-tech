@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação sobre Robotaxis",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Robotaxis: O Futuro",
+        "subtext": "Mobilidade Autônoma"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Tecnologia Avançada",
+        "body": "Inteligência Artificial"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Redução de Emissões"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O futuro é autônomo\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Segurança",
+        "body": "Menos Acidentes"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios",
+        "items": [
+          "Eficiência",
+          "Segurança",
+          "Sustentabilidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Aprenda Mais",
+        "highlight_word": "Agora",
+        "subtext": "Descubra o poder dos robotaxis"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal dos Robotaxis",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Seu Futuro",
+        "subtext": "Mudanças na Mobilidade"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Conveniência",
+        "body": "Mais Tempo Livre"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "50%",
+        "stat_label": "Redução do Estresse"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Viva mais, dirija menos\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Acessibilidade",
+        "body": "Para Todos"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Vantagens",
+        "items": [
+          "Comodidade",
+          "Segurança",
+          "Acessibilidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Mude Sua Rotina",
+        "highlight_word": "Hoje",
+        "subtext": "Adote a mobilidade autônoma"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números dos Robotaxis",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Números",
+        "subtext": "Estatísticas de Impacto"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Mercado em Crescimento",
+        "body": "US$ 1,4 trilhão"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2025",
+        "stat_label": "Previsão de Mercado"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O futuro é agora\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Adoção Rápida",
+        "body": "50% dos Veículos"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Tendências",
+        "items": [
+          "Crescimento Rápido",
+          "Inovação",
+          "Sustentabilidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Invista no Futuro",
+        "highlight_word": "Agora",
+        "subtext": "Não perca a oportunidade"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências dos Robotaxis",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Que Vem",
+        "subtext": "Consequências da Mobilidade Autônoma"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Cidades Inteligentes",
+        "body": "Maior Eficiência"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Redução de Congestionamento"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O futuro é sustentável\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Empregos do Futuro",
+        "body": "Oportunidades em Tecnologia"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Oportunidades",
+        "items": [
+          "Inovação",
+          "Sustentabilidade",
+          "Empregos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Prepare-se para o Futuro",
+        "highlight_word": "Agora",
+        "subtext": "Seja parte da revolução"
+      }
+    ]
+  }
+]

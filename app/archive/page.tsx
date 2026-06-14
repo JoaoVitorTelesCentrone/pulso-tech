@@ -6,91 +6,86 @@ import { getSortedArticlesData } from '@/lib/markdown'
 export default function ArchivePage() {
   const allArticles = getSortedArticlesData()
 
-  // Formatador de mes (ex: 2026-04-28 -> ABRIL 2026)
   const getMonthYear = (dateStr: string) => {
-    const [y, m] = dateStr.split('-');
-    const months = ['JANEIRO', 'FEVEREIRO', 'MARÇO', 'ABRIL', 'MAIO', 'JUNHO', 'JULHO', 'AGOSTO', 'SETEMBRO', 'OUTUBRO', 'NOVEMBRO', 'DEZEMBRO'];
-    return `${months[parseInt(m, 10) - 1]} ${y}`;
+    const [y, m] = dateStr.split('T')[0].split('-')
+    const months = ['JANEIRO', 'FEVEREIRO', 'MARÇO', 'ABRIL', 'MAIO', 'JUNHO', 'JULHO', 'AGOSTO', 'SETEMBRO', 'OUTUBRO', 'NOVEMBRO', 'DEZEMBRO']
+    return `${months[parseInt(m, 10) - 1]} ${y}`
   }
 
-  // Helper para mostrar formato dia/mes (ex: 28.04)
   const getDayMonth = (dateStr: string) => {
-    const [, m, d] = dateStr.split('-');
-    return `${d}.${m}`;
+    const [, m, d] = dateStr.split('T')[0].split('-')
+    return `${d}.${m}`
   }
 
-  // Agrupa artigos primeiro por mês, depois por data
   const archiveGroups = allArticles.reduce((acc, curr) => {
-    const monthYear = getMonthYear(curr.date);
-    if (!acc[monthYear]) acc[monthYear] = {};
-    if (!acc[monthYear][curr.date]) acc[monthYear][curr.date] = [];
-    
-    acc[monthYear][curr.date].push(curr);
-    return acc;
-  }, {} as Record<string, Record<string, typeof allArticles>>);
+    const dateKey = curr.date.split('T')[0]
+    const monthYear = getMonthYear(dateKey)
+    if (!acc[monthYear]) acc[monthYear] = {}
+    if (!acc[monthYear][dateKey]) acc[monthYear][dateKey] = []
+    acc[monthYear][dateKey].push(curr)
+    return acc
+  }, {} as Record<string, Record<string, typeof allArticles>>)
 
   return (
     <>
       <Header />
       <main className="max-w-editorial mx-auto px-6 md:px-grid-margin py-16 min-h-screen">
-        {/* Header */}
-        <header className="grid grid-cols-12 gap-grid-gutter mb-24">
-          <div className="col-span-12 md:col-start-3 md:col-span-7">
-            <span className="font-label-caps text-label-caps uppercase border-b border-on-tertiary-container mb-4 inline-block pb-1 text-on-tertiary-container">
-              Historical Records
-            </span>
-            <h1 className="font-newsreader italic mt-6 text-3xl sm:text-5xl md:text-display-xl text-on-background">
-              Arquivo de Edições
-            </h1>
-            <p className="font-newsreader font-medium text-headline-md text-on-surface-variant mt-4 max-w-xl">
-              Explore our collection of deep tech insights and editorial analysis, documented since our inception.
-            </p>
-          </div>
+
+        {/* Page header */}
+        <header className="mb-24">
+          <p className="font-dm-mono text-[0.65rem] tracking-[0.2em] uppercase text-muted flex items-center gap-3 mb-8">
+            <span className="inline-block w-5 h-px bg-muted flex-shrink-0" />
+            Registros Históricos
+          </p>
+          <h1 className="font-syne font-extrabold text-ink leading-[0.9] tracking-[-0.04em] text-5xl md:text-display-xl mb-6">
+            Arquivo de Edições
+          </h1>
+          <p className="font-cormorant font-light italic text-muted text-2xl max-w-xl leading-relaxed">
+            Todas as publicações desde o início.
+          </p>
         </header>
 
         {/* Archive list */}
-        <section className="grid grid-cols-12 gap-grid-gutter">
-          <div className="col-span-12 md:col-start-3 md:col-span-8 space-y-20">
-            {Object.entries(archiveGroups).map(([month, datesMap]) => (
-              <div key={month}>
-                <h2 className="font-label-caps text-label-caps text-on-tertiary-container mb-8 flex items-center gap-4">
-                  {month}
-                  <span className="flex-grow bg-outline-variant" style={{ height: '0.5pt' }} />
-                </h2>
-                
-                <div className="space-y-12">
-                  {Object.entries(datesMap).map(([date, articlesList]) => (
-                    <div key={date} className="divide-y divide-outline-variant border-t border-outline-variant pt-2">
-                      <div className="font-label-caps text-label-caps text-primary mb-4 mt-2">
-                        Edição de {getDayMonth(date)}
-                      </div>
-                      
-                      {articlesList.map((article) => (
+        <section className="space-y-20">
+          {Object.entries(archiveGroups).map(([month, datesMap]) => (
+            <div key={month}>
+              {/* Month heading */}
+              <h2 className="font-dm-mono text-[0.65rem] tracking-[0.2em] uppercase text-muted mb-8 flex items-center gap-4">
+                {month}
+                <span className="flex-grow h-px bg-warm-gray" />
+              </h2>
+
+              <div className="space-y-12">
+                {Object.entries(datesMap).map(([date, articlesList]) => (
+                  <div key={date} className="border-t border-warm-gray pt-4">
+                    <p className="font-dm-mono text-[0.65rem] tracking-[0.1em] uppercase text-muted mb-4">
+                      Edição de {getDayMonth(date)}
+                    </p>
+                    <div className="divide-y divide-warm-gray">
+                      {articlesList.map(article => (
                         <Link
                           key={article.slug}
                           href={`/post/${article.slug}`}
-                          className="grid grid-cols-12 py-4 hover:bg-surface-container-low transition-colors duration-200 cursor-pointer group block"
+                          className="py-4 block group"
                         >
-                          <div className="col-span-12 sm:col-span-10 sm:col-start-3 font-newsreader font-medium text-[20px] md:text-[24px] leading-tight group-hover:translate-x-2 transition-transform duration-300">
+                          <h3 className="font-cormorant font-light text-ink text-2xl md:text-3xl leading-tight group-hover:text-muted transition-colors duration-200 group-hover:translate-x-1 transition-transform">
                             {article.title}
-                          </div>
+                          </h3>
                         </Link>
                       ))}
                     </div>
-                  ))}
-                </div>
+                  </div>
+                ))}
               </div>
-            ))}
-          </div>
+            </div>
+          ))}
         </section>
 
-        {/* Load more */}
-        <section className="grid grid-cols-12 gap-grid-gutter mt-24 pb-24">
-          <div className="col-span-12 md:col-start-3 md:col-span-8 text-center">
-            <button className="px-12 py-4 border border-primary font-label-caps text-label-caps uppercase tracking-widest hover:bg-primary hover:text-white transition-all duration-300">
-              Carregar Edições Anteriores
-            </button>
-          </div>
+        {/* Load more placeholder */}
+        <section className="mt-24 pb-24 text-center">
+          <button className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase border border-ink px-12 py-4 text-ink hover:bg-ink hover:text-white transition-colors duration-200">
+            Carregar Edições Anteriores
+          </button>
         </section>
       </main>
       <Footer />

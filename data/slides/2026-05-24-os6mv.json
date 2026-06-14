@@ -1,0 +1,53 @@
+{
+  "title": "A Mudança de Direção de Elon Musk: O Fim da Era do Poder Solar?",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim de uma Era: Elon Musk Abandona a Energia Solar",
+      "subtext": "O que isso significa para o futuro da energia renovável?",
+      "image_prompt": "uma imagem de Elon Musk com um painel solar ao fundo, com um X vermelho sobre o painel"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Elon Musk, fundador da SpaceX e da Tesla, foi um dos principais defensores da energia solar. No entanto, recentemente, ele anunciou que está abandonando a ideia de investir em energia solar na Terra.",
+      "highlight": "Uma mudança de direção que pode afetar o futuro da energia renovável"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A mudança de direção de Musk pode ser atribuída a vários fatores, incluindo a competição no mercado de energia solar e a busca por fontes de energia mais eficientes e confiáveis.",
+      "visual_hint": "um gráfico mostrando a competição no mercado de energia solar"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A decisão de Musk pode ter um impacto significativo no setor de energia renovável, afetando a confiança dos investidores e dos consumidores na tecnologia.",
+      "visual_hint": "um ícone de uma seta para baixo, representando a perda de confiança"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "A SolarCity, empresa de energia solar fundada por Musk, enfrentou desafios financeiros e operacionais.",
+        "A competição no mercado de energia solar aumentou em 20% nos últimos 2 anos.",
+        "A energia eólica e a hidrelétrica estão se tornando fontes de energia mais competitivas e sustentáveis."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A mudança de direção de Musk pode levar a uma redução nos investimentos em energia solar.",
+        "A busca por fontes de energia mais eficientes e confiáveis pode se tornar uma prioridade.",
+        "O setor de energia renovável pode precisar se adaptar a uma nova realidade."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências no setor de energia renovável e tecnologia."
+    }
+  ]
+}

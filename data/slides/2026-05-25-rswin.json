@@ -1,0 +1,53 @@
+{
+  "title": "O Relógio de Alarme do Futuro: Como o Dreamie Está Revolucionando os Hábitos de Sono",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Acordar sem o Estresse do Celular",
+      "subtext": "Descubra como o Dreamie está mudando a forma como dormimos",
+      "image_prompt": "generate a futuristic alarm clock with a dark background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O uso excessivo do celular antes de dormir é um problema comum que afeta a qualidade do sono. A luz azul emitida pelos dispositivos eletrônicos pode suprimir a produção de melatonina.",
+      "highlight": "95% das pessoas usam dispositivos eletrônicos antes de dormir"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Dreamie é um relógio de alarme inovador que toca podcasts e não requer conexão com um smartphone, ajudando a reduzir o uso do celular antes de dormir.",
+      "visual_hint": "ícone de um relógio de alarme com um podcast tocando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O uso do celular antes de dormir pode levar a um ciclo vicioso de estresse e ansiedade, dificultando o relaxamento e a conciliação do sono. O Dreamie oferece uma solução para esse problema.",
+      "visual_hint": "ícone de uma pessoa relaxando na cama"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "95% das pessoas usam dispositivos eletrônicos antes de dormir",
+        "O uso do celular antes de dormir pode reduzir a produção de melatonina em 23%",
+        "O Dreamie pode ajudar a reduzir o uso do celular antes de dormir em 30%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Melhoria na qualidade do sono",
+        "Redução do estresse e ansiedade",
+        "Maior controle sobre o uso do celular antes de dormir"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre o Dreamie e como ele pode mudar sua vida",
+      "subtext": "Não perca a chance de melhorar a qualidade do seu sono e reduzir o uso do celular antes de dormir"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Google I/O 2026: O Futuro da Inteligência Artificial",
+        "subtext": "Descubra as principais anúncios e inovações do evento"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "Inteligência Artificial em Foco",
+        "body": "A Google I/O 2026 foi um evento marcante para a comunidade de tecnologia e inteligência artificial, com uma série de anúncios impactantes que demonstram o compromisso da Google em avançar a tecnologia e melhorar a vida das pessoas."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "Nova Família de Modelos de IA: Gemini 3.5",
+        "body": "A Google anunciou a lançamento de uma nova família de modelos de IA chamada Gemini 3.5, projetada para ser mais avançada e eficiente do que os modelos anteriores."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "Novas Funcionalidades para o Search e o Gmail",
+        "body": "A Google também anunciou novas funcionalidades para o Search e o Gmail, projetadas para melhorar a experiência do usuário e tornar a busca e a comunicação mais eficientes."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "link no perfil"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Impacto da Inteligência Artificial em sua Vida",
+        "subtext": "Descubra como a IA pode melhorar sua produtividade e eficiência"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Automatização de Tarefas Rotineiras",
+        "body": "A IA pode automatizar tarefas rotineiras, liberando tempo para você se concentrar em atividades mais importantes."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Análise de Grandes Conjuntos de Dados",
+        "body": "A IA pode analisar grandes conjuntos de dados, fornecendo insights valiosos para ajudá-lo a tomar decisões informadas."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Melhoria da Experiência do Usuário",
+        "body": "A IA pode melhorar a experiência do usuário, fornecendo respostas mais precisas e relevantes às suas perguntas."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Números que Demonstram o Poder da IA",
+        "subtext": "Descubra os dados por trás da revolução da inteligência artificial"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "90% das Empresas Usam IA",
+        "body": "De acordo com uma pesquisa recente, 90% das empresas usam IA em algum nível, demonstrando a adoção crescente da tecnologia."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "50% de Redução de Custo com IA",
+        "body": "A IA pode reduzir os custos em até 50%, tornando-a uma opção atraente para as empresas que buscam melhorar a eficiência."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "25% de Aumento de Produtividade com IA",
+        "body": "A IA pode aumentar a produtividade em até 25%, permitindo que as empresas sejam mais eficientes e competitivas."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": ""
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Inteligência Artificial",
+        "subtext": "Descubra o que está por vir para a IA"
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Mais Adoção de IA",
+        "body": "No curto prazo, esperamos ver uma adoção ainda maior da IA em diversas indústrias, desde a saúde até a finanças."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Desenvolvimento de Novas Tecnologias",
+        "body": "No médio prazo, esperamos ver o desenvolvimento de novas tecnologias que integrem a IA, como a realidade aumentada e a robótica."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: IA Autônoma",
+        "body": "No longo prazo, esperamos ver o desenvolvimento de IA autônoma, que possa tomar decisões e agir de forma independente."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "link no perfil"
+      }
+    ]
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação Culinária",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Gadgets Inteligentes",
+        "subtext": "Revolutionize sua cozinha"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Tecnologia Avançada",
+        "body": "Facilita tarefas culinárias"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "Redução de tempo"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Cozinhar é arte e ciência"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Segurança Alimentar",
+        "body": "Gadgets inteligentes ajudam"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios",
+        "items": [
+          "Economia de tempo",
+          "Criação de receitas",
+          "Segurança alimentar"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Transforme sua cozinha",
+        "highlight_word": "Agora",
+        "subtext": "Descubra como os gadgets inteligentes podem ajudar"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Cozinha Inteligente",
+        "subtext": "Mudança de vida"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Facilidade",
+        "body": "Gadgets para todos"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Satisfação dos usuários"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A cozinha é o coração da casa"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Diversão",
+        "body": "Cozinhar com gadgets"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Vantagens",
+        "items": [
+          "Divertido",
+          "Fácil",
+          "Criativo"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Mude sua rotina",
+        "highlight_word": "Hoje",
+        "subtext": "Comece a usar gadgets inteligentes"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Gadgets de Cozinha",
+        "subtext": "Estatísticas"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Mercado em Crescimento",
+        "body": "Gadgets inteligentes"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "70%",
+        "stat_label": "Aumento das vendas"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Os números não mentem"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Adoção",
+        "body": "Gadgets inteligentes em alta"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Estatísticas",
+        "items": [
+          "Crescimento do mercado",
+          "Aumento da adoção",
+          "Satisfação dos usuários"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Entenda os números",
+        "highlight_word": "Agora",
+        "subtext": "Descubra como os gadgets inteligentes estão mudando o mercado"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Futuro da Cozinha",
+        "subtext": "Inovações"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Tecnologia Avançada",
+        "body": "Mudanças na cozinha"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "85%",
+        "stat_label": "Expectativa de crescimento"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "O futuro é agora"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências",
+        "body": "Mudanças na sociedade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Tendências",
+        "items": [
+          "Inteligência artificial",
+          "Internet das Coisas",
+          "Sustentabilidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Prepare-se para o futuro",
+        "highlight_word": "Já",
+        "subtext": "Descubra como os gadgets inteligentes vão mudar sua vida"
+      }
+    ]
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Fenômeno Howdy da Roku",
+        "subtext": "Simplicidade e Preço Vencem a Era da IA no Streaming?"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "Onde a IA Domina...",
+        "body": "Em um mundo obcecado por algoritmos sofisticados e experiências ultra-personalizadas impulsionadas por IA, a narrativa dominante aponta para a complexidade tecnológica. Mas será que é sempre assim?"
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "Conheça o Howdy",
+        "body": "É o serviço de streaming da Roku de apenas US$2.99, que acaba de ultrapassar 1 milhão de assinantes. Ele surge como uma alternativa acessível e de baixo compromisso."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "A Fadiga de Assinatura",
+        "body": "Após anos de 'boom' de streaming com serviços caros e fragmentados, os consumidores buscam valor e flexibilidade. O Howdy atende a essa demanda por entretenimento descomplicado e econômico."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "Link no perfil"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Cansado de Pagar Caro por Streaming?",
+        "subtext": "O sucesso do Howdy da Roku pode mudar o jogo para o seu bolso."
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Fato 1: Demanda por Economia",
+        "body": "O Howdy prova que há um enorme apetite por opções de entretenimento mais baratas. Você não está sozinho em buscar valor."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Fato 2: Simplicidade vs. IA",
+        "body": "Enquanto gigantes investem em IA complexa, o Howdy mostra que a simplicidade e o baixo preço podem ser mais atraentes para muitos consumidores. Menos é mais, às vezes."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Fato 3: O Poder do Consumidor",
+        "body": "Seu comportamento de assinatura influencia o mercado. O sucesso do Howdy é um sinal claro de que as empresas precisam ouvir a demanda por acessibilidade."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$2.99 e 1 Milhão de Assinantes!",
+        "subtext": "Os números que desafiam a era da IA no streaming."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "1 Milhão de Assinantes",
+        "body": "Essa marca alcançada pelo Howdy da Roku demonstra uma demanda massiva por alternativas de streaming de baixo custo e baixo compromisso."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "US$2.99/mês",
+        "body": "O preço acessível é o principal atrativo. Em contraste com assinaturas de US$15-US$20+, o Howdy oferece uma opção de baixo risco para o orçamento doméstico."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "Fadiga de Assinatura",
+        "body": "O sucesso do Howdy valida a crescente exaustão dos consumidores com múltiplos serviços caros. Eles buscam valor e flexibilidade acima de tudo."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": ""
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro do Streaming: Simplicidade ou IA?",
+        "subtext": "O que o sucesso do Howdy nos diz sobre as próximas tendências."
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Mais Opções Acessíveis",
+        "body": "Veremos mais plataformas lançando tiers de preço mais baixos ou serviços focados na simplicidade para competir com o Howdy e atrair consumidores sensíveis a preço."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Reavaliação da IA",
+        "body": "Empresas de streaming podem reavaliar o peso da IA na experiência do usuário, buscando um equilíbrio entre personalização avançada e a pura satisfação do consumidor por meio da acessibilidade."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: Mercado Híbrido",
+        "body": "O mercado de streaming pode se consolidar em um modelo híbrido, com serviços premium de alta IA e opções 'lite' e acessíveis coexistindo para atender a diferentes segmentos de público."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "Link no perfil"
+      }
+    ]
+  }
+]

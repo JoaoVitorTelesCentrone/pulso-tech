@@ -1,0 +1,53 @@
+{
+  "title": "Desvendando as Ofertas de Tecnologia em Feriados: Uma Análise Profunda",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Desvendando as Ofertas de Tecnologia em Feriados",
+      "subtext": "Encontre os Melhores Negócios em Tecnologia sem Quebrar o Banco",
+      "image_prompt": "fundo escuro com gadgets e ofertas"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Os feriados sempre são uma ótima oportunidade para encontrar ofertas incríveis em uma variedade de produtos, incluindo tecnologia. Com a chegada do Memorial Day nos Estados Unidos, muitas lojas e marcas aproveitam a ocasião para oferecer descontos significativos em itens de tecnologia.",
+      "highlight": "descontos significativos em itens de tecnologia"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Durante o Memorial Day, é comum encontrar ofertas em uma ampla gama de produtos de tecnologia, incluindo dispositivos portáteis, acessórios para smartphones, TVs, laptops e até mesmo aspiradores de pó de alta qualidade.",
+      "visual_hint": "ícone de um smartphone ou laptop"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Essas ofertas são perfeitas para quem deseja atualizar seus gadgets sem gastar uma fortuna, melhorando sua produtividade e entretenimento.",
+      "visual_hint": "ícone de uma pessoa feliz com um gadget"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Descontos significativos em itens de tecnologia",
+        "Ofertas em uma ampla gama de produtos",
+        "Opções de produtos de tecnologia por $50 ou menos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Melhoria na produtividade e entretenimento",
+        "Oportunidade de atualizar gadgets sem gastar muito",
+        "Aumento da acessibilidade a tecnologia de alta qualidade"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre ofertas de tecnologia",
+      "subtext": "Fique por dentro das últimas ofertas e dicas para aproveitar ao máximo seus gadgets!"
+    }
+  ]
+}

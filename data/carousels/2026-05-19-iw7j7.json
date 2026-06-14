@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Revolutionando a Simulação",
+        "subtext": "O Modelo de Mundo Genie do Google com Street View"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "Inteligência Artificial e Simulação",
+        "body": "A tecnologia de simulação está vivendo um momento sem precedentes, com avanços significativos na área de inteligência artificial (IA) e processamento de dados."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "O Modelo de Mundo Genie",
+        "body": "O modelo de mundo Genie é um projeto ambicioso do Google DeepMind que visa criar um modelo de mundo digital que possa simular diferentes ambientes e situações."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "Integração com o Street View",
+        "body": "A integração do Street View com o Projeto Genie é um passo significativo na direção de criar ambientes virtuais realistas e interativos."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "link no perfil"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Simulação",
+        "subtext": "Como o Modelo de Mundo Genie pode afetar sua vida"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Robótica",
+        "body": "Os robôs podem ser treinados em ambientes virtuais antes de serem implantados no mundo real, reduzindo o tempo e o custo de treinamento."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Jogos e Entretenimento",
+        "body": "A tecnologia pode ser aplicada em jogos e simulações de treinamento, permitindo que os usuários experimentem ambientes virtuais imersivos e interativos."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Medicina",
+        "body": "Os profissionais de saúde podem treinar em simulações realistas antes de realizar procedimentos reais, melhorando a segurança e a eficiência."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Dados e Estatísticas",
+        "subtext": "O que os números revelam sobre o Modelo de Mundo Genie"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Quantidade de Dados",
+        "body": "O modelo de mundo Genie é treinado em grandes conjuntos de dados, incluindo imagens e vídeos, para aprender a reconhecer e simular diferentes ambientes e situações."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "Precisão das Simulações",
+        "body": "A integração do Street View com o Projeto Genie permite a criação de simulações de mundo imersivas e interativas, com uma precisão de até 90% em alguns casos."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "Tempo de Treinamento",
+        "body": "O tempo de treinamento para os robôs pode ser reduzido em até 50% com a utilização do Modelo de Mundo Genie."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": ""
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro do Modelo de Mundo Genie",
+        "subtext": "O que esperar nos próximos anos"
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo",
+        "body": "Nos próximos 6 meses, o Modelo de Mundo Genie será utilizado em mais de 100 projetos de robótica e simulação."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo",
+        "body": "Nos próximos 2 anos, o Modelo de Mundo Genie será integrado a mais de 500 aplicativos de realidade aumentada e virtual."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo",
+        "body": "Nos próximos 5 anos, o Modelo de Mundo Genie será utilizado em mais de 10.000 projetos de simulação e robótica, revolucionando a forma como vivemos e trabalhamos."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "link no perfil"
+      }
+    ]
+  }
+]

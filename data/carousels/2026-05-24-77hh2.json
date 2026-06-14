@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação sobre IA",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA na F1",
+        "subtext": "Inovação em alta velocidade"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA na F1",
+        "body": "Análise de dados em tempo real"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Aumento da eficiência"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"IA é o futuro do esporte\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Tecnologia de IA",
+        "body": "Aprendizado de máquina e processamento de linguagem natural"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios da IA",
+        "items": [
+          "Análise de dados",
+          "Aumento da eficiência",
+          "Melhoria da experiência do fã"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer saber mais sobre IA na F1?",
+        "highlight_word": "Aprenda",
+        "subtext": "Descubra como a IA está revolucionando o esporte"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal na F1",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Fãs superengajados",
+        "subtext": "IA cria experiências personalizadas"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Experiência do fã",
+        "body": "Conexão mais profunda com o esporte"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "Aumento do engajamento"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A IA me fez sentir parte da equipe\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Comunidade de fãs",
+        "body": "Conexão com outros fãs em tempo real"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios para os fãs",
+        "items": [
+          "Experiência personalizada",
+          "Conexão com a equipe",
+          "Comunidade de fãs"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer se sentir parte da equipe?",
+        "highlight_word": "Junte",
+        "subtext": "Descubra como a IA pode melhorar sua experiência como fã"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números na F1",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Análise de dados na F1",
+        "subtext": "IA processa milhões de dados"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Análise de dados",
+        "body": "IA processa dados em tempo real"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "95%",
+        "stat_label": "Aumento da precisão"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A IA é fundamental para a nossa estratégia\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Tecnologia de dados",
+        "body": "Processamento de linguagem natural e aprendizado de máquina"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios da análise de dados",
+        "items": [
+          "Aumento da precisão",
+          "Melhoria da tomada de decisões",
+          "Aumento da eficiência"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer saber mais sobre análise de dados na F1?",
+        "highlight_word": "Aprenda",
+        "subtext": "Descubra como a IA está revolucionando a análise de dados no esporte"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências na F1",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Futuro da F1 com IA",
+        "subtext": "Revolucionando o esporte"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Futuro da F1",
+        "body": "IA muda o jogo"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "99%",
+        "stat_label": "Aumento da inovação"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A IA é o futuro do esporte\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências da IA",
+        "body": "Mudanças na experiência do fã e na equipe"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios do futuro da F1",
+        "items": [
+          "Aumento da inovação",
+          "Melhoria da experiência do fã",
+          "Aumento da eficiência"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer estar preparado para o futuro da F1?",
+        "highlight_word": "Prepare",
+        "subtext": "Descubra como a IA pode melhorar sua experiência como fã e profissional"
+      }
+    ]
+  }
+]

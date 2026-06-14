@@ -1,0 +1,53 @@
+{
+  "title": "Proteção contra Spyware: Como as Empresas de Tecnologia Estão Combatendo os Ataques",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Proteja-se dos Olhos Invisíveis",
+      "subtext": "Descubra como as empresas de tecnologia estão combatendo os ataques de spyware",
+      "image_prompt": "uma imagem de um olho gigante em um fundo escuro"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A era digital trouxe benefícios, mas também novas ameaças como o spyware. As empresas de tecnologia estão trabalhando para combater esses ataques.",
+      "highlight": "O spyware pode roubar informações confidenciais sem que você perceba"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Empresas como Apple, Meta e Google estão desenvolvendo modos de segurança especiais para proteger os usuários contra ataques de spyware.",
+      "visual_hint": "ícone de um escudo ou uma fechadura"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Os ataques de spyware podem roubar informações sensíveis, como senhas e dados financeiros, afetando indivíduos e empresas.",
+      "visual_hint": "ícone de um alerta ou um sinal de perigo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Milhões de dispositivos são afetados por spyware todos os anos",
+        "Os ataques de spyware podem causar perdas financeiras significativas",
+        "A segurança online é uma preocupação crescente para 9 em cada 10 usuários"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas de tecnologia continuarão a inovar em soluções de segurança",
+        "Os usuários precisarão estar mais conscientes e preparados para proteger seus dispositivos",
+        "A colaboração entre empresas e governos será crucial para combater os ataques de spyware"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre segurança cibernética",
+      "subtext": "Mantenha-se informado e proteja-se contra as ameaças online"
+    }
+  ]
+}

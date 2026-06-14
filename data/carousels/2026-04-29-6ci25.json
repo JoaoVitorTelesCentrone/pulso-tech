@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Google Search no Auge: IA Impulsiona Bilhões de Buscas!",
+        "subtext": "Descubra como a estratégia 'full stack' do Google está redefinindo o futuro da informação."
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "O Cenário Atual",
+        "body": "Em meio à ascensão da IA Generativa e questionamentos sobre o futuro de plataformas estabelecidas, o Google Search surpreende com um recorde histórico de consultas no 1º trimestre de 2026."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "Recorde Histórico de Buscas",
+        "body": "O CEO Sundar Pichai revelou que as consultas no Google Search atingiram um 'recorde histórico', provando que a busca não apenas resiste, mas prospera diante da inovação."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "O Motor Por Trás do Sucesso: IA",
+        "body": "Este feito notável é um testemunho direto dos investimentos massivos em IA do Google e de sua abordagem de 'pilha completa' (full stack approach), que ilumina todas as partes do negócio."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "Link no perfil para entender a fundo como a IA está moldando o futuro da busca."
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Sua Busca no Google: Mais Inteligente e Relevante do que Nunca!",
+        "subtext": "Entenda como a IA do Google impacta diretamente a forma como você encontra informações."
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Respostas Mais Precisas",
+        "body": "Os investimentos em IA significam que o Google está cada vez melhor em entender suas perguntas e fornecer resultados mais relevantes e diretos, economizando seu tempo."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Experiência de Busca Aprimorada",
+        "body": "A integração da IA enriquece a experiência do usuário, oferecendo novas funcionalidades e formatos de resposta que vão além dos links tradicionais, como resumos e insights."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Confiança e Dependência Reforçadas",
+        "body": "Mesmo com o surgimento de chatbots de IA, o recorde de buscas mostra que bilhões de usuários ainda confiam no Google para encontrar informações úteis e confiáveis, validando sua centralidade."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "Para não perder as novidades sobre o futuro da busca e da IA!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "BILHÕES de Buscas: O Google no Auge da Era da IA!",
+        "subtext": "Descubra os dados que comprovam a força da IA na maior plataforma de busca do mundo."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Recorde Histórico de Consultas",
+        "body": "No 1º trimestre de 2026, o Google Search atingiu um 'recorde histórico' de consultas, demonstrando um crescimento sem precedentes mesmo com a ascensão da IA generativa."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "Mais Dados, Mais Oportunidades",
+        "body": "Um aumento nas consultas significa mais dados para refinar algoritmos, mais oportunidades de monetização via anúncios e a validação da confiança de bilhões de usuários."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "A Estratégia 'Full Stack' da IA",
+        "body": "O sucesso é atribuído aos 'investimentos em IA e nossa abordagem de pilha completa', que integra a IA em toda a infraestrutura do Google, transformando-a em um motor de crescimento."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": "Sobre o impacto da IA no Google e no futuro da informação!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Busca: Como a IA do Google Vai Mudar Tudo!",
+        "subtext": "Prepare-se para a próxima geração de interações com a informação."
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Busca Mais Intuitiva",
+        "body": "Espere por resultados de busca ainda mais personalizados e contextuais, com a IA oferecendo resumos inteligentes e respostas diretas para consultas complexas, reduzindo o tempo de pesquisa."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Integração Multimodal",
+        "body": "A busca evoluirá para além do texto, integrando voz, imagem e vídeo de forma mais fluida. A IA permitirá interações mais naturais e a descoberta de informações em formatos diversos."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: O Google Como Seu Assistente Pessoal de Conhecimento",
+        "body": "A IA transformará o Google em um assistente proativo, antecipando suas necessidades de informação e oferecendo soluções antes mesmo de você perguntar, redefinindo a forma como acessamos o conhecimento."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "E acompanhar as inovações que moldarão o futuro da tecnologia e da informação!"
+      }
+    ]
+  }
+]

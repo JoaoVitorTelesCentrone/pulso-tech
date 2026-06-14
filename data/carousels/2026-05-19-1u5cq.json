@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "A Era da Comunicação por Voz",
+        "subtext": "Como o Google está Revolucionando a Interação com o Gmail"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "Inteligência Artificial no Gmail",
+        "body": "A tecnologia de inteligência artificial (IA) está mudando a forma como interagimos com os dispositivos e serviços online. Recentemente, o Google anunciou uma inovação que promete revolucionar a maneira como usamos o Gmail."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "A IA do Google: Gemini",
+        "body": "A IA do Google, conhecida como Gemini, é a tecnologia por trás dessa inovação. Com a capacidade de entender e processar linguagem natural, a Gemini pode ajudar os usuários a encontrar informações específicas em seus e-mails de forma mais eficiente."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "Funcionalidades da IA do Google",
+        "body": "A capacidade de falar com o seu inbox é apenas uma das muitas funcionalidades que a IA do Google oferece. Com a Gemini, os usuários podem realizar uma variedade de tarefas, incluindo encontrar e-mails específicos, ler mensagens de e-mail em voz alta e responder a e-mails com comandos de voz."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "link no perfil"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como a IA do Google pode ajudar você",
+        "subtext": "Melhore sua produtividade com a tecnologia de inteligência artificial"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Fato 1: Economia de tempo",
+        "body": "A IA do Google pode ajudar a economizar tempo ao encontrar e-mails específicos e realizar tarefas com comandos de voz."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Fato 2: Melhoria da organização",
+        "body": "A IA do Google pode ajudar a gerenciar melhor os e-mails, sugerindo ações como arquivar ou excluir e-mails desnecessários."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Fato 3: Aumento da produtividade",
+        "body": "A IA do Google pode ajudar a aumentar a produtividade ao realizar tarefas com comandos de voz e fornecer sugestões personalizadas."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder as dicas de como usar a IA do Google"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Estatísticas sobre a IA do Google",
+        "subtext": "Números que mostram o impacto da tecnologia de inteligência artificial"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "90% dos usuários do Gmail usam a busca por voz",
+        "body": "A busca por voz é uma das funcionalidades mais populares do Gmail, e a IA do Google está trabalhando para melhorar essa experiência."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "75% dos e-mails são lidos em dispositivos móveis",
+        "body": "A IA do Google está trabalhando para melhorar a experiência de leitura de e-mails em dispositivos móveis, com funcionalidades como a leitura de mensagens em voz alta."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "50% dos usuários do Gmail usam a função de resposta automática",
+        "body": "A IA do Google está trabalhando para melhorar a função de resposta automática, com sugestões personalizadas e respostas mais precisas."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": ""
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro da IA do Google",
+        "subtext": "O que esperar nos próximos meses e anos"
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto prazo: Melhoria da busca por voz",
+        "body": "A IA do Google está trabalhando para melhorar a busca por voz, com funcionalidades como a busca por voz conversacional e a leitura de mensagens em voz alta."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio prazo: Integração com outros serviços do Google",
+        "body": "A IA do Google está trabalhando para integrar a tecnologia de inteligência artificial com outros serviços do Google, como o Google Calendar e o Google Drive."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo prazo: Desenvolvimento de assistentes pessoais",
+        "body": "A IA do Google está trabalhando para desenvolver assistentes pessoais que possam ajudar os usuários a gerenciar sua vida digital de forma mais eficiente."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "link no perfil"
+      }
+    ]
+  }
+]

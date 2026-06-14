@@ -1,0 +1,53 @@
+{
+  "title": "Gadgets de Cozinha Inteligentes: Como a Tecnologia Está Revolucionando a Culinária",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Culinária",
+      "subtext": "Descubra como a tecnologia está mudando a forma como cozinhamos",
+      "image_prompt": "futuristic kitchen with robots and smart appliances"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A tecnologia está mudando a forma como cozinhamos e interagimos com a comida. Com a ajuda de gadgets de cozinha inteligentes, podemos automatizar tarefas rotineiras e criar receitas novas e interessantes.",
+      "highlight": "Automatização de tarefas e criação de receitas personalizadas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Os gadgets de cozinha inteligentes estão se tornando cada vez mais sofisticados e fáceis de usar, permitindo que os cozinheiros controlem e monitorem a cozinha de forma remota.",
+      "visual_hint": "ícone de um smartphone controlando uma panela"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Os gadgets de cozinha inteligentes podem economizar tempo e esforço, reduzir o desperdício de alimentos e melhorar a segurança alimentar, tornando a cozinha mais eficiente e divertida.",
+      "visual_hint": "ícone de um relógio e um prato de comida saudável"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "80% dos cozinheiros utilizam gadgets de cozinha inteligentes para automatizar tarefas",
+        "50% dos consumidores estão dispostos a pagar mais por produtos de cozinha inteligentes",
+        "20% do desperdício de alimentos pode ser reduzido com a ajuda de gadgets de cozinha inteligentes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mais inovações e melhorias nos gadgets de cozinha inteligentes",
+        "Integração com a Internet das Coisas (IoT) para controle remoto",
+        "Uso de aprendizado de máquina e inteligência artificial para criar receitas personalizadas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas novidades e tendências em gadgets de cozinha inteligentes e revolucione sua cozinha!"
+    }
+  ]
+}

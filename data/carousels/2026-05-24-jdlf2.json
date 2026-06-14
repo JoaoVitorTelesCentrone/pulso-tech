@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação sobre spyware",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Proteja-se do Spyware",
+        "subtext": "Aprenda a se defender"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que é Spyware",
+        "body": "Software malicioso"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Dos ataques cibernéticos"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Segurança online é fundamental"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Modos de Segurança",
+        "body": "Proteja seus dispositivos"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Dicas de Segurança",
+        "items": [
+          "Atualize seus dispositivos",
+          "Use senhas fortes",
+          "Evite links suspeitos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Proteja-se agora",
+        "highlight_word": "Ação",
+        "subtext": "Mantenha seus dispositivos seguros"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal do spyware",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Spyware: O Inimigo Oculto",
+        "subtext": "Proteja sua vida digital"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Riscos Pessoais",
+        "body": "Perda de dados"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "75%",
+        "stat_label": "Das vítimas de spyware"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Sua segurança é sua responsabilidade"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências",
+        "body": "Perda financeira"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Efeitos do Spyware",
+        "items": [
+          "Perda de privacidade",
+          "Dano à reputação",
+          "Perda de confiança"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Não seja vítima",
+        "highlight_word": "Proteção",
+        "subtext": "Mantenha sua vida digital segura"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números do spyware",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Spyware: Os Números",
+        "subtext": "Entenda o problema"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Estátisticas",
+        "body": "Aumento de ataques"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "50%",
+        "stat_label": "Aumento de ataques em 2026"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Os números não mentem"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Tendências",
+        "body": "Ameaças em constante evolução"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Principais Ameaças",
+        "items": [
+          "Malware",
+          "Phishing",
+          "Ransomware"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Fique informado",
+        "highlight_word": "Conhecimento",
+        "subtext": "Mantenha-se atualizado sobre as ameaças"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências do spyware",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Segurança",
+        "subtext": "Proteja-se contra o desconhecido"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Desafios Futuros",
+        "body": "Ameaças em constante evolução"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "Das empresas afetadas"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A segurança é um processo contínuo"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Soluções Futuras",
+        "body": "Inovação e tecnologia"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Tecnologias Emergentes",
+        "items": [
+          "IA",
+          "Blockchain",
+          "Automação"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Prepare-se para o futuro",
+        "highlight_word": "Inovação",
+        "subtext": "Mantenha-se à frente das ameaças"
+      }
+    ]
+  }
+]

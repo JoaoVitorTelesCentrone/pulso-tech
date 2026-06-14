@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Música e Educação",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Roger Linn",
+        "subtext": "Inovador"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "MPC",
+        "body": "Revolucionou a música"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "dos produtores usam MPC"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O MPC mudou tudo\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA",
+        "body": "Criação de música"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Inovações",
+        "items": [
+          "MPC",
+          "IA",
+          "Amper Music"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Aprenda mais",
+        "highlight_word": "Agora",
+        "subtext": "_descubra como a IA está mudando a música_"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Roger Linn",
+        "subtext": "Um visionário"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Música",
+        "body": "Conecta pessoas"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "dos músicos inspirados"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A música é vida\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA",
+        "body": "Nova criatividade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios",
+        "items": [
+          "Inspiração",
+          "Criatividade",
+          "Inovação"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sinta o impacto",
+        "highlight_word": "Agora",
+        "subtext": "_descubra como a IA pode mudar sua vida_"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Música e IA",
+        "subtext": "Um novo mercado"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Mercado",
+        "body": "Em crescimento"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "500%",
+        "stat_label": "crescimento do mercado"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A IA é o futuro\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Investimento",
+        "body": "Em IA e música"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Tendências",
+        "items": [
+          "IA",
+          "Música",
+          "Investimento"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Invista agora",
+        "highlight_word": "Agora",
+        "subtext": "_descubra como investir na IA e música_"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Música e IA",
+        "subtext": "Um novo futuro"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Futuro",
+        "body": "Cheio de possibilidades"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "95%",
+        "stat_label": "dos especialistas acreditam"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A IA mudará tudo\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências",
+        "body": "Mudanças profundas"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Desafios",
+        "items": [
+          "Ética",
+          "Privacidade",
+          "Segurança"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Prepare-se",
+        "highlight_word": "Agora",
+        "subtext": "_descubra como se preparar para o futuro da IA e música_"
+      }
+    ]
+  }
+]

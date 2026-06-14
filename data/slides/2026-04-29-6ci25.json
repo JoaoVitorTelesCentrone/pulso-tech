@@ -1,0 +1,53 @@
+{
+  "title": "Google Search no Auge: Como os Investimentos em IA Impulsionam Bilhões de Buscas e Moldam o Futuro da Informação",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Google Search no Auge: IA Impulsiona Bilhões de Buscas",
+      "subtext": "Desvendando a Estratégia 'Full Stack' que Redefine o Futuro da Informação",
+      "image_prompt": "futuristic search interface glowing with AI elements, data streams, digital information, dark background, tech presentation style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário: Disrupção e Inovação",
+      "body": "A ascensão da IA Generativa levanta questões sobre o futuro de plataformas estabelecidas. Muitos esperavam que ferramentas como ChatGPT desafiassem a busca tradicional.",
+      "highlight": "Mas o Google Search não apenas resiste, ele prospera!"
+    },
+    {
+      "type": "insight",
+      "heading": "O Fenômeno: Recorde Histórico de Buscas",
+      "body": "No primeiro trimestre de 2026, as consultas no Google Search atingiram um 'recorde histórico', surpreendendo o mercado e validando a resiliência da plataforma.",
+      "visual_hint": "Gráfico de linha ascendente, ícone de lupa com brilho"
+    },
+    {
+      "type": "insight",
+      "heading": "Por Que Importa: A Estratégia Vencedora",
+      "body": "O CEO Sundar Pichai atribui o sucesso aos 'investimentos massivos em IA' e à 'abordagem de pilha completa', que ilumina todas as partes do negócio.",
+      "visual_hint": "Diagrama de camadas de tecnologia, cérebro com circuitos de IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que Contam a História",
+      "bullets": [
+        "Consultas no Google Search atingem 'recorde histórico' (Q1 2026)",
+        "Validação da estratégia de IA 'full stack' do Google",
+        "Aumento de dados para refinar algoritmos e monetização"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O Futuro da Busca e da Informação",
+      "bullets": [
+        "IA redefine a experiência de busca, tornando-a mais rica e relevante.",
+        "Consolidação da posição do Google como epicentro da informação digital.",
+        "Caminho para a próxima geração de interações com a informação."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o Blog para Saber Mais!",
+      "subtext": "Descubra como a IA continua a moldar nosso acesso ao conhecimento."
+    }
+  ]
+}

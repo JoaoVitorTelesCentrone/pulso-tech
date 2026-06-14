@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação sobre laptops",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Descontos Imperdíveis",
+        "subtext": "MacBook Air"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "MacBook Air",
+        "body": "Laptop de ponta"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "200",
+        "stat_label": "Dólares de desconto"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Oportunidade única para adquirir um laptop de ponta\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Especificações",
+        "body": "Processador M5 e 16GB de RAM"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Vantagens do MacBook Air",
+        "items": [
+          "Desempenho excepcional",
+          "Design elegante",
+          "Bateria de longa duração"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Adquira seu MacBook Air",
+        "highlight_word": "Agora",
+        "subtext": "Não perca essa oportunidade"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal na vida",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Transforme sua produtividade",
+        "subtext": "Com o MacBook Air"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Trabalho eficiente",
+        "body": "Com o processador M5"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "16GB",
+        "stat_label": "RAM para multitarefa"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O MacBook Air é capaz de lidar com tarefas exigentes\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Entretenimento",
+        "body": "Tela Retina de alta resolução"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios para você",
+        "items": [
+          "Melhor desempenho",
+          "Mais portabilidade",
+          "Design sofisticado"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Melhore sua vida",
+        "highlight_word": "Compre",
+        "subtext": "O MacBook Air é a escolha certa"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Análise de dados e números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Análise de desempenho",
+        "subtext": "Do MacBook Air"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Especificações técnicas",
+        "body": "Processador M5 e 16GB de RAM"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "200",
+        "stat_label": "Dólares de desconto no Memorial Day"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O desconto de $200 é uma economia significativa\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Vendas e demanda",
+        "body": "O MacBook Air é um dos laptops mais populares"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Dados importantes",
+        "items": [
+          "Desconto de $200",
+          "Venda limitada",
+          "Entrega rápida"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Aproveite os números",
+        "highlight_word": "Compre",
+        "subtext": "Antes que acabem"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro da tecnologia",
+        "subtext": "Com o MacBook Air"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Inovação contínua",
+        "body": "A Apple sempre inova"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2026",
+        "stat_label": "Ano de lançamento do processador M5"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O MacBook Air é um investimento para o futuro\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências de não adquirir",
+        "body": "Perder a oportunidade de ter um laptop de ponta"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "O que o futuro reserva",
+        "items": [
+          "Tecnologia em constante evolução",
+          "Novos lançamentos e inovações",
+          "Oportunidades de crescimento"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Prepare-se para o futuro",
+        "highlight_word": "Adquira",
+        "subtext": "O MacBook Air é a escolha certa para o seu futuro"
+      }
+    ]
+  }
+]

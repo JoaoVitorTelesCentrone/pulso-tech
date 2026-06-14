@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação sobre IA",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA no seu pulso",
+        "subtext": "Amazon Bee Wearable"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA Avançada",
+        "body": "Aprende e se adapta"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "dos usuários\nsatisfeitos"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"IA revoluciona a vida\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Privacidade",
+        "body": "Segurança em primeiro lugar"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Recursos",
+        "items": [
+          "Monitoramento de atividade",
+          "Controle de música",
+          "Notificações"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Experimente agora",
+        "highlight_word": "Bee",
+        "subtext": "Descubra o poder da IA no seu pulso"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Mude sua vida",
+        "subtext": "Com o Amazon Bee Wearable"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Saúde",
+        "body": "Monitore sua atividade"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "dos usuários\nrelatam melhora"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O Bee me ajudou\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Produtividade",
+        "body": "Controle seu tempo"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios",
+        "items": [
+          "Melhora a saúde",
+          "Aumenta a produtividade",
+          "Facilita a vida"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Transforme sua vida",
+        "highlight_word": "Agora",
+        "subtext": "Com o Amazon Bee Wearable"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Números impressionantes",
+        "subtext": "Amazon Bee Wearable"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Vendas",
+        "body": "Milhões de unidades vendidas"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "95%",
+        "stat_label": "dos usuários\nrecomendam"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O Bee é um sucesso\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Desempenho",
+        "body": "Bateria de longa duração"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Especificações",
+        "items": [
+          "Tela touchscreen",
+          "Memória de 4GB",
+          "Conectividade Bluetooth"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Descubra mais",
+        "highlight_word": "Estatísticas",
+        "subtext": "Sobre o Amazon Bee Wearable"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro é agora",
+        "subtext": "Amazon Bee Wearable"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Inovação",
+        "body": "IA avançada"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2026",
+        "stat_label": "ano do lançamento"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O futuro é wearable\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências",
+        "body": "Mudanças na sociedade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Tendências",
+        "items": [
+          "IA em todos os dispositivos",
+          "Vida mais conectada",
+          "Mudanças na privacidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Esteja preparado",
+        "highlight_word": "Futuro",
+        "subtext": "Com o Amazon Bee Wearable"
+      }
+    ]
+  }
+]

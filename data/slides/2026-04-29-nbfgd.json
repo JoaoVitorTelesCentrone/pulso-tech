@@ -1,0 +1,53 @@
+{
+  "title": "De Twitter a US$2 Bilhões: A Ascensão Meteórica da Parallel Web Systems e o Futuro dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "De Twitter a US$2 Bilhões: A Revolução dos Agentes de IA",
+      "subtext": "Parag Agrawal e a Parallel Web Systems redefinem o futuro da automação inteligente.",
+      "image_prompt": "futuristic digital network with glowing nodes, representing AI agents working autonomously, a subtle hint of a financial graph in the background, high-tech, dark theme, concept art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário: A Nova Fronteira da IA",
+      "body": "O mundo da tecnologia e IA testemunha um crescimento sem precedentes. Startups inovadoras estão redefinindo o que é possível, com o foco se deslocando para aplicações mais autônomas e inteligentes.",
+      "highlight": "A inteligência artificial está moldando o futuro digital em ritmo acelerado."
+    },
+    {
+      "type": "insight",
+      "heading": "A Ascensão Meteórica da Parallel Web Systems",
+      "body": "Parag Agrawal, ex-CEO do Twitter, fundou a Parallel Web Systems, que alcançou uma valuation impressionante de US$2 bilhões em tempo recorde, apenas cinco meses após sua última rodada de investimentos.",
+      "visual_hint": "Ícone de foguete ou gráfico de crescimento exponencial."
+    },
+    {
+      "type": "insight",
+      "heading": "O Poder dos Agentes de IA",
+      "body": "A Parallel Web Systems está na vanguarda do desenvolvimento de 'AI agent-tools', que representam um avanço significativo sobre os LLMs, permitindo que a IA não apenas gere, mas execute tarefas de forma autônoma.",
+      "visual_hint": "Ícone de engrenagens interconectadas ou um robô realizando uma tarefa."
+    },
+    {
+      "type": "data",
+      "heading": "Números que Contam a História",
+      "bullets": [
+        "**US$2 Bilhões**: Valuation da Parallel Web Systems.",
+        "**5 Meses**: Tempo para atingir a valuation desde a última rodada de investimentos.",
+        "**US$200 Milhões**: Total arrecadado em duas rodadas de investimento (Sequoia liderou uma delas)."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O Que Muda Daqui Pra Frente",
+      "bullets": [
+        "**Transformação Digital**: Agentes de IA prometem revolucionar a interação humana com a tecnologia e a execução de tarefas.",
+        "**Mercado de IA**: Sinaliza uma forte confiança do mercado no potencial e na direção dos agentes de IA.",
+        "**Automação Inteligente**: Abre caminho para uma nova geração de aplicações mais autônomas e eficientes."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é apenas generativo, é autônomo. Não fique para trás!"
+    }
+  ]
+}

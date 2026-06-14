@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "De Twitter a US$2 Bilhões: A Ascensão da Parallel Web Systems",
+        "subtext": "Como Parag Agrawal está redefinindo o futuro dos Agentes de IA"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "A Nova Aposta de Parag Agrawal",
+        "body": "Após sua saída do Twitter, o ex-CEO Parag Agrawal fundou a Parallel Web Systems. Em tempo recorde, a startup alcançou uma valuation de US$2 bilhões."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "O Que é a Parallel Web Systems?",
+        "body": "É uma startup focada em construir as infraestruturas e ferramentas para a próxima geração de aplicações inteligentes: os Agentes de IA."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "Por Que Agentes de IA?",
+        "body": "Representam um avanço em relação aos LLMs. Enquanto LLMs geram conteúdo, Agentes de IA são projetados para executar tarefas, interagir com sistemas e tomar ações no ambiente digital."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Mergulhe Mais Fundo!",
+        "body": "Leia o artigo completo sobre a Parallel Web Systems e o futuro dos Agentes de IA. Link na bio!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Agentes de IA: A Revolução Silenciosa que Vai Mudar Seu Dia a Dia",
+        "subtext": "Entenda como a tecnologia de US$2 bilhões de Parag Agrawal te afetará."
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Automação Além do Que Você Conhece",
+        "body": "Agentes de IA não apenas respondem, eles agem. Imagine softwares que executam tarefas complexas e interagem com outras ferramentas por você, liberando seu tempo."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Produtividade Pessoal e Profissional",
+        "body": "Desde organizar sua agenda e e-mails até gerenciar projetos e dados, os Agentes de IA prometem otimizar processos, tornando seu trabalho e vida mais eficientes."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "O Futuro da Interação Digital",
+        "body": "A Parallel Web Systems está construindo as bases para uma nova era onde a tecnologia não é apenas reativa, mas proativa, antecipando suas necessidades e agindo de forma inteligente."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Não Fique Para Trás!",
+        "body": "Salve este post para consultar depois e entender a evolução dos Agentes de IA."
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$2 Bilhões em 5 Meses: A Ascensão Meteórica da Parallel Web Systems",
+        "subtext": "Os números que chocaram o mercado de IA e tecnologia."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Valuation de US$2 Bilhões",
+        "body": "A Parallel Web Systems atingiu essa marca impressionante em apenas 5 meses desde sua última rodada de investimentos, demonstrando a confiança do mercado nos Agentes de IA."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "US$200 Milhões em Investimentos",
+        "body": "A startup arrecadou US$100 milhões em uma rodada liderada pela Sequoia, somando-se a outros US$100 milhões levantados meses antes. Um ritmo frenético de captação."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "5 Meses de Crescimento Exponencial",
+        "body": "O curto período para alcançar tal valuation não é comum, mesmo para startups de tecnologia, e sublinha o fervor em torno da visão de Parag Agrawal."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Espalhe a Notícia!",
+        "body": "Compartilhe este post com amigos e colegas que precisam entender o impacto financeiro e tecnológico dos Agentes de IA."
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro dos Agentes de IA: O Que Esperar da Próxima Geração de Tecnologia",
+        "subtext": "A visão de Parag Agrawal e a Parallel Web Systems."
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Ferramentas Mais Inteligentes",
+        "body": "Veremos a integração de Agentes de IA em softwares existentes, tornando-os mais autônomos e capazes de executar sequências de tarefas complexas sem intervenção humana constante."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Assistentes Pessoais e Corporativos Avançados",
+        "body": "Agentes de IA se tornarão assistentes digitais altamente personalizados, gerenciando aspectos da vida pessoal e profissional, desde finanças a saúde, com maior autonomia e proatividade."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: Ecossistemas de IA Autônomos",
+        "body": "A expectativa é que Agentes de IA formem ecossistemas onde interagem e colaboram entre si para resolver problemas complexos, redefinindo a automação e a interação humana com a tecnologia."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Prepare-se para o Futuro!",
+        "body": "Siga nosso perfil para se manter atualizado sobre as últimas tendências em IA e tecnologia. Link na bio!"
+      }
+    ]
+  }
+]

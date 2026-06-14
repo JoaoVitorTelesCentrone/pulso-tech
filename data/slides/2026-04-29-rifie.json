@@ -1,0 +1,53 @@
+{
+  "title": "O Gigante se Reinventa: Por Que a Microsoft Troca o Joystick pela Nuvem da IA?",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Microsoft: Do Joystick à Nuvem da IA",
+      "subtext": "Uma análise profunda da reinvenção estratégica que redefine o futuro da tecnologia.",
+      "image_prompt": "Futuristic dark tech background with abstract AI neural network patterns merging with cloud computing symbols, a subtle faded Xbox controller silhouette in the background, representing transition and innovation."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em um mercado de tecnologia em constante evolução, gigantes como a Microsoft precisam de agilidade e visão. Os recentes resultados financeiros revelam uma transformação estratégica profunda, com o declínio do Xbox e a ascensão meteórica da nuvem impulsionada pela Inteligência Artificial.",
+      "highlight": "Uma reinvenção estratégica profunda."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Microsoft está redefinindo suas prioridades. Enquanto a receita do hardware Xbox registra uma queda acentuada, o verdadeiro motor de crescimento da companhia se manifesta nos seus negócios de nuvem e produtividade, que atingem novas alturas.",
+      "visual_hint": "Gráfico de barras contrastando queda do Xbox com ascensão da Nuvem/IA."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Essa dicotomia nos resultados não é apenas um relatório financeiro, mas um mapa estratégico. Reflete não só mudanças internas, mas as macrotendências do mercado global de tecnologia, com a IA emergindo como catalisador principal.",
+      "visual_hint": "Ícones de estratégia, tendências de mercado e um cérebro estilizado de IA."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Receita de hardware do Xbox despencou 33%.",
+        "Negócios de nuvem e produtividade atingem novas alturas.",
+        "Foco em 'jogos como serviço' via Game Pass e xCloud."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Microsoft se posiciona no epicentro da revolução da IA com Azure.",
+        "Transição de hardware para serviços e ecossistemas multiplataforma.",
+        "Priorização de investimentos em nuvem e IA como motores de crescimento."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Descubra como a Microsoft está moldando o futuro da tecnologia e o que isso significa para você."
+    }
+  ]
+}

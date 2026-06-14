@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Kickstarter Revoga Regras de Conteúdo Maduro",
+        "subtext": "O que isso significa para a comunidade de criadores"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "A Kickstarter é uma plataforma de financiamento coletivo",
+        "body": "Que apoia a diversidade e a criatividade, permitindo que projetos inovadores e ousados sejam financiados por uma comunidade engajada."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "As regras de conteúdo maduro foram revogadas",
+        "body": "A decisão de revogar essas regras é um sinal claro de que a Kickstarter está ouvindo as preocupações de sua comunidade e está disposta a fazer ajustes para garantir que a plataforma permaneça um espaço seguro e acolhedor para todos."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "A revogação das regras de conteúdo maduro é um alívio para os criadores",
+        "body": "Agora eles podem continuar a trabalhar em seus projetos sem medo de violar as regras da plataforma."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "link no perfil"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "A liberdade de expressão é fundamental",
+        "subtext": "Para a comunidade de criadores e para a sociedade como um todo"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "A censura pode afetar negativamente a criatividade",
+        "body": "E a capacidade de inovar e criar projetos ousados e inovadores."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "A Kickstarter é uma plataforma que apoia a diversidade",
+        "body": "E a criatividade, e a revogação das regras de conteúdo maduro é um passo importante para garantir que a plataforma permaneça um espaço seguro e acolhedor para todos."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "A comunidade de criadores é fundamental para o sucesso da Kickstarter",
+        "body": "E a plataforma precisa continuar a ouvir as preocupações de sua comunidade e a fazer ajustes para garantir que a plataforma permaneça um espaço onde a criatividade e a inovação possam florescer."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Milhares de projetos foram financiados pela Kickstarter",
+        "subtext": "Com uma comunidade de milhões de usuários"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Mais de 10 milhões de dólares foram arrecadados",
+        "body": "Em apenas um ano, para projetos de criadores independentes."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "A Kickstarter tem uma taxa de sucesso de 36%",
+        "body": "O que significa que mais de um terço dos projetos financiados pela plataforma atingem seus objetivos de financiamento."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "A plataforma tem mais de 15 milhões de usuários",
+        "body": "O que a torna uma das maiores plataformas de financiamento coletivo do mundo."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": ""
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro da Kickstarter é promissor",
+        "subtext": "Com uma comunidade de criadores engajada e uma plataforma que apoia a diversidade e a criatividade"
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto prazo",
+        "body": "A Kickstarter continuará a ser uma plataforma líder em financiamento coletivo, com uma comunidade de criadores cada vez mais engajada e uma oferta de projetos inovadores e ousados."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio prazo",
+        "body": "A plataforma continuará a evoluir e a se adaptar às necessidades de sua comunidade, com novas funcionalidades e recursos para ajudar os criadores a alcançar seus objetivos."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo prazo",
+        "body": "A Kickstarter se tornará uma plataforma ainda mais importante para a criatividade e a inovação, com uma comunidade de criadores que continuará a crescer e a se diversificar."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "link no perfil"
+      }
+    ]
+  }
+]
