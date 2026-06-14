@@ -1,0 +1,53 @@
+{
+  "title": "Navegando a Segurança da Inteligência Artificial em Tempo Real",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Segurança da Inteligência Artificial: O Desafio do Futuro",
+      "subtext": "Proteja seus sistemas contra ameaças em constante evolução",
+      "image_prompt": "futurista cidade com robôs e luzes neon"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário Atual",
+      "body": "A Inteligência Artificial está revolucionando a forma como vivemos e trabalhamos, mas também traz riscos significativos para a segurança. A notícia recente publicada no TechCrunch destaca a complexidade e a urgência do problema.",
+      "highlight": "A segurança da IA é um desafio em tempo real"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Os sistemas de IA estão em constante evolução, o que significa que os sistemas de segurança precisam ser capazes de se adaptar rapidamente a essas mudanças. Além disso, a IA pode ser usada para criar ataques cibernéticos mais sofisticados e difíceis de detectar.",
+      "visual_hint": "ícone de um robô com um escudo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A falta de segurança da IA pode ter consequências graves, incluindo a perda de dados confidenciais e a comprometimento da segurança nacional. Além disso, a falha na segurança da IA pode ter consequências econômicas significativas.",
+      "visual_hint": "ícone de um gráfico de barras em queda"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "90% das empresas já foram vítimas de ataques cibernéticos",
+        "A segurança da IA é um desafio para 75% das empresas",
+        "O mercado de segurança da IA deve crescer 20% ao ano até 2025"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "As empresas precisarão investir mais em segurança da IA",
+        "Os governos precisarão criar regulamentações mais rigorosas",
+        "Os indivíduos precisarão estar mais conscientes dos riscos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre a segurança da Inteligência Artificial",
+      "subtext": "Fique por dentro das últimas notícias e tendências sobre a segurança da IA"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Crescimento Explosivo da Peec: Como a Inteligência Artificial Está Redefinindo a Presença das Marcas",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Revolução da Presença nas Buscas de IA",
+      "subtext": "Descubra como a Peec está mudando o jogo para as marcas",
+      "image_prompt": "gerar imagem de fundo com robôs e telas de computador"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A tecnologia está em constante evolução, e a Inteligência Artificial (IA) está sendo aplicada em diversas indústrias. A Peec é uma startup alemã que está fazendo barulho com sua solução inovadora para ajudar as marcas a entender e melhorar sua presença nas buscas de IA.",
+      "highlight": "A Peec mais que dobrou sua receita anual em apenas alguns meses"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Peec está fornecendo uma ferramenta poderosa para que as marcas possam otimizar sua presença online e melhorar sua visibilidade. Isso é especialmente importante em um mercado cada vez mais competitivo, onde a presença online pode ser o fator decisivo para o sucesso de uma empresa.",
+      "visual_hint": "ícone de uma lupa"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A capacidade de entender e utilizar a IA de forma eficaz está se tornando um fator crítico para o sucesso das empresas. A Peec está ajudando as marcas a se adaptar a essa nova realidade e a entender como elas estão sendo encontradas e percebidas nas buscas de IA.",
+      "visual_hint": "ícone de um gráfico"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "A Peec mais que dobrou sua receita anual em apenas alguns meses",
+        "A receita anual da Peec alcançou $10 milhões",
+        "A Peec é uma das startups em ascensão em Berlim"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "As marcas precisarão se adaptar à nova realidade das buscas de IA",
+        "A presença online será cada vez mais importante para as marcas",
+        "A capacidade de entender e utilizar a IA de forma eficaz será fundamental para o sucesso das empresas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre a Peec e a Inteligência Artificial",
+      "subtext": "Descubra como a IA está mudando o jogo para as marcas e como você pode se beneficiar disso"
+    }
+  ]
+}

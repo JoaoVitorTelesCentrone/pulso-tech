@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Microsoft: Do Joystick à Nuvem da IA?",
+        "subtext": "A gigante da tecnologia se reinventa. Entenda a mudança!"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "Uma Transformação Estratégica",
+        "body": "Os recentes resultados financeiros da Microsoft revelam uma guinada: o Xbox em declínio e a nuvem, impulsionada pela IA, em ascensão meteórica. Não é apenas um relatório, é um mapa estratégico para o futuro."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "O Declínio do Hardware Xbox",
+        "body": "A receita de hardware do Xbox despencou 33%, refletindo uma mudança estrutural na indústria de games. O foco se move do console físico para conteúdo, serviços de assinatura (Game Pass) e experiência multiplataforma (xCloud)."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "A Ascensão da Nuvem e IA",
+        "body": "Enquanto os jogos enfrentam ventos contrários, o setor de nuvem e produtividade da Microsoft (Azure) é a estrela. A Inteligência Artificial emerge como o catalisador principal, posicionando a empresa no epicentro da revolução da IA."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "link no perfil"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "A Microsoft Mudou. E Você?",
+        "subtext": "Como a guinada da gigante da tecnologia impacta seu dia a dia e seus investimentos."
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Para Gamers e Consumidores",
+        "body": "Menos foco em consoles caros, mais em jogos como serviço e acessibilidade multiplataforma. Sua experiência de jogo será mais flexível, mas a dependência de assinaturas cresce."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Para Empresas e Profissionais",
+        "body": "A aceleração da IA na nuvem significa mais ferramentas inteligentes, automação e eficiência. Sua empresa pode se beneficiar de soluções Azure e Copilot, mas a adaptação é crucial."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Para Investidores e o Mercado Tech",
+        "body": "A Microsoft se posiciona como líder na era da IA, tornando-se um player ainda mais robusto. Fique de olho em empresas que investem pesado em infraestrutura de IA e serviços de nuvem."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder essas tendências!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Xbox: -33% na Receita de Hardware!",
+        "subtext": "Um mergulho nos números que explicam a reinvenção da Microsoft."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Queda do Xbox: -33%",
+        "body": "A receita de hardware do Xbox despencou 33% nos últimos resultados financeiros. Isso sinaliza uma mudança de foco da Microsoft, priorizando serviços e conteúdo sobre a venda de consoles físicos."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "Nuvem e Produtividade: Em Ascensão",
+        "body": "Enquanto o Xbox cai, o setor de nuvem e produtividade da Microsoft continua a atingir novas alturas. Embora números específicos não sejam detalhados, o artigo aponta para um crescimento meteórico."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "IA: O Catalisador Principal",
+        "body": "A Inteligência Artificial é descrita como o 'catalisador principal' dessa nova era. É o motor que impulsiona o crescimento da nuvem e a estratégia futura da Microsoft."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": ""
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Microsoft Pós-Xbox: O Que Vem Aí?",
+        "subtext": "Previsões sobre o futuro da gigante da tecnologia e o impacto da IA."
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo (Próximos Meses)",
+        "body": "Microsoft intensificará investimentos em Azure e IA, com mais lançamentos de ferramentas e serviços baseados em IA. O Game Pass continuará sendo o carro-chefe dos jogos, com menos ênfase em novos hardwares."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo (1-2 Anos)",
+        "body": "A IA estará profundamente integrada em todo o ecossistema Microsoft (Windows, Office, Azure). A estratégia 'jogos como serviço' se consolidará, com o xCloud expandindo seu alcance e funcionalidades."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo (5+ Anos)",
+        "body": "Microsoft pode se tornar a principal provedora de infraestrutura de IA global. Novas formas de interação e produtividade, totalmente baseadas em IA e nuvem, podem surgir, redefinindo o conceito de 'computação'."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "link no perfil"
+      }
+    ]
+  }
+]

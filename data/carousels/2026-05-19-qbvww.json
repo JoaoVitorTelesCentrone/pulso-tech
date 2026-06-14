@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "A Nova Era do Google Search",
+        "subtext": "Como a Inteligência Artificial está revolucionando a busca"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "Introdução à IA no Google Search",
+        "body": "A forma como interagimos com a internet está mudando rapidamente, e uma das principais razões para isso é a integração da inteligência artificial (IA) nos serviços mais utilizados."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "O Papel da IA no Google Search",
+        "body": "A IA está sendo integrada ao Google Search de várias maneiras, desde a melhoria dos algoritmos de busca até a criação de interfaces mais interativas e personalizadas."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "A Era dos Agentes Autônomos",
+        "body": "A introdução de agentes autônomos no Google Search é um dos principais destaques da nova abordagem, permitindo que as tarefas sejam realizadas de forma mais eficiente e personalizada."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "link no perfil"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como a IA afeta sua experiência de busca",
+        "subtext": "O que muda para você"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Resultados de busca mais personalizados",
+        "body": "A IA fornece respostas mais precisas e atualizadas, reduzindo a necessidade de clicar em links externos."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Interfaces mais interativas",
+        "body": "A IA permite a criação de interfaces mais interativas e personalizadas, melhorando a experiência do usuário."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Agentes autônomos para tarefas",
+        "body": "Os agentes autônomos podem realizar tarefas de forma autônoma, sem a necessidade de intervenção humana."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Estatísticas sobre a IA no Google Search",
+        "subtext": "Números que mostram o impacto"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Redução no tráfego para editores de conteúdo",
+        "body": "A mudança pode levar a uma redução no tráfego para os editores de conteúdo, o que pode ter consequências econômicas para essas empresas."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "Aumento na precisão dos resultados de busca",
+        "body": "A IA fornece respostas mais precisas e atualizadas, melhorando a experiência do usuário."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "Crescimento da utilização de agentes autônomos",
+        "body": "Os agentes autônomos estão se tornando cada vez mais comuns, permitindo que as tarefas sejam realizadas de forma mais eficiente e personalizada."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": ""
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro da IA no Google Search",
+        "subtext": "O que esperar"
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto prazo: Melhoria dos algoritmos de busca",
+        "body": "A IA continuará a melhorar os algoritmos de busca, fornecendo respostas mais precisas e atualizadas."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio prazo: Expansão dos agentes autônomos",
+        "body": "Os agentes autônomos se tornarão mais comuns, permitindo que as tarefas sejam realizadas de forma mais eficiente e personalizada."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo prazo: Integração da IA em todas as áreas da vida",
+        "body": "A IA se tornará cada vez mais integrada em todas as áreas da vida, mudando a forma como vivemos e interagimos com a tecnologia."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "link no perfil"
+      }
+    ]
+  }
+]

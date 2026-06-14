@@ -1,0 +1,53 @@
+{
+  "title": "O Futuro dos Óculos Inteligentes: Google Anuncia Novos Óculos de Áudio",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Interacao com Tecnologia",
+      "subtext": "Descubra como os novos óculos de áudio da Google estão mudando o jogo",
+      "image_prompt": "futuristic smart glasses on a dark background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A tecnologia de óculos inteligentes está avançando rapidamente, e a Google acaba de anunciar um novo produto que promete revolucionar a forma como interagimos com nossos dispositivos. Com a capacidade de realizar comandos verbais e fornecer respostas por meio de sua plataforma de aplicativos e serviços.",
+      "highlight": "Inteligência Artificial e Reconhecimento de Voz"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Os novos óculos de áudio da Google permitem que os usuários emitam comandos verbais e realizem ações por meio de sua plataforma de aplicativos e serviços, incluindo o Gemini. Isso significa que os usuários podem realizar tarefas como enviar mensagens, fazer chamadas e acessar informações sem precisar usar as mãos.",
+      "visual_hint": "ícone de um relógio ou um smartphone"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A inovação dos óculos de áudio da Google é um exemplo de como a tecnologia está cada vez mais integrada em nossas vidas. Com a capacidade de realizar comandos verbais e fornecer respostas por meio de sua plataforma de aplicativos e serviços, esses dispositivos têm o potencial de mudar a forma como interagimos com a tecnologia.",
+      "visual_hint": "ícone de uma pessoa usando óculos inteligentes"
+    },
+    {
+      "type": "data",
+      "heading": "Características dos Novos Óculos de Áudio",
+      "bullets": [
+        "Tecnologia de reconhecimento de voz avançada",
+        "Capacidade de fornecer respostas por meio de sua plataforma de aplicativos e serviços",
+        "Integração com o Gemini e outros serviços da Google"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mudanças na forma como interagimos com dispositivos",
+        "Novas oportunidades para pessoas com deficiência",
+        "Avanços na tecnologia de inteligência artificial e reconhecimento de voz"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e atualizações sobre os novos óculos de áudio da Google e outras inovações tecnológicas"
+    }
+  ]
+}

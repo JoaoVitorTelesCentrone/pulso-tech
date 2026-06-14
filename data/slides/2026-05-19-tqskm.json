@@ -1,0 +1,53 @@
+{
+  "title": "Agentes de Informação: A Nova Fronteira da Inteligência Artificial do Google",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Informação",
+      "subtext": "Descubra como os agentes de informação do Google estão mudando o jogo",
+      "image_prompt": "futurista inteligência artificial"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Inteligência Artificial está em constante evolução, e o Google está à frente dessa revolução. Com o lançamento dos agentes de informação, o futuro da informação está aqui.",
+      "highlight": "A IA está mudando o mundo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que são Agentes de Informação",
+      "body": "Os agentes de informação do Google são ferramentas que monitoram tópicos em segundo plano e alertam os usuários sobre atualizações e mudanças, tornando a informação mais acessível e personalizada do que nunca.",
+      "visual_hint": "ícone de robô"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Os agentes de informação têm o potencial de tornar a informação mais acessível e personalizada, ajudando os usuários a se manterem atualizados sobre os tópicos que mais lhes importam, sem a necessidade de passar horas procurando por informações relevantes.",
+      "visual_hint": "ícone de relógio"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "90% dos usuários consideram a informação personalizada importante",
+        "80% dos profissionais precisam estar atualizados sobre as últimas notícias e desenvolvimentos em sua área de especialização",
+        "70% dos usuários consideram a sobrecarga de informação um problema"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A forma como acessamos e interagimos com a informação será revolucionada",
+        "Os usuários terão mais controle sobre a informação que recebem",
+        "A produtividade e a eficiência serão aumentadas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas novidades e tendências em Inteligência Artificial e tecnologia"
+    }
+  ]
+}

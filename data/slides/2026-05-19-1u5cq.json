@@ -1,0 +1,53 @@
+{
+  "title": "A Era da Comunicação por Voz: Como o Google está Revolucionando a Interação com o Gmail",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Fale com seu Inbox: A Nova Fronteira da Comunicação",
+      "subtext": "Descubra como o Google está revolucionando a interação com o Gmail",
+      "image_prompt": "uma imagem de uma pessoa falando com um dispositivo inteligente"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A tecnologia de inteligência artificial está mudando a forma como interagimos com os dispositivos e serviços online. O Google está à frente dessa mudança.",
+      "highlight": "A IA do Google permite que os usuários usem comandos de voz para interagir com o serviço de e-mail"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Google anunciou uma inovação que permite que os usuários usem comandos de voz para encontrar detalhes de e-mails enterrados em sua caixa de entrada",
+      "visual_hint": "um ícone de um microfone ou uma imagem de uma pessoa falando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Essa funcionalidade pode revolucionar a forma como as pessoas gerenciam seus e-mails e interagem com os serviços online",
+      "visual_hint": "uma imagem de uma pessoa trabalhando de forma eficiente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "A IA do Google pode processar grandes quantidades de dados",
+        "A funcionalidade de busca por voz conversacional é apenas o começo de uma série de inovações",
+        "O Google está trabalhando em uma variedade de projetos de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "As pessoas poderão gerenciar seus e-mails de forma mais eficiente",
+        "As empresas poderão se beneficiar de uma maior produtividade",
+        "A forma como as pessoas interagem com os serviços online mudará para sempre"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências em tecnologia e inovação"
+    }
+  ]
+}

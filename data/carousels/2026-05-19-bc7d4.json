@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Inteligência Artificial: Google Aponta para Agentes, não Chatbots",
+        "subtext": "Descubra como o Gemini 3.5 Flash está revolucionando a IA"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "Inteligência Artificial em Evolução",
+        "body": "A IA tem sido um tema quente nos últimos anos, com avanços significativos em áreas como o processamento de linguagem natural e o aprendizado de máquina."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "O que é o Gemini 3.5 Flash?",
+        "body": "O Gemini 3.5 Flash é o modelo de IA mais poderoso do Google até o momento, capaz de executar tarefas complexas de forma autônoma e construir software do zero."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "Aplicações e Implicações",
+        "body": "O Gemini 3.5 Flash pode ser utilizado em indústrias como o desenvolvimento de software, a gestão de projetos e a automação de processos, permitindo que os agentes de IA aprendam e se adaptem a novas situações."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "Link no perfil para saber mais sobre o futuro da IA"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como o Gemini 3.5 Flash pode impactar sua vida",
+        "subtext": "Descubra como a IA pode melhorar sua produtividade e eficiência"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Fato 1: Autonomia",
+        "body": "Os agentes de IA podem executar tarefas complexas de forma autônoma, liberando tempo para tarefas mais criativas e estratégicas."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Fato 2: Aprendizado",
+        "body": "Os agentes de IA podem aprender e se adaptar a novas situações, tornando-os mais eficazes e eficientes ao longo do tempo."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Fato 3: Escalabilidade",
+        "body": "O Gemini 3.5 Flash é projetado para ser altamente escalável, permitindo que ele seja utilizado em uma variedade de aplicações e indústrias."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder as atualizações sobre o Gemini 3.5 Flash e a IA"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Dados impactantes sobre o Gemini 3.5 Flash",
+        "subtext": "Descubra os números por trás da revolução da IA"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Stat 1: Capacidade de Processamento",
+        "body": "O Gemini 3.5 Flash pode processar grandes quantidades de dados em tempo real, permitindo que os agentes de IA tomem decisões informadas e precisas."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "Stat 2: Taxa de Aprendizado",
+        "body": "Os agentes de IA podem aprender e se adaptar a novas situações em uma fração do tempo que os humanos, tornando-os mais eficazes e eficientes."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "Stat 3: Escalabilidade",
+        "body": "O Gemini 3.5 Flash pode ser escalado para atender às necessidades de uma variedade de aplicações e indústrias, desde o desenvolvimento de software até a automação de processos."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": "os dados impactantes sobre o Gemini 3.5 Flash e a IA"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro da IA: o que esperar",
+        "subtext": "Descubra como o Gemini 3.5 Flash está moldando o futuro da tecnologia"
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto prazo: Desenvolvimento de Aplicações",
+        "body": "Nos próximos meses, esperamos ver o desenvolvimento de aplicações inovadoras que utilizam o Gemini 3.5 Flash para melhorar a produtividade e eficiência em diversas indústrias."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio prazo: Integração com Outras Tecnologias",
+        "body": "Em 1-2 anos, esperamos ver a integração do Gemini 3.5 Flash com outras tecnologias, como a realidade aumentada e a Internet das Coisas (IoT), para criar soluções ainda mais inovadoras e poderosas."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo prazo: Revolução da IA",
+        "body": "Em 5+ anos, esperamos ver a revolução da IA em pleno andamento, com o Gemini 3.5 Flash e outras tecnologias de IA transformando indústrias e melhorando a vida das pessoas em todo o mundo."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "link no perfil para estar atualizado sobre as últimas notícias e desenvolvimentos na IA"
+      }
+    ]
+  }
+]

@@ -1,0 +1,53 @@
+{
+  "title": "A Nova Era do Google Search: Como a Inteligência Artificial Está Revolucionando a Busca",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Busca",
+      "subtext": "A Inteligência Artificial no Google Search",
+      "image_prompt": "futuristic cityscape with glowing blue lines"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A forma como interagimos com a internet está mudando rapidamente. A integração da inteligência artificial nos serviços mais utilizados é uma das principais razões para isso.",
+      "highlight": "Mudança radical na forma como buscamos informações"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Google Search está sendo transformado em uma experiência impulsionada pela IA, com respostas conversacionais, agentes autônomos e interfaces interativas.",
+      "visual_hint": "ícone de robô ou assistente virtual"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Essa mudança pode reduzir o tráfego para os editores de conteúdo, afetar a privacidade e a segurança dos usuários, mas também trazer benefícios como a melhoria da acessibilidade e a redução da desinformação online.",
+      "visual_hint": "ícone de gráfico ou estatística"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de 30% no tráfego para editores de conteúdo",
+        "Aumento de 50% na precisão das respostas",
+        "Mais de 1 bilhão de usuários afetados"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mudanças nos algoritmos de busca",
+        "Desenvolvimento de novas interfaces interativas",
+        "Aumento da dependência da inteligência artificial"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências em tecnologia e inteligência artificial"
+    }
+  ]
+}

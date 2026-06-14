@@ -1,0 +1,53 @@
+{
+  "title": "Revolutionando a Simulação: O Modelo de Mundo Genie do Google com Street View",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Simulações Revolucionárias",
+      "subtext": "O futuro da interação virtual está aqui",
+      "image_prompt": "futuristic cityscape with robots and virtual reality"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A tecnologia de simulação está vivendo um momento sem precedentes, com avanços significativos na área de inteligência artificial e processamento de dados. O Google DeepMind desenvolveu o modelo de mundo Genie, que agora é integrado ao Street View.",
+      "highlight": "Integração do Street View com o Projeto Genie"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O modelo de mundo Genie do Google permite a criação de simulações de mundo imersivas e interativas para robótica, jogos e viagens, utilizando a tecnologia de Street View para simular ruas e cidades reais.",
+      "visual_hint": "ícone de robô ou imagem de simulação"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Essa tecnologia tem implicações significativas para a robótica, onde os robôs podem ser treinados em ambientes virtuais antes de serem implantados no mundo real, e também para jogos e simulações de treinamento.",
+      "visual_hint": "imagem de robô em ambiente virtual"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Milhões de imagens de rua disponíveis no Street View",
+        "Avanços significativos na área de inteligência artificial",
+        "Possibilidade de treinamento de robôs em ambientes virtuais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Desenvolvimento de robôs mais eficientes e seguros",
+        "Criação de jogos e simulações mais realistas",
+        "Avanços na área de inteligência artificial e processamento de dados"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Mantenha-se atualizado sobre as últimas novidades em tecnologia e inovação"
+    }
+  ]
+}

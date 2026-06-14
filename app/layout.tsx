@@ -1,42 +1,43 @@
 import type { Metadata } from 'next'
-import { Newsreader, Work_Sans } from 'next/font/google'
+import { Syne, Cormorant_Garamond, DM_Mono } from 'next/font/google'
 import './globals.css'
-import { Providers } from './providers'
 
-const newsreader = Newsreader({
+const syne = Syne({
   subsets: ['latin'],
-  weight: ['400', '500', '600'],
-  style: ['normal', 'italic'],
-  variable: '--font-newsreader',
+  weight: ['400', '500', '600', '700', '800'],
+  variable: '--font-syne',
   display: 'swap',
 })
 
-const workSans = Work_Sans({
+const cormorant = Cormorant_Garamond({
   subsets: ['latin'],
-  weight: ['300', '400', '500', '600'],
-  variable: '--font-work-sans',
+  weight: ['300', '400', '600'],
+  style: ['normal', 'italic'],
+  variable: '--font-cormorant',
+  display: 'swap',
+})
+
+const dmMono = DM_Mono({
+  subsets: ['latin'],
+  weight: ['300', '400'],
+  style: ['normal', 'italic'],
+  variable: '--font-dm-mono',
   display: 'swap',
 })
 
 export const metadata: Metadata = {
-  title: 'TechPulse Editorial',
+  title: 'Tech&Future',
   description:
-    'A digital-first editorial focused on the intersection of artificial intelligence, human ethics, and the pulse of technological shift.',
+    'Análises, ferramentas e reflexões sobre inteligência artificial, produto e o que significa trabalhar com tecnologia com intenção.',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="pt-BR" suppressHydrationWarning>
-      <head>
-        <link
-          href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap"
-          rel="stylesheet"
-        />
-      </head>
+    <html lang="pt-BR">
       <body
-        className={`${newsreader.variable} ${workSans.variable} bg-background text-on-background font-work-sans overflow-x-hidden`}
+        className={`${syne.variable} ${cormorant.variable} ${dmMono.variable} bg-cream text-ink font-syne overflow-x-hidden`}
       >
-        <Providers>{children}</Providers>
+        {children}
       </body>
     </html>
   )

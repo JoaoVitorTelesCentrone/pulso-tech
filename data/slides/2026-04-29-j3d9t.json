@@ -1,0 +1,53 @@
+{
+  "title": "O Closet do Futuro Chegou: Google Photos e IA Recriam a Magia de 'As Patricinhas de Beverly Hills'",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Seu Closet dos Sonhos: A IA do Google Photos Transforma a Moda",
+      "subtext": "A ficção de 'As Patricinhas de Beverly Hills' agora é realidade no seu guarda-roupa.",
+      "image_prompt": "futuristic digital wardrobe interface, inspired by Clueless, AI fashion assistant, elegant and clean design, Google Photos aesthetic, vibrant colors, technology and fashion fusion"
+    },
+    {
+      "type": "context",
+      "heading": "O Sonho de Cher Horowitz Virou Realidade",
+      "body": "Por décadas, o closet inteligente de 'As Patricinhas de Beverly Hills' era uma fantasia. Um sistema que escaneava, sugeria e eliminava dilemas de moda parecia inatingível.",
+      "highlight": "Agora, a Inteligência Artificial está transformando essa visão em uma conveniência diária."
+    },
+    {
+      "type": "insight",
+      "heading": "Google Photos: Seu Novo Personal Stylist",
+      "body": "O Google Photos está implementando uma nova funcionalidade que usa IA para criar uma cópia digital do seu guarda-roupa, automatizando o gerenciamento de suas roupas.",
+      "visual_hint": "Ícone do Google Photos com um guarda-roupa digital ou um avatar escolhendo roupas."
+    },
+    {
+      "type": "insight",
+      "heading": "Adeus ao Dilema do 'O Que Vestir?'",
+      "body": "Esta inovação simplifica uma das rotinas mais cotidianas, oferecendo um inventário completo e acessível de suas peças, com sugestões de combinações perfeitas.",
+      "visual_hint": "Pessoa sorrindo e escolhendo roupa facilmente em um tablet, guarda-roupa organizado digitalmente."
+    },
+    {
+      "type": "data",
+      "heading": "A Magia da IA: Visão Computacional em Ação",
+      "bullets": [
+        "Reconhecimento de Objetos: IA diferencia camisas, calças, vestidos, sapatos em suas fotos.",
+        "Extração de Atributos: Identifica cor, padrão, tipo de tecido e estilo de cada peça.",
+        "Criação de Catálogo Inteligente: Constrói um inventário digital completo do seu armário, sem esforço manual."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O Futuro da Moda Pessoal",
+      "bullets": [
+        "Gestão Automatizada: Seu guarda-roupa organizado e acessível na palma da mão.",
+        "Sugestões Personalizadas: Combinações perfeitas baseadas no seu estilo e inventário.",
+        "Decisões Simplificadas: Elimine o estresse matinal e otimize seu tempo."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Pronto para o Seu Closet do Futuro?",
+      "subtext": "Explore as possibilidades da IA e transforme sua rotina. Acompanhe as novidades!"
+    }
+  ]
+}

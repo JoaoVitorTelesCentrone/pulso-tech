@@ -1,0 +1,53 @@
+{
+  "title": "O Legado de Roger Linn: Como a Inteligência Artificial está Redefinindo a Indústria da Música",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolucionando a Música",
+      "subtext": "Descubra como a inteligência artificial está mudando o jogo",
+      "image_prompt": "uma imagem de um estúdio de gravação com equipamentos de música eletrônica e uma pessoa trabalhando em um computador"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria da música está passando por uma revolução sem precedentes, impulsionada pela tecnologia e pela inteligência artificial. Roger Linn, criador do lendário MPC, é um visionário que está moldando o futuro da música.",
+      "highlight": "A inteligência artificial está redefinindo a indústria da música"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A inteligência artificial está sendo usada para criar música, gerar ritmos e melodias, e até mesmo compor álbuns inteiros. Isso está abrindo as portas para uma nova geração de músicos e produtores que querem criar música de uma maneira que é antes inimaginável.",
+      "visual_hint": "um ícone de um robô tocando um instrumento musical"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O impacto da inteligência artificial na indústria da música é real e está mudando a forma como a música é criada, produzida e consumida. Isso pode levar a novas oportunidades para os artistas e produtores, mas também pode criar desafios para a indústria como um todo.",
+      "visual_hint": "um gráfico mostrando o crescimento da indústria da música"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "O mercado de música eletrônica está crescendo 10% ao ano",
+        "A inteligência artificial está sendo usada em 20% das produções musicais",
+        "O MPC de Roger Linn foi usado em mais de 100 álbuns de sucesso"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A criação de música se tornará mais acessível e democrática",
+        "A indústria da música precisará se adaptar às novas tecnologias",
+        "Os artistas e produtores precisarão desenvolver novas habilidades para trabalhar com a inteligência artificial"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências da indústria da música e da tecnologia"
+    }
+  ]
+}

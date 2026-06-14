@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação ao ar livre",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Tecnologia ao Ar Livre",
+        "subtext": "Aprendizado em Movimento"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Hiking Inteligente",
+        "body": "Tecnologia para trilhas"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "Aumento de segurança"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A natureza é o nosso laboratório\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA na Natureza",
+        "body": "Inovação sustentável"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios da Tecnologia",
+        "items": [
+          "Segurança",
+          "Informação",
+          "Sustentabilidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Junte-se à Revolução",
+        "highlight_word": "Inovador",
+        "subtext": "Descubra como a tecnologia pode melhorar suas experiências ao ar livre"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal na natureza",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Conecte-se com a Natureza",
+        "subtext": "Encontre seu equilíbrio"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Bem-estar ao Ar Livre",
+        "body": "Saúde mental e física"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90%",
+        "stat_label": "Redução do estresse"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A natureza é o nosso refúgio\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Tecnologia para o Bem-estar",
+        "body": "Ferramentas para a saúde"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios Pessoais",
+        "items": [
+          "Redução do estresse",
+          "Melhoria do humor",
+          "Conexão com a natureza"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Encontre seu Caminho",
+        "highlight_word": "Pessoal",
+        "subtext": "Descubra como a tecnologia pode ajudar você a se conectar com a natureza"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números da tecnologia",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Números que Falam",
+        "subtext": "Estatísticas da Tecnologia"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Tecnologia em Números",
+        "body": "Estatísticas e tendências"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "75%",
+        "stat_label": "Aumento do uso de aplicativos"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Os dados não mentem\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Análise de Dados",
+        "body": "Entendendo o mercado"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Estatísticas Chave",
+        "items": [
+          "Uso de aplicativos",
+          "Engajamento do usuário",
+          "Retorno sobre o investimento"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Análise de Dados",
+        "highlight_word": "Estatístico",
+        "subtext": "Descubra como os dados podem ajudar você a entender o mercado"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências da tecnologia",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro é Agora",
+        "subtext": "Tecnologia em Evolução"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Tendências Futuras",
+        "body": "Inovação e sustentabilidade"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "95%",
+        "stat_label": "Aumento da eficiência"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O futuro é criado por nós\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências da Tecnologia",
+        "body": "Impacto na sociedade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Desafios e Oportunidades",
+        "items": [
+          "Sustentabilidade",
+          "Privacidade",
+          "Segurança"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Crie seu Futuro",
+        "highlight_word": "Inovador",
+        "subtext": "Descubra como a tecnologia pode ajudar você a criar um futuro melhor"
+      }
+    ]
+  }
+]

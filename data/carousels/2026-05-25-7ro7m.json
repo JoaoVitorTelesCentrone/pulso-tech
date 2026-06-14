@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educação sobre tecnologia",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Feriados e Tecnologia",
+        "subtext": "O Impacto das Vendas"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Tecnologia em Desconto",
+        "body": "Produtos mais acessíveis"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "20%",
+        "stat_label": "Descontos em tecnologia"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O Memorial Day é um dos melhores momentos para comprar tecnologia\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Dicas de Compra",
+        "body": "Pesquise e compare preços"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Produtos em Oferta",
+        "items": [
+          "Laptops",
+          "Smartphones",
+          "Tablets"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Aproveite as Ofertas",
+        "highlight_word": "Agora",
+        "subtext": "Não perca as melhores ofertas"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal nas compras",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Compre com Intenção",
+        "subtext": "Encontre o que você precisa"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Necessidades Pessoais",
+        "body": "Encontre produtos que atendam às suas necessidades"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "80%",
+        "stat_label": "Consumidores satisfeitos com compras"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Encontre o produto certo para você\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Dicas de Compra Pessoal",
+        "body": "Verifique as especificações"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios da Compra",
+        "items": [
+          "Economia",
+          "Satisfação",
+          "Conveniência"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Encontre seu Produto",
+        "highlight_word": "Agora",
+        "subtext": "Faça sua compra com confiança"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números sobre vendas",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Vendas de Tecnologia",
+        "subtext": "Análise de Dados"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Desempenho de Vendas",
+        "body": "Análise de dados de vendas"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "30%",
+        "stat_label": "Aumento das vendas em tecnologia"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Os dados mostram um aumento significativo nas vendas\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Análise de Mercado",
+        "body": "Entenda o mercado de tecnologia"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Principais Produtos Vendidos",
+        "items": [
+          "Laptops",
+          "Smartphones",
+          "Tablets"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Aprenda com os Dados",
+        "highlight_word": "Agora",
+        "subtext": "Faça decisões informadas com base nos dados"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências das compras",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro das Compras",
+        "subtext": "Consequências e Tendências"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Tendências de Compra",
+        "body": "Entenda as tendências atuais"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "50%",
+        "stat_label": "Aumento das compras online"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O futuro das compras é digital\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências das Compras",
+        "body": "Entenda as consequências de suas compras"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Dicas para o Futuro",
+        "items": [
+          "Planeje",
+          "Pesquise",
+          "Compare"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Planeje seu Futuro",
+        "highlight_word": "Agora",
+        "subtext": "Faça escolhas informadas para um futuro melhor"
+      }
+    ]
+  }
+]

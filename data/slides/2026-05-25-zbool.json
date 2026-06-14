@@ -1,0 +1,53 @@
+{
+  "title": "O Futuro dos Óculos Inteligentes: XREAL e o Parceiro Google",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Visão do Futuro",
+      "subtext": "Descubra como a XREAL e o Google estão mudando o jogo",
+      "image_prompt": "futuristic smart glasses on a dark background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria de tecnologia está constantemente evoluindo, e os óculos inteligentes são um dos segmentos que mais têm chamado a atenção nos últimos anos.",
+      "highlight": "Parceria entre XREAL e Google"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A XREAL, parceira do Google, anunciou que finalmente masterizou a indústria de óculos inteligentes, o que pode significar um grande salto para a adoção em massa desses dispositivos.",
+      "visual_hint": "ícone de um par de óculos inteligentes"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Essa parceria tem o potencial de criar óculos inteligentes que não apenas são capazes de fornecer informações em tempo real, mas também de aprender e se adaptar às necessidades dos usuários.",
+      "visual_hint": "ícone de uma pessoa usando óculos inteligentes"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "A indústria de óculos inteligentes está crescendo rapidamente",
+        "A parceria entre XREAL e Google é um dos principais motivos para essa crescente adoção",
+        "Os óculos inteligentes têm o potencial de revolucionar a forma como interagimos com a tecnologia"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Óculos inteligentes se tornarão mais acessíveis e avançados",
+        "A tecnologia de visão aumentada será mais integrada ao nosso dia a dia",
+        "As empresas precisarão se adaptar a essa nova realidade tecnológica"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências em tecnologia"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "A Intersecção da Tecnologia e da Natureza: Um Estudo de Caso sobre a Relação entre Hiking e Inteligência Artificial",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Tecnologia e Natureza: Uma Nova Fronteira",
+      "subtext": "Descubra como a Inteligência Artificial está mudando as experiências ao ar livre",
+      "image_prompt": "uma imagem de uma pessoa caminhando em uma trilha com um drone ao fundo"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A tecnologia está cada vez mais presente em nossas vidas, e as atividades ao ar livre não são exceção. Com o avanço da Inteligência Artificial, é possível que as pessoas comecem a buscar maneiras de incorporar a tecnologia em suas experiências ao ar livre.",
+      "highlight": "A IA pode ser usada para melhorar a segurança dos hikers"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Inteligência Artificial está sendo usada para desenvolver tecnologias que visam melhorar as experiências ao ar livre, como aplicativos que mapeiam trilhas e fornecem informações sobre a flora e fauna local.",
+      "visual_hint": "um ícone de um aplicativo de trilhas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A intersecção da tecnologia e da natureza pode ter um impacto significativo nas experiências ao ar livre, tornando-as mais acessíveis e informativas. Além disso, a IA pode ser usada para melhorar a segurança dos hikers e reduzir o tempo de resposta em caso de emergência.",
+      "visual_hint": "um ícone de um relógio"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "80% dos hikers usam aplicativos de trilhas para planejar suas rotas",
+        "50% dos parques nacionais dos EUA estão utilizando a IA para desenvolver aplicativos",
+        "20% das empresas de equipamentos esportivos estão investindo em tecnologias de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "As experiências ao ar livre se tornarão mais acessíveis e informativas",
+        "A segurança dos hikers será melhorada com a ajuda da IA",
+        "As empresas de equipamentos esportivos precisarão se adaptar às novas tecnologias"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre a intersecção da tecnologia e da natureza",
+      "subtext": "Descubra como a Inteligência Artificial está mudando o mundo ao seu redor"
+    }
+  ]
+}

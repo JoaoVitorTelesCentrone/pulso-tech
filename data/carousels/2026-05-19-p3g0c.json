@@ -1,0 +1,147 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Gemini: A Inteligência Artificial que Está Revolucionando a Mobilidade",
+        "subtext": "Conheça a parceria entre Google e Volvo"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "Introdução à IA Gemini",
+        "body": "A IA Gemini é um sistema de assistente pessoal desenvolvido pela Google, que tem como objetivo tornar a vida das pessoas mais fácil e conveniente."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "Tecnologia por Trás da Gemini",
+        "body": "A Gemini utiliza uma combinação de algoritmos de aprendizado de máquina e visão computacional para interpretar as imagens capturadas pelas câmeras do veículo."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "Parceria entre Google e Volvo",
+        "body": "A parceria entre a Google e a Volvo é um exemplo de como a colaboração entre empresas de tecnologia e automobilística pode levar a inovações significativas."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "link no perfil"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como a IA Gemini Pode Melhorar Sua Vida",
+        "subtext": "Descubra como a tecnologia pode tornar sua mobilidade mais segura e eficiente"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Redução de Acidentes",
+        "body": "A IA Gemini pode ajudar a reduzir o número de acidentes de trânsito, tornando as estradas mais seguras para todos."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Melhoria da Eficiência do Tráfego",
+        "body": "A IA Gemini pode ajudar a melhorar a eficiência do tráfego, reduzindo a congestão e os tempos de viagem."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Aumento da Conveniência",
+        "body": "A IA Gemini pode ajudar a tornar a vida das pessoas mais conveniente, fornecendo assistência pessoal e recomendações personalizadas."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Estatísticas Impressionantes sobre a IA Gemini",
+        "subtext": "Descubra os números por trás da revolução da mobilidade"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "90% de Redução de Acidentes",
+        "body": "A IA Gemini pode ajudar a reduzir o número de acidentes de trânsito em até 90%."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "50% de Redução da Congestão",
+        "body": "A IA Gemini pode ajudar a reduzir a congestão do tráfego em até 50%."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "20% de Aumento da Eficiência",
+        "body": "A IA Gemini pode ajudar a aumentar a eficiência do tráfego em até 20%."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": ""
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "headline": "O Futuro da Mobilidade com a IA Gemini",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O que o Futuro Reserva para a Mobilidade",
+        "subtext": "Descubra como a IA Gemini vai mudar o futuro da mobilidade"
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Implementação em Veículos",
+        "body": "A IA Gemini será implementada em veículos nos próximos 2 anos, tornando as estradas mais seguras e eficientes."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Expansão para Outras Áreas",
+        "body": "A IA Gemini será expandida para outras áreas, como a logística e a gestão de tráfego, nos próximos 5 anos."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: Veículos Autodirigidos",
+        "body": "A IA Gemini permitirá o desenvolvimento de veículos autodirigidos, revolucionando a forma como nos movemos nos próximos 10 anos."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "link no perfil"
+      }
+    ]
+  }
+]

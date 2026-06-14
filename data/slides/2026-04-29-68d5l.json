@@ -1,0 +1,54 @@
+{
+  "title": "O Fenômeno Howdy da Roku: US$3,1 Milhão de Assinantes e o Contraponto Inesperado à Era da IA no Streaming",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Simplicidade Vence a IA? O Fenômeno Howdy da Roku",
+      "subtext": "Como um serviço de streaming de US$2.99 desafia a era da personalização algorítmica e conquista 1 milhão de assinantes.",
+      "image_prompt": "Minimalist streaming interface on a TV screen, contrasting with complex AI algorithms in the background, representing simplicity and affordability in technology, dark and futuristic aesthetic."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário: Um Mundo Obsessivo por IA",
+      "body": "No universo do streaming, a narrativa dominante é de sofisticação tecnológica, com bilhões investidos em IA para personalização e conteúdo. Somos bombardeados com inovações que prometem redefinir nossa interação digital.",
+      "highlight": "A complexidade e a sofisticação tecnológica são a chave para o engajamento do usuário."
+    },
+    {
+      "type": "insight",
+      "heading": "A Surpresa Inesperada: O Sucesso do Howdy",
+      "body": "Em meio a essa corrida tecnológica, o Howdy, serviço de streaming de US$2.99 da Roku, ultrapassou 1 milhão de assinantes. Um marco que questiona a premissa de que a IA é o único caminho para o sucesso.",
+      "visual_hint": "Ícone de um gráfico de crescimento ascendente com um cifrão de dólar, ou um ícone de TV com um sinal de 'menos' ou 'simples'."
+    },
+    {
+      "type": "insight",
+      "heading": "O Que o Consumidor Moderno Realmente Quer?",
+      "body": "O sucesso do Howdy revela uma demanda clara por opções de entretenimento mais econômicas e de baixo compromisso. Consumidores estão demonstrando 'fadiga de assinatura' e priorizando acessibilidade e simplicidade.",
+      "visual_hint": "Ícone de um consumidor com um sorriso e um cifrão, ou um ícone de carteira com menos dinheiro."
+    },
+    {
+      "type": "data",
+      "heading": "Números Que Contam a História",
+      "bullets": [
+        "Howdy: US$2.99/mês",
+        "Mais de 1 Milhão de Assinantes",
+        "Contraponto a serviços de US$15-US$20+"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O Futuro do Streaming: Simplicidade e Valor?",
+      "bullets": [
+        "Reavaliação do papel da IA: Nem toda solução precisa ser a mais complexa para ser bem-sucedida.",
+        "Mercado de streaming pode se fragmentar ainda mais em tiers de preço e complexidade.",
+        "Empresas devem considerar a acessibilidade e o 'baixo compromisso' como estratégias válidas.",
+        "O valor percebido pelo consumidor pode superar a sofisticação tecnológica."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Será que a simplicidade é a nova fronteira da inovação no streaming?"
+    }
+  ]
+}

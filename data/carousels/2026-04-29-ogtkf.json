@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "A Revolução B2G Chegou: Como a IA Desburocratiza o Governo",
+        "subtext": "Conheça a Pursuit, a startup que está transformando a venda ao setor público."
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "O Problema Crônico",
+        "body": "Vender para o governo é um labirinto burocrático, com regras complexas, ciclos longos e muita documentação. Isso afasta inovações e impede o acesso a um mercado gigantesco."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "A Solução: Pursuit",
+        "body": "A startup Pursuit surge como uma ponte digital, simplificando e otimizando a conexão entre empresas e o vasto mercado governamental, que movimenta trilhões de dólares anualmente."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "O Papel da IA",
+        "body": "Embora não explícito, a IA é crucial. Ela permitirá escanear licitações, identificar oportunidades e automatizar processos, tornando o B2G mais ágil e acessível para todos."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "Descubra como a Pursuit e a IA estão redefinindo o futuro da governança. Link no perfil!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Vender para o Governo: Um Desafio que Você Pode Superar",
+        "subtext": "Descubra como a inovação está abrindo as portas do setor público para sua empresa."
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Mercado Bilionário Ignorado",
+        "body": "O setor público movimenta trilhões de dólares anualmente, mas a burocracia impede muitas empresas de acessá-lo. Você está perdendo essa oportunidade?"
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Inovação Bloqueada",
+        "body": "Governos perdem acesso a soluções inovadoras do setor privado devido à complexidade. Isso afeta a qualidade dos serviços públicos e o progresso."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "IA como Facilitador",
+        "body": "A IA promete desatar esses nós, tornando as transações B2G mais ágeis, transparentes e acessíveis. Sua empresa pode ser a próxima a inovar no setor público."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "Para não perder as novidades sobre como a tecnologia está transformando o B2G!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$ 22 Milhões: O Investimento que Vai Mudar o Jogo B2G",
+        "subtext": "Gigantes do investimento apostam pesado na desburocratização do setor público."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Financiamento Série A: US$ 22 Milhões",
+        "body": "A Pursuit recebeu um aporte impressionante, liderado por Mike Rosengarten (OpenGov) e com apoio de Bill Gurley e Jack Altman, sinalizando grande potencial."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "Mercado Governamental: Trilhões de Dólares",
+        "body": "O setor público representa um mercado vastíssimo, mas subaproveitado. A Pursuit visa desbloquear esse potencial para empresas de todos os tamanhos."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "Barreira de Entrada: Alta",
+        "body": "O custo e o tempo para navegar licitações e regulamentações governamentais são enormes, resultando em ineficiência e perda de oportunidades para ambos os lados."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": "Essa notícia impacta empresas, investidores e o futuro da governança!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Venda ao Governo: Menos Burocracia, Mais Inovação",
+        "subtext": "Como a IA vai redefinir as interações Business-to-Government."
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Oportunidades Visíveis",
+        "body": "Plataformas como a Pursuit começarão a usar IA para identificar e apresentar oportunidades de licitações de forma mais rápida e personalizada para as empresas."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Processos Simplificados",
+        "body": "A IA automatizará a preparação de documentos, a análise de conformidade e a gestão de contratos, reduzindo drasticamente o tempo e o custo de venda ao governo."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: Governança Ágil e Inovadora",
+        "body": "O setor público terá acesso mais fácil a soluções de ponta, promovendo serviços mais eficientes e uma colaboração sem precedentes com o setor privado."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "Acompanhe as tendências que estão moldando o futuro do B2G e da IA!"
+      }
+    ]
+  }
+]

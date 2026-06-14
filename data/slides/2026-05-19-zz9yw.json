@@ -1,0 +1,53 @@
+{
+  "title": "Kickstarter Revoga Regras de Conteúdo Maduro: O Que Isso Significa para a Comunidade de Criadores",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Kickstarter Revoga Regras de Conteúdo Maduro",
+      "subtext": "O que isso significa para a comunidade de criadores?",
+      "image_prompt": "uma imagem de uma pessoa criativa trabalhando em um projeto"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Kickstarter é uma plataforma de financiamento coletivo líder no mundo. Recentemente, a plataforma anunciou a revogação de suas novas regras de conteúdo maduro.",
+      "highlight": "A decisão foi tomada após uma semana de controvérsia"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Kickstarter revogou as regras de conteúdo maduro que haviam sido implementadas para proibir produtos de bem-estar sexual que não sejam projetados para inserção ou penetração.",
+      "visual_hint": "um ícone de uma plataforma de financiamento coletivo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A decisão da Kickstarter afeta diretamente a comunidade de criadores, que agora podem continuar a trabalhar em seus projetos sem medo de violar as regras da plataforma.",
+      "visual_hint": "um ícone de uma pessoa criativa trabalhando em um projeto"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "A Kickstarter é uma plataforma de financiamento coletivo líder no mundo",
+        "A plataforma tem mais de 10 milhões de usuários",
+        "A decisão de revogar as regras de conteúdo maduro foi tomada após uma semana de controvérsia"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A comunidade de criadores pode continuar a trabalhar em seus projetos sem medo de censura",
+        "A decisão da Kickstarter pode aumentar a confiança dos criadores na plataforma",
+        "A plataforma pode continuar a ser um espaço seguro e acolhedor para todos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências da indústria de tecnologia"
+    }
+  ]
+}

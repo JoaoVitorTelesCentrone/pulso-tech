@@ -1,0 +1,53 @@
+{
+  "title": "O Futuro da Mobilidade: Uma Análise Profunda sobre os Robotaxis",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Mobilidade",
+      "subtext": "Descubra como os robotaxis estão mudando o futuro dos transportes",
+      "image_prompt": "futuristic cityscape with self-driving cars"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário Atual",
+      "body": "A indústria de transporte está passando por uma revolução silenciosa, impulsionada pelo avanço da inteligência artificial e da tecnologia. Os robotaxis são uma das principais inovações nessa área.",
+      "highlight": "Redução de 90% nas emissões de gases de efeito estufa"
+    },
+    {
+      "type": "insight",
+      "heading": "Benefícios dos Robotaxis",
+      "body": "Os robotaxis oferecem uma série de benefícios, incluindo segurança, eficiência energética e redução da congestão nas rodovias. Além disso, eles podem ser programados para viajar em conjunto e evitar a necessidade de parar em semáforos.",
+      "visual_hint": "ícone de um carro autônomo"
+    },
+    {
+      "type": "insight",
+      "heading": "Desafios dos Robotaxis",
+      "body": "Embora os robotaxis ofereçam muitos benefícios, também há desafios significativos a serem superados, como a segurança, a infraestrutura e a capacidade de lidar com situações imprevisíveis.",
+      "visual_hint": "ícone de um semáforo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que Contam a História",
+      "bullets": [
+        "Redução de 90% nas emissões de gases de efeito estufa",
+        "Mercado de veículos autônomos pode alcançar US$ 1,4 trilhão em 2025",
+        "50% dos veículos autônomos podem representar até 50% do mercado de veículos novos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que Muda daqui pra Frente",
+      "bullets": [
+        "Mudanças significativas na indústria de transporte",
+        "Redução da congestão nas rodovias e melhoria da segurança",
+        "Novas oportunidades de negócios e emprego"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o Futuro da Mobilidade",
+      "subtext": "Fique por dentro das últimas notícias e tendências sobre os robotaxis e o futuro da mobilidade"
+    }
+  ]
+}

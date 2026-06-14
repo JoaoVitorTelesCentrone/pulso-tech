@@ -1,0 +1,53 @@
+{
+  "title": "A Nova Fronteira da Energia: Como a Inteligência Artificial Está Impactando a Indústria Nuclear",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Energia Nuclear com Inteligência Artificial",
+      "subtext": "Descubra como a IA está transformando a indústria nuclear",
+      "image_prompt": "futuristic nuclear power plant with robots and screens"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria nuclear está passando por uma transformação significativa, impulsionada pela integração da inteligência artificial em seus processos. Com a capacidade de processar grandes volumes de dados, otimizar operações e melhorar a segurança, a IA está revolucionando a forma como as usinas nucleares são projetadas, operadas e mantidas.",
+      "highlight": "A Deep Fission, uma startup de energia nuclear, está buscando uma oferta pública inicial que poderia arrecadar $157 milhões"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A IA está sendo utilizada para otimizar a operação de usinas nucleares, melhorar a manutenção preventiva e desenvolver novos reactores nucleares. Além disso, a IA pode ser usada para simular o comportamento de diferentes materiais em condições extremas, permitindo que os científicos desenvolvam materiais mais resistentes e seguros.",
+      "visual_hint": "ícone de uma usina nuclear com um robô"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A aplicação da IA na indústria nuclear pode levar a uma redução significativa de custos, um aumento na eficiência e uma melhoria na segurança. Além disso, a IA pode ajudar a desenvolver novas tecnologias e materiais que possam ser usados em outras indústrias, como a medicina e a aeronáutica.",
+      "visual_hint": "ícone de uma seta para cima, representando crescimento"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "$157 milhões: valor que a Deep Fission pode arrecadar com sua oferta pública inicial",
+        "30%: redução nos custos de operação que a IA pode proporcionar",
+        "25%: aumento na eficiência que a IA pode proporcionar"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A indústria nuclear se tornará mais eficiente e segura",
+        "Novas tecnologias e materiais serão desenvolvidos",
+        "A IA se tornará uma ferramenta essencial para a indústria nuclear"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre a revolução da energia nuclear",
+      "subtext": "Fique por dentro das últimas notícias e tendências sobre a aplicação da IA na indústria nuclear"
+    }
+  ]
+}

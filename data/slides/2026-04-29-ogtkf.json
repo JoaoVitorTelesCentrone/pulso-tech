@@ -1,0 +1,53 @@
+{
+  "title": "Pursuit e o Futuro da Venda ao Governo: Como a IA Pode Desburocratizar o Setor Público",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Pursuit e a IA: Desburocratizando a Venda ao Governo",
+      "subtext": "Uma nova era para as relações entre empresas e o setor público",
+      "image_prompt": "futuristic digital bridge connecting businesses to government buildings, glowing AI neural network overlay, dark tech aesthetic, innovation, efficiency"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário de Inovação",
+      "body": "Gigantes do investimento apostam na Pursuit, uma startup que promete revolucionar as interações Business-to-Government (B2G). Este movimento sinaliza a próxima fronteira da inovação tecnológica no setor público.",
+      "highlight": "Financiamento Série A de US$ 22 milhões"
+    },
+    {
+      "type": "insight",
+      "heading": "O Desafio Crônico do B2G",
+      "body": "Vender para o governo é um labirinto burocrático, com regras complexas, ciclos longos e alta barreira de entrada. Isso impede que soluções inovadoras cheguem ao setor público.",
+      "visual_hint": "Labirinto digital com barreiras, documentos empilhados"
+    },
+    {
+      "type": "insight",
+      "heading": "Pursuit: A Ponte Digital com IA",
+      "body": "A Pursuit se posiciona como uma facilitadora, usando o poder da Inteligência Artificial para simplificar e otimizar a conexão entre empresas e o vasto mercado governamental.",
+      "visual_hint": "Ícone de ponte digital conectando dois lados, engrenagens de IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que Contam a História",
+      "bullets": [
+        "**US$ 22 milhões** em financiamento Série A, liderado por Mike Rosengarten (OpenGov).",
+        "Apoio de investidores de peso como **Bill Gurley e Jack Altman**.",
+        "Mercado governamental movimenta **trilhões de dólares** anualmente."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O Futuro Desburocratizado com IA",
+      "bullets": [
+        "**Identificação Otimizada de Oportunidades:** IA escaneia licitações, conectando empresas às necessidades governamentais.",
+        "**Processos Mais Ágeis:** Redução da complexidade e do tempo gasto em vendas B2G.",
+        "**Inovação Acelerada:** Governo ganha acesso a soluções mais eficientes e modernas."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "A IA Desbloqueando o Setor Público",
+      "subtext": "Transformando desafios em oportunidades para empresas e governos. Acompanhe a revolução!"
+    }
+  ]
+}

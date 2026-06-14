@@ -1,0 +1,53 @@
+{
+  "title": "Google I/O 2026: O Futuro da Inteligência Artificial e Tecnologia",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Desvendando o Futuro da Tecnologia",
+      "subtext": "O que a Google I/O 2026 nos reserva?",
+      "image_prompt": "uma imagem de uma cidade futurista com robôs e tecnologia avançada"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Google I/O 2026 foi um evento marcante para a comunidade de tecnologia e inteligência artificial, com anúncios impactantes que demonstram o compromisso da empresa em avançar a tecnologia e melhorar a vida das pessoas.",
+      "highlight": "Sundar Pichai, CEO da Google, apresentou as principais inovações"
+    },
+    {
+      "type": "insight",
+      "heading": "A Nova Família de Modelos de IA Gemini 3.5",
+      "body": "A Gemini 3.5 é uma plataforma de IA que permite que os desenvolvedores criem modelos de IA personalizados para suas aplicações, sendo mais avançada e eficiente do que os modelos anteriores.",
+      "visual_hint": "ícone de um robô ou uma imagem de uma rede neural"
+    },
+    {
+      "type": "insight",
+      "heading": "Novas Funcionalidades para o Search e o Gmail",
+      "body": "A Google anunciou novas funcionalidades para o Search e o Gmail, projetadas para melhorar a experiência do usuário e tornar a busca e a comunicação mais eficientes, com a integração da IA para automatizar tarefas rotineiras.",
+      "visual_hint": "ícone de uma lupa ou uma imagem de uma caixa de entrada de e-mail"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mais de 10.000 desenvolvedores participaram do evento",
+        "A Gemini 3.5 é 5 vezes mais rápida do que os modelos anteriores",
+        "A Google investiu mais de 1 bilhão de dólares em pesquisa e desenvolvimento de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A IA se tornará mais presente em nossas vidas diárias",
+        "As empresas precisarão se adaptar às novas tecnologias para permanecer competitivas",
+        "A privacidade e a segurança dos dados se tornarão ainda mais importantes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências em tecnologia e inteligência artificial"
+    }
+  ]
+}

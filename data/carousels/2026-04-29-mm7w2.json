@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Gemini Chega ao Google TV: A IA que Transforma Sua Sala!",
+        "subtext": "Prepare-se para uma nova dimensão de interatividade no seu entretenimento doméstico."
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "A Evolução da IA no Lar",
+        "body": "A inteligência artificial já otimiza assistentes de voz e recomendações. Agora, o Google leva essa inovação para o centro do seu entretenimento doméstico, elevando o patamar da experiência."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "Gemini no Coração da TV",
+        "body": "Não é apenas um novo assistente de voz. O Gemini transforma o Google TV em um hub inteligente, capaz de entender o contexto do usuário e antecipar suas necessidades de mídia, indo além do consumo passivo."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "De Consumo a Criação",
+        "body": "Com o Gemini, sua TV se torna um centro de personalização e criatividade. Imagine manipular e recriar suas memórias visuais diretamente na tela grande, com comandos de voz simples."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo e mergulhe na revolução!",
+        "body": "Link no perfil para todos os detalhes sobre o Gemini no Google TV."
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Sua TV Nunca Mais Será a Mesma!",
+        "subtext": "Descubra como a IA do Gemini vai revolucionar sua forma de interagir com o entretenimento e suas memórias."
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Interatividade Sem Precedentes",
+        "body": "O Google TV, com Gemini, deixa de ser apenas um reprodutor para se tornar um co-piloto inteligente. Ele entende suas preferências e antecipa o que você quer ver ou criar."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Liberte Sua Criatividade com Nano Banana e Veo",
+        "body": "Ferramentas de IA generativa chegam à sua TV, permitindo transformar fotos e vídeos pessoais. Edite, recrie e personalize suas mídias como nunca antes, direto da sua sala."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Memórias ao Seu Comando",
+        "body": "Peça ao Gemini para encontrar 'vídeos das férias de 2023 com o cachorro' e depois 'transformar fotos da praia em pintura a óleo'. Tudo com sua voz, na tela grande."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder as novidades sobre o futuro do entretenimento doméstico!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "100% de Personalização: A Nova Era da TV!",
+        "subtext": "Como a IA do Gemini está elevando o entretenimento doméstico a um nível sem precedentes de customização."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Salto Qualitativo na Interação",
+        "body": "A integração do Gemini representa um salto qualitativo, transformando o consumo passivo de mídia em uma experiência ativa e contextualizada, impulsionada pela IA."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "Infinitas Possibilidades Criativas",
+        "body": "Com ferramentas como Nano Banana e Veo, o Google TV abre portas para uma personalização e criatividade sem precedentes, colocando o poder da edição de mídia nas mãos de todos."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "Milhões de Histórias Transformadas",
+        "body": "A capacidade de manipular e recriar memórias visuais diretamente na TV significa que milhões de usuários poderão dar uma nova vida às suas histórias pessoais com a magia da IA."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": "Essa revolução no entretenimento doméstico!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Sua Sala de Estar Chegou!",
+        "subtext": "Prepare-se para o que vem por aí com a IA Gemini no Google TV."
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Mais Interatividade Imediata",
+        "body": "Nos próximos meses, espere uma navegação mais inteligente, recomendações ultra-personalizadas e a facilidade de encontrar e organizar sua mídia pessoal com comandos de voz avançados."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Criação e Compartilhamento Simplificados",
+        "body": "Em 1-2 anos, veremos aprimoramentos nas ferramentas de edição como Nano Banana e Veo, permitindo criar e compartilhar conteúdo original diretamente da TV, com integração ainda mais profunda a outras plataformas."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: TV como Centro de Experiências Multimodais",
+        "body": "Em 5+ anos, sua TV poderá ser um hub ainda mais integrado, não só para entretenimento, mas para educação, trabalho e interação social, com a IA atuando como um verdadeiro copiloto para todas as suas atividades digitais."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "e acompanhar as próximas evoluções da IA no entretenimento!"
+      }
+    ]
+  }
+]

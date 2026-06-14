@@ -1,0 +1,53 @@
+{
+  "title": "Feriados e Tecnologia: O Impacto das Vendas de Memorial Day",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Feriados e Tecnologia: O Impacto das Vendas de Memorial Day",
+      "subtext": "Descubra como os feriados influenciam as vendas de tecnologia",
+      "image_prompt": "uma imagem de uma loja de tecnologia com descontos e promoções"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Os feriados nos Estados Unidos são conhecidos por serem períodos de grande consumo, com muitas lojas oferecendo descontos e promoções especiais. O Memorial Day é um desses feriados.",
+      "highlight": "Descontos e promoções especiais em tecnologia"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "As lojas de tecnologia estão oferecendo descontos e ofertas especiais em uma variedade de produtos, incluindo laptops, smartphones, tablets e acessórios.",
+      "visual_hint": "ícone de um laptop ou smartphone com um selo de desconto"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Os consumidores podem aproveitar essas ofertas para comprar produtos de tecnologia a preços mais acessíveis, o que pode ser benéfico para quem está procurando por um novo gadget ou acessório.",
+      "visual_hint": "ícone de um carrinho de compras com um sorriso"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Muitas lojas oferecem descontos de até 50% em produtos de tecnologia",
+        "Os consumidores podem economizar até 500 dólares em compras de tecnologia",
+        "O Memorial Day é um dos melhores momentos do ano para comprar tecnologia"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Os consumidores devem estar preparados para pesquisar e comparar preços",
+        "As lojas de tecnologia devem estar preparadas para oferecer ofertas atraentes",
+        "O mercado de tecnologia pode ser afetado por essas ofertas e descontos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências em tecnologia e feriados"
+    }
+  ]
+}

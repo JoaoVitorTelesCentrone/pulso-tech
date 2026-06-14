@@ -1,0 +1,53 @@
+{
+  "title": "Gemini Chega ao Google TV: A Revolução da IA Transforma Sua Experiência de Entretenimento Doméstico",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Gemini no Google TV: A Revolução da IA no Seu Lar",
+      "subtext": "Transformando o entretenimento de consumo passivo em criação ativa.",
+      "image_prompt": "futuristic living room with a large smart TV displaying AI-generated content, people interacting with the TV using gestures, glowing AI elements, sleek design, dark background, high-tech, digital art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário Atual",
+      "body": "A inteligência artificial já permeia nossa vida digital, de assistentes de voz a sistemas de recomendação sofisticados. O Google agora eleva o patamar, integrando seu poderoso modelo Gemini diretamente ao Google TV.",
+      "highlight": "A IA tem se infiltrado em quase todos os aspectos da nossa vida digital."
+    },
+    {
+      "type": "insight",
+      "heading": "Gemini no Coração do Google TV",
+      "body": "Esta não é apenas uma atualização incremental; é um salto qualitativo que redefine como interagimos com nossa mídia. O Gemini transforma o Google TV de um dispositivo de consumo para um centro de criação e personalização.",
+      "visual_hint": "Ícone de um chip de IA ou cérebro digital conectado a uma tela de TV."
+    },
+    {
+      "type": "insight",
+      "heading": "Liberando a Criatividade Doméstica",
+      "body": "Com ferramentas como Nano Banana e Veo, os usuários poderão manipular e recriar suas memórias visuais diretamente na tela grande. A IA generativa democratiza a edição de mídia avançada para todos.",
+      "visual_hint": "Ícone de uma câmera ou vídeo com um pincel mágico ou varinha de condão."
+    },
+    {
+      "type": "data",
+      "heading": "O Impacto da Inovação",
+      "bullets": [
+        "Democratização da edição de mídia, antes restrita a softwares profissionais.",
+        "Transformação do consumo passivo de conteúdo em criação e personalização ativa.",
+        "Personalização sem precedentes da experiência de entretenimento doméstico."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O Que Muda Daqui Pra Frente",
+      "bullets": [
+        "Interação contextual: A IA entende o usuário e antecipa suas necessidades de mídia.",
+        "Comandos de voz intuitivos para manipulação complexa de fotos e vídeos.",
+        "Google TV se torna um hub inteligente para organizar, transformar e reviver suas histórias visuais."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe a Evolução da IA no Seu Lar!",
+      "subtext": "Prepare-se para uma nova dimensão de interatividade e criatividade com o Google TV e Gemini."
+    }
+  ]
+}

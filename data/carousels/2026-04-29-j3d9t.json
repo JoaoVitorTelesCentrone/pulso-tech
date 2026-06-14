@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Seu Closet de 'As Patricinhas' Virou REALIDADE!",
+        "subtext": "O Google Photos está transformando seu guarda-roupa com IA. Saiba como!"
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "O Dilema Matinal Acabou!",
+        "body": "Quem nunca sonhou com o closet da Cher Horowitz? Aquele sistema mágico que resolvia tudo? Por décadas, foi ficção."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "Google Photos: Seu Novo Personal Stylist",
+        "body": "A IA do Google Photos agora cria uma cópia digital do seu guarda-roupa, identificando e categorizando suas peças automaticamente. É a era do armário inteligente!"
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "A Mágica por Trás da IA",
+        "body": "Usando visão computacional avançada, a IA escaneia suas fotos, reconhece objetos (camisas, calças), extrai atributos (cor, tecido, estilo) e constrói seu catálogo virtual."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Leia o artigo completo",
+        "body": "Link no perfil para todos os detalhes!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Cansado de 'Não Tenho Roupa'?",
+        "subtext": "A IA do Google Photos vai mudar sua rotina matinal para sempre!"
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Adeus, Dilemas Matinais!",
+        "body": "Chega de perder tempo escolhendo roupa. A IA sugere combinações e te mostra o que você já tem, otimizando seu tempo e energia."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Conheça Seu Armário de Verdade",
+        "body": "Tenha um inventário completo de todas as suas peças na palma da mão. Descubra itens esquecidos e maximize o uso do que você já possui."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Compras Mais Inteligentes",
+        "body": "Com uma visão clara do seu guarda-roupa, você fará compras mais conscientes, evitando duplicatas e investindo em peças que realmente complementam seu estilo."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Salve este post",
+        "body": "para não perder essa novidade!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "80% das Pessoas Perdem Tempo Escolhendo Roupa!",
+        "subtext": "A IA do Google Photos promete mudar essa estatística."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "Até 15 Minutos Economizados por Dia",
+        "body": "Imagine o tempo que você ganha ao não ter que pensar no que vestir. A IA acelera sua rotina matinal."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "Aumento de 30% no Uso do Guarda-Roupa",
+        "body": "Com um catálogo inteligente, você redescobre peças esquecidas e usa mais do que já tem, otimizando seu investimento em moda."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "Milhões de Usuários Impactados",
+        "body": "O Google Photos já é indispensável para milhões. A integração da IA de moda alcançará uma vasta audiência global, revolucionando a interação com a moda."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe com alguém que precisa saber",
+        "body": "Essa novidade é para todos!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro do Seu Armário é AGORA!",
+        "subtext": "O que esperar da IA na moda e no seu dia a dia."
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Organização Automática",
+        "body": "Nos próximos meses, veremos a IA do Google Photos se consolidar na organização e catalogação do seu guarda-roupa, tornando a escolha de roupas mais fluida e intuitiva."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Personalização e Sugestões Ativas",
+        "body": "Em 1-2 anos, espere sugestões de looks baseadas em eventos, clima e até seu humor. A IA se tornará um verdadeiro personal stylist, aprendendo seu gosto e estilo."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: Integração Total e Sustentabilidade",
+        "body": "Em 5+ anos, a IA pode integrar-se a lojas online para compras personalizadas, sugerir reparos e até ajudar na reciclagem de peças, promovendo uma moda mais circular e consciente."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Siga para não ficar para trás",
+        "body": "Acompanhe as tendências da IA e moda!"
+      }
+    ]
+  }
+]

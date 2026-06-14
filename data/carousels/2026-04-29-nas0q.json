@@ -1,0 +1,146 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "O que é e por que surgiu",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "OpenAI: A Verdade por Trás da Gênese",
+        "subtext": "Documentos inéditos revelam as origens e a visão fundamental da organização que molda a IA."
+      },
+      {
+        "n": 2,
+        "type": "context",
+        "headline": "O Julgamento que Revela Tudo",
+        "body": "A disputa legal entre Elon Musk e Sam Altman desvenda os primeiros dias da OpenAI, antes mesmo de ter um nome. Uma janela única para entender suas intenções originais."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "headline": "Os Ideais Fundadores",
+        "body": "E-mails e documentos corporativos mostram as mentes brilhantes que se uniram, os ideais compartilhados e os temores sobre o potencial da IA. Debates sobre segurança, ética e transformação."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "headline": "Missão Original: IA para a Humanidade",
+        "body": "OpenAI nasceu como uma organização sem fins lucrativos, focada em garantir que a AGI beneficiasse a todos, não apenas corporações. Uma visão que a distinguia no cenário tech."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Decifre a História Completa!",
+        "body": "Leia o artigo completo e mergulhe na gênese da OpenAI. Link no perfil!"
+      }
+    ]
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Por que isso importa para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "A IA que Você Usa Tem Uma História Secreta?",
+        "subtext": "Entenda como a origem da OpenAI impacta o futuro da tecnologia que molda sua vida."
+      },
+      {
+        "n": 2,
+        "type": "fact",
+        "headline": "Princípios Fundadores em Jogo",
+        "body": "As discussões iniciais sobre ética e segurança na OpenAI definiram o caminho para a IA que usamos hoje. Seus valores iniciais ainda guiam (ou deveriam guiar) o desenvolvimento."
+      },
+      {
+        "n": 3,
+        "type": "fact",
+        "headline": "Lucro vs. Benefício Humano",
+        "body": "A transição para um braço lucrativo levanta questões sobre quem realmente se beneficia da AGI. Isso pode afetar a acessibilidade e a equidade das ferramentas de IA para todos."
+      },
+      {
+        "n": 4,
+        "type": "fact",
+        "headline": "Transparência é Chave para o Futuro",
+        "body": "A revelação desses documentos inéditos destaca a importância da transparência nas grandes empresas de IA. É fundamental para que a sociedade possa confiar e participar do debate."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Mantenha-se Informado!",
+        "body": "Salve este post para não perder os detalhes cruciais sobre o futuro da IA."
+      }
+    ]
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Os números por trás da história",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "2 Visões. 1 Futuro da IA.",
+        "subtext": "O julgamento Musk vs. Altman revela as tensões que moldaram a OpenAI desde o início."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "headline": "O Dilema 1: Lucro vs. Missão",
+        "body": "OpenAI nasceu sem fins lucrativos, mas a necessidade de capital levou a um braço comercial. Essa tensão fundamental define seu caminho e o futuro da AGI."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "headline": "A Revelação de Milhares de Documentos",
+        "body": "E-mails, fotos e registros corporativos dos 'primeiros dias da OpenAI' estão vindo à tona, oferecendo uma visão sem precedentes de sua fundação."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "headline": "A Influência de Bilhões",
+        "body": "O desenvolvimento da AGI exige investimentos massivos, moldando quem tem voz e controle sobre o futuro da IA e seu impacto global."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Compartilhe o Conhecimento!",
+        "body": "Envie este post para alguém que precisa entender as raízes da IA moderna."
+      }
+    ]
+  },
+  {
+    "carousel_id": 4,
+    "angle": "O que acontece a seguir",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da IA: O Que Esperar?",
+        "subtext": "As revelações sobre a OpenAI redefinem as expectativas para a Inteligência Artificial."
+      },
+      {
+        "n": 2,
+        "type": "prediction",
+        "headline": "Curto Prazo: Mais Transparência?",
+        "body": "A pressão por mais clareza sobre as intenções e operações de grandes players de IA deve aumentar, influenciando debates regulatórios e éticos nos próximos meses."
+      },
+      {
+        "n": 3,
+        "type": "prediction",
+        "headline": "Médio Prazo: Reavaliação de Modelos",
+        "body": "Empresas e pesquisadores podem reavaliar modelos de governança e financiamento de IA, buscando equilibrar inovação com a missão de benefício público em 1-2 anos."
+      },
+      {
+        "n": 4,
+        "type": "prediction",
+        "headline": "Longo Prazo: AGI para Quem?",
+        "body": "A longo prazo, o dilema entre lucro e missão da OpenAI pode moldar quem terá acesso e controle sobre a AGI, impactando a sociedade global por décadas."
+      },
+      {
+        "n": 5,
+        "type": "cta",
+        "headline": "Não Fique Para Trás!",
+        "body": "Siga para acompanhar as últimas tendências e análises sobre o futuro da IA. Link no perfil!"
+      }
+    ]
+  }
+]

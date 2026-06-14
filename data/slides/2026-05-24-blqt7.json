@@ -1,0 +1,53 @@
+{
+  "title": "Revolução Energética: O Impacto da Inteligência Artificial no Mercado de Energia Solar",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Energia Solar: O Futuro é Agora",
+      "subtext": "Descubra como a Inteligência Artificial está revolucionando o mercado de energia solar",
+      "image_prompt": "uma imagem de painéis solares com uma cidade sustentável ao fundo"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário Atual",
+      "body": "A energia solar está se tornando uma fonte de energia renovável importante em todo o mundo, com uma demanda crescente por fontes de energia limpas e sustentáveis. A Inteligência Artificial está desempenhando um papel fundamental nessa revolução.",
+      "highlight": "Crescimento significativo no mercado de energia solar"
+    },
+    {
+      "type": "insight",
+      "heading": "O Papel da Inteligência Artificial",
+      "body": "A Inteligência Artificial está sendo utilizada para prever a demanda de energia, realizar manutenção preditiva e desenvolver sistemas de gestão de energia mais eficientes, tornando a energia solar mais confiável e econômica.",
+      "visual_hint": "um gráfico mostrando a previsão de demanda de energia"
+    },
+    {
+      "type": "insight",
+      "heading": "O Impacto na Eficiência Energética",
+      "body": "A Inteligência Artificial também está sendo utilizada para melhorar a eficiência energética dos edifícios e residências, reduzindo o consumo de energia e os custos.",
+      "visual_hint": "um ícone de uma casa com painéis solares"
+    },
+    {
+      "type": "data",
+      "heading": "Números que Contam a História",
+      "bullets": [
+        "O mercado de energia solar está projetado para crescer significativamente nos próximos anos",
+        "A Inteligência Artificial pode reduzir os custos de manutenção em até 30%",
+        "A energia solar pode fornecer até 50% da energia elétrica global até 2050"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que Muda daqui pra Frente",
+      "bullets": [
+        "A energia solar se tornará uma opção mais viável e atraente para os consumidores e investidores",
+        "A Inteligência Artificial continuará a desempenhar um papel fundamental na revolução do mercado de energia solar",
+        "A eficiência energética dos edifícios e residências será melhorada, reduzindo o consumo de energia e os custos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o Blog para Saber Mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências sobre a revolução energética e a Inteligência Artificial"
+    }
+  ]
+}
