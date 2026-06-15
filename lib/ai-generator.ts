@@ -1,10 +1,10 @@
 import Groq from 'groq-sdk';
 
-const client = new Groq({
-  apiKey: process.env.GROQ_API_KEY,
-});
-
 const MODEL = 'llama-3.3-70b-versatile';
+
+function getClient() {
+  return new Groq({ apiKey: process.env.GROQ_API_KEY });
+}
 
 function cleanJson(text: string): string {
   text = text.replace(/^```json\s*/i, '').replace(/^```\s*/, '').replace(/```\s*$/, '');
@@ -76,7 +76,7 @@ tags: ["tag1", "tag2", "tag3"]
 7. Não invente dados. Baseie-se no [CONTEXTO] fornecido.`;
 
   try {
-    const response = await client.chat.completions.create({
+    const response = await getClient().chat.completions.create({
       model: MODEL,
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.7,
@@ -116,7 +116,7 @@ Retorne EXATAMENTE este JSON (sem texto adicional, sem markdown):
 }`;
 
   try {
-    const response = await client.chat.completions.create({
+    const response = await getClient().chat.completions.create({
       model: MODEL,
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.2,
@@ -185,7 +185,7 @@ Retorne EXATAMENTE este JSON com 6 a 8 slides (sem texto adicional, sem markdown
 }`;
 
   try {
-    const response = await client.chat.completions.create({
+    const response = await getClient().chat.completions.create({
       model: MODEL,
       messages: [{ role: 'user', content: prompt }],
       temperature: 0.3,
@@ -261,7 +261,7 @@ Retorne EXATAMENTE este JSON (sem texto adicional, sem markdown):
 }`;
 
   try {
-    const response = await client.chat.completions.create({
+    const response = await getClient().chat.completions.create({
       model: MODEL,
       messages: [
         { role: 'system', content: CAROUSEL_SYSTEM_PROMPT },
