@@ -1,11 +1,10 @@
-import OpenAI from 'openai';
+import Groq from 'groq-sdk';
 
-const client = new OpenAI({
-  apiKey: process.env.DEEPSEEK_API_KEY || process.env.deepseek_api_key,
-  baseURL: 'https://api.deepseek.com/v1',
+const client = new Groq({
+  apiKey: process.env.GROQ_API_KEY,
 });
 
-const MODEL = 'deepseek-chat';
+const MODEL = 'llama-3.3-70b-versatile';
 
 function cleanJson(text: string): string {
   text = text.replace(/^```json\s*/i, '').replace(/^```\s*/, '').replace(/```\s*$/, '');
@@ -201,44 +200,53 @@ Retorne EXATAMENTE este JSON com 6 a 8 slides (sem texto adicional, sem markdown
   }
 }
 
-const CAROUSEL_SYSTEM_PROMPT = `Você é um especialista em conteúdo visual para LinkedIn, seguindo rigorosamente este sistema de identidade:
+const CAROUSEL_SYSTEM_PROMPT = `Você é um editor sênior de conteúdo visual para LinkedIn do blog Tech&Future.
 
-PALETA: ink=#0D0D0B | cream=#F4F0E8 | paper=#EDE8DC | warm_gray=#C8C3B8 | muted=#7A7670 | electric=#C9FF47
-TIPOGRAFIA: Syne (headlines/títulos) | Cormorant Garamond (citações/corpo) | DM Mono (metadados/labels)
-ALTERNÂNCIA DE FUNDOS: ink → paper → ink → paper (rigorosamente)
-ELECTRIC apenas em slides com fundo ink
+MISSÃO: Transformar artigos densos em carrosséis que ensinam de verdade — usando os dados reais, citações reais e argumentos reais do artigo. NUNCA invente dados ou generalize. Cada slide deve conter uma informação específica extraída do texto.
 
-TIPOS DE SLIDE E CAMPOS OBRIGATÓRIOS:
+TIPOS DE SLIDE E CAMPOS:
+cover:   { "headline": "afirmação direta e impactante, máx 12 palavras", "subtext": "contexto em 1 linha" }
+stat:    { "stat_number": "número exato do artigo (ex: 74%, $52B, 97,2%)", "stat_label": "o que esse número significa, 1-2 frases diretas" }
+quote:   { "quote": "\"citação real ou paráfrase fiel do artigo, máx 30 palavras\"" }
+content: { "topic_number": "01", "headline": "tópico em até 8 palavras", "body": "explicação com detalhe real do artigo, 2-3 frases, máx 40 palavras" }
+list:    { "headline": "título da lista", "items": ["item específico com dado ou fato", "item específico", "item específico"] }
+cta:     { "headline": "pergunta ou provocação direta relacionada ao tema", "highlight_word": "uma palavra do headline", "subtext": "convite para ler o artigo completo" }
 
-cover (fundo ink): { "headline": "máx 12 palavras, impactante", "subtext": "subtítulo curto" }
-quote (fundo paper): { "quote": "\"frase entre aspas duplas, máx 25 palavras\"" }
-stat (fundo ink): { "stat_number": "87%", "stat_label": "explicação em até 2 linhas" }
-content (fundo paper): { "topic_number": "01", "headline": "máx 8 palavras", "body": "máx 20 palavras em Cormorant" }
-list (fundo ink): { "headline": "título da lista", "items": ["item 1", "item 2", "item 3"] }
-cta (fundo ink): { "headline": "pergunta ou chamada direta", "highlight_word": "palavra em destaque neon", "subtext": "convite conversacional em Cormorant italic" }
+REGRAS INEGOCIÁVEIS:
+- Use APENAS informações presentes no artigo. Nenhum dado inventado.
+- Slides de "stat" devem ter números reais do artigo (percentuais, valores, anos, quantidades).
+- Slides de "quote" devem ser citações ou paráfrases fiéis de especialistas mencionados no artigo.
+- Slides de "content" devem explicar um mecanismo, causa ou consequência real descrita no artigo — não generalidades.
+- Slides de "list" devem listar itens concretos do artigo (tecnologias, empresas, eventos, dados).
+- Tom: direto, verbos ativos, frases curtas. Escreva como se estivesse explicando para um colega inteligente.
+- PROIBIDO: "pode ser que", "potencialmente", "é interessante notar", frases vagas sem substância.
 
-REGRAS DE ESTRUTURA:
-- 6 a 8 slides por carrossel
-- Slide 1 SEMPRE type "cover"
-- Último slide SEMPRE type "cta"
-- Alternar fundos: slides ímpares = ink, pares = paper (aproximadamente)
-- Tom: direto, verbos ativos, sem advérbios, frases curtas
-
-TOM (exemplos bons): "IA acelera quem já sabe o que faz." | "2026: quem não usa perde velocidade." | "O modelo não resolve. Você resolve."
-TOM (proibido): "potencialmente transformar" | "pode ser que" | "é interessante observar"`;
+ESTRUTURA DE CADA CARROSSEL:
+- 7 slides
+- Slide 1: sempre "cover"
+- Slide 7: sempre "cta"
+- Slides 2-6: mistura de content, stat, quote, list — cada um com conteúdo específico diferente`;
 
 export async function generateCarousels(articleMarkdown: string, articleTitle: string): Promise<object[]> {
-  const userPrompt = `Com base no artigo abaixo, crie 4 carrosséis para LinkedIn, cada um com um ângulo diferente.
+  const userPrompt = `Leia o artigo abaixo com atenção. Extraia os fatos, números, citações e argumentos mais relevantes. Depois crie 4 carrosséis para LinkedIn, cada um explorando um ângulo diferente do mesmo conteúdo.
 
-ARTIGO:
-${articleMarkdown.substring(0, 4000)}
+ARTIGO COMPLETO:
+${articleMarkdown.substring(0, 5000)}
+
+ÂNGULOS OBRIGATÓRIOS (um por carrossel):
+1. Educacional — explica o "como" e o "por que" do tema com dados e mecanismos reais
+2. Impacto pessoal — como isso muda a vida/trabalho de quem lê, com exemplos concretos do artigo
+3. Dados e números — carrossel focado nas estatísticas e fatos quantitativos do artigo
+4. Futuro e consequências — o que acontece a seguir, baseado nas análises e projeções do artigo
+
+IMPORTANTE: Cada slide deve conter informação ESPECÍFICA do artigo. Se o artigo menciona "74% dos desenvolvedores", use esse número. Se cita uma empresa ou pessoa, mencione pelo nome. Se descreve um mecanismo, explique-o.
 
 Retorne EXATAMENTE este JSON (sem texto adicional, sem markdown):
 {
   "carousels": [
     {
       "carousel_id": 1,
-      "angle": "descrição do ângulo em 5 palavras",
+      "angle": "descrição do ângulo em até 6 palavras",
       "slides": [
         { "n": 1, "type": "cover", "headline": "...", "subtext": "..." },
         { "n": 2, "type": "content", "topic_number": "01", "headline": "...", "body": "..." },
@@ -250,10 +258,7 @@ Retorne EXATAMENTE este JSON (sem texto adicional, sem markdown):
       ]
     }
   ]
-}
-
-Os 4 carrosséis devem ter ângulos distintos: educacional, impacto pessoal, dados/números, futuro/consequências.
-Use os tipos de slide conforme a identidade visual descrita no sistema. Alterne fundos: ímpares = ink, pares = paper.`;
+}`;
 
   try {
     const response = await client.chat.completions.create({
@@ -262,13 +267,20 @@ Use os tipos de slide conforme a identidade visual descrita no sistema. Alterne 
         { role: 'system', content: CAROUSEL_SYSTEM_PROMPT },
         { role: 'user', content: userPrompt },
       ],
-      temperature: 0.4,
-      max_tokens: 4000,
+      temperature: 0.3,
+      max_tokens: 6000,
     });
 
     const text = response.choices[0]?.message?.content || '{}';
     const parsed = JSON.parse(cleanJson(text));
-    return Array.isArray(parsed) ? parsed : (parsed.carousels || []);
+    const carousels: object[] = Array.isArray(parsed) ? parsed : (parsed.carousels || []);
+
+    const templates = ['A', 'B', 'C', 'D', 'E', 'F'];
+    const shuffled = [...templates].sort(() => Math.random() - 0.5);
+    return carousels.map((c: any, i: number) => ({
+      ...c,
+      template: shuffled[i % shuffled.length],
+    }));
   } catch (error) {
     console.error('Erro ao gerar carrosseis:', error);
     return [];

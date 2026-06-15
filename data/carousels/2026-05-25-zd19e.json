@@ -1,6 +1,7 @@
 [
   {
     "carousel_id": 1,
+    "template": "D",
     "angle": "Educação ao ar livre",
     "slides": [
       {
@@ -55,6 +56,7 @@
   },
   {
     "carousel_id": 2,
+    "template": "E",
     "angle": "Impacto pessoal na natureza",
     "slides": [
       {
@@ -109,6 +111,7 @@
   },
   {
     "carousel_id": 3,
+    "template": "F",
     "angle": "Dados e números da tecnologia",
     "slides": [
       {
@@ -163,6 +166,7 @@
   },
   {
     "carousel_id": 4,
+    "template": "B",
     "angle": "Futuro e consequências da tecnologia",
     "slides": [
       {

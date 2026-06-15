@@ -2,7 +2,20 @@
   "permissions": {
     "allow": [
       "Bash(npm install *)",
-      "Bash(npx next *)"
+      "Bash(npx next *)",
+      "Bash(node *)",
+      "Bash(git add *)",
+      "Bash(git rebase *)",
+      "Bash(GIT_EDITOR=true git rebase *)",
+      "Bash(echo \"EXIT: $?\")",
+      "Bash(git stash *)",
+      "Bash(git merge *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Bash(git checkout *)",
+      "Bash(git pull *)",
+      "Bash(npx shadcn@latest init --yes --defaults)",
+      "PowerShell(cd C:\\\\Projects\\\\lpback\\\\tech-blog; npx tsc --noEmit 2>&1 | Where-Object { $_ -match \"CarouselViewer|content-data|ai-generator\" })"
     ]
   }
 }

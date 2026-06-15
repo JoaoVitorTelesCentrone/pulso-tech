@@ -1,0 +1,1005 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tech&Future — Sistema de Carrosseis</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+  <link href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Cormorant+Garamond:ital,wght@0,300;1,300;1,400&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet" />
+  <script src="https://unpkg.com/react@18.3.1/umd/react.development.js" integrity="sha384-hD6/rw4ppMLGNu3tX5cjIb+uRZ7UkRJ6BPkLpg4hAu/6onKUg4lLsHAs9EBPT82L" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/react-dom@18.3.1/umd/react-dom.development.js" integrity="sha384-u6aeetuaXnQ38mYT8rp6sbXaQe3NL9t+IBXmnYxwkUI2Hw4bsp2Wvmx4yRQF1uAm" crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/@babel/standalone@7.29.0/babel.min.js" integrity="sha384-m08KidiNqLdpJqLq95G/LEi8Qvjl/xUYll3QILypMoQ65QorJ9Lvtp2RXYGBFj1y" crossorigin="anonymous"></script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; overflow: hidden; }
+    #root { height: 100%; }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+  <script type="text/babel" src="design-canvas.jsx"></script>
+  <script type="text/babel">
+
+  /* ── Base brand tokens ──────────────────────────────────── */
+  const ink = '#0D0D0B', cream = '#F4F0E8', paper = '#EDE8DC';
+  const wg = '#C8C3B8', muted = '#7A7670', el = '#C9FF47';
+  const syne = "'Syne', sans-serif";
+  const cor  = "'Cormorant Garamond', serif";
+  const mono = "'DM Mono', monospace";
+
+  /* ── ÂMBAR palette ──────────────────────────────────────── */
+  const AMB  = '#C26000';   // burnt amber accent
+  const ABKG = '#F5F0E8';   // warm cream bg (shares with cream)
+  const APP  = '#EDE6D4';   // amber paper
+
+  /* ── NOITE palette ──────────────────────────────────────── */
+  const NMD  = '#080D1A';   // midnight bg
+  const NNV  = '#0F1830';   // navy panel
+  const NBL  = '#4080FF';   // electric blue accent
+  const NSK  = '#C8D8FF';   // sky text
+
+  /* ── TERRA palette ──────────────────────────────────────── */
+  const TBR  = '#1E110A';   // dark brown bg
+  const TOC  = '#F0E4C0';   // ochre cream text/panel
+  const TGD  = '#D4920A';   // warm gold accent
+  const TPL  = '#2A1810';   // panel dark
+
+  /* ── Shared primitives ──────────────────────────────────── */
+  function Slide({ bg = ink, p = 28, children }) {
+    return (
+      <div style={{
+        width: '100%', height: '100%', background: bg, padding: p,
+        display: 'flex', flexDirection: 'column', justifyContent: 'space-between',
+        overflow: 'hidden', boxSizing: 'border-box',
+      }}>{children}</div>
+    );
+  }
+  function Meta({ color = muted, align = 'left', size = '9px', w = 300, children }) {
+    return (
+      <span style={{
+        fontFamily: mono, fontSize: size, fontWeight: w, letterSpacing: '0.18em',
+        textTransform: 'uppercase', color, display: 'block', textAlign: align, lineHeight: 1.6,
+      }}>{children}</span>
+    );
+  }
+  function Rule({ color = wg, mt = 0, mb = 0, h = 1 }) {
+    return <div style={{ width: '100%', height: h, background: color, flexShrink: 0, marginTop: mt, marginBottom: mb }} />;
+  }
+  function MRow({ left, right, lc = muted, rc = muted }) {
+    return (
+      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <Meta color={lc}>{left}</Meta>
+        <Meta color={rc} align="right">{right}</Meta>
+      </div>
+    );
+  }
+  function Disp({ size = 62, color = cream, lh = 0.9, children }) {
+    return (
+      <div style={{ fontFamily: syne, fontSize: size, fontWeight: 800, color, lineHeight: lh, letterSpacing: '-0.04em', textTransform: 'uppercase' }}>
+        {children}
+      </div>
+    );
+  }
+  function Body({ size = 13, color = cream, italic = false, lh = 1.75, children }) {
+    return (
+      <div style={{ fontFamily: cor, fontSize: size, fontWeight: 300, color, fontStyle: italic ? 'italic' : 'normal', lineHeight: lh }}>
+        {children}
+      </div>
+    );
+  }
+
+  /* ══════════════════════════════════════════════════════════
+     TEMPLATE A — MANCHETE  ·  dark · Syne bold · electric
+  ══════════════════════════════════════════════════════════ */
+  function A1() {
+    return (
+      <Slide bg={ink}>
+        <MRow left="T&F — IA &amp; TRABALHO" right="JUN 2026" />
+        <Disp size={62}>O FIM<br />DOS<br />PROGRA-<br />MADORES?</Disp>
+        <div><Rule color={el} mb={10} /><MRow left="Nº 001 — ANÁLISE" right="01 — 05" rc={el} /></div>
+      </Slide>
+    );
+  }
+  function A2() {
+    return (
+      <Slide bg={ink}>
+        <MRow left="DADO" right="02 — 05" rc={el} />
+        <div>
+          <div style={{ fontFamily: syne, fontSize: 96, fontWeight: 800, color: el, lineHeight: 1, letterSpacing: '-0.04em' }}>74%</div>
+          <div style={{ height: 12 }} />
+          <Body size={14} italic={true}>dos desenvolvedores já usam<br />assistentes de IA no workflow<br />diário — GitHub Survey, 2025.</Body>
+        </div>
+        <div><Rule color={wg} mb={10} /><Meta>Fonte: GitHub Developer Survey 2025</Meta></div>
+      </Slide>
+    );
+  }
+  function A3() {
+    return (
+      <Slide bg={ink}>
+        <MRow left="PERSPECTIVA" right="03 — 05" rc={el} />
+        <div>
+          <div style={{ fontFamily: mono, fontSize: 48, fontWeight: 300, color: el, lineHeight: 1, marginBottom: 14 }}>"</div>
+          <Body size={16} italic={true} lh={1.6}>Em cinco anos, escrever código<br />manualmente será como datilografar:<br />uma habilidade admirável,<br />não uma necessidade de mercado.</Body>
+          <div style={{ height: 16 }} />
+          <Rule color={wg} mb={12} />
+          <Meta>LUCAS VERDE — CTO, DATALAB BRASIL</Meta>
+        </div>
+        <div />
+      </Slide>
+    );
+  }
+  function A4() {
+    const items = [
+      ['01', 'Cursor & Devin', 'Agentes que escrevem, revisam e deployam código de forma autônoma.'],
+      ['02', 'Code Review por IA', 'Revisão semântica e de segurança automatizada no CI/CD.'],
+      ['03', 'Dev como arquiteto', 'O papel muda: menos digitação, mais tomada de decisão sistêmica.'],
+    ];
+    return (
+      <Slide bg={ink}>
+        <MRow left="O QUE VEM POR AÍ" right="04 — 05" rc={el} />
+        <Rule color={wg} mt={12} mb={18} />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 16 }}>
+          {items.map(([n, t, d]) => (
+            <div key={n} style={{ display: 'flex', gap: 12 }}>
+              <Meta color={el} size="9px">{n} —</Meta>
+              <div>
+                <div style={{ fontFamily: syne, fontSize: 12, fontWeight: 700, color: cream, textTransform: 'uppercase', letterSpacing: '0.06em' }}>{t}</div>
+                <div style={{ fontFamily: cor, fontSize: 12, fontWeight: 300, color: muted, lineHeight: 1.55, marginTop: 3 }}>{d}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div />
+      </Slide>
+    );
+  }
+  function A5() {
+    return (
+      <Slide bg={el} p={28}>
+        <Meta color={ink}>LEIA A ANÁLISE COMPLETA →</Meta>
+        <div>
+          <div style={{ fontFamily: syne, fontSize: 58, fontWeight: 800, color: ink, lineHeight: 0.88, letterSpacing: '-0.04em', textTransform: 'uppercase' }}>TECH<br />&amp;FUTURE</div>
+          <div style={{ height: 16 }} />
+          <div style={{ fontFamily: mono, fontSize: 10, fontWeight: 400, color: ink, letterSpacing: '0.14em', textTransform: 'uppercase' }}>techandfuture.com.br</div>
+        </div>
+        <div><Rule color={ink} mb={10} /><Meta color={ink}>@techandfuture — SIGA PARA MAIS ANÁLISES</Meta></div>
+      </Slide>
+    );
+  }
+
+  /* ══════════════════════════════════════════════════════════
+     TEMPLATE B — IMPRESSO  ·  cream · editorial print
+  ══════════════════════════════════════════════════════════ */
+  function B1() {
+    return (
+      <Slide bg={cream}>
+        <div>
+          <Rule color={ink} mb={8} />
+          <MRow left="TECH &amp; FUTURE" right="JUN 2026 — Nº 002" lc={ink} rc={muted} />
+          <Rule color={ink} mt={8} mb={22} />
+          <Disp size={52} color={ink}>SUPERIN-<br />TELIGÊN-<br />CIA:</Disp>
+          <div style={{ fontFamily: syne, fontSize: 24, fontWeight: 700, color: ink, lineHeight: 1.1, letterSpacing: '-0.02em', marginTop: 6 }}>2027 ou 2040?</div>
+        </div>
+        <div>
+          <Rule color={wg} mb={10} />
+          <Body size={12} italic={true} color={muted} lh={1.6}>A corrida que vai redefinir o poder global — e ninguém sabe quando termina.</Body>
+          <div style={{ height: 10 }} />
+          <Meta align="right" color={muted}>01 — 05</Meta>
+        </div>
+      </Slide>
+    );
+  }
+  function B2() {
+    return (
+      <Slide bg={cream}>
+        <div>
+          <MRow left="CONTEXTO" right="02 — 05" lc={ink} rc={muted} />
+          <Rule color={wg} mt={10} mb={16} />
+          <Disp size={30} color={ink} lh={1.0}>QUEM FAZ<br />A APOSTA?</Disp>
+        </div>
+        <div>
+          <Body size={13} color={ink}>OpenAI, DeepMind e Anthropic convergem para uma previsão: sistemas com raciocínio equivalente ao humano em tarefas cognitivas entre 2027 e 2032.</Body>
+          <div style={{ height: 12 }} />
+          <Body size={13} color={ink}>Sam Altman afirmou que "a AGI pode chegar antes do que o mundo está pronto para aceitar." Jensen Huang, da NVIDIA, vai além: "estamos a 5 anos de uma IA que supera qualquer profissional humano."</Body>
+        </div>
+        <Rule color={wg} />
+      </Slide>
+    );
+  }
+  function B3() {
+    return (
+      <Slide bg={paper}>
+        <MRow left="CITAÇÃO" right="03 — 05" lc={muted} rc={muted} />
+        <div>
+          <div style={{ fontFamily: mono, fontSize: 40, fontWeight: 300, color: wg, lineHeight: 1, marginBottom: 10 }}>"</div>
+          <Body size={18} italic={true} color={ink} lh={1.55}>A AGI é o maior evento da história da humanidade — se chegarmos lá. E eu acredito que chegaremos.</Body>
+        </div>
+        <div>
+          <Rule color={wg} mb={12} />
+          <MRow left="ILYA SUTSKEVER" right="CO-FUNDADOR, OPENAI" lc={ink} rc={muted} />
+        </div>
+      </Slide>
+    );
+  }
+  function B4() {
+    const rows = [
+      ['2022', 'ChatGPT inaugura a era dos LLMs públicos', false],
+      ['2024', 'GPT-4o une linguagem, visão e voz em tempo real', false],
+      ['2025', 'Modelos de raciocínio (o1, Gemini) chegam ao mercado', false],
+      ['2027?', 'AGI — previsão oficial do OpenAI', true],
+    ];
+    return (
+      <Slide bg={cream}>
+        <MRow left="LINHA DO TEMPO" right="04 — 05" lc={ink} rc={muted} />
+        <Rule color={wg} mt={10} mb={14} />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 0 }}>
+          {rows.map(([y, e, ac]) => (
+            <div key={y} style={{ display: 'flex', gap: 14, alignItems: 'baseline', padding: '10px 0', borderBottom: `1px solid ${wg}` }}>
+              <span style={{ fontFamily: mono, fontSize: 9, color: ac ? ink : muted, letterSpacing: '0.15em', flexShrink: 0, fontWeight: ac ? 400 : 300 }}>{y}</span>
+              <span style={{ fontFamily: cor, fontSize: 13, fontWeight: 300, fontStyle: ac ? 'italic' : 'normal', color: ink, lineHeight: 1.4 }}>{e}</span>
+            </div>
+          ))}
+        </div>
+        <div><div style={{ height: 12 }} /><Meta color={muted}>Projeções sujeitas a revisão contínua</Meta></div>
+      </Slide>
+    );
+  }
+  function B5() {
+    return (
+      <Slide bg={ink}>
+        <Meta color={muted}>CONTINUA EM →</Meta>
+        <div>
+          <Rule color={wg} mb={20} />
+          <Disp size={50} color={cream}>TECH<br />&amp;FUTURE</Disp>
+          <div style={{ height: 18 }} />
+          <Meta color={muted} size="10px">techandfuture.com.br</Meta>
+        </div>
+        <div><Rule color={wg} mb={10} /><Meta color={wg}>@techandfuture — análises semanais</Meta></div>
+      </Slide>
+    );
+  }
+
+  /* ══════════════════════════════════════════════════════════
+     TEMPLATE C — DADOS  ·  alternante dark/light · números
+  ══════════════════════════════════════════════════════════ */
+  function C1() {
+    return (
+      <Slide bg={cream}>
+        <MRow left="INFOGRÁFICO — SEMICONDUTORES" right="01 — 05" lc={muted} rc={muted} />
+        <div>
+          <Disp size={68} color={ink}>$ 1,2T</Disp>
+          <div style={{ height: 10 }} />
+          <Body size={12} italic={true} color={muted}>em investimentos em chips<br />previstos até 2030 — globais.</Body>
+        </div>
+        <div>
+          <Rule color={wg} mb={12} />
+          <div style={{ fontFamily: syne, fontSize: 18, fontWeight: 800, color: ink, letterSpacing: '-0.02em', textTransform: 'uppercase' }}>A GUERRA DOS CHIPS</div>
+          <div style={{ height: 6 }} />
+          <Meta color={muted}>EUA × CHINA × TAIWAN — geopolítica da IA</Meta>
+        </div>
+      </Slide>
+    );
+  }
+  function C2() {
+    return (
+      <Slide bg={ink}>
+        <MRow left="COMPARAÇÃO" right="02 — 05" rc={el} />
+        <Rule color={wg} mt={12} mb={20} />
+        <div style={{ display: 'flex', gap: 20, flex: 1 }}>
+          <div style={{ flex: 1 }}>
+            <Meta color={wg}>EUA</Meta>
+            <div style={{ fontFamily: syne, fontSize: 44, fontWeight: 800, color: cream, lineHeight: 0.9, letterSpacing: '-0.04em', marginTop: 8 }}>$52B</div>
+            <div style={{ height: 8 }} />
+            <Meta color={muted}>investimento público<br />CHIPS Act (2022–30)</Meta>
+          </div>
+          <div style={{ width: 1, background: wg, flexShrink: 0 }} />
+          <div style={{ flex: 1 }}>
+            <Meta color={wg}>CHINA</Meta>
+            <div style={{ fontFamily: syne, fontSize: 44, fontWeight: 800, color: el, lineHeight: 0.9, letterSpacing: '-0.04em', marginTop: 8 }}>$143B</div>
+            <div style={{ height: 8 }} />
+            <Meta color={muted}>fundo estatal de<br />semicondutores 2024–30</Meta>
+          </div>
+        </div>
+        <div><Rule color={wg} mt={16} mb={10} /><Meta>Valores em USD · CSIS, SEMI, 2025</Meta></div>
+      </Slide>
+    );
+  }
+  function C3() {
+    return (
+      <Slide bg={cream}>
+        <MRow left="FATO-CHAVE" right="03 — 05" lc={ink} rc={muted} />
+        <div>
+          <Disp size={88} color={ink}>83%</Disp>
+          <div style={{ height: 14 }} />
+          <Body size={13} italic={true} color={ink} lh={1.65}>dos chips de IA de última geração<br />são fabricados pela TSMC, em Taiwan<br />— o maior gargalo geopolítico<br />da tecnologia moderna.</Body>
+        </div>
+        <div><Rule color={wg} mb={10} /><Meta color={muted}>Fonte: SIA — Semiconductor Industry Association, 2025</Meta></div>
+      </Slide>
+    );
+  }
+  function C4() {
+    return (
+      <Slide bg={paper}>
+        <MRow left="ANÁLISE" right="04 — 05" lc={muted} rc={muted} />
+        <div>
+          <Disp size={30} color={ink} lh={1.0}>TAIWAN:<br />O PARADOXO</Disp>
+          <div style={{ height: 14 }} />
+          <Body size={13} color={ink}>Taiwan fabrica o que o mundo não consegue fabricar em outro lugar. A TSMC representa uma concentração de risco sem precedentes na história industrial: uma única ilha que sustenta todo o ecossistema global de IA.</Body>
+          <div style={{ height: 12 }} />
+          <Body size={13} color={ink}>EUA e UE tentam replicar essa capacidade com bilhões em subsídios. Prazo estimado para igualar a TSMC: mais de 10 anos.</Body>
+        </div>
+        <Rule color={wg} />
+      </Slide>
+    );
+  }
+  function C5() {
+    const pts = [
+      ['Concentração', 'A hegemonia tecnológica depende de uma ilha de 36 mil km².'],
+      ['Corrida', 'EUA e China investem trilhões, mas a vantagem da TSMC é de décadas.'],
+      ['Risco sistêmico', 'Qualquer tensão no Estreito afeta a IA global imediatamente.'],
+    ];
+    return (
+      <Slide bg={ink}>
+        <MRow left="3 TAKEAWAYS" right="05 — 05" rc={el} />
+        <Rule color={wg} mt={12} mb={18} />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
+          {pts.map(([l, t]) => (
+            <div key={l} style={{ display: 'flex', gap: 12 }}>
+              <span style={{ fontFamily: mono, fontSize: 9, color: el, letterSpacing: '0.1em', flexShrink: 0, paddingTop: 1 }}>→</span>
+              <div>
+                <span style={{ fontFamily: mono, fontSize: 9, color: cream, letterSpacing: '0.14em', textTransform: 'uppercase' }}>{l} — </span>
+                <span style={{ fontFamily: cor, fontSize: 12, fontWeight: 300, color: muted, lineHeight: 1.6 }}>{t}</span>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div><Rule color={wg} mt={18} mb={12} /><MRow left="@techandfuture" right="SIGA PARA MAIS" rc={el} /></div>
+      </Slide>
+    );
+  }
+
+  /* ══════════════════════════════════════════════════════════
+     ELEMENTOS  ·  componentes reutilizáveis isolados
+  ══════════════════════════════════════════════════════════ */
+
+  /* — Headers — */
+  function EL_H1() { /* Manchete: dark masthead */
+    return (
+      <Slide bg={ink}>
+        <div>
+          <Rule color={el} mb={10} />
+          <MRow left="TECH &amp; FUTURE" right="JUN 2026 — Nº 001" lc={cream} rc={muted} />
+          <Rule color={wg} mt={10} />
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 6, opacity: 0.18 }}>
+          {[1,2,3,4,5].map(i => <div key={i} style={{ height: 8, background: wg, width: `${85 - i*10}%` }} />)}
+        </div>
+        <div>
+          <Rule color={wg} mb={10} />
+          <Meta color={muted}>← HEADER MANCHETE — FUNDO ESCURO</Meta>
+        </div>
+      </Slide>
+    );
+  }
+  function EL_H2() { /* Impresso: double rule editorial */
+    return (
+      <Slide bg={cream}>
+        <div>
+          <Rule color={ink} mb={6} />
+          <Rule color={ink} mb={8} h={3} />
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', paddingBottom: 8, borderBottom: `1px solid ${wg}` }}>
+            <div style={{ fontFamily: syne, fontSize: 13, fontWeight: 800, color: ink, letterSpacing: '0.08em', textTransform: 'uppercase' }}>TECH &amp; FUTURE</div>
+            <Meta color={muted}>TECNOLOGIA — IA — SOCIEDADE</Meta>
+            <Meta color={muted} align="right">JUN 2026</Meta>
+          </div>
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 6, opacity: 0.15 }}>
+          {[1,2,3,4,5].map(i => <div key={i} style={{ height: 8, background: ink, width: `${85 - i*10}%` }} />)}
+        </div>
+        <div>
+          <Rule color={wg} mb={10} />
+          <Meta color={muted}>← HEADER IMPRESSO — FUNDO CLARO</Meta>
+        </div>
+      </Slide>
+    );
+  }
+  function EL_H3() { /* Minimal: brand mark + category */
+    return (
+      <Slide bg={cream}>
+        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
+          <div style={{ fontFamily: syne, fontSize: 28, fontWeight: 800, color: ink, lineHeight: 1, letterSpacing: '-0.03em' }}>T&amp;F</div>
+          <div style={{ textAlign: 'right' }}>
+            <Meta color={ink} align="right">IA &amp; TRABALHO</Meta>
+            <Meta color={muted} align="right">JUN 2026</Meta>
+          </div>
+        </div>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 6, opacity: 0.15 }}>
+          {[1,2,3,4,5].map(i => <div key={i} style={{ height: 8, background: ink, width: `${85 - i*10}%` }} />)}
+        </div>
+        <div>
+          <Rule color={wg} mb={10} />
+          <Meta color={muted}>← HEADER MINIMALISTA</Meta>
+        </div>
+      </Slide>
+    );
+  }
+
+  /* — Citações — */
+  function EL_Q1() { /* Dark: large quote mark */
+    return (
+      <Slide bg={ink}>
+        <Meta color={muted}>CITAÇÃO — ESCURO</Meta>
+        <div>
+          <div style={{ fontFamily: mono, fontSize: 52, fontWeight: 300, color: el, lineHeight: 1, marginBottom: 14 }}>"</div>
+          <Body size={16} italic={true} lh={1.6}>A tecnologia mais transformadora é aquela que deixa de ser percebida como tecnologia.</Body>
+          <div style={{ height: 16 }} />
+          <Rule color={wg} mb={12} />
+          <Meta>KEVIN KELLY — CO-FUNDADOR, WIRED</Meta>
+        </div>
+        <div />
+      </Slide>
+    );
+  }
+  function EL_Q2() { /* Light: left border */
+    return (
+      <Slide bg={cream}>
+        <Meta color={muted}>CITAÇÃO — COM BORDA</Meta>
+        <div style={{ display: 'flex', gap: 16 }}>
+          <div style={{ width: 3, background: AMB, flexShrink: 0 }} />
+          <div>
+            <Body size={17} italic={true} color={ink} lh={1.6}>Não estamos construindo ferramentas. Estamos criando a próxima camada da civilização.</Body>
+            <div style={{ height: 16 }} />
+            <Meta color={muted}>DEMIS HASSABIS — CEO, GOOGLE DEEPMIND</Meta>
+          </div>
+        </div>
+        <Rule color={wg} />
+      </Slide>
+    );
+  }
+  function EL_Q3() { /* Paper: oversized bg punctuation */
+    return (
+      <Slide bg={paper}>
+        <Meta color={muted}>CITAÇÃO — PAPEL</Meta>
+        <div style={{ position: 'relative' }}>
+          <div style={{ fontFamily: cor, fontSize: 120, fontWeight: 300, fontStyle: 'italic', color: wg, lineHeight: 0.8, position: 'absolute', top: -10, left: -8, zIndex: 0, userSelect: 'none' }}>"</div>
+          <div style={{ position: 'relative', zIndex: 1, paddingTop: 28 }}>
+            <Body size={17} italic={true} color={ink} lh={1.6}>A melhor interface de IA é aquela que você usa sem perceber que está usando IA.</Body>
+          </div>
+        </div>
+        <div>
+          <Rule color={wg} mb={12} />
+          <MRow left="SAM ALTMAN" right="CEO, OPENAI" lc={ink} rc={muted} />
+        </div>
+      </Slide>
+    );
+  }
+
+  /* — Estatísticas — */
+  function EL_S1() { /* Centered large stat */
+    return (
+      <Slide bg={ink}>
+        <MRow left="ESTATÍSTICA CENTRAL" right="MODELO A" rc={el} />
+        <div style={{ textAlign: 'center', padding: '20px 0' }}>
+          <Meta color={el} align="center">ADOÇÃO DE IA — 2025</Meta>
+          <div style={{ height: 8 }} />
+          <div style={{ fontFamily: syne, fontSize: 100, fontWeight: 800, color: cream, lineHeight: 1, letterSpacing: '-0.04em' }}>68%</div>
+          <div style={{ height: 12 }} />
+          <Body size={13} italic={true} color={muted} lh={1.5}>das empresas Fortune 500 já usam<br />IA generativa em produção.</Body>
+        </div>
+        <div><Rule color={wg} mb={10} /><Meta>McKinsey Global Survey, 2025</Meta></div>
+      </Slide>
+    );
+  }
+  function EL_S2() { /* Split: number left + context right */
+    return (
+      <Slide bg={cream} p={0}>
+        <div style={{ display: 'flex', height: '100%' }}>
+          <div style={{ width: '45%', background: ink, padding: 28, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+            <Meta color={muted}>MODELO B</Meta>
+            <div style={{ fontFamily: syne, fontSize: 72, fontWeight: 800, color: el, lineHeight: 0.9, letterSpacing: '-0.04em' }}>3,5B</div>
+            <Meta color={wg}>USUÁRIOS ATIVOS</Meta>
+          </div>
+          <div style={{ flex: 1, padding: 28, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+            <Meta color={muted} align="right">ESTATÍSTICA LATERAL</Meta>
+            <Body size={13} color={ink} lh={1.7}>Usuários ativos de<br />assistentes de IA<br />em todo o mundo<br />ao final de 2025.</Body>
+            <div><Rule color={wg} mb={8} /><Meta color={muted}>Fonte: Statista, 2025</Meta></div>
+          </div>
+        </div>
+      </Slide>
+    );
+  }
+  function EL_S3() { /* Grid 2×2 */
+    const stats = [['42%','redução de custos'],['3×','aumento de produtividade'],['8 seg','atenção média humana'],['2027','previsão de AGI']];
+    return (
+      <Slide bg={ink} p={0}>
+        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', height: '100%' }}>
+          {stats.map(([n, l], i) => (
+            <div key={i} style={{ padding: 24, borderRight: i%2===0 ? `1px solid ${wg}` : 'none', borderBottom: i<2 ? `1px solid ${wg}` : 'none', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+              <Meta color={muted}>DADO {String(i+1).padStart(2,'0')}</Meta>
+              <div style={{ fontFamily: syne, fontSize: 44, fontWeight: 800, color: i===0||i===2 ? cream : el, lineHeight: 0.9, letterSpacing: '-0.04em' }}>{n}</div>
+              <Meta color={wg}>{l}</Meta>
+            </div>
+          ))}
+        </div>
+      </Slide>
+    );
+  }
+
+  /* — Tags, Labels & Divisores — */
+  function EL_Tags() {
+    const Tag = ({ label, bg = 'transparent', tc = ink, bc = ink }) => (
+      <span style={{ fontFamily: mono, fontSize: 8, fontWeight: 300, letterSpacing: '0.18em', textTransform: 'uppercase', color: tc, background: bg, border: `1px solid ${bc}`, padding: '3px 8px', display: 'inline-block', lineHeight: 1.6 }}>{label}</span>
+    );
+    return (
+      <Slide bg={cream}>
+        <Meta color={muted}>TAGS &amp; LABELS</Meta>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 20 }}>
+          <div>
+            <Meta color={muted} size="8px">Borda simples</Meta>
+            <div style={{ height: 8 }} />
+            <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+              <Tag label="IA" /><Tag label="Tecnologia" /><Tag label="Análise" /><Tag label="2026" />
+            </div>
+          </div>
+          <div>
+            <Meta color={muted} size="8px">Fundo preenchido</Meta>
+            <div style={{ height: 8 }} />
+            <div style={{ display: 'flex', gap: 8, flexWrap: 'wrap' }}>
+              <Tag label="IA" bg={ink} tc={cream} bc={ink} />
+              <Tag label="Tecnologia" bg={AMB} tc={cream} bc={AMB} />
+              <Tag label="Análise" bg={el} tc={ink} bc={el} />
+            </div>
+          </div>
+          <div>
+            <Meta color={muted} size="8px">Meta-label</Meta>
+            <div style={{ height: 8 }} />
+            <div style={{ display: 'flex', gap: 16 }}>
+              <Meta color={muted}>5 MIN DE LEITURA</Meta>
+              <Meta color={muted}>·</Meta>
+              <Meta color={muted}>ANÁLISE SEMANAL</Meta>
+            </div>
+          </div>
+        </div>
+        <Rule color={wg} />
+      </Slide>
+    );
+  }
+  function EL_Div1() { /* Numbered divider */
+    return (
+      <Slide bg={cream}>
+        <Meta color={muted}>DIVISORES TIPOGRÁFICOS</Meta>
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 28 }}>
+          <div>
+            <Meta color={muted} size="8px">Numerado com categoria</Meta>
+            <div style={{ height: 10 }} />
+            <div style={{ display: 'flex', alignItems: 'center', gap: 12 }}>
+              <div style={{ fontFamily: mono, fontSize: 9, color: ink, letterSpacing: '0.15em' }}>03 — 05</div>
+              <div style={{ flex: 1, height: 1, background: wg }} />
+              <Meta color={muted} align="right">PERSPECTIVA</Meta>
+            </div>
+          </div>
+          <div>
+            <Meta color={muted} size="8px">Elétrico com meta</Meta>
+            <div style={{ height: 10 }} />
+            <div>
+              <div style={{ height: 2, background: el, marginBottom: 8 }} />
+              <MRow left="TECH &amp; FUTURE — Nº 001" right="JUN 2026" lc={ink} rc={muted} />
+            </div>
+          </div>
+          <div>
+            <Meta color={muted} size="8px">Dupla regra editorial</Meta>
+            <div style={{ height: 10 }} />
+            <div>
+              <div style={{ height: 3, background: ink, marginBottom: 3 }} />
+              <div style={{ height: 1, background: ink }} />
+            </div>
+          </div>
+        </div>
+        <Rule color={wg} />
+      </Slide>
+    );
+  }
+
+  /* — CTAs — */
+  function EL_CTA1() { /* Dark standard */
+    return (
+      <Slide bg={ink}>
+        <Meta color={muted}>CTA — ESCURO PADRÃO</Meta>
+        <div>
+          <Rule color={wg} mb={20} />
+          <Disp size={50} color={cream}>TECH<br />&amp;FUTURE</Disp>
+          <div style={{ height: 18 }} />
+          <Meta color={muted} size="10px">techandfuture.com.br</Meta>
+        </div>
+        <div><Rule color={wg} mb={10} /><Meta color={wg}>@techandfuture — análises semanais sobre IA e tecnologia</Meta></div>
+      </Slide>
+    );
+  }
+  function EL_CTA2() { /* Electric */
+    return (
+      <Slide bg={el} p={28}>
+        <Meta color={ink}>CTA — ACENTO ELÉTRICO</Meta>
+        <div>
+          <div style={{ fontFamily: syne, fontSize: 58, fontWeight: 800, color: ink, lineHeight: 0.88, letterSpacing: '-0.04em', textTransform: 'uppercase' }}>LEIA<br />MAIS →</div>
+          <div style={{ height: 16 }} />
+          <Meta color={ink} size="10px">techandfuture.com.br</Meta>
+        </div>
+        <div><Rule color={ink} mb={10} /><Meta color={ink}>@techandfuture — SIGA PARA MAIS ANÁLISES</Meta></div>
+      </Slide>
+    );
+  }
+
+  /* ══════════════════════════════════════════════════════════
+     TEMA D — ÂMBAR  ·  cream + burnt orange · layout COLUNA
+     Tópico: "A Economia da Atenção"
+  ══════════════════════════════════════════════════════════ */
+  function D1() { /* Cover: vertical accent column left */
+    return (
+      <Slide bg={ABKG} p={0}>
+        <div style={{ display: 'flex', height: '100%' }}>
+          <div style={{ width: '30%', background: AMB, padding: '24px 16px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', flexShrink: 0 }}>
+            <span style={{ fontFamily: mono, fontSize: 8, color: ABKG, letterSpacing: '0.15em', textTransform: 'uppercase' }}>T&amp;F</span>
+            <div style={{ fontFamily: mono, fontSize: 26, fontWeight: 300, color: ABKG, lineHeight: 1, writingMode: 'vertical-rl', transform: 'rotate(180deg)', letterSpacing: '0.04em' }}>001</div>
+            <span style={{ fontFamily: mono, fontSize: 8, color: ABKG, letterSpacing: '0.12em', textTransform: 'uppercase', opacity: 0.7 }}>ATENÇÃO</span>
+          </div>
+          <div style={{ flex: 1, padding: '24px 22px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+            <Meta color={muted}>JUN 2026</Meta>
+            <Disp size={42} color={ink}>O CO-<br />LAPSO<br />DA<br />ATEN-<br />ÇÃO</Disp>
+            <div>
+              <div style={{ width: '100%', height: 1, background: AMB, marginBottom: 10 }} />
+              <Meta color={muted}>ECONOMIA DA ATENÇÃO — 01/05</Meta>
+            </div>
+          </div>
+        </div>
+      </Slide>
+    );
+  }
+  function D2() { /* Stat: amber number, cream bg */
+    return (
+      <Slide bg={ABKG}>
+        <MRow left="DADO — 02/05" right="ATENÇÃO" lc={AMB} rc={muted} />
+        <div>
+          <div style={{ fontFamily: syne, fontSize: 88, fontWeight: 800, color: AMB, lineHeight: 0.9, letterSpacing: '-0.04em' }}>8 seg</div>
+          <div style={{ height: 16 }} />
+          <Body size={14} italic={true} color={ink} lh={1.65}>é a atenção média de um ser humano em 2025 — abaixo dos 9 segundos de um peixinho dourado em 2000.</Body>
+        </div>
+        <div><Rule color={AMB} mb={10} /><Meta color={muted}>Fonte: Microsoft Attention Spans Report, 2025</Meta></div>
+      </Slide>
+    );
+  }
+  function D3() { /* Quote: amber left border */
+    return (
+      <Slide bg={APP}>
+        <MRow left="PERSPECTIVA — 03/05" right="" lc={muted} rc={muted} />
+        <div style={{ display: 'flex', gap: 18, marginTop: 8 }}>
+          <div style={{ width: 4, background: AMB, flexShrink: 0 }} />
+          <div>
+            <Body size={17} italic={true} color={ink} lh={1.6}>Cada notificação que você recebe é um leilão invisível pela sua atenção. As plataformas vencem esse leilão bilhões de vezes por dia.</Body>
+            <div style={{ height: 18 }} />
+            <Meta color={AMB}>TRISTAN HARRIS</Meta>
+            <Meta color={muted}>FUNDADOR, CENTER FOR HUMANE TECH</Meta>
+          </div>
+        </div>
+        <Rule color={AMB} />
+      </Slide>
+    );
+  }
+  function D4() { /* Analysis: amber markers */
+    const items = [
+      ['→', 'Design viciante', 'Infinite scroll, autoplay e notificações são arquitetados para maximizar o tempo de tela.'],
+      ['→', 'Economia da atenção', 'O produto não é o conteúdo — é o usuário. A atenção é vendida para anunciantes.'],
+      ['→', 'O custo cognitivo', 'Multitarefa digital reduz em 40% a capacidade de foco profundo, segundo estudos de Stanford.'],
+    ];
+    return (
+      <Slide bg={ABKG}>
+        <MRow left="ANÁLISE — 04/05" right="" lc={ink} rc={muted} />
+        <Rule color={AMB} mt={12} mb={18} />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
+          {items.map(([ic, t, d]) => (
+            <div key={t} style={{ display: 'flex', gap: 12 }}>
+              <span style={{ fontFamily: mono, fontSize: 10, color: AMB, flexShrink: 0 }}>{ic}</span>
+              <div>
+                <div style={{ fontFamily: syne, fontSize: 11, fontWeight: 700, color: ink, textTransform: 'uppercase', letterSpacing: '0.06em' }}>{t}</div>
+                <div style={{ fontFamily: cor, fontSize: 12, fontWeight: 300, color: muted, lineHeight: 1.5, marginTop: 3 }}>{d}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div />
+      </Slide>
+    );
+  }
+  function D5() { /* CTA: full amber bg */
+    return (
+      <Slide bg={AMB} p={28}>
+        <Meta color={ABKG} w={400}>RETOME O CONTROLE — LEIA A ANÁLISE COMPLETA</Meta>
+        <div>
+          <div style={{ fontFamily: syne, fontSize: 56, fontWeight: 800, color: ABKG, lineHeight: 0.88, letterSpacing: '-0.04em', textTransform: 'uppercase' }}>TECH<br />&amp;FUTURE</div>
+          <div style={{ height: 16 }} />
+          <Meta color={ABKG} size="10px" w={400}>techandfuture.com.br</Meta>
+        </div>
+        <div>
+          <div style={{ width: '100%', height: 1, background: ABKG, opacity: 0.4, marginBottom: 10 }} />
+          <Meta color={ABKG} w={300}>@techandfuture — análises que importam</Meta>
+        </div>
+      </Slide>
+    );
+  }
+
+  /* ══════════════════════════════════════════════════════════
+     TEMA E — NOITE  ·  midnight + electric blue · layout FRAGMENTO
+     Tópico: "IA na Medicina: O Fim do Diagnóstico Humano?"
+  ══════════════════════════════════════════════════════════ */
+  function E1() { /* Cover: midnight + blue corner accent */
+    return (
+      <Slide bg={NMD} p={0}>
+        <div style={{ position: 'relative', width: '100%', height: '100%', padding: 28, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div style={{ position: 'absolute', top: 0, right: 0, width: 80, height: 80, background: NBL, opacity: 0.15 }} />
+          <MRow left="T&amp;F — MEDICINA &amp; IA" right="JUN 2026" lc={NSK} rc={muted} />
+          <div>
+            <div style={{ width: 40, height: 2, background: NBL, marginBottom: 16 }} />
+            <Disp size={54} color={NSK}>IA NA<br />MEDI-<br />CINA</Disp>
+            <div style={{ height: 10 }} />
+            <div style={{ fontFamily: syne, fontSize: 20, fontWeight: 700, color: NBL, letterSpacing: '-0.02em' }}>O FIM DO DIAGNÓSTICO HUMANO?</div>
+          </div>
+          <div><Rule color={NNV} mb={10} /><MRow left="Nº 003 — SAÚDE &amp; TECNOLOGIA" right="01 — 05" lc={muted} rc={NBL} /></div>
+        </div>
+      </Slide>
+    );
+  }
+  function E2() { /* Stat: blue number, top/bottom split */
+    return (
+      <Slide bg={NMD} p={0}>
+        <div style={{ height: '35%', background: NNV, padding: '18px 28px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <MRow left="DADO — 02/05" right="IA MÉDICA" lc={NSK} rc={muted} />
+          <Meta color={muted}>PRECISÃO EM DIAGNÓSTICO POR IMAGEM</Meta>
+        </div>
+        <div style={{ flex: 1, padding: '24px 28px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <div style={{ fontFamily: syne, fontSize: 80, fontWeight: 800, color: NBL, lineHeight: 0.9, letterSpacing: '-0.04em' }}>97,2%</div>
+          <div>
+            <Body size={13} italic={true} color={NSK} lh={1.6}>taxa de acerto da IA da Google em detecção de câncer de mama — vs. 89,1% de radiologistas humanos.</Body>
+            <div style={{ height: 10 }} />
+            <Rule color={NNV} mb={10} />
+            <Meta color={muted}>Nature Medicine, 2025</Meta>
+          </div>
+        </div>
+      </Slide>
+    );
+  }
+  function E3() { /* Quote: blue left border thick */
+    return (
+      <Slide bg={NMD}>
+        <MRow left="CITAÇÃO — 03/05" right="" lc={muted} rc={muted} />
+        <div style={{ display: 'flex', gap: 20 }}>
+          <div style={{ width: 4, background: NBL, flexShrink: 0 }} />
+          <div>
+            <Body size={17} italic={true} color={NSK} lh={1.6}>A IA não vai substituir médicos. Médicos que usam IA vão substituir médicos que não usam.</Body>
+            <div style={{ height: 18 }} />
+            <Meta color={NBL}>ERIC TOPOL</Meta>
+            <Meta color={muted}>DIRETOR, SCRIPPS RESEARCH TRANSLATIONAL INSTITUTE</Meta>
+          </div>
+        </div>
+        <Rule color={NNV} />
+      </Slide>
+    );
+  }
+  function E4() { /* 3 items with blue markers */
+    const items = [
+      ['01 —', 'Diagnóstico por imagem', 'CNNs superam radiologistas em detecção de tumores, retinopatia e doenças pulmonares.'],
+      ['02 —', 'Drug discovery', 'AlphaFold 3 reduziu de anos para dias o mapeamento de estruturas proteicas para novos fármacos.'],
+      ['03 —', 'Triagem inteligente', 'Modelos de NLP leem prontuários e priorizam casos urgentes antes do médico abrir o arquivo.'],
+    ];
+    return (
+      <Slide bg={NMD}>
+        <MRow left="APLICAÇÕES — 04/05" right="" lc={NSK} rc={muted} />
+        <Rule color={NNV} mt={12} mb={18} />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 18 }}>
+          {items.map(([n, t, d]) => (
+            <div key={n} style={{ display: 'flex', gap: 12 }}>
+              <span style={{ fontFamily: mono, fontSize: 9, color: NBL, letterSpacing: '0.1em', flexShrink: 0, paddingTop: 1 }}>{n}</span>
+              <div>
+                <div style={{ fontFamily: syne, fontSize: 11, fontWeight: 700, color: NSK, textTransform: 'uppercase', letterSpacing: '0.05em' }}>{t}</div>
+                <div style={{ fontFamily: cor, fontSize: 12, fontWeight: 300, color: muted, lineHeight: 1.5, marginTop: 3 }}>{d}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+        <div />
+      </Slide>
+    );
+  }
+  function E5() { /* CTA: electric blue bg */
+    return (
+      <Slide bg={NBL} p={28}>
+        <Meta color={NMD}>APROFUNDE-SE NA ANÁLISE COMPLETA →</Meta>
+        <div>
+          <div style={{ fontFamily: syne, fontSize: 56, fontWeight: 800, color: NMD, lineHeight: 0.88, letterSpacing: '-0.04em', textTransform: 'uppercase' }}>TECH<br />&amp;FUTURE</div>
+          <div style={{ height: 16 }} />
+          <Meta color={NMD} size="10px" w={400}>techandfuture.com.br</Meta>
+        </div>
+        <div>
+          <div style={{ width: '100%', height: 1, background: NMD, opacity: 0.3, marginBottom: 10 }} />
+          <Meta color={NMD}>@techandfuture — SIGA PARA MAIS ANÁLISES</Meta>
+        </div>
+      </Slide>
+    );
+  }
+
+  /* ══════════════════════════════════════════════════════════
+     TEMA F — TERRA  ·  dark brown + gold · layout CAMADAS
+     Tópico: "O Petróleo do Século XXI: Seus Dados"
+  ══════════════════════════════════════════════════════════ */
+  function F1() { /* Cover: gold stripe + headline below */
+    return (
+      <Slide bg={TBR} p={0}>
+        <div style={{ height: '18%', background: TGD, padding: '0 28px', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <span style={{ fontFamily: mono, fontSize: 8, color: TBR, letterSpacing: '0.18em', textTransform: 'uppercase', fontWeight: 400 }}>TECH &amp; FUTURE — Nº 004</span>
+          <span style={{ fontFamily: mono, fontSize: 8, color: TBR, letterSpacing: '0.18em', textTransform: 'uppercase', fontWeight: 400 }}>JUN 2026</span>
+        </div>
+        <div style={{ flex: 1, padding: '22px 28px 28px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+          <Disp size={50} color={TOC}>O PETRÓ-<br />LEO DO<br />SÉC. XXI</Disp>
+          <div>
+            <div style={{ fontFamily: syne, fontSize: 18, fontWeight: 700, color: TGD, letterSpacing: '-0.01em', marginBottom: 8 }}>SEUS DADOS PESSOAIS</div>
+            <Rule color={TGD} mb={10} />
+            <Meta color={TGD} w={300}>PRIVACIDADE — IA — ECONOMIA DIGITAL — 01/05</Meta>
+          </div>
+        </div>
+      </Slide>
+    );
+  }
+  function F2() { /* Stat: brown left + ochre right panel */
+    return (
+      <Slide bg={TBR} p={0}>
+        <div style={{ display: 'flex', height: '100%' }}>
+          <div style={{ flex: 1, padding: 28, display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
+            <Meta color={TGD} w={400}>DADO — 02/05</Meta>
+            <div>
+              <div style={{ fontFamily: syne, fontSize: 72, fontWeight: 800, color: TGD, lineHeight: 0.9, letterSpacing: '-0.04em' }}>$260B</div>
+              <div style={{ height: 10 }} />
+              <Body size={12} italic={true} color={TOC} lh={1.6}>receita gerada pelas Big Techs somente com publicidade comportamental em 2024.</Body>
+            </div>
+            <Rule color={TGD} />
+          </div>
+          <div style={{ width: '36%', background: TPL, padding: '28px 20px', display: 'flex', flexDirection: 'column', justifyContent: 'space-between', flexShrink: 0 }}>
+            <Meta color={TGD} w={300}>CONTEXTO</Meta>
+            <Body size={11} color={TOC} lh={1.65}>Cada busca, clique e pausa revela intenções que valem mais que qualquer commodity física.</Body>
+            <Meta color={TGD} w={300}>ECONOMIA DIGITAL</Meta>
+          </div>
+        </div>
+      </Slide>
+    );
+  }
+  function F3() { /* Quote: ochre bg + gold ornament */
+    return (
+      <Slide bg={TOC}>
+        <MRow left="CITAÇÃO — 03/05" right="" lc={TBR} rc={muted} />
+        <div>
+          <div style={{ width: 32, height: 3, background: TGD, marginBottom: 20 }} />
+          <Body size={19} italic={true} color={TBR} lh={1.5}>Se você não está pagando pelo produto, você é o produto. E seus dados são a matéria-prima.</Body>
+          <div style={{ height: 20 }} />
+          <Rule color={TGD} mb={12} />
+          <MRow left="ANDREW LEWIS" right="METAFILTER, 2010" lc={TBR} rc={muted} />
+        </div>
+        <div />
+      </Slide>
+    );
+  }
+  function F4() { /* 3 gold-bordered items */
+    const items = [
+      ['2,5 quintilhões de bytes', 'de dados gerados por dia em 2025 — 90% deles nos últimos dois anos.'],
+      ['4.300 pontos de dados', 'é o perfil médio que uma plataforma mantém por usuário ativo.'],
+      ['LGPD & GDPR', 'regulações existem, mas multas são custos operacionais para as Big Techs.'],
+    ];
+    return (
+      <Slide bg={TBR}>
+        <MRow left="ESCALA — 04/05" right="" lc={TGD} rc={muted} />
+        <Rule color={TGD} mt={12} mb={18} />
+        <div style={{ display: 'flex', flexDirection: 'column', gap: 14 }}>
+          {items.map(([t, d]) => (
+            <div key={t} style={{ border: `1px solid ${TGD}`, padding: '12px 14px' }}>
+              <div style={{ fontFamily: syne, fontSize: 11, fontWeight: 700, color: TGD, textTransform: 'uppercase', letterSpacing: '0.04em', marginBottom: 4 }}>{t}</div>
+              <Body size={11} color={TOC} lh={1.5}>{d}</Body>
+            </div>
+          ))}
+        </div>
+        <div />
+      </Slide>
+    );
+  }
+  function F5() { /* CTA: gold bg */
+    return (
+      <Slide bg={TGD} p={28}>
+        <Meta color={TBR} w={400}>ENTENDA O VALOR DOS SEUS DADOS →</Meta>
+        <div>
+          <div style={{ fontFamily: syne, fontSize: 56, fontWeight: 800, color: TBR, lineHeight: 0.88, letterSpacing: '-0.04em', textTransform: 'uppercase' }}>TECH<br />&amp;FUTURE</div>
+          <div style={{ height: 16 }} />
+          <Meta color={TBR} size="10px" w={400}>techandfuture.com.br</Meta>
+        </div>
+        <div>
+          <div style={{ width: '100%', height: 1, background: TBR, opacity: 0.3, marginBottom: 10 }} />
+          <Meta color={TBR} w={300}>@techandfuture — ANÁLISES QUE IMPORTAM</Meta>
+        </div>
+      </Slide>
+    );
+  }
+
+  /* ── App ──────────────────────────────────────────────── */
+  const { DesignCanvas, DCSection, DCArtboard } = window;
+
+  function App() {
+    return (
+      <DesignCanvas>
+
+        <DCSection id="manchete" title="Template A — MANCHETE" subtitle="Dark · Syne ExtraBold · Electric · Alto impacto · 'O Fim dos Programadores?'">
+          <DCArtboard id="a1" label="01 — Capa"        width={400} height={400}><A1 /></DCArtboard>
+          <DCArtboard id="a2" label="02 — Estatística" width={400} height={400}><A2 /></DCArtboard>
+          <DCArtboard id="a3" label="03 — Citação"     width={400} height={400}><A3 /></DCArtboard>
+          <DCArtboard id="a4" label="04 — Análise"     width={400} height={400}><A4 /></DCArtboard>
+          <DCArtboard id="a5" label="05 — CTA"         width={400} height={400}><A5 /></DCArtboard>
+        </DCSection>
+
+        <DCSection id="impresso" title="Template B — IMPRESSO" subtitle="Cream · Regras tipográficas · Editorial clássico · 'Superinteligência: 2027 ou 2040?'">
+          <DCArtboard id="b1" label="01 — Capa"           width={400} height={400}><B1 /></DCArtboard>
+          <DCArtboard id="b2" label="02 — Contexto"       width={400} height={400}><B2 /></DCArtboard>
+          <DCArtboard id="b3" label="03 — Citação"        width={400} height={400}><B3 /></DCArtboard>
+          <DCArtboard id="b4" label="04 — Linha do Tempo" width={400} height={400}><B4 /></DCArtboard>
+          <DCArtboard id="b5" label="05 — CTA"            width={400} height={400}><B5 /></DCArtboard>
+        </DCSection>
+
+        <DCSection id="dados" title="Template C — DADOS" subtitle="Números · Alternante dark/light · Infográfico · 'A Guerra dos Chips'">
+          <DCArtboard id="c1" label="01 — Capa"       width={400} height={400}><C1 /></DCArtboard>
+          <DCArtboard id="c2" label="02 — Comparação" width={400} height={400}><C2 /></DCArtboard>
+          <DCArtboard id="c3" label="03 — Fato-Chave" width={400} height={400}><C3 /></DCArtboard>
+          <DCArtboard id="c4" label="04 — Análise"    width={400} height={400}><C4 /></DCArtboard>
+          <DCArtboard id="c5" label="05 — Takeaways"  width={400} height={400}><C5 /></DCArtboard>
+        </DCSection>
+
+        <DCSection id="elementos" title="Elementos — Componentes Reutilizáveis" subtitle="Headers · Citações · Estatísticas · Tags · Divisores · CTAs — prontos para usar em qualquer template">
+          <DCArtboard id="el_h1"   label="Header — Manchete"       width={400} height={400}><EL_H1 /></DCArtboard>
+          <DCArtboard id="el_h2"   label="Header — Impresso"       width={400} height={400}><EL_H2 /></DCArtboard>
+          <DCArtboard id="el_h3"   label="Header — Minimalista"    width={400} height={400}><EL_H3 /></DCArtboard>
+          <DCArtboard id="el_q1"   label="Citação — Escuro"        width={400} height={400}><EL_Q1 /></DCArtboard>
+          <DCArtboard id="el_q2"   label="Citação — Com Borda"     width={400} height={400}><EL_Q2 /></DCArtboard>
+          <DCArtboard id="el_q3"   label="Citação — Papel"         width={400} height={400}><EL_Q3 /></DCArtboard>
+          <DCArtboard id="el_s1"   label="Stat — Central"          width={400} height={400}><EL_S1 /></DCArtboard>
+          <DCArtboard id="el_s2"   label="Stat — Split"            width={400} height={400}><EL_S2 /></DCArtboard>
+          <DCArtboard id="el_s3"   label="Stat — Grid 2×2"         width={400} height={400}><EL_S3 /></DCArtboard>
+          <DCArtboard id="el_tags" label="Tags &amp; Labels"       width={400} height={400}><EL_Tags /></DCArtboard>
+          <DCArtboard id="el_div1" label="Divisores Tipográficos"  width={400} height={400}><EL_Div1 /></DCArtboard>
+          <DCArtboard id="el_cta1" label="CTA — Escuro"            width={400} height={400}><EL_CTA1 /></DCArtboard>
+          <DCArtboard id="el_cta2" label="CTA — Elétrico"          width={400} height={400}><EL_CTA2 /></DCArtboard>
+        </DCSection>
+
+        <DCSection id="amber" title="Tema D — ÂMBAR" subtitle="Cream + Burnt Orange · Layout Coluna · 'A Economia da Atenção'">
+          <DCArtboard id="d1" label="01 — Capa"       width={400} height={400}><D1 /></DCArtboard>
+          <DCArtboard id="d2" label="02 — Estatística" width={400} height={400}><D2 /></DCArtboard>
+          <DCArtboard id="d3" label="03 — Citação"    width={400} height={400}><D3 /></DCArtboard>
+          <DCArtboard id="d4" label="04 — Análise"    width={400} height={400}><D4 /></DCArtboard>
+          <DCArtboard id="d5" label="05 — CTA"        width={400} height={400}><D5 /></DCArtboard>
+        </DCSection>
+
+        <DCSection id="noite" title="Tema E — NOITE" subtitle="Midnight + Electric Blue · Layout Fragmento · 'IA na Medicina'">
+          <DCArtboard id="e1" label="01 — Capa"        width={400} height={400}><E1 /></DCArtboard>
+          <DCArtboard id="e2" label="02 — Estatística" width={400} height={400}><E2 /></DCArtboard>
+          <DCArtboard id="e3" label="03 — Citação"     width={400} height={400}><E3 /></DCArtboard>
+          <DCArtboard id="e4" label="04 — Aplicações"  width={400} height={400}><E4 /></DCArtboard>
+          <DCArtboard id="e5" label="05 — CTA"         width={400} height={400}><E5 /></DCArtboard>
+        </DCSection>
+
+        <DCSection id="terra" title="Tema F — TERRA" subtitle="Dark Brown + Warm Gold · Layout Camadas · 'O Petróleo do Séc. XXI'">
+          <DCArtboard id="f1" label="01 — Capa"       width={400} height={400}><F1 /></DCArtboard>
+          <DCArtboard id="f2" label="02 — Estatística" width={400} height={400}><F2 /></DCArtboard>
+          <DCArtboard id="f3" label="03 — Citação"    width={400} height={400}><F3 /></DCArtboard>
+          <DCArtboard id="f4" label="04 — Escala"     width={400} height={400}><F4 /></DCArtboard>
+          <DCArtboard id="f5" label="05 — CTA"        width={400} height={400}><F5 /></DCArtboard>
+        </DCSection>
+
+      </DesignCanvas>
+    );
+  }
+
+  ReactDOM.createRoot(document.getElementById('root')).render(<App />);
+  </script>
+</body>
+</html>

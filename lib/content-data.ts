@@ -47,9 +47,12 @@ export type CarouselSlide = {
   highlight_word?: string;
 };
 
+export type TemplateId = 'A' | 'B' | 'C' | 'D' | 'E' | 'F';
+
 export type Carousel = {
   carousel_id: number;
   angle: string;
+  template?: TemplateId;
   slides: CarouselSlide[];
 };
 

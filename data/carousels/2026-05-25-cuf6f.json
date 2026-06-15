@@ -1,218 +1,222 @@
 [
   {
     "carousel_id": 1,
-    "angle": "Educação sobre Robotaxis",
+    "angle": "Educacional",
     "slides": [
       {
         "n": 1,
         "type": "cover",
-        "headline": "Robotaxis: O Futuro",
-        "subtext": "Mobilidade Autônoma"
+        "headline": "Robotaxis Revolucionam",
+        "subtext": "Mudança na Indústria de Transporte"
       },
       {
         "n": 2,
         "type": "content",
         "topic_number": "01",
-        "headline": "Tecnologia Avançada",
-        "body": "Inteligência Artificial"
+        "headline": "Tecnologia Autônoma",
+        "body": "Veículos autônomos seguros e eficientes"
       },
       {
         "n": 3,
         "type": "stat",
         "stat_number": "90%",
-        "stat_label": "Redução de Emissões"
+        "stat_label": "Redução de emissões de gases de efeito estufa"
       },
       {
         "n": 4,
         "type": "quote",
-        "quote": "\"O futuro é autônomo\""
+        "quote": "Os robotaxis podem mudar a forma como nos deslocamos"
       },
       {
         "n": 5,
         "type": "content",
         "topic_number": "02",
-        "headline": "Segurança",
-        "body": "Menos Acidentes"
+        "headline": "Benefícios dos Robotaxis",
+        "body": "Segurança, eficiência energética e redução da congestão"
       },
       {
         "n": 6,
         "type": "list",
-        "headline": "Benefícios",
+        "headline": "Aplicações dos Robotaxis",
         "items": [
-          "Eficiência",
-          "Segurança",
-          "Sustentabilidade"
+          "Transporte de passageiros",
+          "Logística",
+          "Entrega de pacotes"
         ]
       },
       {
         "n": 7,
         "type": "cta",
-        "headline": "Aprenda Mais",
-        "highlight_word": "Agora",
-        "subtext": "Descubra o poder dos robotaxis"
+        "headline": "Quer saber mais sobre o futuro dos transportes?",
+        "highlight_word": "futuro",
+        "subtext": "Leia o artigo completo para descobrir como os robotaxis estão mudando a indústria de transporte"
       }
-    ]
+    ],
+    "template": "A"
   },
   {
     "carousel_id": 2,
-    "angle": "Impacto Pessoal dos Robotaxis",
+    "angle": "Impacto Pessoal",
     "slides": [
       {
         "n": 1,
         "type": "cover",
-        "headline": "Seu Futuro",
-        "subtext": "Mudanças na Mobilidade"
+        "headline": "Como os Robotaxis Afetam Você",
+        "subtext": "Mudanças no seu dia a dia"
       },
       {
         "n": 2,
         "type": "content",
         "topic_number": "01",
-        "headline": "Conveniência",
-        "body": "Mais Tempo Livre"
+        "headline": "Mais Segurança nas Estradas",
+        "body": "Redução de acidentes de trânsito"
       },
       {
         "n": 3,
         "type": "stat",
         "stat_number": "50%",
-        "stat_label": "Redução do Estresse"
+        "stat_label": "Participação de veículos autônomos no mercado de veículos novos em 2030"
       },
       {
         "n": 4,
         "type": "quote",
-        "quote": "\"Viva mais, dirija menos\""
+        "quote": "Os robotaxis podem tornar as estradas mais seguras para todos"
       },
       {
         "n": 5,
         "type": "content",
         "topic_number": "02",
-        "headline": "Acessibilidade",
-        "body": "Para Todos"
+        "headline": "Maior Eficiência no Trabalho",
+        "body": "Redução do tempo de deslocamento"
       },
       {
         "n": 6,
         "type": "list",
-        "headline": "Vantagens",
+        "headline": "Benefícios para os Passageiros",
         "items": [
-          "Comodidade",
-          "Segurança",
-          "Acessibilidade"
+          "Menos estresse",
+          "Mais produtividade",
+          "Mais tempo para lazer"
         ]
       },
       {
         "n": 7,
         "type": "cta",
-        "headline": "Mude Sua Rotina",
-        "highlight_word": "Hoje",
-        "subtext": "Adote a mobilidade autônoma"
+        "headline": "Quer aproveitar os benefícios dos robotaxis?",
+        "highlight_word": "aproveitar",
+        "subtext": "Descubra como os robotaxis podem melhorar sua vida e trabalho"
       }
-    ]
+    ],
+    "template": "D"
   },
   {
     "carousel_id": 3,
-    "angle": "Dados e Números dos Robotaxis",
+    "angle": "Dados e Números",
     "slides": [
       {
         "n": 1,
         "type": "cover",
-        "headline": "Números",
-        "subtext": "Estatísticas de Impacto"
+        "headline": "Estatísticas dos Robotaxis",
+        "subtext": "Números que impressionam"
       },
       {
         "n": 2,
         "type": "content",
         "topic_number": "01",
-        "headline": "Mercado em Crescimento",
-        "body": "US$ 1,4 trilhão"
-      },
-      {
-        "n": 3,
-        "type": "stat",
-        "stat_number": "2025",
-        "stat_label": "Previsão de Mercado"
-      },
-      {
-        "n": 4,
-        "type": "quote",
-        "quote": "\"O futuro é agora\""
-      },
-      {
-        "n": 5,
-        "type": "content",
-        "topic_number": "02",
-        "headline": "Adoção Rápida",
-        "body": "50% dos Veículos"
-      },
-      {
-        "n": 6,
-        "type": "list",
-        "headline": "Tendências",
-        "items": [
-          "Crescimento Rápido",
-          "Inovação",
-          "Sustentabilidade"
-        ]
-      },
-      {
-        "n": 7,
-        "type": "cta",
-        "headline": "Invista no Futuro",
-        "highlight_word": "Agora",
-        "subtext": "Não perca a oportunidade"
-      }
-    ]
-  },
-  {
-    "carousel_id": 4,
-    "angle": "Futuro e Consequências dos Robotaxis",
-    "slides": [
-      {
-        "n": 1,
-        "type": "cover",
-        "headline": "O Que Vem",
-        "subtext": "Consequências da Mobilidade Autônoma"
-      },
-      {
-        "n": 2,
-        "type": "content",
-        "topic_number": "01",
-        "headline": "Cidades Inteligentes",
-        "body": "Maior Eficiência"
+        "headline": "Mercado de Veículos Autônomos",
+        "body": "US$ 1,4 trilhão em 2025"
       },
       {
         "n": 3,
         "type": "stat",
         "stat_number": "90%",
-        "stat_label": "Redução de Congestionamento"
+        "stat_label": "Redução de emissões de gases de efeito estufa"
       },
       {
         "n": 4,
         "type": "quote",
-        "quote": "\"O futuro é sustentável\""
+        "quote": "Os robotaxis são uma solução para a indústria de transporte"
       },
       {
         "n": 5,
         "type": "content",
         "topic_number": "02",
-        "headline": "Empregos do Futuro",
-        "body": "Oportunidades em Tecnologia"
+        "headline": "Participação de Veículos Autônomos",
+        "body": "50% do mercado de veículos novos em 2030"
       },
       {
         "n": 6,
         "type": "list",
-        "headline": "Oportunidades",
+        "headline": "Estatísticas Chave",
         "items": [
-          "Inovação",
-          "Sustentabilidade",
-          "Empregos"
+          "US$ 1,4 trilhão",
+          "50% do mercado",
+          "90% de redução de emissões"
         ]
       },
       {
         "n": 7,
         "type": "cta",
-        "headline": "Prepare-se para o Futuro",
-        "highlight_word": "Agora",
-        "subtext": "Seja parte da revolução"
+        "headline": "Quer saber mais sobre as estatísticas dos robotaxis?",
+        "highlight_word": "estatísticas",
+        "subtext": "Leia o artigo completo para descobrir os números por trás da revolução dos transportes"
       }
-    ]
+    ],
+    "template": "C"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro dos Transportes",
+        "subtext": "Mudanças que vão acontecer"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Veículos Autônomos em 2030",
+        "body": "50% do mercado de veículos novos"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2025",
+        "stat_label": "Ano em que o mercado de veículos autônomos pode alcançar US$ 1,4 trilhão"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Os robotaxis vão mudar a forma como nos deslocamos"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências para a Sociedade",
+        "body": "Redução de acidentes de trânsito e emissões de gases de efeito estufa"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Mudanças no Futuro",
+        "items": [
+          "Veículos autônomos",
+          "Redução de emissões",
+          "Mais segurança nas estradas"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer estar preparado para o futuro dos transportes?",
+        "highlight_word": "preparado",
+        "subtext": "Leia o artigo completo para descobrir como os robotaxis vão mudar o mundo"
+      }
+    ],
+    "template": "F"
   }
 ]

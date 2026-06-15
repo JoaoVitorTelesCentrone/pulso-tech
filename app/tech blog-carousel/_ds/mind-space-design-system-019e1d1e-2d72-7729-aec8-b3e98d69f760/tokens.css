@@ -1,0 +1,282 @@
+/* ============================================================
+   Mind Space — Design Tokens (v2 editorial rebrand)
+   References: editorial posters (cream + black silhouettes +
+   single bright accent) + brain-tree fusion mark.
+   ============================================================ */
+
+/* Type system:
+   - Plus Jakarta Sans — body (Google)
+   - Fraunces — italic serif headings + quotes (Google)
+   - Anton — heavy condensed sans for poster headlines (Google)
+   - Nauryz Redkeds — display-only wordmark, no PT diacritics (local TTF)
+*/
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,500;1,9..144,600&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+
+@font-face {
+  font-family: 'Nauryz Redkeds';
+  src: url('fonts/nauryzredkeds.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  /* ---- Paper surfaces -------------------------------------- */
+  --bg:              #F2EDDF;  /* paper cream — warmer */
+  --surface:         #FAF6EC;  /* soft paper for cards */
+  --surface-2:       #E9E2CE;  /* paper-warm for chip trays / medallions */
+  --surface-hover:   #EFE9D4;
+  --paper-grain:     #DDD3B8;  /* darker paper for divider lines */
+
+  /* ---- Borders --------------------------------------------- */
+  --border:          #DDD3B8;
+  --border-strong:   #BFB394;
+
+  /* ---- Ink (text) ------------------------------------------ */
+  --text:            #0F0E14;  /* near-black, editorial */
+  --text-muted:      #4F4D5C;
+  --text-faint:      #8A8775;
+
+  /* ---- Accent (editorial coral) ---------------------------- */
+  --accent:          #E84B2A;
+  --accent-hover:    #C03919;
+  --accent-dim:      rgba(232, 75, 42, 0.10);
+  --accent-light:    #FFE2D6;
+  --accent-shadow:   0 2px 12px rgba(232, 75, 42, 0.28);
+
+  /* Optional depth accent — muted ink-blue from reference image */
+  --depth:           #3F5577;
+  --depth-light:     #C7D2E1;
+
+  /* ---- Semantic -------------------------------------------- */
+  --amber:           #B05A0A;
+  --amber-bg:        #FCE9C6;
+  --green:           #2E6B2E;
+  --green-bg:        #D3E3CC;
+  --red:             #B82C18;  /* same family as accent */
+  --red-bg:          #F8D3CB;
+
+  /* ---- Elevation ------------------------------------------- */
+  /* Editorial: shadows are subtle, ink-tinted */
+  --shadow-sm: 0 1px 2px rgba(15,14,20,0.06), 0 1px 1px rgba(15,14,20,0.04);
+  --shadow-md: 0 4px 16px rgba(15,14,20,0.08), 0 2px 4px rgba(15,14,20,0.04);
+  --shadow-lg: 0 8px 32px rgba(15,14,20,0.14), 0 4px 8px rgba(15,14,20,0.06);
+
+  /* ---- Radii ----------------------------------------------- */
+  --radius-sm: 0.5rem;
+  --radius:    0.875rem;
+  --radius-lg: 1.25rem;
+  --radius-2xl: 1.5rem;
+  --radius-pill: 999px;
+
+  /* ---- Type families --------------------------------------- */
+  --font-brand:    'Nauryz Redkeds', 'Anton', 'Fraunces', Georgia, serif;
+  --font-headline: 'Anton', 'Oswald', 'Arial Narrow', sans-serif;
+  --font-display:  'Fraunces', Georgia, 'Times New Roman', serif;
+  --font-body:     'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+
+  /* ---- Type scale ------------------------------------------ */
+  --fs-xs:   12px;
+  --fs-sm:   14px;
+  --fs-base: 16px;
+  --fs-lg:   18px;
+  --fs-xl:   20px;
+  --fs-2xl:  24px;
+  --fs-3xl:  30px;
+  --fs-poster: 64px;
+
+  /* ---- Spacing --------------------------------------------- */
+  --space-1: 4px;   --space-2: 8px;   --space-3: 12px;
+  --space-4: 16px;  --space-5: 20px;  --space-6: 24px;
+  --space-8: 32px;  --space-10: 40px; --space-12: 48px;
+
+  /* ---- Backdrops ------------------------------------------- */
+  --backdrop: rgba(15,14,20,0.78);
+  --backdrop-blur: 10px;
+}
+
+/* ============================================================
+   Dark mode — apply via [data-theme="dark"] on <html> or <body>,
+   or the .dark class. Inverts paper↔ink, keeps coral as the single
+   pop. Background is warm ink (#100F14), not pure black, so the
+   editorial mood is preserved.
+   ============================================================ */
+[data-theme="dark"],
+.dark {
+  /* ---- Ink surfaces (was: paper) --------------------------- */
+  --bg:              #100F14;  /* deep warm ink — page bg */
+  --surface:         #1A1820;  /* cards lift a half-step */
+  --surface-2:       #24222C;  /* chip trays / medallions */
+  --surface-hover:   #2A2733;
+  --paper-grain:     #2D2A36;  /* divider/inner-shadow tone */
+
+  /* ---- Borders --------------------------------------------- */
+  --border:          #2D2A36;
+  --border-strong:   #46424F;
+
+  /* ---- Text (was: ink → now: cream) ------------------------ */
+  --text:            #F2EDDF;  /* brand cream IS the ink in dark */
+  --text-muted:      #B8B3A0;  /* warmed mid-tone */
+  --text-faint:      #6D6A60;  /* aged paper */
+
+  /* ---- Accent — coral lifted +6% L for contrast on dark ---- */
+  --accent:          #FF6B49;
+  --accent-hover:    #FF8266;
+  --accent-dim:      rgba(255, 107, 73, 0.15);
+  --accent-light:    rgba(255, 107, 73, 0.18);  /* semi-transparent chips */
+  --accent-shadow:   0 2px 12px rgba(255, 107, 73, 0.40);
+
+  /* ---- Depth blue — also lifted ---------------------------- */
+  --depth:           #6B8AC1;
+  --depth-light:     rgba(107, 138, 193, 0.18);
+
+  /* ---- Semantic — desaturated, low-contrast bgs ------------ */
+  --amber:           #E8A23E;
+  --amber-bg:        rgba(232, 162, 62, 0.16);
+  --green:           #6BBF6B;
+  --green-bg:        rgba(107, 191, 107, 0.15);
+  --red:             #F26952;
+  --red-bg:          rgba(242, 105, 82, 0.15);
+
+  /* ---- Elevation — shadows are darker, less visible -------- */
+  --shadow-sm: 0 1px 2px rgba(0,0,0,0.40), 0 1px 1px rgba(0,0,0,0.30);
+  --shadow-md: 0 4px 16px rgba(0,0,0,0.45), 0 2px 4px rgba(0,0,0,0.30);
+  --shadow-lg: 0 8px 32px rgba(0,0,0,0.55), 0 4px 8px rgba(0,0,0,0.35);
+
+  /* ---- Backdrops ------------------------------------------- */
+  --backdrop: rgba(0,0,0,0.78);
+}
+
+/* Respect OS preference when no explicit theme is set ---------- */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg:              #100F14;
+    --surface:         #1A1820;
+    --surface-2:       #24222C;
+    --surface-hover:   #2A2733;
+    --paper-grain:     #2D2A36;
+    --border:          #2D2A36;
+    --border-strong:   #46424F;
+    --text:            #F2EDDF;
+    --text-muted:      #B8B3A0;
+    --text-faint:      #6D6A60;
+    --accent:          #FF6B49;
+    --accent-hover:    #FF8266;
+    --accent-dim:      rgba(255, 107, 73, 0.15);
+    --accent-light:    rgba(255, 107, 73, 0.18);
+    --accent-shadow:   0 2px 12px rgba(255, 107, 73, 0.40);
+    --depth:           #6B8AC1;
+    --depth-light:     rgba(107, 138, 193, 0.18);
+    --amber:           #E8A23E;
+    --amber-bg:        rgba(232, 162, 62, 0.16);
+    --green:           #6BBF6B;
+    --green-bg:        rgba(107, 191, 107, 0.15);
+    --red:             #F26952;
+    --red-bg:          rgba(242, 105, 82, 0.15);
+    --shadow-sm: 0 1px 2px rgba(0,0,0,0.40), 0 1px 1px rgba(0,0,0,0.30);
+    --shadow-md: 0 4px 16px rgba(0,0,0,0.45), 0 2px 4px rgba(0,0,0,0.30);
+    --shadow-lg: 0 8px 32px rgba(0,0,0,0.55), 0 4px 8px rgba(0,0,0,0.35);
+    --backdrop: rgba(0,0,0,0.78);
+  }
+}
+
+/* ============================================================
+   Semantic type styles
+   The editorial spirit: BIG bold condensed display moments,
+   serif italic for warmer headings/quotes, clean sans body.
+   ============================================================ */
+
+body, .body {
+  font-family: var(--font-body);
+  font-size: var(--fs-base);
+  color: var(--text);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.poster {
+  font-family: var(--font-headline);
+  font-weight: 400;
+  font-size: var(--fs-poster);
+  line-height: 0.9;
+  letter-spacing: -0.005em;
+  text-transform: uppercase;
+  color: var(--text);
+}
+
+.h1 {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 500;
+  font-size: var(--fs-3xl);
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  color: var(--text);
+}
+
+.h2 {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 500;
+  font-size: var(--fs-2xl);
+  line-height: 1.2;
+  color: var(--text);
+}
+
+.h3 {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 600;
+  font-size: var(--fs-lg);
+  line-height: 1.3;
+  color: var(--text);
+}
+
+.h-section {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 600;
+  font-size: var(--fs-base);
+  color: var(--text);
+}
+
+.p, p {
+  font-family: var(--font-body);
+  font-size: var(--fs-sm);
+  line-height: 1.6;
+  color: var(--text);
+}
+
+.p-quote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--fs-sm);
+  line-height: 1.5;
+  color: var(--text);
+}
+
+.caption {
+  font-family: var(--font-body);
+  font-size: var(--fs-xs);
+  color: var(--text-faint);
+}
+
+.label {
+  font-family: var(--font-body);
+  font-size: var(--fs-xs);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+
+.tag {
+  font-family: var(--font-body);
+  font-size: var(--fs-xs);
+  font-weight: 600;
+  padding: 2px 8px;
+  border-radius: var(--radius-pill);
+  background: var(--accent-light);
+  color: var(--accent);
+}
