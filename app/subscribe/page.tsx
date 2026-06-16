@@ -6,12 +6,44 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 type Status = 'idle' | 'loading' | 'success' | 'error'
+type CheckoutStatus = 'idle' | 'loading' | 'error'
 
 export default function SubscribePage() {
   const [email, setEmail] = useState('')
   const [lang, setLang] = useState('pt')
   const [status, setStatus] = useState<Status>('idle')
   const [errorMsg, setErrorMsg] = useState('')
+
+  const [premiumEmail, setPremiumEmail] = useState('')
+  const [checkoutStatus, setCheckoutStatus] = useState<CheckoutStatus>('idle')
+  const [checkoutError, setCheckoutError] = useState('')
+
+  async function handleCheckout(e: React.FormEvent) {
+    e.preventDefault()
+    setCheckoutStatus('loading')
+    setCheckoutError('')
+    try {
+      const res = await fetch('/api/stripe/checkout', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: premiumEmail }),
+      })
+      const data = await res.json()
+      if (!res.ok) { setCheckoutError(data.error || 'Erro'); setCheckoutStatus('error'); return }
+      window.location.href = data.url
+    } catch {
+      setCheckoutError('Falha de conexão.')
+      setCheckoutStatus('error')
+    }
+  }
+
+  async function handlePortal() {
+    try {
+      const res = await fetch('/api/stripe/portal', { method: 'POST' })
+      const data = await res.json()
+      if (res.ok && data.url) window.location.href = data.url
+    } catch { /* ignore */ }
+  }
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
@@ -158,6 +190,90 @@ export default function SubscribePage() {
                 &ldquo;Precision is the hallmark of the digital era.&rdquo;
               </p>
             </div>
+          </div>
+        </section>
+
+        {/* Pricing */}
+        <section className="px-6 md:px-grid-margin py-section-gap max-w-editorial mx-auto w-full border-t border-warm-gray">
+          <p className="font-dm-mono text-[0.65rem] tracking-[0.18em] uppercase text-muted mb-10">Planos</p>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-px bg-warm-gray">
+
+            {/* Free */}
+            <div className="bg-cream p-10 flex flex-col gap-6">
+              <div>
+                <p className="font-dm-mono text-[0.6rem] tracking-[0.15em] uppercase text-muted mb-2">Gratuito</p>
+                <p className="font-syne font-extrabold text-4xl text-ink tracking-[-0.04em]">R$ 0</p>
+                <p className="font-cormorant font-light text-muted text-sm mt-1">para sempre</p>
+              </div>
+              <ul className="flex flex-col gap-3">
+                {[
+                  'Leitura ilimitada no blog',
+                  'Briefing editorial de cada artigo',
+                  'Newsletter diária às 06h BRT',
+                ].map(item => (
+                  <li key={item} className="flex items-start gap-3 font-cormorant font-light text-muted text-base">
+                    <span className="font-dm-mono text-xs text-muted mt-0.5">✓</span>
+                    {item}
+                  </li>
+                ))}
+              </ul>
+              <p className="font-dm-mono text-[0.6rem] tracking-[0.1em] uppercase text-muted mt-auto pt-4 border-t border-warm-gray">
+                Preencha o formulário acima
+              </p>
+            </div>
+
+            {/* Premium */}
+            <div className="bg-ink p-10 flex flex-col gap-6">
+              <div>
+                <p className="font-dm-mono text-[0.6rem] tracking-[0.15em] uppercase mb-2" style={{ color: '#C9FF47' }}>Premium</p>
+                <p className="font-syne font-extrabold text-4xl text-white tracking-[-0.04em]">R$ 29,90</p>
+                <p className="font-cormorant font-light text-sm mt-1" style={{ color: '#7A7670' }}>por mês · 7 dias grátis</p>
+              </div>
+              <ul className="flex flex-col gap-3">
+                {[
+                  'Tudo do plano gratuito',
+                  'Slides prontos de cada edição',
+                  'Carrosseis para LinkedIn (4 variações)',
+                  'Acesso web a todo conteúdo visual',
+                ].map(item => (
+                  <li key={item} className="flex items-start gap-3 font-cormorant font-light text-base" style={{ color: '#C8C3B8' }}>
+                    <span className="font-dm-mono text-xs mt-0.5" style={{ color: '#C9FF47' }}>✓</span>
+                    {item}
+                  </li>
+                ))}
+              </ul>
+              <form onSubmit={handleCheckout} className="mt-auto pt-4 border-t flex flex-col gap-3" style={{ borderColor: '#2a2a28' }}>
+                <div className="flex border-b py-2" style={{ borderColor: '#C8C3B8' }}>
+                  <input
+                    type="email"
+                    required
+                    value={premiumEmail}
+                    onChange={e => setPremiumEmail(e.target.value)}
+                    placeholder="seu@email.com"
+                    className="bg-transparent border-none w-full focus:ring-0 focus:outline-none font-cormorant text-white text-lg placeholder:text-muted"
+                  />
+                  <button
+                    type="submit"
+                    disabled={checkoutStatus === 'loading'}
+                    className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-white hover:opacity-70 transition-opacity px-4 flex-shrink-0 disabled:opacity-40"
+                  >
+                    {checkoutStatus === 'loading' ? '...' : 'Assinar →'}
+                  </button>
+                </div>
+                {checkoutError && (
+                  <p className="font-dm-mono text-[0.6rem] tracking-[0.08em]" style={{ color: '#ff6b6b' }}>{checkoutError}</p>
+                )}
+                <button
+                  type="button"
+                  onClick={handlePortal}
+                  className="font-dm-mono text-[0.55rem] tracking-[0.1em] uppercase text-left hover:opacity-70 transition-opacity"
+                  style={{ color: '#7A7670' }}
+                >
+                  Já assino — gerenciar assinatura →
+                </button>
+              </form>
+            </div>
+
           </div>
         </section>
 

@@ -8,6 +8,10 @@ export type Subscriber = {
   confirm_token: string
   created_at: string
   unsubscribed_at: string | null
+  plan: 'free' | 'premium'
+  stripe_customer_id: string | null
+  stripe_subscription_id: string | null
+  plan_expires_at: string | null
 }
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any

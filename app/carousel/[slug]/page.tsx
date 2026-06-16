@@ -1,18 +1,26 @@
 import { notFound } from 'next/navigation'
+import { cookies } from 'next/headers'
 import Link from 'next/link'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import CarouselViewer from '@/components/CarouselViewer'
+import PremiumGate from '@/components/PremiumGate'
 import { getCarousels } from '@/lib/content-data'
 import { getSortedArticlesData } from '@/lib/markdown'
+import { verifyAccessToken } from '@/lib/auth'
 
-export default function CarouselPage({ params }: { params: { slug: string } }) {
+export default async function CarouselPage({ params }: { params: { slug: string } }) {
   const carousels = getCarousels(params.slug)
   if (!carousels || carousels.length === 0) notFound()
 
   const articles = getSortedArticlesData()
   const article = articles.find(a => a.slug === params.slug)
   const title = article?.title || params.slug
+
+  const cookieStore = cookies()
+  const token = cookieStore.get('tf_access')?.value
+  const access = token ? await verifyAccessToken(token) : null
+  const isPremium = access?.plan === 'premium'
 
   return (
     <>
@@ -35,22 +43,27 @@ export default function CarouselPage({ params }: { params: { slug: string } }) {
             {title}
           </h1>
 
-          <CarouselViewer carousels={carousels} />
-
-          <div className="border-t border-warm-gray pt-8 mt-10 flex flex-wrap gap-6">
-            <Link
-              href={`/resumo/${params.slug}`}
-              className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-ink hover:text-muted transition-colors"
-            >
-              Ver Briefing →
-            </Link>
-            <Link
-              href={`/slides/${params.slug}`}
-              className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-ink hover:text-muted transition-colors"
-            >
-              Ver Slides →
-            </Link>
-          </div>
+          {isPremium ? (
+            <>
+              <CarouselViewer carousels={carousels} />
+              <div className="border-t border-warm-gray pt-8 mt-10 flex flex-wrap gap-6">
+                <Link
+                  href={`/resumo/${params.slug}`}
+                  className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-ink hover:text-muted transition-colors"
+                >
+                  Ver Briefing →
+                </Link>
+                <Link
+                  href={`/slides/${params.slug}`}
+                  className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-ink hover:text-muted transition-colors"
+                >
+                  Ver Slides →
+                </Link>
+              </div>
+            </>
+          ) : (
+            <PremiumGate articleTitle={title} />
+          )}
 
         </div>
       </main>
