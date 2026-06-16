@@ -1,0 +1,222 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "SpaceX Abre Capital",
+        "subtext": "Um novo capítulo na história da tecnologia"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IPO da SpaceX",
+        "body": "A empresa busca arrecadar fundos para impulsionar sua expansão"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2026",
+        "stat_label": "Ano em que a SpaceX realizou sua IPO"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A SpaceX está bem posicionada para desempenhar um papel central na evolução da tecnologia"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Inovação Contínua",
+        "body": "A capacidade da SpaceX de inovar e investir em tecnologias de ponta"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Fontes Consultadas",
+        "items": [
+          "TechCrunch",
+          "The Verge",
+          "WIRED"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer saber mais sobre a IPO da SpaceX?",
+        "highlight_word": "SpaceX",
+        "subtext": "Leia o artigo completo para entender como isso pode impactar o futuro da tecnologia"
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como a IPO da SpaceX afeta você",
+        "subtext": "Entenda como isso pode mudar sua vida e trabalho"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Investimento em Tecnologia",
+        "body": "A IPO da SpaceX pode ser uma oportunidade de investimento em tecnologia inovadora"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2026",
+        "stat_label": "Ano em que a SpaceX se tornou uma empresa pública"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A abertura do capital pode influenciar a dinâmica do mercado de tecnologia"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Oportunidades de Trabalho",
+        "body": "A expansão da SpaceX pode criar novas oportunidades de trabalho em tecnologia"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Setores Afetados",
+        "items": [
+          "Tecnologia",
+          "Aeroespacial",
+          "Energia Renovável"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer saber como a IPO da SpaceX pode afetar sua carreira?",
+        "highlight_word": "carreira",
+        "subtext": "Leia o artigo completo para entender as oportunidades e desafios"
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Números da IPO da SpaceX",
+        "subtext": "Entenda os dados por trás da abertura do capital"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Ano da IPO",
+        "body": "A SpaceX realizou sua IPO em 2026"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2026",
+        "stat_label": "Ano em que a SpaceX se tornou uma empresa pública"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A IPO da SpaceX é um evento altamente antecipado"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Setor de Atuação",
+        "body": "A SpaceX atua no setor aeroespacial e de tecnologia"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Principais Fontes de Informação",
+        "items": [
+          "TechCrunch",
+          "The Verge",
+          "WIRED"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer saber mais sobre os números da IPO da SpaceX?",
+        "highlight_word": "números",
+        "subtext": "Leia o artigo completo para entender os dados por trás da abertura do capital"
+      }
+    ],
+    "template": "D"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Tecnologia",
+        "subtext": "Entenda como a IPO da SpaceX pode afetar o futuro"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Inovação e Crescimento",
+        "body": "A IPO da SpaceX pode impulsionar a inovação e o crescimento da empresa"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2026",
+        "stat_label": "Ano em que a SpaceX se tornou uma empresa pública"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A SpaceX está bem posicionada para desempenhar um papel central na evolução da tecnologia"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Desafios e Oportunidades",
+        "body": "A IPO da SpaceX pode trazer desafios e oportunidades para a empresa e o setor"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Principais Desafios",
+        "items": [
+          "Concorrência",
+          "Regulação",
+          "Inovação Contínua"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer saber mais sobre o futuro da tecnologia e a IPO da SpaceX?",
+        "highlight_word": "futuro",
+        "subtext": "Leia o artigo completo para entender as consequências e oportunidades"
+      }
+    ],
+    "template": "F"
+  }
+]

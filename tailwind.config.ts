@@ -14,7 +14,7 @@ const config: Config = {
         paper:       '#EDE8DC',
         'warm-gray': '#C8C3B8',
         muted:       '#7A7670',
-        electric:    '#C9FF47',
+        electric:    '#FF3D00',
         // body defaults
         background:  '#F4F0E8',
       },

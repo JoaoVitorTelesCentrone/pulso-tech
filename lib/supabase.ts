@@ -14,7 +14,6 @@ export type Subscriber = {
   plan_expires_at: string | null
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
 export type AppSupabase = SupabaseClient<any>
 
 export function getSupabase(): AppSupabase {

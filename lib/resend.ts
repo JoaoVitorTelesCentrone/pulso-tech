@@ -1,38 +1,55 @@
-import { Resend } from 'resend'
-
-export function getResend() {
-  return new Resend(process.env.RESEND_API_KEY)
-}
-
-const FROM = 'Tech&Future <newsletter@techfuture.com.br>'
+const FROM_NAME = 'Pulso'
+const FROM_EMAIL = 'pulsotech@proton.me'
 
 function siteUrl() {
-  return process.env.NEXT_PUBLIC_SITE_URL || 'https://techfuture.com.br'
+  return process.env.NEXT_PUBLIC_SITE_URL || 'https://pulso.news'
+}
+
+async function brevoSend(to: string, subject: string, html: string) {
+  const res = await fetch('https://api.brevo.com/v3/smtp/email', {
+    method: 'POST',
+    headers: {
+      'api-key': process.env.BREVO_API_KEY!,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      sender: { name: FROM_NAME, email: FROM_EMAIL },
+      to: [{ email: to }],
+      subject,
+      htmlContent: html,
+    }),
+  })
+
+  if (!res.ok) {
+    const err = await res.text()
+    throw new Error(`Brevo error ${res.status}: ${err}`)
+  }
+
+  return res.json()
 }
 
 export async function sendConfirmationEmail(email: string, confirmToken: string) {
   const confirmUrl = `${siteUrl()}/api/confirm?token=${confirmToken}`
 
-  return getResend().emails.send({
-    from: FROM,
-    to: email,
-    subject: 'Confirme sua assinatura — Tech&Future Morning Report',
-    html: `<!DOCTYPE html>
+  return brevoSend(
+    email,
+    'Confirme sua assinatura — Pulso',
+    `<!DOCTYPE html>
 <html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
 <body style="margin:0;padding:0;background:#EDE8DC;font-family:Georgia,serif">
 <div style="max-width:600px;margin:0 auto;padding:40px 20px">
 
-  <div style="background:#0D0D0B;padding:32px 40px">
-    <p style="margin:0 0 4px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#C9FF47">Morning Report</p>
-    <p style="margin:0;font-size:22px;font-weight:800;color:#F4F0E8;letter-spacing:-0.04em">Tech<span style="color:#C9FF47;font-style:italic">&</span>Future</p>
+  <div style="background:#0D0D0B;padding:32px 40px;display:flex;align-items:center;gap:10px">
+    <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#FF3D00;flex-shrink:0"></span>
+    <p style="margin:0;font-size:22px;font-weight:800;color:#F4F0E8;letter-spacing:-0.04em">Pulso</p>
   </div>
 
   <div style="background:#F4F0E8;padding:40px;border-left:1px solid #C8C3B8;border-right:1px solid #C8C3B8">
     <p style="margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.15em;text-transform:uppercase;color:#7A7670">Falta um passo</p>
     <h1 style="margin:0 0 20px;font-size:26px;font-weight:800;color:#0D0D0B;letter-spacing:-0.03em;line-height:1.1">Confirme seu email</h1>
-    <p style="margin:0 0 28px;font-size:15px;color:#7A7670;line-height:1.6">Clique no botão abaixo para ativar sua assinatura e começar a receber o digest diário de tecnologia e IA às 06h BRT.</p>
+    <p style="margin:0 0 28px;font-size:15px;color:#7A7670;line-height:1.6">Clique no botão abaixo para ativar sua assinatura e começar a receber o Pulso — digest diário de tecnologia e IA — às 06h BRT.</p>
 
-    <a href="${confirmUrl}" style="display:inline-block;background:#0D0D0B;color:#F4F0E8;padding:16px 32px;font-family:'Courier New',monospace;font-size:11px;letter-spacing:0.15em;text-transform:uppercase;text-decoration:none">
+    <a href="${confirmUrl}" style="display:inline-block;background:#FF3D00;color:#F4F0E8;padding:16px 32px;font-family:'Courier New',monospace;font-size:11px;letter-spacing:0.15em;text-transform:uppercase;text-decoration:none">
       Confirmar Assinatura →
     </a>
 
@@ -40,12 +57,12 @@ export async function sendConfirmationEmail(email: string, confirmToken: string)
   </div>
 
   <div style="background:#0D0D0B;padding:20px 40px">
-    <p style="margin:0;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#7A7670">Tech&Future · JV Centrone · ${new Date().getFullYear()}</p>
+    <p style="margin:0;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#7A7670">Pulso · JV Centrone · ${new Date().getFullYear()}</p>
   </div>
 
 </div>
-</body></html>`,
-  })
+</body></html>`
+  )
 }
 
 export type DigestArticle = {
@@ -85,33 +102,34 @@ export async function sendDigestEmail(
 
   const subject = articles.length === 1
     ? articles[0].title
-    : `${articles.length} artigos de hoje — Tech&Future`
+    : `Pulso de hoje — ${articles.length} análises de tecnologia e IA`
 
-  return getResend().emails.send({
-    from: FROM,
-    to: email,
+  return brevoSend(
+    email,
     subject,
-    html: `<!DOCTYPE html>
+    `<!DOCTYPE html>
 <html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
 <body style="margin:0;padding:0;background:#EDE8DC;font-family:Georgia,serif">
 <div style="max-width:600px;margin:0 auto;padding:40px 20px">
 
   <div style="background:#0D0D0B;padding:32px 40px">
-    <p style="margin:0 0 4px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#C9FF47">${dateStr}</p>
-    <p style="margin:0 0 4px;font-size:22px;font-weight:800;color:#F4F0E8;letter-spacing:-0.04em">Tech<span style="color:#C9FF47;font-style:italic">&</span>Future</p>
-    <p style="margin:0;font-family:'Courier New',monospace;font-size:10px;color:#7A7670;letter-spacing:0.08em">Morning Report</p>
+    <p style="margin:0 0 10px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#7A7670">${dateStr}</p>
+    <div style="display:flex;align-items:center;gap:10px">
+      <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#FF3D00;flex-shrink:0"></span>
+      <p style="margin:0;font-size:22px;font-weight:800;color:#F4F0E8;letter-spacing:-0.04em">Pulso</p>
+    </div>
   </div>
 
   <div style="background:#F4F0E8;padding:32px 40px;border-left:1px solid #C8C3B8;border-right:1px solid #C8C3B8">
     ${articlesHtml}
   </div>
 
-  <div style="background:#0D0D0B;padding:20px 40px;display:flex;justify-content:space-between;align-items:center">
-    <p style="margin:0;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#7A7670">Tech&Future · Morning Report</p>
-    <a href="${unsubscribeUrl}" style="font-family:'Courier New',monospace;font-size:10px;color:#7A7670;text-decoration:none;letter-spacing:0.08em">Cancelar</a>
+  <div style="background:#0D0D0B;padding:20px 40px">
+    <p style="margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#7A7670">Pulso · O ritmo da tecnologia</p>
+    <a href="${unsubscribeUrl}" style="font-family:'Courier New',monospace;font-size:10px;color:#7A7670;text-decoration:none;letter-spacing:0.08em">Cancelar assinatura</a>
   </div>
 
 </div>
-</body></html>`,
-  })
+</body></html>`
+  )
 }

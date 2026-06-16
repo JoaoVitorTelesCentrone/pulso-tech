@@ -24,7 +24,7 @@ export default function ConfirmedPage({
               ? 'Link inválido'
               : isAlready
               ? 'Já confirmado'
-              : 'Bem-vindo ao Morning Report'}
+              : 'Bem-vindo ao Pulso'}
           </h1>
 
           <div className="w-12 h-px bg-electric mb-8" />
@@ -34,7 +34,7 @@ export default function ConfirmedPage({
               ? 'Este link de confirmação não é válido ou expirou. Tente se inscrever novamente.'
               : isAlready
               ? 'Seu email já estava confirmado. Você já receberá as edições diárias.'
-              : 'Sua assinatura está ativa. A partir de hoje você receberá o digest diário de tecnologia e IA às 06h BRT.'}
+              : 'Sua assinatura está ativa. A partir de hoje você receberá o Pulso — digest diário de tecnologia e IA — às 06h BRT.'}
           </p>
 
           <Link

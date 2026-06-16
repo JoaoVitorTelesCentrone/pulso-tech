@@ -1,0 +1,221 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "xAI e Segurança Nacional",
+        "subtext": "O papel da xAI nos gas turbines"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Desenvolvimento de IA",
+        "body": "xAI desenvolve soluções de IA para a indústria de energia"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "100%",
+        "stat_label": "dos gas turbines da xAI são considerados uma questão de segurança nacional"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "segurança nacional, econômica e energética"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Implicações para a Energia",
+        "body": "Os gas turbines não autorizados podem afetar a estabilidade do sistema energético"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Fontes Consultadas",
+        "items": [
+          "DOJ",
+          "Departamento de Energia dos EUA",
+          "Bloomberg"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Saiba mais sobre a xAI",
+        "highlight_word": "xAI",
+        "subtext": "Leia o artigo completo para entender as implicações"
+      }
+    ],
+    "template": "F"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como a xAI afeta você",
+        "subtext": "O impacto da xAI nos gas turbines"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Energia e Segurança",
+        "body": "A xAI pode afetar a estabilidade do sistema energético"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "100%",
+        "stat_label": "da população depende da energia gerada por gas turbines"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "segurança nacional e energia são fundamentais"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências para a Indústria",
+        "body": "A xAI pode ser responsável por danos ao meio ambiente"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Setores Afetados",
+        "items": [
+          "Indústria de Energia",
+          "Meio Ambiente",
+          "Segurança Nacional"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Entenda o impacto da xAI",
+        "highlight_word": "xAI",
+        "subtext": "Leia o artigo completo para saber mais"
+      }
+    ],
+    "template": "D"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Estatísticas da xAI",
+        "subtext": "Números e fatos sobre a xAI"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Desenvolvimento de IA",
+        "body": "xAI desenvolve soluções de IA para a indústria de energia"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "100%",
+        "stat_label": "dos gas turbines da xAI são considerados uma questão de segurança nacional"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "segurança nacional, econômica e energética"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Implicações para a Energia",
+        "body": "Os gas turbines não autorizados podem afetar a estabilidade do sistema energético"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Estatísticas",
+        "items": [
+          "100% dos gas turbines são considerados uma questão de segurança nacional",
+          "xAI é uma das principais empresas de tecnologia no setor de energia"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Veja os números da xAI",
+        "highlight_word": "xAI",
+        "subtext": "Leia o artigo completo para entender as estatísticas"
+      }
+    ],
+    "template": "C"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da xAI",
+        "subtext": "Consequências para a xAI e a indústria de energia"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Consequências para a xAI",
+        "body": "A xAI pode ser responsável por danos ao meio ambiente"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "100%",
+        "stat_label": "da população depende da energia gerada por gas turbines"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "segurança nacional e energia são fundamentais"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Futuro da Indústria de Energia",
+        "body": "A xAI pode ser uma das principais empresas de tecnologia no setor de energia"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Possíveis Consequências",
+        "items": [
+          "Multas e perda de licenças",
+          "Danos ao meio ambiente",
+          "Impacto na estabilidade do sistema energético"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Entenda o futuro da xAI",
+        "highlight_word": "xAI",
+        "subtext": "Leia o artigo completo para saber mais sobre as consequências"
+      }
+    ],
+    "template": "B"
+  }
+]

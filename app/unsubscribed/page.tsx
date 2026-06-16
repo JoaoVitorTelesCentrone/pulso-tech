@@ -19,7 +19,7 @@ export default function UnsubscribedPage() {
           <div className="w-12 h-px bg-warm-gray mb-8" />
 
           <p className="font-cormorant font-light text-muted text-xl leading-relaxed mb-10">
-            Lamentamos ver você partir. Você não receberá mais emails do Tech&amp;Future Morning Report.
+            Lamentamos ver você partir. Você não receberá mais emails do Pulso.
             Se mudar de ideia, pode se inscrever novamente a qualquer momento.
           </p>
 

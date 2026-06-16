@@ -1,0 +1,53 @@
+{
+  "title": "O Futuro da Realidade Aumentada: Análise das Óculos AR da Snap",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionizando a Realidade",
+      "subtext": "Descubra como as óculos AR da Snap estão mudando o jogo",
+      "image_prompt": "futurista cidade com óculos de realidade aumentada"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A realidade aumentada está se tornando cada vez mais presente em nossas vidas, transformando a forma como interagimos com o mundo ao nosso redor. A Snap está lançando as óculos AR Specs, que prometem ser um dispositivo inovador e acessível.",
+      "highlight": "Lançamento no outono de 2026 por $2.195"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "As óculos AR da Snap são projetadas para ser um dispositivo wearable que combina a funcionalidade de um smartphone com a experiência de realidade aumentada, permitindo que os usuários capturem e compartilhem momentos de suas vidas de uma maneira completamente nova.",
+      "visual_hint": "ícone de câmera ou smartphone"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O lançamento das óculos AR da Snap tem implicações significativas para o mercado de tecnologia, representando um desafio direto às empresas estabelecidas no mercado de óculos AR e potencialmente impulsionando a adoção e o desenvolvimento de aplicações e conteúdo para esses dispositivos.",
+      "visual_hint": "gráfico de crescimento ou ícone de competição"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Preço de lançamento: $2.195",
+        "Depósito de pré-venda: $200",
+        "Lançamento no outono de 2026"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mudanças no mercado de tecnologia",
+        "Novas oportunidades para desenvolvedores e empresas",
+        "Potencial impacto na privacidade e segurança dos usuários"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e tendências em realidade aumentada e tecnologia"
+    }
+  ]
+}

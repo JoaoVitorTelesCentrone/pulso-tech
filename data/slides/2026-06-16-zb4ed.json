@@ -1,0 +1,53 @@
+{
+  "title": "Inovações em Câmeras Estabilizadas: O Que o DJI Osmo Pocket 4P Oferece",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Revolutionize Sua Captura de Vídeo",
+      "subtext": "Descubra o Poder do DJI Osmo Pocket 4P",
+      "image_prompt": "uma câmera estabilizada em ação em um ambiente urbano"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário Atual",
+      "body": "A tecnologia de câmeras estabilizadas evoluiu significativamente, permitindo capturas de alta qualidade. O DJI Osmo Pocket 4P é a última inovação nesse campo.",
+      "highlight": "Sensor de 1 polegada para melhor desempenho em baixa luz"
+    },
+    {
+      "type": "insight",
+      "heading": "O que o DJI Osmo Pocket 4P Oferece",
+      "body": "A câmera traz um sensor de 1 polegada, estabilização de imagem avançada e capacidade de capturar vídeos em 4K, tornando-a uma ferramenta poderosa para criadores de conteúdo.",
+      "visual_hint": "ícone de uma câmera com uma lente destacada"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que o DJI Osmo Pocket 4P Importa",
+      "body": "Oferece melhor qualidade de imagem, estabilização avançada e portabilidade, tornando-se essencial para profissionais e entusiastas de vídeo.",
+      "visual_hint": "imagem de alguém segurando a câmera, destacando sua portabilidade"
+    },
+    {
+      "type": "data",
+      "heading": "Especificações Técnicas",
+      "bullets": [
+        "Sensor de 1 polegada",
+        "Estabilização de imagem de 3 eixos",
+        "Captação de vídeo em 4K"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O Futuro da Captura de Vídeo",
+      "bullets": [
+        "Conteúdo de alta qualidade para todos",
+        "Nova era para criadores de conteúdo",
+        "Inovações contínuas na tecnologia de câmeras"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe Nossas Atualizações para Mais Notícias de Tecnologia",
+      "subtext": "Mantenha-se à frente da curva com as últimas inovações em câmeras estabilizadas e muito mais."
+    }
+  ]
+}

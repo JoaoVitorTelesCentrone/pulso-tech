@@ -1,0 +1,222 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Telegram Banido",
+        "subtext": "Índia toma medidas contra fraude"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA contra Fraude",
+        "body": "Análise de dados para prevenir fraude"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "milhões",
+        "stat_label": "Usuários do Telegram na Índia"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A IA está revolucionando a detecção de fraude"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Mecanismos de Prevenção",
+        "body": "Desenvolvimento de algoritmos para prever fraude"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Países que baniram o Telegram",
+        "items": [
+          "Rússia",
+          "China",
+          "Índia"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Saiba mais sobre o impacto do banimento",
+        "highlight_word": "banimento",
+        "subtext": "Leia o artigo completo para entender as consequências"
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como o banimento afeta você",
+        "subtext": "Impacto na vida e no trabalho"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Inconvenientes para usuários",
+        "body": "Dificuldades para se comunicar com amigos e familiares"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "milhões",
+        "stat_label": "Usuários do Telegram que podem ser afetados"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "O banimento pode afetar a forma como as pessoas se comunicam"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Impacto na economia",
+        "body": "Perdas financeiras para empresas e organizações"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Setores afetados pelo banimento",
+        "items": [
+          "Comunicação",
+          "Economia",
+          "Educação"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Entenda como o banimento pode afetar sua vida",
+        "highlight_word": "banimento",
+        "subtext": "Leia o artigo completo para saber mais"
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Estatísticas do banimento",
+        "subtext": "Números e fatos sobre o Telegram"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Usuários do Telegram",
+        "body": "Milhões de usuários na Índia"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2022",
+        "stat_label": "Ano em que a Índia começou a tomar medidas contra o Telegram"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A IA está sendo utilizada para prevenir fraude"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Países que baniram o Telegram",
+        "body": "Rússia, China e Índia"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Estatísticas sobre o uso do Telegram",
+        "items": [
+          "Milhões de usuários",
+          "Anos de existência",
+          "Países onde é popular"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Veja mais estatísticas sobre o banimento",
+        "highlight_word": "estatísticas",
+        "subtext": "Leia o artigo completo para saber mais"
+      }
+    ],
+    "template": "F"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O que acontece a seguir",
+        "subtext": "Consequências do banimento do Telegram"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Impacto na economia",
+        "body": "Perdas financeiras para empresas e organizações"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2022",
+        "stat_label": "Ano em que a Índia começou a tomar medidas contra o Telegram"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "O banimento pode ter consequências mais amplas"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Futuro do Telegram",
+        "body": "Desenvolvimento de novas funcionalidades para prevenir fraude"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Consequências do banimento",
+        "items": [
+          "Impacto na economia",
+          "Perdas financeiras",
+          "Desenvolvimento de novas funcionalidades"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Saiba mais sobre as consequências do banimento",
+        "highlight_word": "banimento",
+        "subtext": "Leia o artigo completo para entender as implicações"
+      }
+    ],
+    "template": "C"
+  }
+]

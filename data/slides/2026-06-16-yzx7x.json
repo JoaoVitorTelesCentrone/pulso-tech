@@ -1,0 +1,53 @@
+{
+  "title": "A Revolução dos Pagamentos: Como a Flutterwave Está Redefinindo o Setor com Inteligência Artificial",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Futuro dos Pagamentos: Mais Rápido, Mais Seguro e Mais Inteligente",
+      "subtext": "Descubra como a Flutterwave está revolucionando o setor de pagamentos com inteligência artificial",
+      "image_prompt": "uma imagem de uma cidade futurista com tecnologia avançada"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria de pagamentos está passando por uma revolução silenciosa, impulsionada pela adoção crescente da inteligência artificial e tecnologias emergentes. A Flutterwave, uma empresa de infraestrutura de pagamentos africana, acaba de alcançar uma valorização de US$ 3,2 bilhões.",
+      "highlight": "US$ 3,2 bilhões"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Flutterwave está utilizando a inteligência artificial para melhorar a segurança e a eficiência das transações financeiras, permitindo que empresas e indivíduos realizem transações de forma mais rápida e segura.",
+      "visual_hint": "um ícone de uma trava de segurança"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A revolução dos pagamentos tem o potencial de transformar a forma como as pessoas e as empresas realizam transações financeiras, tornando-as mais rápidas, seguras e acessíveis.",
+      "visual_hint": "um gráfico de crescimento"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 3,2 bilhões de valorização",
+        "Mais de 1 milhão de transações processadas por dia",
+        "Mais de 100 países atendidos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Transações financeiras mais rápidas e seguras",
+        "Aumento da acessibilidade a serviços financeiros",
+        "Novas oportunidades de negócios e crescimento"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre a revolução dos pagamentos",
+      "subtext": "Fique por dentro das últimas notícias e tendências sobre a transformação do setor de pagamentos"
+    }
+  ]
+}

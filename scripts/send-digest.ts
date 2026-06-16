@@ -1,5 +1,4 @@
 import { createClient } from '@supabase/supabase-js'
-import { Resend } from 'resend'
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
@@ -8,9 +7,10 @@ import matter from 'gray-matter'
 
 const SUPABASE_URL = process.env.SUPABASE_URL!
 const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY!
-const RESEND_API_KEY = process.env.RESEND_API_KEY!
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://techfuture.com.br'
-const FROM = 'Tech&Future <newsletter@techfuture.com.br>'
+const BREVO_API_KEY = process.env.BREVO_API_KEY!
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://pulso.news'
+const FROM_NAME = 'Pulso'
+const FROM_EMAIL = 'pulsotech@proton.me'
 
 const DIGEST_HISTORY_PATH = path.join(process.cwd(), 'data', 'digest-sent.json')
 
@@ -97,9 +97,11 @@ function buildDigestHtml(articles: ArticleMeta[], unsubscribeUrl: string): strin
 <div style="max-width:600px;margin:0 auto;padding:40px 20px">
 
   <div style="background:#0D0D0B;padding:32px 40px">
-    <p style="margin:0 0 4px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#C9FF47">${dateStr}</p>
-    <p style="margin:0 0 4px;font-size:22px;font-weight:800;color:#F4F0E8;letter-spacing:-0.04em">Tech<span style="color:#C9FF47;font-style:italic">&</span>Future</p>
-    <p style="margin:0;font-family:'Courier New',monospace;font-size:10px;color:#7A7670;letter-spacing:0.08em">Morning Report</p>
+    <p style="margin:0 0 10px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.2em;text-transform:uppercase;color:#7A7670">${dateStr}</p>
+    <div style="display:flex;align-items:center;gap:10px">
+      <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#FF3D00;flex-shrink:0"></span>
+      <p style="margin:0;font-size:22px;font-weight:800;color:#F4F0E8;letter-spacing:-0.04em">Pulso</p>
+    </div>
   </div>
 
   <div style="background:#F4F0E8;padding:32px 40px;border-left:1px solid #C8C3B8;border-right:1px solid #C8C3B8">
@@ -107,7 +109,7 @@ function buildDigestHtml(articles: ArticleMeta[], unsubscribeUrl: string): strin
   </div>
 
   <div style="background:#0D0D0B;padding:20px 40px">
-    <p style="margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#7A7670">Tech&Future · Morning Report</p>
+    <p style="margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#7A7670">Pulso · O ritmo da tecnologia</p>
     <a href="${unsubscribeUrl}" style="font-family:'Courier New',monospace;font-size:10px;color:#7A7670;text-decoration:none;letter-spacing:0.08em">Cancelar assinatura</a>
   </div>
 
@@ -136,7 +138,6 @@ async function main() {
   console.log(`[DIGEST] ${articles.length} artigo(s) encontrado(s) para hoje.`)
 
   const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY)
-  const resend = new Resend(RESEND_API_KEY)
 
   const { data: subscribers, error } = await supabase
     .from('subscribers')
@@ -159,7 +160,7 @@ async function main() {
 
   const subject = articles.length === 1
     ? articles[0].title
-    : `${articles.length} artigos de hoje — Tech&Future`
+    : `Pulso de hoje — ${articles.length} análises de tecnologia e IA`
 
   let sent = 0
   let failed = 0
@@ -169,7 +170,20 @@ async function main() {
     const html = buildDigestHtml(articles, unsubscribeUrl)
 
     try {
-      await resend.emails.send({ from: FROM, to: sub.email, subject, html })
+      const res = await fetch('https://api.brevo.com/v3/smtp/email', {
+        method: 'POST',
+        headers: {
+          'api-key': BREVO_API_KEY,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          sender: { name: FROM_NAME, email: FROM_EMAIL },
+          to: [{ email: sub.email }],
+          subject,
+          htmlContent: html,
+        }),
+      })
+      if (!res.ok) throw new Error(await res.text())
       sent++
       console.log(`  ✓ ${sub.email}`)
     } catch (err) {
@@ -177,8 +191,8 @@ async function main() {
       console.error(`  ✗ ${sub.email}:`, err)
     }
 
-    // Resend free tier: 2 emails/sec — small delay to be safe
-    await new Promise(r => setTimeout(r, 600))
+    // Brevo free tier: ~10 emails/sec — pequeno delay para segurança
+    await new Promise(r => setTimeout(r, 200))
   }
 
   markDigestSent(today)

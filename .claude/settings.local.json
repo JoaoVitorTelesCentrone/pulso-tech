@@ -16,7 +16,8 @@
       "Bash(git pull *)",
       "Bash(npx shadcn@latest init --yes --defaults)",
       "PowerShell(cd C:\\\\Projects\\\\lpback\\\\tech-blog; npx tsc --noEmit 2>&1 | Where-Object { $_ -match \"CarouselViewer|content-data|ai-generator\" })",
-      "Bash(npx tsc *)"
+      "Bash(npx tsc *)",
+      "Bash(npm run *)"
     ]
   }
 }

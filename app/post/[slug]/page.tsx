@@ -2,6 +2,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import { getArticleData } from '@/lib/markdown'
 import { hasContent } from '@/lib/content-data'
+import { PremiumCTA } from '@/components/PremiumCTA'
 import Link from 'next/link'
 
 export default async function PostPage({ params }: { params: { slug: string } }) {
@@ -78,13 +79,15 @@ export default async function PostPage({ params }: { params: { slug: string } })
           <div
             className="prose prose-lg max-w-none
                        prose-headings:font-syne prose-headings:font-bold prose-headings:tracking-tight
-                       prose-p:font-cormorant prose-p:font-light prose-p:text-[1.15rem] prose-p:leading-[1.85]
+                       prose-p:font-cormorant prose-p:text-[1.15rem] prose-p:leading-[1.85]
                        prose-a:text-ink prose-a:underline hover:prose-a:no-underline
                        prose-strong:font-cormorant prose-strong:font-semibold
                        prose-blockquote:font-cormorant prose-blockquote:italic prose-blockquote:border-l-2 prose-blockquote:border-warm-gray prose-blockquote:text-muted
                        prose-code:font-dm-mono prose-code:text-sm prose-code:bg-paper prose-code:px-1"
             dangerouslySetInnerHTML={{ __html: article.contentHtml }}
           />
+
+          <PremiumCTA />
         </article>
       </main>
       <Footer />

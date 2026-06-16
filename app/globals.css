@@ -9,12 +9,19 @@
     --paper:     #EDE8DC;
     --warm-gray: #C8C3B8;
     --muted:     #7A7670;
-    --electric:  #C9FF47;
+    --electric:  #FF3D00;
   }
 
   html {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    /* Respect iPhone notch for dock */
+    padding-bottom: env(safe-area-inset-bottom, 0px);
+  }
+
+  /* Minimum touch target size */
+  a, button {
+    -webkit-tap-highlight-color: transparent;
   }
 }
 

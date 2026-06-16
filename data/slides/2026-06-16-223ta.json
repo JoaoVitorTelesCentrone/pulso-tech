@@ -1,0 +1,53 @@
+{
+  "title": "Consumidores Americanos Desconfiam da Inteligência Artificial: Um Desafio para as Empresas",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Desconfiança na Era Digital",
+      "subtext": "Como a Inteligência Artificial está mudando a forma como os consumidores americanos veem as marcas",
+      "image_prompt": "uma imagem de uma pessoa olhando para um robô com desconfiança"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Inteligência Artificial está cada vez mais presente em nossas vidas, mas os consumidores americanos estão começando a questionar sua utilidade e confiabilidade. Uma recente pesquisa mostrou que 60% dos consumidores americanos consideram a menção à IA na comunicação de marca como um fator negativo.",
+      "highlight": "60% dos consumidores americanos desconfiam da IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A desconfiança dos consumidores em relação à IA é um fenômeno complexo que envolve uma série de fatores, incluindo a falta de transparência sobre como a IA é utilizada pelas empresas e a preocupação com a privacidade e os empregos.",
+      "visual_hint": "um ícone de uma pessoa com uma máscara de vigilância"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A desconfiança dos consumidores em relação à IA pode ter um impacto significativo nas empresas que investem em soluções de IA. Se as empresas não forem capazes de abordar as preocupações dos consumidores, elas podem perder a confiança e a lealdade de seus clientes.",
+      "visual_hint": "um gráfico de tendência descendente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "60% dos consumidores americanos consideram a menção à IA na comunicação de marca como um fator negativo",
+        "70% dos consumidores americanos estão preocupados com a privacidade em relação à IA",
+        "80% dos consumidores americanos acreditam que as empresas devem ser mais transparentes sobre como a IA é utilizada"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "As empresas precisam ser mais transparentes sobre como a IA é utilizada",
+        "As empresas precisam abordar as preocupações dos consumidores sobre a privacidade e os empregos",
+        "As empresas precisam encontrar um equilíbrio entre a utilização da IA e a necessidade de ser transparente e honesta"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre como a Inteligência Artificial está mudando o mundo",
+      "subtext": "Fique por dentro das últimas notícias e tendências sobre IA e tecnologia"
+    }
+  ]
+}

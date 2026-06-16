@@ -1,0 +1,222 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA: Desconfiança dos Consumidores",
+        "subtext": "60% dos americanos veem IA como fator negativo"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA na Comunicação",
+        "body": "A IA é utilizada para melhorar a eficiência e experiência do cliente"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "60%",
+        "stat_label": "dos consumidores americanos consideram a menção à IA como um fator negativo"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "as empresas precisam encontrar um equilíbrio entre a utilização da IA e a transparência"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Transparência na IA",
+        "body": "as empresas precisam explicar como a IA é utilizada e quais são os benefícios"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Desafios da IA",
+        "items": [
+          "Falta de transparência",
+          "Ameaça aos empregos",
+          "Preocupações com a privacidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Como as Empresas Podem Superar a Desconfiança?",
+        "highlight_word": "Superar",
+        "subtext": "Leia o artigo completo para saber mais"
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA: Impacto na Vida dos Consumidores",
+        "subtext": "como a IA afeta a vida e o trabalho"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA no Trabalho",
+        "body": "a IA pode automatizar tarefas e melhorar a eficiência"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "60%",
+        "stat_label": "dos consumidores americanos consideram a menção à IA como um fator negativo"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "a IA pode ser uma ameaça aos empregos"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA na Vida Pessoal",
+        "body": "a IA pode melhorar a experiência do cliente e a vida pessoal"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios da IA",
+        "items": [
+          "Melhoria da eficiência",
+          "Aumento da produtividade",
+          "Melhoria da experiência do cliente"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Como a IA Pode Melhorar Sua Vida?",
+        "highlight_word": "Melhorar",
+        "subtext": "Leia o artigo completo para saber mais"
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA: Dados e Números",
+        "subtext": "estatísticas e fatos quantitativos sobre a IA"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA na Economia",
+        "body": "a IA pode gerar bilhões de dólares em receita"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "60%",
+        "stat_label": "dos consumidores americanos consideram a menção à IA como um fator negativo"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "a IA é uma das principais tendências tecnológicas"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA no Mercado",
+        "body": "a IA pode melhorar a eficiência e a produtividade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Estatísticas da IA",
+        "items": [
+          "60% dos consumidores americanos",
+          "74% dos desenvolvedores utilizam IA",
+          "52% das empresas investem em IA"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quais São os Números por Trás da IA?",
+        "highlight_word": "Números",
+        "subtext": "Leia o artigo completo para saber mais"
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA: Futuro e Consequências",
+        "subtext": "o que acontece a seguir com a IA"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "IA no Futuro",
+        "body": "a IA pode continuar a melhorar a eficiência e a produtividade"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2026",
+        "stat_label": "ano em que a IA pode se tornar uma das principais tecnologias"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "a IA pode ter consequências significativas para a sociedade"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Consequências da IA",
+        "body": "a IA pode ter impactos positivos e negativos na sociedade"
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Consequências da IA",
+        "items": [
+          "Melhoria da eficiência",
+          "Aumento da produtividade",
+          "Perda de empregos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "O que o Futuro Reserva para a IA?",
+        "highlight_word": "Futuro",
+        "subtext": "Leia o artigo completo para saber mais"
+      }
+    ],
+    "template": "C"
+  }
+]

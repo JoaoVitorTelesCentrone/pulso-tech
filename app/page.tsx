@@ -4,6 +4,7 @@ import Footer from '@/components/Footer'
 import Link from 'next/link'
 import { getSortedArticlesData } from '@/lib/markdown'
 import QuickSubscribeForm from '@/components/QuickSubscribeForm'
+import { HeroHeadline } from '@/components/HeroHeadline'
 
 export default function HomePage() {
   const allArticles = getSortedArticlesData()
@@ -40,31 +41,27 @@ export default function HomePage() {
         ) : (
           <>
             {/* ── Hero — ink background ── */}
-            <header className="bg-ink -mx-6 md:-mx-grid-margin mb-section-gap px-6 md:px-grid-margin py-16 md:py-24 relative overflow-hidden">
+            <header className="bg-ink -mx-6 md:-mx-grid-margin mb-section-gap px-6 md:px-grid-margin py-10 md:py-14 relative overflow-hidden">
               {/* Decorative circle */}
               <div
-                className="absolute top-0 right-0 w-80 h-80 rounded-full border border-white/[0.08] pointer-events-none"
+                className="absolute top-0 right-0 w-64 h-64 rounded-full border border-white/[0.06] pointer-events-none"
                 style={{ transform: 'translate(50%, -50%)' }}
               />
 
               {/* Eyebrow */}
-              <p className="font-dm-mono text-[0.65rem] tracking-[0.2em] uppercase text-electric flex items-center gap-3 mb-8">
-                <span className="inline-block w-5 h-px bg-electric flex-shrink-0" />
+              <p className="font-dm-mono text-[0.6rem] tracking-[0.2em] uppercase text-electric flex items-center gap-3 mb-5">
+                <span className="inline-block w-4 h-px bg-electric flex-shrink-0" />
                 Edição de {formatDate(latestDate)}
               </p>
 
               {/* Headline */}
-              <Link href={`/post/${mainArticle.slug}`} className="block max-w-3xl">
-                <h1 className="font-syne font-extrabold text-white leading-[0.9] tracking-[-0.04em] text-4xl sm:text-5xl lg:text-display-xl mb-8 hover:text-electric transition-colors duration-200">
-                  {mainArticle.title}
-                </h1>
-              </Link>
+              <HeroHeadline title={mainArticle.title} slug={mainArticle.slug} />
 
-              <div className="border-t border-white/10 mb-6 max-w-3xl" />
+              <div className="border-t border-white/10 mb-5 max-w-3xl" />
 
               {/* Tags */}
               {mainArticle.tags && mainArticle.tags.length > 0 && (
-                <div className="flex flex-wrap gap-2 mb-8">
+                <div className="flex flex-wrap gap-2 mb-6">
                   {mainArticle.tags.map(tag => (
                     <span key={tag} className="font-dm-mono text-[0.6rem] tracking-[0.15em] uppercase px-3 py-1 border border-electric/60 text-electric/80">
                       {tag}
@@ -92,7 +89,7 @@ export default function HomePage() {
               {/* Cover image — subtle, aligned right */}
               {mainArticle.image && (
                 <div className="absolute right-0 top-0 bottom-0 w-[30%] hidden lg:block opacity-20 pointer-events-none">
-                  <Image src={mainArticle.image} alt="" fill className="object-cover" />
+                  <Image src={mainArticle.image} alt="" fill sizes="30vw" className="object-cover" />
                 </div>
               )}
             </header>
@@ -103,16 +100,22 @@ export default function HomePage() {
                 <p className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-muted mb-6">
                   Também na edição de hoje
                 </p>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-0 md:gap-6">
                   {secondaryTodayArticles.map(article => (
                     <Link
                       key={article.slug}
                       href={`/post/${article.slug}`}
-                      className="block border-t border-warm-gray pt-4 group"
+                      className="block border-t border-warm-gray py-5 md:pt-4 md:pb-0 group active:bg-paper/60 transition-colors"
                     >
+                      <span className="font-dm-mono text-[0.56rem] tracking-[0.12em] uppercase text-muted mb-2 block">
+                        {formatDate(article.date.split('T')[0])}
+                      </span>
                       <h4 className="font-syne font-bold text-ink text-xl leading-tight group-hover:text-muted transition-colors">
                         {article.title}
                       </h4>
+                      <span className="mt-3 inline-flex items-center gap-1 font-dm-mono text-[0.58rem] tracking-[0.12em] uppercase text-muted group-hover:text-ink transition-colors">
+                        Ler →
+                      </span>
                     </Link>
                   ))}
                 </div>
@@ -145,8 +148,11 @@ export default function HomePage() {
                             <Link
                               key={article.slug}
                               href={`/post/${article.slug}`}
-                              className="group"
+                              className="group flex items-baseline gap-4"
                             >
+                              <span className="font-dm-mono text-[0.54rem] tracking-[0.1em] uppercase text-muted flex-shrink-0 pt-[0.3em]">
+                                {article.date.split('T')[0].slice(5).replace('-', '/')}
+                              </span>
                               <h2 className="font-cormorant font-light text-ink text-2xl leading-tight group-hover:text-muted transition-colors">
                                 {article.title}
                               </h2>
@@ -175,10 +181,10 @@ export default function HomePage() {
         <section className="w-full py-20 border-t border-warm-gray flex flex-col md:flex-row items-start md:items-center justify-between gap-12 mt-12">
           <div className="max-w-md">
             <h4 className="font-cormorant font-light italic text-ink text-3xl mb-4 leading-tight">
-              Assine o Tech&amp;Future Morning Report
+              Assine o Pulso
             </h4>
             <p className="font-cormorant font-light text-muted text-lg leading-relaxed">
-              Uma curadoria diária do que realmente importa na tecnologia, entregue às 06:00 BRT.
+              O ritmo da tecnologia e IA direto no seu email — toda manhã às 06h, grátis.
             </p>
           </div>
           <QuickSubscribeForm />

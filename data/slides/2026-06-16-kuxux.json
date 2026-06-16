@@ -1,0 +1,53 @@
+{
+  "title": "Segurança Nacional e Energia: O Papel da xAI nos Gas Turbines",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Segurança Nacional em Jogo",
+      "subtext": "O papel da xAI nos gas turbines e o impacto na energia",
+      "image_prompt": "uma imagem de um gas turbine com um fundo de cidade à noite"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A xAI é uma empresa de tecnologia que desenvolve soluções de IA para a indústria de energia. No entanto, a empresa tem sido objeto de críticas devido ao uso de gas turbines não autorizados.",
+      "highlight": "Segurança Nacional e Energia em Risco"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A xAI está usando gas turbines não autorizados, o que pode ter implicações significativas para a segurança nacional e a energia. O Departamento de Justiça dos EUA afirma que isso é uma questão de segurança nacional, econômica e energética.",
+      "visual_hint": "um ícone de um gas turbine com um X vermelho"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O uso de gas turbines não autorizados pode afetar a estabilidade do sistema energético e a segurança nacional. Isso pode ter consequências graves para a indústria de energia e para a população em geral.",
+      "visual_hint": "um gráfico de barras mostrando a importância da segurança energética"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "O DOJ afirma que os gas turbines não autorizados da xAI são uma questão de segurança nacional",
+        "A xAI é uma das principais empresas de tecnologia no setor de energia",
+        "O uso de gas turbines não autorizados pode contribuir para a mudança climática"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A xAI pode ser multada ou perder licenças",
+        "A indústria de energia pode ser mais rigorosamente regulamentada",
+        "A segurança nacional e a energia podem ser afetadas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Fique por dentro das últimas notícias e atualizações sobre a xAI e a indústria de energia"
+    }
+  ]
+}

@@ -83,12 +83,12 @@ export default function SubscribePage() {
 
           {/* Content column */}
           <div className="col-span-12 md:col-span-7 flex flex-col gap-stack-md">
-            <h1 className="font-newsreader font-semibold text-primary text-3xl sm:text-5xl md:text-display-xl max-w-2xl">
-              Assine o Morning Report
+            <h1 className="font-syne font-extrabold text-ink text-3xl sm:text-5xl md:text-display-xl max-w-2xl leading-[0.95] tracking-[-0.03em]">
+              Assine o Pulso
             </h1>
-            <p className="font-work-sans text-body-lg text-on-surface-variant max-w-xl">
-              Um digest diário com o que realmente importa em tecnologia e inteligência artificial,
-              entregue às 06h BRT.
+            <p className="font-cormorant font-light text-muted text-xl max-w-xl leading-relaxed">
+              O ritmo da tecnologia e IA direto no seu email.<br />
+              Todo dia às 06h BRT — grátis para sempre.
             </p>
 
             {status === 'success' ? (
@@ -225,7 +225,7 @@ export default function SubscribePage() {
             {/* Premium */}
             <div className="bg-ink p-10 flex flex-col gap-6">
               <div>
-                <p className="font-dm-mono text-[0.6rem] tracking-[0.15em] uppercase mb-2" style={{ color: '#C9FF47' }}>Premium</p>
+                <p className="font-dm-mono text-[0.6rem] tracking-[0.15em] uppercase text-electric mb-2">Pulso Premium</p>
                 <p className="font-syne font-extrabold text-4xl text-white tracking-[-0.04em]">R$ 29,90</p>
                 <p className="font-cormorant font-light text-sm mt-1" style={{ color: '#7A7670' }}>por mês · 7 dias grátis</p>
               </div>

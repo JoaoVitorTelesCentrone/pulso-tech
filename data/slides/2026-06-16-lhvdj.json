@@ -1,0 +1,53 @@
+{
+  "title": "A Era da Abertura: Como a Oferta Pública Inicial da SpaceX Redefine o Futuro da Tecnologia",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Revolução da SpaceX: O Futuro da Tecnologia",
+      "subtext": "Descubra como a Oferta Pública Inicial da SpaceX está mudando o jogo",
+      "image_prompt": "uma imagem de um foguete SpaceX decolando ao pôr do sol"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A SpaceX, fundada por Elon Musk, está revolucionando a indústria aeroespacial com suas missões inovadoras e ambiciosas. A empresa está agora abrindo seu capital para investidores.",
+      "highlight": "A IPO da SpaceX é um evento altamente antecipado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A SpaceX está realizando sua Oferta Pública Inicial (IPO) para arrecadar fundos e continuar a desenvolver suas tecnologias e alcançar seus objetivos ambiciosos, incluindo a colonização de Marte.",
+      "visual_hint": "um ícone de um foguete ou um gráfico de crescimento"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A IPO da SpaceX pode ter um impacto significativo no mercado de tecnologia e inovação, influenciando a dinâmica do mercado e atraindo mais investimentos e talentos para a indústria.",
+      "visual_hint": "um ícone de uma conexão ou um gráfico de rede"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "A SpaceX tem mais de 10.000 funcionários",
+        "A empresa tem um valor de mercado de mais de 100 bilhões de dólares",
+        "A IPO da SpaceX é uma das maiores da história"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A SpaceX terá mais recursos para investir em tecnologias inovadoras",
+        "A empresa pode atrair mais talentos e investidores",
+        "A IPO da SpaceX pode inspirar outras empresas a seguir seus passos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre a SpaceX e a IPO",
+      "subtext": "Fique por dentro das últimas notícias e atualizações sobre a revolução da SpaceX"
+    }
+  ]
+}

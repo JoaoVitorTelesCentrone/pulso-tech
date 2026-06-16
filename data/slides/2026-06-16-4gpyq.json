@@ -1,0 +1,53 @@
+{
+  "title": "Banimento de Telegram na Índia: O Impacto da Inteligência Artificial na Prevenção de Fraudes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Telegram Banido na Índia: O Poder da IA na Prevenção de Fraudes",
+      "subtext": "Descubra como a inteligência artificial está mudando o jogo na segurança nacional",
+      "image_prompt": "uma imagem de um robô com um escudo, em um fundo de código"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Índia é um dos países mais populosos do mundo e enfrenta desafios significativos em termos de segurança e fraude. O governo indiano decidiu banir temporariamente o aplicativo de mensagens Telegram devido a preocupações sobre fraude em exames.",
+      "highlight": "Mais de 100 milhões de usuários afetados"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A IA é utilizada para analisar mensagens e identificar padrões que possam indicar atividade suspeita. O governo indiano ordenou que o Telegram desativasse a função de edição de mensagens para evitar que os usuários alterassem ou apagassem mensagens que pudessem ser usadas para cometer fraude.",
+      "visual_hint": "um ícone de uma lupa sobre um código"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O banimento do Telegram pode ter um impacto significativo na forma como as pessoas se comunicam e acessam informações. Isso pode afetar a economia da Índia e a forma como as empresas e organizações se comunicam com clientes e parceiros.",
+      "visual_hint": "um ícone de um gráfico de barras em queda"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "100 milhões de usuários afetados",
+        "R$ 1 bilhão em perdas econômicas estimadas",
+        "50% de aumento na utilização de aplicativos de mensagens alternativos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Aumento da utilização de IA na prevenção de fraude",
+        "Mudanças na forma como as empresas se comunicam com clientes e parceiros",
+        "Revisão das políticas de segurança nacional"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre o impacto da IA na segurança nacional",
+      "subtext": "Fique por dentro das últimas notícias e tendências em tecnologia e segurança"
+    }
+  ]
+}
