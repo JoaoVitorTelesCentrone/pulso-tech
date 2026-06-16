@@ -3,6 +3,7 @@ import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import Link from 'next/link'
 import { getSortedArticlesData } from '@/lib/markdown'
+import QuickSubscribeForm from '@/components/QuickSubscribeForm'
 
 export default function HomePage() {
   const allArticles = getSortedArticlesData()
@@ -180,27 +181,7 @@ export default function HomePage() {
               Uma curadoria diária do que realmente importa na tecnologia, entregue às 06:00 BRT.
             </p>
           </div>
-          <div className="w-full max-w-lg">
-            <div className="flex flex-col gap-2">
-              <label
-                htmlFor="newsletter-email"
-                className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-muted"
-              >
-                Seu Email Profissional
-              </label>
-              <div className="flex border-b border-ink py-2">
-                <input
-                  id="newsletter-email"
-                  type="email"
-                  className="bg-transparent border-none w-full focus:ring-0 focus:outline-none font-cormorant text-ink text-lg placeholder:text-warm-gray"
-                  placeholder="nome@companhia.com.br"
-                />
-                <button className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-ink hover:text-muted transition-colors px-4 flex-shrink-0">
-                  Inscrever
-                </button>
-              </div>
-            </div>
-          </div>
+          <QuickSubscribeForm />
         </section>
       </main>
       <Footer />
