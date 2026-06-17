@@ -1,6 +1,7 @@
 import OpenAI from 'openai';
 
 const MODEL = 'deepseek-chat';
+const KIMI_MODEL = process.env.KIMI_MODEL || 'kimi-k2.6';
 
 function getClient() {
   return new OpenAI({
@@ -12,7 +13,7 @@ function getClient() {
 function getKimiClient() {
   return new OpenAI({
     apiKey: process.env.KIMI_API_KEY,
-    baseURL: 'https://api.moonshot.cn/v1',
+    baseURL: process.env.KIMI_BASE_URL || 'https://api.moonshot.ai/v1',
   });
 }
 
@@ -51,9 +52,8 @@ ${markdown}`
 
   try {
     const response = await getKimiClient().chat.completions.create({
-      model: process.env.KIMI_MODEL || 'moonshot-v1-32k',
+      model: KIMI_MODEL,
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.6,
       max_tokens: 4000,
     })
 
@@ -128,9 +128,8 @@ async function refineJsonWithKimi<T extends object>(
 
   try {
     const response = await getKimiClient().chat.completions.create({
-      model: process.env.KIMI_MODEL || 'moonshot-v1-32k',
+      model: KIMI_MODEL,
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.25,
       max_tokens: 2500,
     });
 
@@ -260,9 +259,8 @@ Retorne SOMENTE JSON valido:
 
   try {
     const response = await getKimiClient().chat.completions.create({
-      model: process.env.KIMI_MODEL || 'moonshot-v1-32k',
+      model: KIMI_MODEL,
       messages: [{ role: 'user', content: prompt }],
-      temperature: 0.1,
       max_tokens: 700,
     });
 
