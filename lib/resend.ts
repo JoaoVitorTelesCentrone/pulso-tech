@@ -2,7 +2,7 @@ const FROM_NAME = 'Pulso'
 const FROM_EMAIL = 'pulsotech@proton.me'
 
 function siteUrl() {
-  return process.env.NEXT_PUBLIC_SITE_URL || 'https://pulso.news'
+  return process.env.NEXT_PUBLIC_SITE_URL || 'https://tech-blog-joaovitortelescentrone-centrones-projects.vercel.app'
 }
 
 async function brevoSend(to: string, subject: string, html: string) {

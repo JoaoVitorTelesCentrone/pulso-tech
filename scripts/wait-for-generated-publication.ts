@@ -2,7 +2,7 @@ import fs from 'fs'
 import path from 'path'
 
 const GENERATED_RUN_PATH = path.join(process.cwd(), 'data', 'generated-run.json')
-const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://pulso.news').replace(/\/$/, '')
+const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || 'https://tech-blog-joaovitortelescentrone-centrones-projects.vercel.app').replace(/\/$/, '')
 const TIMEOUT_MS = Number(process.env.PUBLICATION_TIMEOUT_MS || 10 * 60 * 1000)
 const INTERVAL_MS = Number(process.env.PUBLICATION_POLL_INTERVAL_MS || 15 * 1000)
 
@@ -26,7 +26,9 @@ async function isPublished(slug: string): Promise<boolean> {
     console.log(`[PUBLISH] ${url} -> ${res.status}`)
     return res.ok
   } catch (error) {
-    console.log(`[PUBLISH] ${url} -> ${(error as Error).message}`)
+    const cause = (error as Error & { cause?: { message?: string; code?: string } }).cause
+    const detail = cause?.code || cause?.message || (error as Error).message
+    console.log(`[PUBLISH] ${url} -> fetch failed (${detail})`)
     return false
   }
 }

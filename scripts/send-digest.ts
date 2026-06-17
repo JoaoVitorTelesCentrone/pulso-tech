@@ -8,7 +8,7 @@ import matter from 'gray-matter'
 const SUPABASE_URL = process.env.SUPABASE_URL!
 const SUPABASE_SERVICE_ROLE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY!
 const BREVO_API_KEY = process.env.BREVO_API_KEY!
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://pulso.news'
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://tech-blog-joaovitortelescentrone-centrones-projects.vercel.app'
 const FROM_NAME = 'Pulso'
 const FROM_EMAIL = 'pulsotech@proton.me'
 
