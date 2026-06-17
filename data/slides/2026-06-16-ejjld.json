@@ -1,0 +1,53 @@
+{
+  "title": "Revolução na Comunicação: O Primeiro Usuário Avançado de Implantes Cerebrais",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Comunicação Revolucionária",
+      "subtext": "O poder da tecnologia para superar limites",
+      "image_prompt": "futurista cidade com pessoas interagindo com tecnologia"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A esclerose lateral amiotrófica (ELA) é uma doença neurológica degenerativa que afeta a capacidade de comunicação. A tecnologia de interface cérebro-computador (BCI) oferece uma solução inovadora.",
+      "highlight": "Primeiro usuário avançado de implante cerebral"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Casey Harrell, um homem com ELA, recebeu um implante cerebral que lhe permite se comunicar por meio de um computador. Ele começou a usar sua BCI para 'falar' frases com a ajuda de um computador em 2023.",
+      "visual_hint": "ícone de um cérebro com conexões"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A tecnologia de BCI oferece uma solução inovadora para pessoas com doenças neurológicas degenerativas, permitindo que elas se comuniquem de maneira mais eficaz. Isso tem implicações significativas para a indústria de tecnologia e a pesquisa em inteligência artificial.",
+      "visual_hint": "ícone de um robô ajudando uma pessoa"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "O mercado de BCI está projetado para crescer significativamente nos próximos anos",
+        "A demanda por soluções inovadoras para condições neurológicas está aumentando",
+        "A BCI tem o potencial de se tornar um mercado bilionário"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novas formas de interação humano-computador",
+        "Desenvolvimento de tratamentos mais avançados e eficazes para condições neurológicas",
+        "Integração de BCI com sistemas de IA para melhorar a vida das pessoas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Descubra como a tecnologia está mudando o mundo e como você pode se beneficiar disso"
+    }
+  ]
+}

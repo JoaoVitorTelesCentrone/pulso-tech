@@ -1,43 +1,21 @@
 import Link from 'next/link'
-import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 
 export default function UnsubscribedPage() {
   return (
     <>
-      <Header />
-      <main className="max-w-editorial mx-auto px-6 md:px-grid-margin py-24 min-h-[60vh] flex flex-col justify-center">
-        <div className="max-w-lg">
-          <p className="font-dm-mono text-[0.65rem] tracking-[0.2em] uppercase text-muted mb-6">
-            Assinatura cancelada
+      <main className="mx-auto flex min-h-[62vh] w-full max-w-editorial items-center px-5 py-16 md:px-grid-margin">
+        <section className="dieline max-w-2xl rounded-2xl bg-surface p-8 shadow-sm md:p-12">
+          <p className="brand-kicker mb-5">assinatura cancelada</p>
+          <h1 className="brand-poster text-5xl md:text-7xl">Voce saiu da lista.</h1>
+          <p className="mt-6 font-display text-2xl italic leading-snug text-muted">
+            Voce nao recebera mais emails da Pulso Tech. Pode voltar quando quiser.
           </p>
-
-          <h1 className="font-syne font-extrabold text-ink leading-[0.9] tracking-[-0.04em] text-4xl md:text-5xl mb-8">
-            Você foi removido da lista
-          </h1>
-
-          <div className="w-12 h-px bg-warm-gray mb-8" />
-
-          <p className="font-cormorant font-light text-muted text-xl leading-relaxed mb-10">
-            Lamentamos ver você partir. Você não receberá mais emails do Pulso.
-            Se mudar de ideia, pode se inscrever novamente a qualquer momento.
-          </p>
-
-          <div className="flex gap-8">
-            <Link
-              href="/subscribe"
-              className="inline-block font-dm-mono text-[0.65rem] tracking-[0.12em] uppercase text-ink border-b border-ink pb-0.5 hover:text-muted hover:border-muted transition-colors"
-            >
-              Inscrever-se novamente
-            </Link>
-            <Link
-              href="/"
-              className="inline-block font-dm-mono text-[0.65rem] tracking-[0.12em] uppercase text-muted hover:text-ink transition-colors"
-            >
-              ← Ir para o blog
-            </Link>
+          <div className="mt-8 flex flex-wrap gap-3">
+            <Link href="/subscribe" className="btn-primary">Inscrever novamente</Link>
+            <Link href="/" className="btn-soft">Ir para o blog</Link>
           </div>
-        </div>
+        </section>
       </main>
       <Footer />
     </>

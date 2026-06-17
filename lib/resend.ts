@@ -65,6 +65,43 @@ export async function sendConfirmationEmail(email: string, confirmToken: string)
   )
 }
 
+export async function sendLoginEmail(email: string, magicToken: string) {
+  const loginUrl = `${siteUrl()}/api/login/confirm?token=${encodeURIComponent(magicToken)}`
+
+  return brevoSend(
+    email,
+    'Seu link de acesso ao Pulso Premium',
+    `<!DOCTYPE html>
+<html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body style="margin:0;padding:0;background:#EDE8DC;font-family:Georgia,serif">
+<div style="max-width:600px;margin:0 auto;padding:40px 20px">
+
+  <div style="background:#0D0D0B;padding:32px 40px;display:flex;align-items:center;gap:10px">
+    <span style="display:inline-block;width:10px;height:10px;border-radius:50%;background:#FF3D00;flex-shrink:0"></span>
+    <p style="margin:0;font-size:22px;font-weight:800;color:#F4F0E8;letter-spacing:-0.04em">Pulso</p>
+  </div>
+
+  <div style="background:#F4F0E8;padding:40px;border-left:1px solid #C8C3B8;border-right:1px solid #C8C3B8">
+    <p style="margin:0 0 8px;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.15em;text-transform:uppercase;color:#7A7670">Acesso Premium</p>
+    <h1 style="margin:0 0 20px;font-size:26px;font-weight:800;color:#0D0D0B;letter-spacing:-0.03em;line-height:1.1">Clique para entrar</h1>
+    <p style="margin:0 0 28px;font-size:15px;color:#7A7670;line-height:1.6">Seu link de acesso ao Pulso Premium está abaixo. Ele expira em <strong style="color:#0D0D0B">1 hora</strong>.</p>
+
+    <a href="${loginUrl}" style="display:inline-block;background:#FF3D00;color:#F4F0E8;padding:16px 32px;font-family:'Courier New',monospace;font-size:11px;letter-spacing:0.15em;text-transform:uppercase;text-decoration:none">
+      Acessar Pulso Premium →
+    </a>
+
+    <p style="margin:32px 0 0;font-size:12px;color:#7A7670;line-height:1.5">Se você não solicitou este acesso, ignore este email. Nenhuma ação é necessária.</p>
+  </div>
+
+  <div style="background:#0D0D0B;padding:20px 40px">
+    <p style="margin:0;font-family:'Courier New',monospace;font-size:10px;letter-spacing:0.1em;text-transform:uppercase;color:#7A7670">Pulso · JV Centrone · ${new Date().getFullYear()}</p>
+  </div>
+
+</div>
+</body></html>`
+  )
+}
+
 export type DigestArticle = {
   title: string
   slug: string

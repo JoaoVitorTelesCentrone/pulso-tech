@@ -120,6 +120,9 @@ function buildDigestHtml(articles: ArticleMeta[], unsubscribeUrl: string): strin
 // ── Main ─────────────────────────────────────────────────────────────────────
 
 async function main() {
+  console.log('[DIGEST] Fluxo legado desativado. Os emails Brevo agora saem quando cada artigo e resumo sao gerados.')
+  return
+
   const today = todayBRT()
 
   // Only send once per day
@@ -150,13 +153,15 @@ async function main() {
     process.exit(1)
   }
 
-  if (!subscribers || subscribers.length === 0) {
+  const activeSubscribers = subscribers ?? []
+
+  if (activeSubscribers.length === 0) {
     console.log('[DIGEST] Nenhum subscriber ativo. Marcando como enviado mesmo assim.')
     markDigestSent(today)
     return
   }
 
-  console.log(`[DIGEST] Enviando para ${subscribers.length} subscriber(s)...`)
+  console.log(`[DIGEST] Enviando para ${activeSubscribers.length} subscriber(s)...`)
 
   const subject = articles.length === 1
     ? articles[0].title
@@ -165,7 +170,7 @@ async function main() {
   let sent = 0
   let failed = 0
 
-  for (const sub of subscribers) {
+  for (const sub of activeSubscribers) {
     const unsubscribeUrl = `${SITE_URL}/api/unsubscribe?id=${sub.id}`
     const html = buildDigestHtml(articles, unsubscribeUrl)
 

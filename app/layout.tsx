@@ -1,45 +1,62 @@
 import type { Metadata } from 'next'
-import { Syne, Cormorant_Garamond, DM_Mono } from 'next/font/google'
+import { Anton, Fraunces, Plus_Jakarta_Sans } from 'next/font/google'
+import localFont from 'next/font/local'
 import { MobileDock } from '@/components/ui/mobile-dock'
+import { TopLoader } from '@/components/TopLoader'
+import Header from '@/components/Header'
+import { cookies } from 'next/headers'
+import { verifyAccessToken, ACCESS_COOKIE } from '@/lib/auth'
 import './globals.css'
 
-const syne = Syne({
+const anton = Anton({
   subsets: ['latin'],
-  weight: ['400', '500', '600', '700', '800'],
-  variable: '--font-syne',
+  weight: '400',
+  variable: '--font-headline',
   display: 'swap',
 })
 
-const cormorant = Cormorant_Garamond({
+const fraunces = Fraunces({
   subsets: ['latin'],
-  weight: ['300', '400', '600'],
+  weight: ['400', '500', '600', '700'],
   style: ['normal', 'italic'],
-  variable: '--font-cormorant',
+  variable: '--font-display',
   display: 'swap',
 })
 
-const dmMono = DM_Mono({
+const jakarta = Plus_Jakarta_Sans({
   subsets: ['latin'],
-  weight: ['300', '400'],
-  style: ['normal', 'italic'],
-  variable: '--font-dm-mono',
+  weight: ['300', '400', '500', '600', '700', '800'],
+  variable: '--font-body',
+  display: 'swap',
+})
+
+const brand = localFont({
+  src: './Pulso Tech brand identity/_ds/mind-space-design-system-019e1d1e-2d72-7729-aec8-b3e98d69f760/fonts/nauryzredkeds.ttf',
+  variable: '--font-brand',
   display: 'swap',
 })
 
 export const metadata: Metadata = {
-  title: 'Pulso',
+  title: 'Pulso Tech',
   description:
-    'O ritmo da tecnologia, no seu email. IA e inovação em um briefing diário — toda manhã às 06h, grátis.',
+    'O ritmo da inteligencia artificial sem o ruido. Analises de IA e tecnologia em portugues.',
 }
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
+  const cookieStore = cookies()
+  const token = cookieStore.get(ACCESS_COOKIE.name)?.value
+  const access = token ? await verifyAccessToken(token) : null
+  const isPremium = access?.plan === 'premium'
+
   return (
-    <html lang="pt-BR">
+    <html lang="pt-BR" data-theme="light">
       <body
-        className={`${syne.variable} ${cormorant.variable} ${dmMono.variable} bg-cream text-ink font-syne overflow-x-hidden pb-[60px] md:pb-0`}
+        className={`${anton.variable} ${fraunces.variable} ${jakarta.variable} ${brand.variable} bg-bg text-text font-body overflow-x-hidden pb-[60px] md:pb-0`}
       >
+        <TopLoader />
+        <Header isPremium={isPremium} />
         {children}
-        <MobileDock />
+        <MobileDock isPremium={isPremium} />
       </body>
     </html>
   )

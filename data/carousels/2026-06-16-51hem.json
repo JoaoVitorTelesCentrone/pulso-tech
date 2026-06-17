@@ -1,0 +1,221 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Como funciona",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA que entende causa e efeito",
+        "subtext": "Paper no arXiv propõe modelos causais relacionais"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O problema dos LLMs atuais",
+        "body": "GPT-4 e Claude são máquinas de correlação. Eles preveem a próxima palavra, mas não entendem que virar um copo derrama água."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "3 níveis",
+        "stat_label": "Raciocínio causal segundo Judea Pearl: associação (correlação), intervenção (forçar variável) e contrafactuais (e se...)"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Uma IA verdadeiramente inteligente precisa de um modelo de seu ambiente que seja simultaneamente causal e combinatorial.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O gargalo combinatorial",
+        "body": "SCMs tradicionais são estáticos. O paper propõe extensão para lidar com objetos que aparecem, desaparecem e se relacionam de forma imprevisível."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Mecanismo proposto",
+        "items": [
+          "SCMs parametrizados por tipos de objetos e relações",
+          "Mesmo mecanismo causal instanciado para diferentes combinações de entidades",
+          "Análogo a redes neurais relacionais (GNNs)"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer entender o framework matemático?",
+        "highlight_word": "framework",
+        "subtext": "Leia o paper completo no arXiv cs.AI"
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal no trabalho",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Sua IA ainda não entende causa",
+        "subtext": "E isso afeta diretamente sua segurança e decisões"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Carros autônomos em risco",
+        "body": "IAs sem causalidade não podem ser confiáveis em intervenções imprevistas. Um carro autônomo não entende o que acontece se um pedestre cruza inesperadamente."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "3 áreas críticas",
+        "stat_label": "Segurança em sistemas críticos: carros autônomos, diagnósticos médicos e controle de reatores"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Modelos puramente correlacionais falham miseravelmente quando confrontados com distribuições de dados diferentes do treinamento.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Diagnósticos médicos frágeis",
+        "body": "LLMs não podem responder 'O que teria acontecido se eu tivesse administrado o medicamento?' — a pergunta mais importante em medicina."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "O que você perde hoje",
+        "items": [
+          "Raciocínio contrafactual: 'e se' não existe",
+          "Generalização para novos cenários: falha total",
+          "Confiança em decisões críticas: zero"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua empresa depende de IA causal?",
+        "highlight_word": "causal",
+        "subtext": "Descubra como esse paper pode mudar seu próximo projeto"
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números do artigo",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Os números da próxima fronteira",
+        "subtext": "Dados reais do paper 'Relational Structural Causal Models'"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "16/06/2026",
+        "stat_label": "Data de publicação do paper no arXiv, repositório de pré-prints da comunidade acadêmica de IA"
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O gargalo combinatorial",
+        "body": "SCMs tradicionais modelam conjunto fixo de variáveis. O paper propõe extensão para número variável de objetos e relações imprevisíveis."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "3 níveis",
+        "stat_label": "Raciocínio causal: associação, intervenção e contrafactuais — os LLMs atuais só dominam o primeiro"
+      },
+      {
+        "n": 5,
+        "type": "quote",
+        "quote": "\"O paper ataca diretamente a limitação mais criticada dos LLMs atuais: sua natureza puramente estatística e correlacional.\""
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Implicações econômicas e técnicas",
+        "items": [
+          "Segurança em sistemas críticos: carros autônomos, diagnósticos, reatores",
+          "Generalização frágil: falha em mudanças de domínio",
+          "Incapacidade de raciocínio contrafactual"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer ver os dados completos?",
+        "highlight_word": "dados",
+        "subtext": "Acesse o paper no arXiv cs.AI e entenda o framework"
+      }
+    ],
+    "template": "F"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O próximo salto da IA está aqui",
+        "subtext": "Modelos causais relacionais podem superar transformers"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Mudança de paradigma",
+        "body": "O paper propõe formalização que unifica causalidade e combinatorialidade. Se bem-sucedido, pode ser tão significativo quanto a introdução dos transformers."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "3 níveis",
+        "stat_label": "Raciocínio causal: associação, intervenção e contrafactuais — o futuro exige os três"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Enquanto o mercado se distrai com benchmarks de chatbots e guerras de preços de tokens, um paper silencioso no arXiv pode conter a chave.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Generalização combinatorial",
+        "body": "O modelo poderá raciocinar causalmente sobre sistemas com número e tipo de entidades desconhecidos antecipadamente — como trânsito com carros, pedestres e semáforos variáveis."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "O que vem a seguir",
+        "items": [
+          "IAs que entendem 'e se' em cenários reais",
+          "Segurança em sistemas críticos com causalidade",
+          "Generalização para domínios nunca vistos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua empresa está pronta para a IA causal?",
+        "highlight_word": "causal",
+        "subtext": "Leia o paper e prepare-se para a próxima fronteira"
+      }
+    ],
+    "template": "E"
+  }
+]

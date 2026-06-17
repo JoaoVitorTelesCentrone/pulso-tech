@@ -20,64 +20,64 @@ export function PremiumCTA() {
         body: JSON.stringify({ email }),
       })
       const data = await res.json()
-      if (!res.ok) { setError(data.error || 'Erro'); setLoading(false); return }
+      if (!res.ok) {
+        setError(data.error || 'Erro')
+        setLoading(false)
+        return
+      }
       window.location.href = data.url
     } catch {
-      setError('Falha de conexão.')
+      setError('Falha de conexao.')
       setLoading(false)
     }
   }
 
   return (
-    <aside className="bg-ink -mx-6 md:-mx-0 mt-16 px-8 md:px-12 py-10 md:py-12">
-      {/* Eyebrow */}
-      <div className="flex items-center gap-2 mb-6">
-        <Sparkles size={12} className="text-electric" strokeWidth={1.5} />
-        <span className="font-dm-mono text-[0.6rem] tracking-[0.2em] uppercase text-electric">
+    <aside className="dieline -mx-6 mt-16 rounded-xl bg-text px-8 py-10 text-bg shadow-md md:-mx-0 md:px-12 md:py-12">
+      <div className="mb-6 flex items-center gap-2">
+        <Sparkles size={14} className="text-accent" strokeWidth={2} />
+        <span className="font-body text-[0.68rem] font-bold uppercase tracking-[0.2em] text-accent">
           Pulso Premium
         </span>
       </div>
 
-      <div className="flex flex-col md:flex-row md:items-end gap-8 md:gap-16">
-        {/* Copy */}
+      <div className="flex flex-col gap-8 md:flex-row md:items-end md:gap-16">
         <div className="flex-1">
-          <h2 className="font-syne font-extrabold text-white leading-[0.95] tracking-[-0.03em] text-2xl md:text-3xl mb-4">
-            Gostou da análise?<br />Vá mais fundo com o Premium.
+          <h2 className="brand-poster mb-4 text-4xl text-bg md:text-5xl">
+            Gostou da analise?<br />Va mais fundo.
           </h2>
-          <p className="font-cormorant font-light text-warm-gray text-lg leading-relaxed">
-            Slides prontos, carrosseis para LinkedIn e o digest diário às 06h —
-            tudo por <span className="text-white font-normal">R$ 29,90/mês</span>.{' '}
-            Primeira semana grátis, cancele quando quiser.
+          <p className="font-display text-lg italic leading-relaxed text-[#B8B3A0]">
+            Slides prontos, carrosseis para LinkedIn e o digest diario as 06h -
+            tudo por <span className="text-bg">R$ 29,90/mes</span>. Primeira semana gratis.
           </p>
         </div>
 
-        {/* Form */}
-        <div className="w-full md:w-80 flex-shrink-0">
+        <div className="w-full flex-shrink-0 md:w-80">
           <form onSubmit={handleCheckout} className="flex flex-col gap-3">
-            <div className="flex border-b border-white/20 py-2 focus-within:border-electric transition-colors">
+            <div className="flex rounded-md border border-[#46424F] bg-[#1A1820] px-4 py-2 transition-colors focus-within:border-accent">
               <input
                 type="email"
                 required
                 value={email}
                 onChange={e => setEmail(e.target.value)}
                 placeholder="seu@email.com"
-                className="bg-transparent border-none w-full focus:ring-0 focus:outline-none font-cormorant text-white text-lg placeholder:text-white/30"
+                className="w-full border-none bg-transparent font-display text-lg italic text-bg placeholder:text-[#6D6A60] focus:outline-none focus:ring-0"
               />
             </div>
             {error && (
-              <p className="font-dm-mono text-[0.58rem] text-red-400 tracking-[0.08em]">{error}</p>
+              <p className="font-body text-[0.7rem] font-bold tracking-[0.08em] text-red-300">{error}</p>
             )}
             <button
               type="submit"
               disabled={loading}
-              className="w-full bg-electric text-ink font-syne font-semibold text-[0.75rem] tracking-[0.12em] uppercase py-3 hover:bg-white transition-colors duration-200 disabled:opacity-50"
+              className="btn-primary w-full disabled:bg-[#46424F] disabled:text-[#6D6A60]"
             >
-              {loading ? 'Aguarde...' : 'Começar semana grátis →'}
+              {loading ? 'Aguarde...' : 'Comecar semana gratis'}
             </button>
           </form>
-          <p className="mt-3 font-dm-mono text-[0.55rem] tracking-[0.1em] uppercase text-white/30">
-            Já assinante?{' '}
-            <Link href="/subscribe" className="text-white/50 hover:text-white transition-colors border-b border-white/20">
+          <p className="mt-3 font-body text-[0.65rem] font-bold uppercase tracking-[0.1em] text-[#6D6A60]">
+            Ja assinante?{' '}
+            <Link href="/subscribe" className="border-b border-[#46424F] text-[#B8B3A0] transition-colors hover:text-bg">
               Gerencie sua conta
             </Link>
           </p>

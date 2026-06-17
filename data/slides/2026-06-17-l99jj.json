@@ -1,0 +1,53 @@
+{
+  "title": "Cognitive Debt: A Teoria que Explica Por Que a IA Está Criando uma Bolha de Fragilidade Cognitiva",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Cognitive Debt: A Dívida Invisível da IA",
+      "subtext": "O ganho de produtividade de hoje pode ser a fragilidade sistêmica de amanhã",
+      "image_prompt": "A futuristic digital brain with cracks spreading like debt chains, dark blue and neon orange tones, abstract tech art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado celebra ganhos de produtividade com IA, um novo paper do arXiv alerta: estamos acumulando uma 'dívida cognitiva' que pode tornar sistemas inteiros — empresas, mercados, governos — perigosamente frágeis.",
+      "highlight": "Cognitive Debt: AI as Intellectual Leverage and the Dynamics of Systemic Fragility"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper propõe um modelo matemático para o estoque de obrigações de raciocínio não verificadas que se acumula quando usamos IA como substituto (e não complemento) para o pensamento baseado em primeiros princípios.",
+      "visual_hint": "Ícone de balança: de um lado, produtividade (seta para cima); do outro, fragilidade (pilha de documentos não verificados)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Quanto mais delegamos raciocínio à IA sem verificar, mais acumulamos dívida cognitiva. Quando um choque sistêmico expor a fragilidade — crise financeira, bug sistêmico, regulação inesperada — a conta pode chegar toda de uma vez.",
+      "visual_hint": "Gráfico de duas curvas: produtividade subindo rápido, fragilidade subindo mais rápido ainda, com um ponto de colapso"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Duas variáveis de estado por agente: alavancagem intelectual vs. fragilidade sistêmica",
+        "Relação não linear: pequenos aumentos de alavancagem geram aumentos desproporcionais de fragilidade",
+        "Times 3x mais produtivos com IA podem estar construindo castelos de areia intelectual"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas precisarão de auditoria cognitiva — verificação sistemática das decisões delegadas à IA",
+        "O custo de verificação pode se tornar proibitivo se a dívida não for gerenciada desde o início",
+        "Reguladores podem exigir rastreabilidade das cadeias de raciocínio em setores críticos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A próxima bolha não será financeira — será cognitiva. E você pode estar dentro dela agora."
+    }
+  ]
+}

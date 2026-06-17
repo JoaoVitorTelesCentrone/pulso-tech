@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores propõem uma métrica padronizada baseada em custo de verificação para medir e calibrar a confiança entre agentes de IA, abordando um gargalo crítico para a governança de sistemas multi-agente autônomos.",
+  "key_facts": [
+    "Artigo preprint no arXiv (2606.14923) introduz medida comportamental de confiança entre agentes de IA usando 'costly verification'.",
+    "A métrica quantifica confiança pelo quanto um agente gasta para verificar as ações de outro: mais verificação = menos confiança.",
+    "O modelo cobre três dimensões: formação, ruptura e recuperação da confiança entre agentes.",
+    "Pesquisa vem de grupo focado em governança de sistemas multi-agente, área que ganha relevância com avanços de OpenAI, Anthropic, Google DeepMind e Microsoft."
+  ],
+  "why_it_matters": "Sem uma métrica de confiança padronizada, sistemas multi-agente correm o risco de paralisia por excesso de verificação ou colapso por confiança cega, inviabilizando aplicações críticas como cadeias de suprimentos autônomas, mercados financeiros e infraestrutura crítica.",
+  "watch_next": [
+    "Adoção da métrica por grandes empresas de IA em seus sistemas multi-agente de produção.",
+    "Surgimento de um mercado de governança de confiança algorítmica, com ferramentas e padrões para auditoria entre agentes.",
+    "Debates regulatórios sobre responsabilidade em falhas de cooperação entre agentes autônomos."
+  ],
+  "editorial_angle": "O artigo se destaca por abordar um problema negligenciado e urgente — a confiança entre agentes — com uma solução prática e operacionalizável, em vez de apenas teórica, posicionando-se como peça-chave para a viabilidade da economia de sistemas autônomos."
+}

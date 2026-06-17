@@ -1,0 +1,53 @@
+{
+  "title": "Inovação em Data Centers: A Importância da Flexibilidade na Era da Inteligência Artificial",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Flexibilidade nos Data Centers: O Futuro da Tecnologia",
+      "subtext": "Descubra como a flexibilidade é a chave para o sucesso na era da Inteligência Artificial",
+      "image_prompt": "circuitos eletrônicos com luzes neon"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A demanda por processamento de dados está aumentando rapidamente, e os data centers precisam se adaptar para atender às necessidades dos usuários. A flexibilidade é fundamental para lidar com as flutuações de demanda e garantir a eficiência dos data centers.",
+      "highlight": "A flexibilidade é a chave para o sucesso na era da Inteligência Artificial"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Inteligência Artificial (IA) está sendo adotada cada vez mais, e os data centers precisam ser capazes de lidar com os picos de demanda gerados pela IA. A flexibilidade nos data centers é crucial para garantir a eficiência e a escalabilidade.",
+      "visual_hint": "ícone de robô ou circuito eletrônico"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A flexibilidade nos data centers não apenas ajuda a lidar com as flutuações de demanda, mas também tem um impacto significativo no meio ambiente. A redução do consumo de energia e a utilização de fontes de energia renovável podem ajudar a minimizar o impacto ambiental dos data centers.",
+      "visual_hint": "ícone de energia solar ou vento"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "O mercado de data centers está crescendo a uma taxa de 13,4% ao ano",
+        "60% dos data centers utilizarão fontes de energia renovável em 2025",
+        "O mercado de data centers atingirá US$ 200 bilhões em 2025"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Os data centers precisarão se adaptar para atender às necessidades da IA",
+        "A flexibilidade nos data centers será fundamental para garantir a eficiência e a escalabilidade",
+        "A utilização de fontes de energia renovável se tornará mais comum nos data centers"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais sobre a inovação em data centers",
+      "subtext": "Fique por dentro das últimas tendências e descubra como a flexibilidade nos data centers pode ajudar a impulsionar o seu negócio"
+    }
+  ]
+}

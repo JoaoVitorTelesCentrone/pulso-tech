@@ -15,6 +15,8 @@ export type ArticleFrontmatter = {
 
 export type Article = ArticleFrontmatter & {
   contentHtml: string;
+  premiumHtml: string;
+  hasPremiumSplit: boolean;
   excerpt?: string;
 };
 
@@ -68,11 +70,24 @@ export async function getArticleData(slug: string): Promise<Article> {
   // Usa gray-matter para separar a seção de metadados
   const matterResult = matter(fileContents);
 
-  // Usa remark para converter markdown em HTML string
-  const processedContent = await remark()
-    .use(html)
-    .process(matterResult.content);
-  const contentHtml = processedContent.toString();
+  // Remove o primeiro h1 do markdown (já é exibido como título pelo frontmatter)
+  const contentWithoutTitle = matterResult.content.replace(/^#\s+[^\n]+\n?/, '')
+
+  const PREMIUM_MARKER = '<!-- premium -->'
+  const markerIndex = contentWithoutTitle.indexOf(PREMIUM_MARKER)
+  const hasPremiumSplit = markerIndex !== -1
+
+  const freeMarkdown = hasPremiumSplit
+    ? contentWithoutTitle.slice(0, markerIndex)
+    : contentWithoutTitle
+  const premiumMarkdown = hasPremiumSplit
+    ? contentWithoutTitle.slice(markerIndex + PREMIUM_MARKER.length)
+    : ''
+
+  const [freeResult, premiumResult] = await Promise.all([
+    remark().use(html).process(freeMarkdown),
+    premiumMarkdown ? remark().use(html).process(premiumMarkdown) : Promise.resolve(null),
+  ])
 
   return {
     slug,
@@ -80,7 +95,9 @@ export async function getArticleData(slug: string): Promise<Article> {
     date: matterResult.data.date || new Date().toISOString(),
     tags: matterResult.data.tags || [],
     image: matterResult.data.image,
-    contentHtml,
-    excerpt: matterResult.content.substring(0, 300) + '...', // Um resumo simples
+    contentHtml: freeResult.toString(),
+    premiumHtml: premiumResult ? premiumResult.toString() : '',
+    hasPremiumSplit,
+    excerpt: contentWithoutTitle.substring(0, 300) + '...',
   };
 }

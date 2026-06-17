@@ -1,105 +1,86 @@
-import { notFound } from 'next/navigation';
-import Link from 'next/link';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
-import { getSummary } from '@/lib/content-data';
-import { getSortedArticlesData } from '@/lib/markdown';
+import { notFound } from 'next/navigation'
+import Link from 'next/link'
+import Footer from '@/components/Footer'
+import { getSummary } from '@/lib/content-data'
+import { getSortedArticlesData } from '@/lib/markdown'
 
 export default function ResumoPage({ params }: { params: { slug: string } }) {
-  const summary = getSummary(params.slug);
-  if (!summary) notFound();
+  const summary = getSummary(params.slug)
+  if (!summary) notFound()
 
-  const articles = getSortedArticlesData();
-  const article = articles.find(a => a.slug === params.slug);
-  const title = article?.title || params.slug;
+  const articles = getSortedArticlesData()
+  const article = articles.find(a => a.slug === params.slug)
+  const title = article?.title || params.slug
 
   return (
     <>
-      <Header />
-      <main className="max-w-editorial mx-auto px-6 md:px-grid-margin py-12">
-        <div className="max-w-3xl mx-auto">
-
-          <Link href={`/post/${params.slug}`} className="font-label-caps text-label-caps uppercase text-primary hover:underline mb-8 inline-block">
-            ← Voltar ao artigo
+      <main className="mx-auto w-full max-w-editorial px-5 py-10 md:px-grid-margin md:py-14">
+        <div className="mx-auto max-w-4xl">
+          <Link href={`/post/${params.slug}`} className="mb-8 inline-block font-body text-[0.7rem] font-extrabold uppercase tracking-[0.14em] text-faint transition-colors hover:text-accent">
+            Voltar ao artigo
           </Link>
 
-          <div className="mb-2">
-            <span className="font-label-caps text-[10px] uppercase text-on-surface-variant tracking-widest">Briefing Editorial</span>
-          </div>
-          <h1 className="font-newsreader font-semibold text-primary text-3xl md:text-4xl leading-tight mb-10 border-b border-primary pb-6" style={{ borderBottomWidth: '0.5pt' }}>
-            {title}
-          </h1>
+          <header className="mb-10 border-b border-border pb-10">
+            <p className="brand-kicker mb-5">briefing editorial</p>
+            <h1 className="brand-poster max-w-5xl text-5xl md:text-7xl">{title}</h1>
+          </header>
 
-          {/* TLDR */}
-          <div className="bg-primary-container text-on-primary p-8 mb-10">
-            <p className="font-label-caps text-[10px] uppercase tracking-widest text-on-primary-container mb-3">TL;DR</p>
-            <p className="font-newsreader text-xl md:text-2xl text-on-primary leading-relaxed">
+          <section className="dieline mb-10 rounded-xl bg-text p-8 text-bg shadow-md md:p-10">
+            <p className="mb-4 font-body text-[0.68rem] font-bold uppercase tracking-[0.2em] text-accent">TL;DR</p>
+            <p className="font-display text-2xl italic leading-snug text-bg md:text-3xl">
               {summary.tldr}
             </p>
-          </div>
+          </section>
 
-          {/* Key Facts */}
           {summary.key_facts?.length > 0 && (
             <section className="mb-10">
-              <h2 className="font-label-caps text-[10px] uppercase tracking-widest text-on-surface-variant mb-5">Fatos-Chave</h2>
-              <ol className="space-y-4">
+              <div className="mb-5 flex items-baseline gap-4">
+                <span className="brand-meta text-text">01 / fatos-chave</span>
+                <span className="h-px flex-1 bg-border" />
+              </div>
+              <ol className="grid gap-4 md:grid-cols-2">
                 {summary.key_facts.map((fact, i) => (
-                  <li key={i} className="flex gap-5 items-start">
-                    <span className="font-newsreader text-2xl font-semibold text-accent-coral leading-none mt-1 shrink-0">
-                      {String(i + 1).padStart(2, '0')}
-                    </span>
-                    <p className="font-work-sans text-body-md text-on-surface leading-relaxed">{fact}</p>
+                  <li key={i} className="brand-card p-5">
+                    <span className="brand-meta mb-3 block text-accent">{String(i + 1).padStart(2, '0')}</span>
+                    <p className="font-body leading-relaxed text-text">{fact}</p>
                   </li>
                 ))}
               </ol>
             </section>
           )}
 
-          <div className="border-t border-primary mb-10" style={{ borderTopWidth: '0.5pt' }} />
+          <div className="grid gap-6 md:grid-cols-2">
+            {summary.why_it_matters && (
+              <section className="brand-card p-6">
+                <p className="brand-meta mb-4 text-text">02 / por que importa</p>
+                <p className="font-display text-xl italic leading-relaxed text-muted">{summary.why_it_matters}</p>
+              </section>
+            )}
 
-          {/* Why it matters */}
-          {summary.why_it_matters && (
-            <section className="mb-10">
-              <h2 className="font-label-caps text-[10px] uppercase tracking-widest text-on-surface-variant mb-3">Por que importa</h2>
-              <p className="font-work-sans text-body-md text-on-surface leading-relaxed">{summary.why_it_matters}</p>
-            </section>
-          )}
+            {summary.editorial_angle && (
+              <section className="brand-card p-6">
+                <p className="brand-meta mb-4 text-text">03 / angulo editorial</p>
+                <p className="font-display text-xl italic leading-relaxed text-muted">{summary.editorial_angle}</p>
+              </section>
+            )}
+          </div>
 
-          {/* Watch next */}
           {summary.watch_next?.length > 0 && (
-            <section className="mb-10">
-              <h2 className="font-label-caps text-[10px] uppercase tracking-widest text-on-surface-variant mb-4">Fique de olho</h2>
-              <ul className="space-y-2">
+            <section className="mt-10 rounded-lg border border-border bg-surface p-6 shadow-sm">
+              <p className="brand-meta mb-5 text-text">04 / fique de olho</p>
+              <ul className="grid gap-3 md:grid-cols-2">
                 {summary.watch_next.map((item, i) => (
-                  <li key={i} className="flex gap-3 items-start font-work-sans text-body-md text-on-surface">
-                    <span className="text-accent-coral mt-1 shrink-0">→</span>
+                  <li key={i} className="flex gap-3 font-body leading-relaxed text-muted">
+                    <span className="mt-2 h-2 w-2 flex-shrink-0 rounded-full bg-accent" />
                     {item}
                   </li>
                 ))}
               </ul>
             </section>
           )}
-
-          {/* Editorial angle */}
-          {summary.editorial_angle && (
-            <section className="mb-10 bg-surface-container-low p-6">
-              <h2 className="font-label-caps text-[10px] uppercase tracking-widest text-on-surface-variant mb-3">Ângulo editorial</h2>
-              <p className="font-work-sans text-body-md text-on-surface leading-relaxed italic">{summary.editorial_angle}</p>
-            </section>
-          )}
-
-          <div className="border-t border-primary pt-8 flex flex-wrap gap-4" style={{ borderTopWidth: '0.5pt' }}>
-            <Link href={`/slides/${params.slug}`} className="font-label-caps text-[10px] uppercase tracking-widest text-primary hover:text-accent-coral transition-colors">
-              Ver Slides →
-            </Link>
-            <Link href={`/carousel/${params.slug}`} className="font-label-caps text-[10px] uppercase tracking-widest text-primary hover:text-accent-coral transition-colors">
-              Ver Carrossel →
-            </Link>
-          </div>
-
         </div>
       </main>
       <Footer />
     </>
-  );
+  )
 }

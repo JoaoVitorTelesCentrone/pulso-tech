@@ -26,7 +26,7 @@ export default function QuickSubscribeForm() {
 
   if (status === 'success') {
     return (
-      <p className="font-cormorant font-light text-ink text-lg">
+      <p className="brand-card px-5 py-4 font-display text-lg italic text-text">
         Verifique seu email para confirmar a assinatura.
       </p>
     )
@@ -35,29 +35,29 @@ export default function QuickSubscribeForm() {
   return (
     <form onSubmit={handleSubmit} className="w-full max-w-lg">
       <div className="flex flex-col gap-2">
-        <label htmlFor="newsletter-email" className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-muted">
-          Seu Email Profissional
+        <label htmlFor="newsletter-email" className="meta-label">
+          Seu email profissional
         </label>
-        <div className="flex border-b border-ink py-2">
+        <div className="flex rounded-md border border-border bg-surface px-4 py-2 shadow-sm transition-colors focus-within:border-accent">
           <input
             id="newsletter-email"
             type="email"
             required
             value={email}
             onChange={e => setEmail(e.target.value)}
-            className="bg-transparent border-none w-full focus:ring-0 focus:outline-none font-cormorant text-ink text-lg placeholder:text-warm-gray"
+            className="w-full border-none bg-transparent font-display text-lg italic text-text placeholder:text-faint focus:outline-none focus:ring-0"
             placeholder="nome@companhia.com.br"
           />
           <button
             type="submit"
             disabled={status === 'loading'}
-            className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-ink hover:text-muted transition-colors px-4 flex-shrink-0 disabled:opacity-50"
+            className="flex-shrink-0 rounded-sm px-4 font-body text-[0.68rem] font-extrabold uppercase tracking-[0.12em] text-accent transition-colors hover:text-accent-hover disabled:text-faint"
           >
             {status === 'loading' ? '...' : 'Assinar'}
           </button>
         </div>
         {status === 'error' && (
-          <p className="font-dm-mono text-[0.6rem] text-red-600 tracking-[0.08em]">
+          <p className="font-body text-[0.7rem] font-bold tracking-[0.08em] text-red-700">
             Erro ao inscrever. Tente novamente ou acesse /subscribe.
           </p>
         )}

@@ -1,0 +1,218 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Como funciona",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Ar Condicionado sem Compressor?",
+        "subtext": "A física dos materiais está redesenhando a refrigeração."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O Fim dos Gases Refrigerantes",
+        "body": "Sistemas tradicionais usam compressão de gases HFC, que têm alto potencial de aquecimento global. O estado sólido elimina esse ciclo."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Eletrocalórico: Calor por Campo Elétrico",
+        "body": "Certos materiais cerâmicos mudam de temperatura quando submetidos a um campo elétrico. Ao aplicar e remover o campo, bombeiam calor."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "03",
+        "headline": "Elastocalórico: Memória de Forma",
+        "body": "Ligas como o nitinol aquecem quando esticadas e esfriam ao relaxar. O movimento é mínimo, sem compressores de alta pressão."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "04",
+        "headline": "Magnetocalórico: Ímãs que Gelam",
+        "body": "Utiliza campos magnéticos para alterar a temperatura de materiais como o gadolínio. Já existe em protótipos."
+      },
+      {
+        "n": 6,
+        "type": "stat",
+        "stat_number": "5 a 8",
+        "stat_label": "Coeficiente de performance (COP) dos sistemas de estado sólido, contra 2,5 a 4 dos melhores compressores atuais."
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer entender o princípio físico por trás disso?",
+        "highlight_word": "físico",
+        "subtext": "Leia o artigo completo no Tech&Future."
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal e profissional",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Sua Conta de Luz e o Futuro da IA",
+        "subtext": "A refrigeração de estado sólido vai mudar seu bolso e seu trabalho."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "20%",
+        "stat_label": "Consumo global de eletricidade em edifícios destinado a ar condicionado e bombas de calor, segundo a IEA."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Data Centers: 40% da Energia é Refrigeração",
+        "body": "Até 40% da energia de um data center típico vai para sistemas de refrigeração. Com a IA, esse número está subindo."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "US$ 12 a 18 milhões",
+        "stat_label": "Economia anual por data center hiperscaler de 100 MW com sistemas de estado sólido, considerando US$ 0,08/kWh."
+      },
+      {
+        "n": 5,
+        "type": "quote",
+        "quote": "Trata-se de viabilidade econômica para a próxima década de expansão da infraestrutura digital."
+      },
+      {
+        "n": 6,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Redução de 60% no Consumo",
+        "body": "Prot tipos usam materiais eletrocalóricos e elastocalóricos para bombear calor com até 60% menos energia que sistemas convencionais."
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Como essa tecnologia pode impactar seu setor?",
+        "highlight_word": "setor",
+        "subtext": "Descubra no artigo completo do Tech&Future."
+      }
+    ],
+    "template": "F"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números do mercado",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$ 240 Bilhões em Jogo",
+        "subtext": "O mercado de HVAC está prestes a ser revolucionado."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 240 bilhões",
+        "stat_label": "Valor do mercado global de HVAC em 2025, com projeção de US$ 350 bilhões até 2032."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "US$ 17 a 35 bilhões",
+        "stat_label": "Mercado potencial para sistemas de estado sólido com penetração de 5-10% em 5 anos."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Data Center de 100 MW: 30-40 MW em Refrigeração",
+        "body": "Com estado sólido, esse consumo cairia para 12-16 MW. Economia operacional de US$ 12 a 18 milhões por ano."
+      },
+      {
+        "n": 5,
+        "type": "stat",
+        "stat_number": "60%",
+        "stat_label": "Redução de energia prometida pelos protótipos de estado sólido em comparação com sistemas convencionais."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Startups na Corrida",
+        "items": [
+          "Kelvin: MIT spin-off com protótipos funcionais.",
+          "Antora Energy: também com protótipos em laboratório.",
+          "Pesquisas em MIT, Stanford e institutos na Europa e Ásia."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer ver os números completos?",
+        "highlight_word": "números",
+        "subtext": "Acesse o artigo completo no Tech&Future."
+      }
+    ],
+    "template": "D"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "A Revolução Silenciosa da Refrigeração",
+        "subtext": "O que vem depois dos compressores mecânicos?"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Maturidade Comercial em 3 a 5 Anos",
+        "body": "Se os sistemas de estado sólido atingirem a maturidade comercial, o impacto será comparável ao salto dos discos rígidos para SSDs."
+      },
+      {
+        "n": 3,
+        "type": "quote",
+        "quote": "A promessa de uma refrigeração sem compressores mecânicos, sem fluidos refrigerantes tradicionais não é mais ficção científica."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Desafios Técnicos Ainda Existem",
+        "body": "Escalabilidade de fabricação, durabilidade dos ciclos (perda de eficiência após milhares de ciclos) e custo inicial são barreiras."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "03",
+        "headline": "União Europeia Já Sinaliza Regulamentação",
+        "body": "A UE já sinalizou mudanças regulatórias que podem acelerar a adoção de tecnologias de refrigeração mais limpas."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Impactos Esperados",
+        "items": [
+          "Redução drástica no custo operacional de data centers.",
+          "Viabilização de novas arquiteturas de computação.",
+          "Queda na conta de luz de residências e edifícios."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "O futuro da refrigeração já começou. E você?",
+        "highlight_word": "futuro",
+        "subtext": "Leia a análise completa no Tech&Future."
+      }
+    ],
+    "template": "A"
+  }
+]

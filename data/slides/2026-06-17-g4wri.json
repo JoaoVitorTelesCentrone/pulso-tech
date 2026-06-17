@@ -1,0 +1,53 @@
+{
+  "title": "NLnet Financia 67 Projetos Open Source: O Antídoto Silencioso ao Monopólio da Infraestrutura de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Antídoto Silencioso ao Monopólio da IA",
+      "subtext": "Enquanto big techs queimam US$ 80 bilhões, a NLnet financia 67 projetos que podem redefinir a internet — e ninguém está prestando atenção.",
+      "image_prompt": "A dark, futuristic digital landscape with a subtle glowing network of decentralized nodes, contrasting with monolithic corporate data centers in the background, cinematic lighting, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A NLnet Foundation, sediada na Holanda e ativa desde 1982, anunciou o financiamento de mais 67 projetos open source. A fundação já foi responsável por infraestruturas críticas como o OpenSSL e o DNS da internet.",
+      "highlight": "Uma das entidades que ajudaram a construir a própria internet"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A nona rodada de subsídios da NLnet injeta capital em projetos que vão de ferramentas de privacidade a protocolos descentralizados e identidade digital. Cada projeto recebe entre €50 mil e €500 mil — sem participação acionária.",
+      "visual_hint": "Ícone de engrenagens interligadas formando uma rede descentralizada"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Enquanto Google, Microsoft, Amazon e Meta centralizam a infraestrutura de IA em data centers de US$ 100 bilhões, a NLnet financia a alternativa: protocolos abertos, auditáveis e independentes. É a diferença entre estradas privadas e vias públicas.",
+      "visual_hint": "Diagrama mostrando um hub centralizado vs. uma malha distribuída de nós"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "67 novos projetos financiados em uma única rodada",
+        "Aportes entre €50 mil e €500 mil por projeto — sem equity",
+        "Comparação: big techs gastam US$ 80 bilhões em data centers"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Open source recebe oxigênio financeiro para competir com soluções proprietárias de IA",
+        "UE ganha capacidade técnica soberana, reduzindo dependência de big techs americanas",
+        "Modelo de subsídio direto da NLnet se torna alternativa viável ao venture capital"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O open source não morreu. Ele está sendo reabastecido — silenciosamente."
+    }
+  ]
+}

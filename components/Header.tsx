@@ -2,55 +2,64 @@
 
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import { LogIn, User } from 'lucide-react'
+import { PulsoMark } from './PulsoMark'
 
 const navLinks = [
+  { href: '/resumo-do-dia', label: 'Resumo' },
   { href: '/archive', label: 'Arquivo' },
-  { href: '/subscribe', label: 'Assinar' },
   { href: '/about', label: 'Sobre' },
 ]
 
-export default function Header() {
+type Props = { isPremium?: boolean }
+
+export default function Header({ isPremium }: Props) {
   const pathname = usePathname()
 
   return (
-    <nav className="sticky top-0 z-50 bg-cream border-b border-warm-gray">
-      <div className="flex justify-between items-center px-6 md:px-grid-margin py-4 w-full max-w-editorial mx-auto">
-
-        {/* Logo */}
-        <Link href="/" className="flex items-center gap-2 leading-none group">
-          <span
-            className="inline-block w-2 h-2 rounded-full bg-electric transition-transform duration-300 group-hover:scale-125"
-            aria-hidden
-          />
-          <span className="font-syne font-extrabold text-ink text-[1.35rem] tracking-[-0.04em]">
-            Pulso
-          </span>
+    <header className="sticky top-0 z-50 border-b border-border bg-bg/85 backdrop-blur-md">
+      <div className="mx-auto flex w-full max-w-editorial items-center justify-between px-5 py-3 md:px-grid-margin">
+        <Link href="/" className="group flex items-center gap-3 leading-none" aria-label="Pulso Tech">
+          <PulsoMark className="h-8 transition-transform duration-200 group-hover:-rotate-3" />
+          <div className="flex flex-col">
+            <span className="font-brand text-[1.45rem] leading-none text-text">Pulso</span>
+            <span className="brand-meta -mt-0.5 text-[0.52rem] tracking-[0.16em]">tech</span>
+          </div>
         </Link>
 
-        {/* Desktop nav */}
-        <ul className="hidden md:flex items-center gap-8 list-none m-0 p-0">
+        <nav className="hidden items-center gap-2 rounded-full border border-border bg-surface p-1 shadow-sm md:flex" aria-label="Navegacao principal">
           {navLinks.map(({ href, label }) => {
-            const isActive = pathname === href
+            const isActive = pathname === href || pathname.startsWith(`${href}/`)
             return (
-              <li key={href}>
-                <Link
-                  href={href}
-                  className={`font-dm-mono text-[0.65rem] tracking-[0.12em] uppercase transition-colors duration-200 ${
-                    isActive ? 'text-ink' : 'text-muted hover:text-ink'
-                  }`}
-                >
-                  {label}
-                </Link>
-              </li>
+              <Link
+                key={href}
+                href={href}
+                className={`rounded-full px-4 py-2 font-body text-[0.68rem] font-extrabold uppercase tracking-[0.12em] transition-colors ${
+                  isActive ? 'bg-accent text-bg shadow-accent' : 'text-muted hover:bg-surface-2 hover:text-text'
+                }`}
+              >
+                {label}
+              </Link>
             )
           })}
-        </ul>
+        </nav>
 
-        {/* Mobile — label */}
-        <span className="md:hidden font-dm-mono text-[0.58rem] tracking-[0.12em] uppercase text-muted">
-          Editorial
+        <div className="hidden items-center gap-3 md:flex">
+          {!isPremium && (
+            <Link href="/signup" className="btn-soft py-2">
+              Criar conta
+            </Link>
+          )}
+          <Link href={isPremium ? '/minha-conta' : '/login'} className="btn-ink py-2">
+            {isPremium ? <User size={14} /> : <LogIn size={14} />}
+            {isPremium ? 'Conta' : 'Entrar'}
+          </Link>
+        </div>
+
+        <span className="md:hidden brand-meta">
+          {isPremium ? 'premium' : 'editorial'}
         </span>
       </div>
-    </nav>
+    </header>
   )
 }

@@ -1,0 +1,53 @@
+{
+  "title": "cuTile Rust: NVIDIA Abre o Código da Programação GPU Segura e o Impacto na Corrida por Eficiência em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "NVIDIA Abre o Código da Programação GPU Segura",
+      "subtext": "Rust no coração da IA: como o cuTile pode redefinir eficiência e confiabilidade",
+      "image_prompt": "Futuristic GPU chip with glowing Rust logo, abstract data streams in blue and orange, dark tech background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 16 de junho de 2026, a NVIDIA Research publicou o cuTile Rust, um runtime que permite executar kernels GPU com garantias de segurança de memória e ausência de data-races. É a primeira vez que a empresa abre espaço para uma alternativa ao CUDA tradicional baseada em Rust.",
+      "highlight": "Data-races em GPUs são a principal causa de crashes e resultados incorretos em IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O cuTile Rust é um runtime que traduz a biblioteca cuTile de C++ para Rust, usando o sistema de ownership e o borrow checker para garantir, em tempo de compilação, que acessos concorrentes à memória da GPU sejam seguros. Diferente do CUDA clássico, que detecta erros em execução, aqui as garantias são estáticas.",
+      "visual_hint": "Ícone de escudo com chip GPU e engrenagem Rust"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Erros silenciosos em kernels podem invalidar treinamentos de semanas e custar milhões. Com a adoção de Rust, a NVIDIA sinaliza que segurança de memória é um diferencial competitivo. Kernels mais previsíveis permitem otimizações agressivas de compilação, reduzindo consumo energético e TCO em data centers de IA.",
+      "visual_hint": "Gráfico de barras mostrando redução de custo com kernels seguros"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo por hora de GPU H100 em nuvem: > US$ 4",
+        "Data-races são a principal causa de crashes em kernels GPU",
+        "Rust já é adotado em infraestrutura crítica: Linux kernel, Firefox, Android, AWS"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica de desperdício em treinamentos de IA",
+        "Abertura do ecossistema CUDA para uma linguagem segura e moderna",
+        "Pressão por eficiência energética em data centers pode acelerar adoção"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da programação GPU é seguro, eficiente e em Rust. Fique por dentro."
+    }
+  ]
+}

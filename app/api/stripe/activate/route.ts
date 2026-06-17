@@ -81,7 +81,7 @@ export async function GET(request: Request) {
   }
 
   const token = await signAccessToken(subscriberId)
-  const response = NextResponse.redirect(new URL('/premium-confirmed', request.url))
+  const response = NextResponse.redirect(new URL('/bem-vindo', request.url))
   response.cookies.set(ACCESS_COOKIE.name, token, ACCESS_COOKIE.options)
 
   return response

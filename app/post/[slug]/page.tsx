@@ -1,75 +1,64 @@
-import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import { getArticleData } from '@/lib/markdown'
-import { hasContent } from '@/lib/content-data'
+import { hasSummary } from '@/lib/content-data'
 import { PremiumCTA } from '@/components/PremiumCTA'
+import { ArticleGate } from '@/components/ArticleGate'
 import Link from 'next/link'
+import { cookies } from 'next/headers'
+import { verifyAccessToken, ACCESS_COOKIE } from '@/lib/auth'
 
 export default async function PostPage({ params }: { params: { slug: string } }) {
   const article = await getArticleData(params.slug)
-  const content = hasContent(params.slug)
+  const cookieStore = cookies()
+  const token = cookieStore.get(ACCESS_COOKIE.name)?.value
+  const access = token ? await verifyAccessToken(token) : null
+  const isPremium = access?.plan === 'premium'
+
+  const { contentHtml, premiumHtml, hasPremiumSplit } = article
 
   const extraLinks = [
-    content.summary  && { href: `/resumo/${params.slug}`,   label: 'Briefing Editorial' },
-    content.slides   && { href: `/slides/${params.slug}`,   label: 'Slides' },
-    content.carousels && { href: `/carousel/${params.slug}`, label: 'Carrossel' },
+    { href: `/card/${params.slug}`, label: 'Card' },
+    hasSummary(params.slug) && { href: `/resumo/${params.slug}`, label: 'Briefing' },
   ].filter(Boolean) as { href: string; label: string }[]
 
   return (
     <>
-      <Header />
-      <main className="max-w-editorial mx-auto px-6 md:px-grid-margin py-12">
-        <article className="max-w-3xl mx-auto">
-
-          <Link
-            href="/"
-            className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-muted hover:text-ink transition-colors mb-8 inline-block"
-          >
-            ← Voltar para o Início
+      <main className="mx-auto w-full max-w-editorial px-5 py-10 md:px-grid-margin md:py-14">
+        <article className="mx-auto max-w-4xl">
+          <Link href="/" className="mb-8 inline-block font-body text-[0.7rem] font-extrabold uppercase tracking-[0.14em] text-faint transition-colors hover:text-accent">
+            Voltar para o inicio
           </Link>
 
-          <header className="mb-12 border-b border-warm-gray pb-8">
-            {/* Tags */}
-            {article.tags && article.tags.length > 0 && (
-              <div className="flex flex-wrap gap-2 mb-6">
-                {article.tags.map(tag => (
-                  <span
-                    key={tag}
-                    className="font-dm-mono text-[0.6rem] tracking-[0.15em] uppercase px-3 py-1 border border-warm-gray text-muted"
-                  >
-                    {tag}
-                  </span>
-                ))}
-              </div>
-            )}
+          <header className="mb-10 border-b border-border pb-10">
+            <div className="mb-5 flex flex-wrap gap-2">
+              {article.tags?.map(tag => (
+                <span key={tag} className="tag-brand">{tag}</span>
+              ))}
+            </div>
 
-            <h1 className="font-syne font-extrabold text-ink mb-6 leading-[0.95] tracking-[-0.03em] text-4xl md:text-5xl">
+            <p className="brand-kicker mb-5">analise / pulso tech</p>
+            <h1 className="brand-poster max-w-5xl text-5xl md:text-7xl">
               {article.title}
             </h1>
-
-            <p className="font-dm-mono text-[0.65rem] tracking-[0.1em] uppercase text-muted mb-8">
-              Publicado em: {article.date}
+            <p className="mt-6 font-display text-lg italic text-muted">
+              Publicado em {article.date}
             </p>
 
             {article.image && (
-              <div className="w-full aspect-[21/9] relative mb-8 overflow-hidden">
+              <div className="mt-8 overflow-hidden rounded-xl border border-border bg-surface shadow-sm">
                 <img
                   src={article.image}
                   alt={article.title}
-                  className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
+                  className="h-full max-h-[460px] w-full object-cover grayscale transition-all duration-500 hover:grayscale-0"
                 />
               </div>
             )}
 
             {extraLinks.length > 0 && (
-              <div className="flex flex-wrap gap-3">
+              <div className="mt-8 flex flex-wrap gap-3">
                 {extraLinks.map(link => (
-                  <Link
-                    key={link.href}
-                    href={link.href}
-                    className="font-dm-mono text-[0.65rem] tracking-[0.12em] uppercase border border-ink px-5 py-2 text-ink hover:bg-ink hover:text-white transition-colors duration-200"
-                  >
-                    {link.label} →
+                  <Link key={link.href} href={link.href} className="btn-soft">
+                    {link.label}
                   </Link>
                 ))}
               </div>
@@ -78,16 +67,36 @@ export default async function PostPage({ params }: { params: { slug: string } })
 
           <div
             className="prose prose-lg max-w-none
-                       prose-headings:font-syne prose-headings:font-bold prose-headings:tracking-tight
-                       prose-p:font-cormorant prose-p:text-[1.15rem] prose-p:leading-[1.85]
-                       prose-a:text-ink prose-a:underline hover:prose-a:no-underline
-                       prose-strong:font-cormorant prose-strong:font-semibold
-                       prose-blockquote:font-cormorant prose-blockquote:italic prose-blockquote:border-l-2 prose-blockquote:border-warm-gray prose-blockquote:text-muted
-                       prose-code:font-dm-mono prose-code:text-sm prose-code:bg-paper prose-code:px-1"
-            dangerouslySetInnerHTML={{ __html: article.contentHtml }}
+              prose-headings:font-display prose-headings:italic prose-headings:font-semibold prose-headings:text-text
+              prose-p:font-body prose-p:text-[1.05rem] prose-p:leading-[1.8] prose-p:text-text
+              prose-a:text-accent prose-a:underline hover:prose-a:text-accent-hover
+              prose-strong:font-bold prose-strong:text-text
+              prose-blockquote:border-l-4 prose-blockquote:border-accent prose-blockquote:bg-surface prose-blockquote:px-5 prose-blockquote:py-2 prose-blockquote:font-display prose-blockquote:italic prose-blockquote:text-muted
+              prose-code:rounded-sm prose-code:bg-surface-2 prose-code:px-1.5 prose-code:py-0.5 prose-code:font-body prose-code:text-sm
+              prose-pre:rounded-lg prose-pre:border prose-pre:border-border prose-pre:bg-surface"
+            dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
 
-          <PremiumCTA />
+          {!isPremium && hasPremiumSplit ? (
+            <ArticleGate />
+          ) : (
+            <>
+              {hasPremiumSplit && premiumHtml && (
+                <div
+                  className="prose prose-lg mt-10 max-w-none
+                    prose-headings:font-display prose-headings:italic prose-headings:font-semibold prose-headings:text-text
+                    prose-p:font-body prose-p:text-[1.05rem] prose-p:leading-[1.8] prose-p:text-text
+                    prose-a:text-accent prose-a:underline hover:prose-a:text-accent-hover
+                    prose-strong:font-bold prose-strong:text-text
+                    prose-blockquote:border-l-4 prose-blockquote:border-accent prose-blockquote:bg-surface prose-blockquote:px-5 prose-blockquote:py-2 prose-blockquote:font-display prose-blockquote:italic prose-blockquote:text-muted
+                    prose-code:rounded-sm prose-code:bg-surface-2 prose-code:px-1.5 prose-code:py-0.5 prose-code:font-body prose-code:text-sm
+                    prose-pre:rounded-lg prose-pre:border prose-pre:border-border prose-pre:bg-surface"
+                  dangerouslySetInnerHTML={{ __html: premiumHtml }}
+                />
+              )}
+              <PremiumCTA />
+            </>
+          )}
         </article>
       </main>
       <Footer />

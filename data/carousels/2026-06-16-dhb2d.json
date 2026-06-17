@@ -1,0 +1,221 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Mecanismo e Ciência",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Reprogramação Celular Sai do Laboratório",
+        "subtext": "Primeiro paciente humano recebe injeção experimental para reverter envelhecimento da retina"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que é reprogramação celular?",
+        "body": "Técnica que usa fatores de Yamanaka (descoberta vencedora do Nobel em 2012) para reverter células adultas a um estado mais jovem e funcional, sem virar célula-tronco."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2012",
+        "stat_label": "Ano em que Shinya Yamanaka ganhou o Prêmio Nobel pela descoberta dos fatores que revertem células adultas a estado pluripotente"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A Life Biosciences está usando uma versão modificada e controlada desse processo, injetando fatores de reprogramação diretamente no tecido-alvo, no caso, o olho.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Por que o olho é o alvo ideal",
+        "body": "O olho é compartimentalizado, imunologicamente privilegiado e permite entrega direta via injeção intravítrea — procedimento oftalmológico rotineiro realizado milhões de vezes ao ano."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Vantagens do olho para reprogramação",
+        "items": [
+          "Ambiente fechado reduz risco de tumores (teratomas)",
+          "Injeção intravítrea já validada para degeneração macular",
+          "Progresso monitorado em tempo real por OCT (Tomografia de Coerência Óptica)"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Como a reprogramação parcial evita tumores?",
+        "highlight_word": "reprogramação",
+        "subtext": "Leia o artigo completo no Tech&Future para entender o mecanismo de 'reset epigenético' controlado"
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal: O que muda para você",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Glaucoma pode ser tratado com reprogramação celular",
+        "subtext": "Primeiro paciente humano já recebeu a dose experimental — e isso afeta sua saúde e carreira"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que isso significa para pacientes",
+        "body": "Um paciente com glaucoma recebeu injeção experimental no globo ocular para tratar a doença — que causa perda irreversível da visão — não apenas gerenciando sintomas, mas reprogramando células da retina."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "1º",
+        "stat_label": "Primeiro paciente humano tratado com reprogramação celular in vivo, marcando a saída da técnica dos laboratórios para a clínica"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A biotecnologia de ponta está saindo do hype e entrando em fase de execução clínica. Isso tem implicações diretas para alocação de capital, para o desenvolvimento de ferramentas de IA na saúde e para a regulação de terapias genéticas.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Oportunidades para profissionais de saúde",
+        "body": "Se funcionar para glaucoma, as portas se abrem para dezenas de outras condições neurodegenerativas e degenerativas — criando demanda por especialistas em terapia genética e reprogramação."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Setores impactados diretamente",
+        "items": [
+          "Oftalmologia: novo protocolo de tratamento para glaucoma",
+          "Medicina regenerativa: plataforma aplicável a outras doenças",
+          "Regulação sanitária: FDA já autorizou testes em humanos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua área está preparada para a reprogramação celular?",
+        "highlight_word": "reprogramação",
+        "subtext": "Descubra no artigo completo como isso muda o mercado de saúde e sua carreira"
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números do Mercado",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Reprogramação Celular: Os Números que Importam",
+        "subtext": "Dados reais do primeiro teste humano e do mercado de longevidade"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "2012",
+        "stat_label": "Ano do Prêmio Nobel de Shinya Yamanaka pela descoberta dos fatores de reprogramação celular"
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O marco regulatório",
+        "body": "A Life Biosciences recebeu autorização da FDA (Food and Drug Administration) para avançar para testes em humanos — o primeiro paciente já foi tratado com injeção no olho."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "Milhões",
+        "stat_label": "Número de injeções intravítreas realizadas por ano para tratar degeneração macular — via de administração já validada para reprogramação"
+      },
+      {
+        "n": 5,
+        "type": "quote",
+        "quote": "\"A Life Biosciences detém patentes sobre a entrega controlada dos fatores de Yamanaka in vivo, o que cria uma barreira de entrada significativa para concorrentes.\""
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Empresas na cadeia de valor",
+        "items": [
+          "Life Biosciences: plataforma proprietária de reprogramação in vivo",
+          "Insilico Medicine: IA para drug discovery",
+          "Recursion Pharmaceuticals: modelagem computacional de interações proteicas"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quanto vale o mercado de reprogramação celular?",
+        "highlight_word": "mercado",
+        "subtext": "Leia o artigo completo no Tech&Future para os números e projeções financeiras"
+      }
+    ],
+    "template": "D"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências do Marco",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Medicina Regenerativa Começou",
+        "subtext": "Reprogramação celular em humanos: o que vem depois do primeiro paciente?"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que muda com o primeiro paciente",
+        "body": "Pela primeira vez, a reprogramação celular — o 'reset' epigenético — está sendo testada em um ser humano para tratar uma doença específica. Se funcionar para glaucoma, portas se abrem para dezenas de outras condições."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "3",
+        "stat_label": "Motivos que tornam o anúncio um divisor de águas: validação de mecanismo, modelo de negócio defensável e interseção com IA"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Até hoje, a indústria de longevidade e antienvelhecimento era dominada por suplementos, dietas restritivas e uma enxurrada de startups com promessas vagas.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O papel da IA no futuro",
+        "body": "O desenvolvimento desses tratamentos depende de modelos computacionais complexos para prever interações proteicas, efeitos colaterais e dosagens ideais — empresas como Insilico Medicine e Recursion Pharmaceuticals estão na cadeia."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Próximos passos esperados",
+        "items": [
+          "Expansão para outras doenças neurodegenerativas e degenerativas",
+          "Novas rodadas de investimento em biotech de longevidade",
+          "Regulamentação de terapias genéticas baseadas em reprogramação"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Você está pronto para a era da reprogramação celular?",
+        "highlight_word": "reprogramação",
+        "subtext": "Leia o artigo completo no Tech&Future e entenda as implicações para investidores e profissionais de saúde"
+      }
+    ],
+    "template": "C"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo paper no arXiv propõe Modelos Causais Estruturais Relacionais, unificando raciocínio causal e combinatorial para superar a limitação correlacional dos LLMs atuais.",
+  "key_facts": [
+    "Paper 'Relational Structural Causal Models' publicado no arXiv em 16 de junho de 2026.",
+    "Propõe unificar causalidade (intervenções e contrafactuais) com combinatorialidade (generalização para novas combinações de objetos).",
+    "Ataca a limitação fundamental dos LLMs: natureza puramente estatística e correlacional, sem modelo causal do mundo."
+  ],
+  "why_it_matters": "Representa uma potencial mudança de paradigma para a IA, abordando falhas críticas de segurança, generalização e raciocínio contrafactual em sistemas como carros autônomos e diagnósticos médicos.",
+  "watch_next": [
+    "Validação experimental do framework em benchmarks de causalidade e generalização.",
+    "Reação da indústria de LLMs e possíveis integrações em modelos comerciais.",
+    "Debate acadêmico sobre a viabilidade de escalar SCMs relacionais para problemas reais."
+  ],
+  "editorial_angle": "O artigo se destaca ao ignorar o hype de mercado (chatbots, preços de tokens) e focar em uma inovação acadêmica silenciosa que pode ser a base do próximo salto evolutivo da IA, oferecendo uma perspectiva crítica e aprofundada sobre as limitações dos LLMs atuais."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Ar Condicionado de Estado Sólido: A Revolução Silenciosa que Pode Redefinir o Consumo de Energia Global",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Revolução Silenciosa da Refrigeração",
+      "subtext": "Como uma tecnologia esquecida pode cortar pela metade o consumo de energia global — e redefinir data centers, economias e o futuro da computação.",
+      "image_prompt": "Futuristic solid-state cooling chip glowing with blue neon light, surrounded by abstract heat waves and digital energy flow lines, dark tech background, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mundo derrete sob recordes de calor, a refrigeração já consome 20% da eletricidade global em edifícios. Data centers gastam até 40% de sua energia apenas para se manter frios. A IA e o aquecimento global só aceleram essa demanda.",
+      "highlight": "20% do consumo global de eletricidade em edifícios vem de ar condicionado e bombas de calor."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores do MIT, Stanford e institutos na Europa e Ásia estão testando protótipos de ar condicionado de estado sólido. Sem compressores mecânicos, sem fluidos refrigerantes poluentes — usando materiais eletrocalóricos e elastocalóricos para bombear calor com até 60% menos energia.",
+      "visual_hint": "Ícone de chip semicondutor com ondas de calor sendo 'puxadas' para fora, sem partes móveis visíveis"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para data centers, o impacto é comparável ao salto dos discos rígidos para SSDs: redução drástica no custo operacional que viabiliza novas arquiteturas de computação. Para residências e economias emergentes, significa contas de luz mais baixas e menos emissões — tudo sem abrir mão do conforto térmico.",
+      "visual_hint": "Gráfico de barras comparando consumo de energia entre refrigeração tradicional e estado sólido, com ícone de data center ao fundo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "COP (coeficiente de performance) de 5 a 8 — contra 2,5 a 4 dos melhores sistemas atuais",
+        "Até 60% menos energia consumida em relação a sistemas convencionais",
+        "40% da energia de um data center típico vai para refrigeração"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Maturidade comercial prevista em 3 a 5 anos — janela crítica para expansão da infraestrutura digital",
+        "Redução drástica no custo operacional de data centers, viabilizando mais capacidade de IA",
+        "Substituição de fluidos HFCs com alto potencial de aquecimento global por materiais sólidos e limpos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Enquanto o mundo olha para a IA, a verdadeira revolução pode estar no silêncio de um chip que esfria."
+    }
+  ]
+}

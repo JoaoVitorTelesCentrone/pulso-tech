@@ -12,8 +12,8 @@ export function HeroHeadline({ title, slug }: HeroHeadlineProps) {
   const words = title.split(' ')
 
   return (
-    <Link href={`/post/${slug}`} className="block max-w-3xl group mb-6">
-      <h1 className="font-syne font-extrabold text-white leading-[0.92] tracking-[-0.04em] text-3xl sm:text-4xl lg:text-5xl group-hover:text-electric transition-colors duration-300">
+    <Link href={`/post/${slug}`} className="group mb-8 block max-w-4xl">
+      <h1 className="brand-poster text-5xl text-bg transition-colors duration-300 group-hover:text-accent sm:text-6xl lg:text-[6.8rem]">
         {words.map((word, i) => (
           <motion.span
             key={i}

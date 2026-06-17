@@ -1,0 +1,16 @@
+{
+  "tldr": "Sistemas de ar condicionado de estado sólido, baseados em efeitos eletrocalóricos e elastocalóricos, prometem reduzir em até 60% o consumo energético de refrigeração, impactando diretamente data centers e a viabilidade da expansão da IA.",
+  "key_facts": [
+    "Refrigeração representa ~20% do consumo global de eletricidade em edifícios (IEA).",
+    "Até 40% da energia de um data center vai para sistemas de refrigeração.",
+    "Prototipos de estado sólido atingem COP entre 5 e 8, contra 2,5 a 4 dos melhores sistemas a compressor.",
+    "Tecnologias envolvidas: eletrocalórico, elastocalórico e magnetocalórico."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, a refrigeração é o gargalo oculto da escalabilidade: com a explosão do treinamento e inferência de modelos, cortar o consumo energético dos data centers em até 60% pode redefinir o custo operacional da computação de IA e viabilizar novas arquiteturas de hardware.",
+  "watch_next": [
+    "Anúncio de parcerias entre fabricantes de chips e startups de refrigeração de estado sólido.",
+    "Primeiros data centers comerciais testando protótipos em escala piloto.",
+    "Regulamentações ambientais acelerando a substituição de fluidos refrigerantes tradicionais."
+  ],
+  "editorial_angle": "Diferencia-se ao conectar uma inovação de hardware 'invisível' (refrigeração) com o custo real da infraestrutura de IA, indo além do hype de modelos e IPOs para mostrar o que viabiliza a próxima década digital."
+}

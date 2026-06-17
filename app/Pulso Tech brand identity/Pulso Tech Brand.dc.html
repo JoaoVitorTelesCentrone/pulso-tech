@@ -1,0 +1,835 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="_ds/mind-space-design-system-019e1d1e-2d72-7729-aec8-b3e98d69f760/tokens.css">
+  <script src="_ds/mind-space-design-system-019e1d1e-2d72-7729-aec8-b3e98d69f760/_ds_bundle.js"></script>
+  <script>
+    // Brand book is a CREAM/LIGHT artefact — lock the root to light theme
+    // so the design system's prefers-color-scheme: dark override doesn't flip the page.
+    document.documentElement.setAttribute('data-theme', 'light');
+  </script>
+</helmet>
+
+<main data-screen-label="Pulso Tech — Brand Book" style="background: #E8E1CB; min-height: 100vh; padding: 64px 56px 96px; font-family: var(--font-body); color: var(--text);">
+
+  <!-- META BAR -->
+  <div style="max-width: 1280px; margin: 0 auto 56px; display: flex; align-items: baseline; justify-content: space-between; border-bottom: 1px solid #B8AE8E; padding-bottom: 18px;">
+    <div style="display: flex; align-items: baseline; gap: 18px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text);">nr. 001 — pulso tech</span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">brand identity / v1 / jun 2026</span>
+    </div>
+    <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">— newsletter / ia &amp; tecnologia</span>
+  </div>
+
+  <!-- ============================================================
+       1 — COVER
+       ============================================================ -->
+  <section data-screen-label="01 Capa" style="max-width: 1280px; margin: 0 auto 80px;">
+    <div style="background: var(--bg); border-radius: 24px; padding: 72px 64px 56px; position: relative; overflow: hidden; box-shadow: var(--shadow-md);">
+      <span style="position: absolute; top: 24px; left: 28px; font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">01 / capa</span>
+      <span style="position: absolute; top: 24px; right: 28px; font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">— o pulso da inteligência</span>
+
+      <svg viewBox="0 0 800 400" style="position: absolute; right: -40px; top: 60px; width: 720px; height: 360px; opacity: 0.5; pointer-events: none;" aria-hidden="true">
+        <g transform="rotate(-14 400 200)">
+          <ellipse cx="400" cy="200" rx="360" ry="120" fill="none" stroke="#BFB394" stroke-width="3"/>
+          <ellipse cx="400" cy="200" rx="280" ry="92" fill="none" stroke="#BFB394" stroke-width="2" stroke-dasharray="6 10"/>
+        </g>
+      </svg>
+
+      <div style="position: absolute; top: 96px; right: 120px; width: 14px; height: 14px; border-radius: 50%; background: var(--accent); box-shadow: var(--accent-shadow);"></div>
+
+      <div style="position: relative; display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: end; min-height: 480px;">
+        <div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 17px; color: var(--text-muted); margin-bottom: 24px;">newsletter semanal</div>
+          <h1 style="font-family: var(--font-headline); font-size: 168px; line-height: 0.86; letter-spacing: -0.01em; text-transform: uppercase; margin: 0 0 8px; color: var(--text);">PULSO</h1>
+          <h1 style="font-family: var(--font-headline); font-size: 168px; line-height: 0.86; letter-spacing: -0.01em; text-transform: uppercase; margin: 0; color: var(--text);">T<span style="color: var(--accent);">E</span>CH</h1>
+          <div style="margin-top: 40px; max-width: 480px;">
+            <p style="font-family: var(--font-display); font-style: italic; font-size: 22px; line-height: 1.35; color: var(--text); margin: 0;">o ritmo da <span style="color: var(--accent);">inteligência artificial</span> sem o ruído.</p>
+          </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: end; gap: 24px;">
+          <svg viewBox="0 0 340 240" style="width: 100%; max-width: 380px; height: auto;" aria-label="Pulso Tech mark">
+            <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="14" stroke-linecap="round"/></g>
+            <circle cx="170" cy="120" r="34" fill="#0F0E14"/>
+            <path d="M 14 120 L 92 120 L 110 78 L 132 162 L 152 64 L 188 176 L 208 64 L 230 162 L 250 80 L 268 120 L 326 120" stroke="#E84B2A" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M 285 32 L 290 50 L 308 55 L 290 60 L 285 78 L 280 60 L 262 55 L 280 50 Z" fill="#0F0E14"/>
+          </svg>
+          <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text-muted); text-align: center;">— marca primária —</div>
+        </div>
+      </div>
+
+      <div style="position: relative; margin-top: 48px; padding-top: 18px; border-top: 1px solid var(--paper-grain); display: flex; justify-content: space-between; align-items: baseline;">
+        <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text);">toda quinta · português · 5 min de leitura</span>
+        <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">pulsotech.news</span>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       2 — MANIFESTO
+       ============================================================ -->
+  <section data-screen-label="02 Manifesto" style="max-width: 1280px; margin: 0 auto 80px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">02 / manifesto</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">a voz</span>
+    </div>
+
+    <div style="background: var(--surface); border-radius: 24px; padding: 72px 80px; box-shadow: var(--shadow-sm);">
+      <div style="display: grid; grid-template-columns: 1.4fr 1fr; gap: 64px; align-items: start;">
+        <div>
+          <p style="font-family: var(--font-display); font-style: italic; font-weight: 500; font-size: 42px; line-height: 1.18; letter-spacing: -0.015em; color: var(--text); margin: 0 0 32px; text-wrap: pretty;">
+            a inteligência artificial não precisa <span style="color: var(--accent);">gritar</span> com você.
+          </p>
+          <p style="font-family: var(--font-display); font-style: italic; font-size: 22px; line-height: 1.45; color: var(--text); margin: 0 0 18px; max-width: 560px;">
+            pulso tech é uma newsletter semanal, em português, sobre o que está acontecendo de fato em ia e tecnologia — sem manchete viral, sem fomo, sem promessa de futuro.
+          </p>
+          <p style="font-family: var(--font-display); font-style: italic; font-size: 22px; line-height: 1.45; color: var(--text-muted); margin: 0; max-width: 560px;">
+            o que mudou na semana, por que importa, e o que você pode parar de se preocupar.
+          </p>
+        </div>
+
+        <div style="border-left: 1px solid var(--paper-grain); padding-left: 40px;">
+          <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 18px;">três batidas</div>
+          <div style="display: flex; flex-direction: column; gap: 28px;">
+            <div>
+              <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 6px;">
+                <span style="display: inline-block; width: 22px; height: 22px; border-radius: 50%; background: var(--accent);"></span>
+                <span style="font-family: var(--font-headline); font-size: 28px; text-transform: uppercase; color: var(--text);">SINAL</span>
+              </div>
+              <p style="font-size: 14px; line-height: 1.55; color: var(--text-muted); margin: 0;">o que mudou, em uma frase. sem hype.</p>
+            </div>
+            <div>
+              <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 6px;">
+                <span style="display: inline-block; width: 22px; height: 22px; border-radius: 50%; background: var(--text);"></span>
+                <span style="font-family: var(--font-headline); font-size: 28px; text-transform: uppercase; color: var(--text);">CONTEXTO</span>
+              </div>
+              <p style="font-size: 14px; line-height: 1.55; color: var(--text-muted); margin: 0;">por que esse modelo, lei ou lançamento importa pra você.</p>
+            </div>
+            <div>
+              <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 6px;">
+                <span style="display: inline-block; width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--text); background: transparent;"></span>
+                <span style="font-family: var(--font-headline); font-size: 28px; text-transform: uppercase; color: var(--text);">RUÍDO</span>
+              </div>
+              <p style="font-size: 14px; line-height: 1.55; color: var(--text-muted); margin: 0;">o que pode ignorar essa semana. respiramos por você.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       3 — MARK (anatomy + variations)
+       ============================================================ -->
+  <section data-screen-label="03 Marca" style="max-width: 1280px; margin: 0 auto 80px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">03 / marca</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">órbita + pulso + faísca</span>
+    </div>
+
+    <div style="background: var(--surface); border-radius: 24px; padding: 56px 64px; box-shadow: var(--shadow-sm); margin-bottom: 24px;">
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 64px; align-items: center;">
+        <div style="position: relative;">
+          <svg viewBox="0 0 340 260" style="width: 100%; height: auto;" aria-label="Pulso Tech mark — anatomy">
+            <g opacity="0.35">
+              <line x1="170" y1="0" x2="170" y2="260" stroke="#BFB394" stroke-width="1" stroke-dasharray="3 5"/>
+              <line x1="0" y1="130" x2="340" y2="130" stroke="#BFB394" stroke-width="1" stroke-dasharray="3 5"/>
+              <circle cx="170" cy="130" r="44" fill="none" stroke="#BFB394" stroke-width="1" stroke-dasharray="3 5"/>
+            </g>
+            <g transform="rotate(-12 170 130)"><ellipse cx="170" cy="130" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="14" stroke-linecap="round"/></g>
+            <circle cx="170" cy="130" r="34" fill="#0F0E14"/>
+            <path d="M 14 130 L 92 130 L 110 88 L 132 172 L 152 74 L 188 186 L 208 74 L 230 172 L 250 90 L 268 130 L 326 130" stroke="#E84B2A" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M 285 42 L 290 60 L 308 65 L 290 70 L 285 88 L 280 70 L 262 65 L 280 60 Z" fill="#0F0E14"/>
+          </svg>
+          <div style="position: absolute; right: 0; top: 56%; font-size: 10px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text);">a. órbita</div>
+          <div style="position: absolute; left: 60%; top: 8%; font-size: 10px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent);">b. pulso</div>
+          <div style="position: absolute; left: 22%; bottom: 6%; font-size: 10px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text);">c. sinal</div>
+          <div style="position: absolute; right: 4%; top: 8%; font-size: 10px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text);">d. faísca</div>
+        </div>
+
+        <div>
+          <h2 style="font-family: var(--font-display); font-style: italic; font-weight: 500; font-size: 36px; line-height: 1.15; color: var(--text); margin: 0 0 24px;">quatro elementos. um sinal.</h2>
+          <div style="display: flex; flex-direction: column; gap: 18px;">
+            <div style="display: grid; grid-template-columns: 32px 1fr; gap: 14px; align-items: baseline;">
+              <span style="font-family: var(--font-headline); font-size: 28px; color: var(--text);">A</span>
+              <p style="font-size: 14px; line-height: 1.6; color: var(--text); margin: 0;"><b>órbita.</b> a tecnologia em rotação — o sistema, o ciclo, o universo da ia que nos cerca.</p>
+            </div>
+            <div style="display: grid; grid-template-columns: 32px 1fr; gap: 14px; align-items: baseline;">
+              <span style="font-family: var(--font-headline); font-size: 28px; color: var(--accent);">B</span>
+              <p style="font-size: 14px; line-height: 1.6; color: var(--text); margin: 0;"><b>pulso.</b> o que está vivo agora — a batida, o ritmo da semana, em coral.</p>
+            </div>
+            <div style="display: grid; grid-template-columns: 32px 1fr; gap: 14px; align-items: baseline;">
+              <span style="font-family: var(--font-headline); font-size: 28px; color: var(--text);">C</span>
+              <p style="font-size: 14px; line-height: 1.6; color: var(--text); margin: 0;"><b>sinal.</b> o ponto sólido — o foco, o que vale sua atenção esta semana.</p>
+            </div>
+            <div style="display: grid; grid-template-columns: 32px 1fr; gap: 14px; align-items: baseline;">
+              <span style="font-family: var(--font-headline); font-size: 28px; color: var(--text);">D</span>
+              <p style="font-size: 14px; line-height: 1.6; color: var(--text); margin: 0;"><b>faísca.</b> a inteligência — a centelha de pensamento, o "ah" que vale a leitura.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Variations -->
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px;">
+      <div style="background: var(--bg); border-radius: 20px; padding: 32px 20px 18px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; gap: 16px; min-height: 200px; justify-content: space-between;">
+        <svg viewBox="0 0 340 240" style="width: 160px;" aria-hidden="true">
+          <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="14" stroke-linecap="round"/></g>
+          <circle cx="170" cy="120" r="34" fill="#0F0E14"/>
+          <path d="M 14 120 L 92 120 L 110 78 L 132 162 L 152 64 L 188 176 L 208 64 L 230 162 L 250 80 L 268 120 L 326 120" stroke="#E84B2A" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M 285 32 L 290 50 L 308 55 L 290 60 L 285 78 L 280 60 L 262 55 L 280 50 Z" fill="#0F0E14"/>
+        </svg>
+        <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">primária / cream</div>
+      </div>
+
+      <div style="background: var(--text); border-radius: 20px; padding: 32px 20px 18px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; gap: 16px; min-height: 200px; justify-content: space-between;">
+        <svg viewBox="0 0 340 240" style="width: 160px;" aria-hidden="true">
+          <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#F2EDDF" stroke-width="14" stroke-linecap="round"/></g>
+          <circle cx="170" cy="120" r="34" fill="#F2EDDF"/>
+          <path d="M 14 120 L 92 120 L 110 78 L 132 162 L 152 64 L 188 176 L 208 64 L 230 162 L 250 80 L 268 120 L 326 120" stroke="#FF6B49" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M 285 32 L 290 50 L 308 55 L 290 60 L 285 78 L 280 60 L 262 55 L 280 50 Z" fill="#F2EDDF"/>
+        </svg>
+        <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #B8B3A0;">invertida / ink</div>
+      </div>
+
+      <div style="background: var(--bg); border-radius: 20px; padding: 32px 20px 18px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; gap: 16px; min-height: 200px; justify-content: space-between;">
+        <svg viewBox="0 0 340 240" style="width: 160px;" aria-hidden="true">
+          <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="14" stroke-linecap="round"/></g>
+          <circle cx="170" cy="120" r="34" fill="#0F0E14"/>
+          <path d="M 14 120 L 92 120 L 110 78 L 132 162 L 152 64 L 188 176 L 208 64 L 230 162 L 250 80 L 268 120 L 326 120" stroke="#0F0E14" stroke-width="9" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M 285 32 L 290 50 L 308 55 L 290 60 L 285 78 L 280 60 L 262 55 L 280 50 Z" fill="#0F0E14"/>
+        </svg>
+        <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">mono / só tinta</div>
+      </div>
+
+      <div style="background: var(--bg); border-radius: 20px; padding: 32px 20px 18px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; gap: 16px; min-height: 200px; justify-content: space-around;">
+        <div style="display: flex; align-items: center; gap: 14px;">
+          <svg viewBox="0 0 340 240" style="width: 78px;" aria-hidden="true">
+            <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="20" stroke-linecap="round"/></g>
+            <circle cx="170" cy="120" r="42" fill="#0F0E14"/>
+            <path d="M 22 120 L 100 120 L 122 60 L 170 184 L 218 60 L 240 180 L 264 120 L 322 120" stroke="#E84B2A" stroke-width="14" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <svg viewBox="0 0 340 240" style="width: 44px;" aria-hidden="true">
+            <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="28" stroke-linecap="round"/></g>
+            <circle cx="170" cy="120" r="50" fill="#0F0E14"/>
+          </svg>
+          <svg viewBox="0 0 340 240" style="width: 26px;" aria-hidden="true">
+            <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="40" stroke-linecap="round"/></g>
+            <circle cx="170" cy="120" r="56" fill="#0F0E14"/>
+          </svg>
+        </div>
+        <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted); text-align: center;">redução / favicon</div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       4 — WORDMARK lockups
+       ============================================================ -->
+  <section data-screen-label="04 Wordmark" style="max-width: 1280px; margin: 0 auto 80px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">04 / wordmark &amp; lockups</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">três registros</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px; margin-bottom: 24px;">
+      <!-- Horizontal lockup -->
+      <div style="background: var(--bg); border-radius: 20px; padding: 56px 48px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; gap: 28px; min-height: 280px; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 22px;">
+          <svg viewBox="0 0 340 240" style="width: 130px; flex-shrink: 0;" aria-hidden="true">
+            <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="18" stroke-linecap="round"/></g>
+            <circle cx="170" cy="120" r="40" fill="#0F0E14"/>
+            <path d="M 14 120 L 92 120 L 110 64 L 152 184 L 188 64 L 230 184 L 268 120 L 326 120" stroke="#E84B2A" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M 285 32 L 290 50 L 308 55 L 290 60 L 285 78 L 280 60 L 262 55 L 280 50 Z" fill="#0F0E14"/>
+          </svg>
+          <div>
+            <div style="font-family: var(--font-headline); font-size: 64px; line-height: 0.88; letter-spacing: -0.005em; text-transform: uppercase; color: var(--text);">PULSO</div>
+            <div style="font-family: var(--font-headline); font-size: 64px; line-height: 0.88; letter-spacing: -0.005em; text-transform: uppercase; color: var(--text);">T<span style="color: var(--accent);">E</span>CH</div>
+          </div>
+        </div>
+        <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">a. lockup horizontal · capa, header, materiais grandes</div>
+      </div>
+
+      <!-- Stacked italic -->
+      <div style="background: var(--bg); border-radius: 20px; padding: 56px 48px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; gap: 28px; min-height: 280px; justify-content: space-between;">
+        <div style="display: flex; align-items: center; gap: 22px;">
+          <svg viewBox="0 0 340 240" style="width: 90px; flex-shrink: 0;" aria-hidden="true">
+            <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="22" stroke-linecap="round"/></g>
+            <circle cx="170" cy="120" r="44" fill="#0F0E14"/>
+            <path d="M 22 120 L 100 120 L 122 60 L 170 184 L 218 60 L 240 180 L 264 120 L 322 120" stroke="#E84B2A" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <div>
+            <div style="font-family: var(--font-display); font-style: italic; font-weight: 500; font-size: 56px; line-height: 0.95; letter-spacing: -0.02em; color: var(--text);">pulso</div>
+            <div style="font-family: var(--font-display); font-style: italic; font-weight: 500; font-size: 56px; line-height: 0.95; letter-spacing: -0.02em; color: var(--accent);">tech.</div>
+          </div>
+        </div>
+        <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">b. lockup íntimo · email, assinatura, contextos calmos</div>
+      </div>
+    </div>
+
+    <!-- Wordmark only studies -->
+    <div style="background: var(--surface); border-radius: 20px; padding: 56px 64px; box-shadow: var(--shadow-sm);">
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 56px; align-items: end;">
+        <div>
+          <div style="font-family: var(--font-headline); font-size: 88px; line-height: 0.86; text-transform: uppercase; color: var(--text); letter-spacing: -0.008em;">PULSO<br/>T<span style="color: var(--accent);">E</span>CH</div>
+          <div style="margin-top: 18px; font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">poster · anton</div>
+        </div>
+        <div>
+          <div style="font-family: var(--font-display); font-style: italic; font-weight: 500; font-size: 72px; line-height: 0.95; color: var(--text); letter-spacing: -0.02em;">pulso<br/>tech.</div>
+          <div style="margin-top: 18px; font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">íntimo · fraunces italic</div>
+        </div>
+        <div>
+          <div style="font-size: 11px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text); margin-bottom: 14px;">monograma</div>
+          <div style="display: flex; align-items: center; gap: 10px;">
+            <span style="font-family: var(--font-headline); font-size: 120px; line-height: 0.88; text-transform: uppercase; color: var(--text);">P</span>
+            <span style="font-family: var(--font-headline); font-size: 120px; line-height: 0.88; text-transform: uppercase; color: var(--accent);">·</span>
+            <span style="font-family: var(--font-headline); font-size: 120px; line-height: 0.88; text-transform: uppercase; color: var(--text);">T</span>
+          </div>
+          <div style="margin-top: 18px; font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">favicon, badge, social</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       5 — COLOR
+       ============================================================ -->
+  <section data-screen-label="05 Cor" style="max-width: 1280px; margin: 0 auto 80px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">05 / cor</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">papel, tinta, coral, azul-profundo</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1.4fr 1.4fr 1fr 1fr; gap: 16px;">
+      <!-- Cream -->
+      <div style="background: var(--bg); border-radius: 20px; padding: 28px; box-shadow: var(--shadow-sm); min-height: 320px; display: flex; flex-direction: column; justify-content: space-between; border: 1px solid var(--border);">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">base</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 32px; line-height: 1.1; color: var(--text); margin-top: 8px;">papel cream</div>
+        </div>
+        <div>
+          <div style="font-family: var(--font-headline); font-size: 28px; color: var(--text); letter-spacing: 0;">#F2EDDF</div>
+          <div style="font-size: 12px; color: var(--text-muted); margin-top: 6px;">fundo de página, full-bleed. nunca branco puro.</div>
+        </div>
+      </div>
+
+      <!-- Ink -->
+      <div style="background: var(--text); border-radius: 20px; padding: 28px; box-shadow: var(--shadow-sm); min-height: 320px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: #8A8775;">tinta</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 32px; line-height: 1.1; color: #F2EDDF; margin-top: 8px;">ink black</div>
+        </div>
+        <div>
+          <div style="font-family: var(--font-headline); font-size: 28px; color: #F2EDDF; letter-spacing: 0;">#0F0E14</div>
+          <div style="font-size: 12px; color: #B8B3A0; margin-top: 6px;">tipografia, marca primária, contorno. quase-preto, editorial.</div>
+        </div>
+      </div>
+
+      <!-- Coral -->
+      <div style="background: var(--accent); border-radius: 20px; padding: 28px; box-shadow: var(--accent-shadow); min-height: 320px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: #FFE2D6;">pop</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 28px; line-height: 1.1; color: #FFF; margin-top: 8px;">coral</div>
+        </div>
+        <div>
+          <div style="font-family: var(--font-headline); font-size: 24px; color: #FFF;">#E84B2A</div>
+          <div style="font-size: 12px; color: #FFE2D6; margin-top: 6px;">o pulso. ctas, palavra-chave, "E" do logotipo. um por superfície.</div>
+        </div>
+      </div>
+
+      <!-- Depth -->
+      <div style="background: var(--depth); border-radius: 20px; padding: 28px; box-shadow: var(--shadow-sm); min-height: 320px; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: #C7D2E1;">reserva</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 28px; line-height: 1.1; color: #FFF; margin-top: 8px;">depth</div>
+        </div>
+        <div>
+          <div style="font-family: var(--font-headline); font-size: 24px; color: #FFF;">#3F5577</div>
+          <div style="font-size: 12px; color: #C7D2E1; margin-top: 6px;">só em templates editoriais de story. nunca no produto.</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- secondary surfaces strip -->
+    <div style="margin-top: 16px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;">
+      <div style="background: var(--surface); border: 1px solid var(--border); border-radius: 14px; padding: 18px 22px; display: flex; align-items: center; justify-content: space-between;">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">surface</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 16px; color: var(--text);">paper soft</div>
+        </div>
+        <div style="font-size: 12px; font-weight: 600; color: var(--text);">#FAF6EC</div>
+      </div>
+      <div style="background: var(--surface-2); border: 1px solid var(--border); border-radius: 14px; padding: 18px 22px; display: flex; align-items: center; justify-content: space-between;">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">warm</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 16px; color: var(--text);">paper warm</div>
+        </div>
+        <div style="font-size: 12px; font-weight: 600; color: var(--text);">#E9E2CE</div>
+      </div>
+      <div style="background: var(--accent-light); border: 1px solid var(--border); border-radius: 14px; padding: 18px 22px; display: flex; align-items: center; justify-content: space-between;">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent-hover);">chip</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 16px; color: var(--accent-hover);">coral leve</div>
+        </div>
+        <div style="font-size: 12px; font-weight: 600; color: var(--accent-hover);">#FFE2D6</div>
+      </div>
+      <div style="background: #FAF6EC; border: 1px solid var(--border); border-radius: 14px; padding: 18px 22px; display: flex; align-items: center; justify-content: space-between;">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">linha</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 16px; color: var(--text);">paper grain</div>
+        </div>
+        <div style="font-size: 12px; font-weight: 600; color: var(--text);">#DDD3B8</div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       6 — TYPOGRAPHY
+       ============================================================ -->
+  <section data-screen-label="06 Tipografia" style="max-width: 1280px; margin: 0 auto 80px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">06 / tipografia</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">três vozes, um sistema</span>
+    </div>
+
+    <div style="background: var(--surface); border-radius: 24px; padding: 56px 64px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; gap: 48px;">
+
+      <!-- ANTON -->
+      <div style="display: grid; grid-template-columns: 200px 1fr; gap: 40px; align-items: start; padding-bottom: 40px; border-bottom: 1px solid var(--border);">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">display</div>
+          <div style="font-family: var(--font-headline); font-size: 36px; line-height: 1; text-transform: uppercase; color: var(--text); margin-top: 6px;">ANTON</div>
+          <div style="font-size: 12px; color: var(--text-muted); margin-top: 10px; line-height: 1.5;">posters, manchete, capa. <b>sempre maiúsculo</b>. 48–168px.</div>
+        </div>
+        <div>
+          <div style="font-family: var(--font-headline); font-size: 110px; line-height: 0.88; text-transform: uppercase; color: var(--text); letter-spacing: -0.008em;">A INTELIGÊNCIA<br/>NÃO PRECISA <span style="color: var(--accent);">GRITAR</span>.</div>
+        </div>
+      </div>
+
+      <!-- FRAUNCES -->
+      <div style="display: grid; grid-template-columns: 200px 1fr; gap: 40px; align-items: start; padding-bottom: 40px; border-bottom: 1px solid var(--border);">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">editorial</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 36px; line-height: 1; color: var(--text); margin-top: 6px;">Fraunces</div>
+          <div style="font-size: 12px; color: var(--text-muted); margin-top: 10px; line-height: 1.5;">títulos íntimos, citações, seções. <b>italic, lowercase</b>. 18–48px.</div>
+        </div>
+        <div>
+          <div style="font-family: var(--font-display); font-style: italic; font-weight: 500; font-size: 48px; line-height: 1.15; color: var(--text); letter-spacing: -0.015em; margin-bottom: 18px;">o que mudou esta semana</div>
+          <div style="font-family: var(--font-display); font-style: italic; font-weight: 500; font-size: 24px; line-height: 1.3; color: var(--text-muted);">três sinais que valem o seu tempo · sem hype, sem fomo</div>
+        </div>
+      </div>
+
+      <!-- JAKARTA -->
+      <div style="display: grid; grid-template-columns: 200px 1fr; gap: 40px; align-items: start;">
+        <div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">corpo</div>
+          <div style="font-family: var(--font-body); font-weight: 600; font-size: 32px; line-height: 1; color: var(--text); margin-top: 6px;">Plus Jakarta</div>
+          <div style="font-size: 12px; color: var(--text-muted); margin-top: 10px; line-height: 1.5;">corpo de texto, ui, captions, botões. pesos 300–700.</div>
+        </div>
+        <div>
+          <p style="font-family: var(--font-body); font-size: 18px; line-height: 1.6; color: var(--text); margin: 0 0 14px; max-width: 640px;">Esta semana, três modelos novos entraram em produção e dois desapareceram. A Anthropic ajustou seus limites de uso, a OpenAI mudou o nome de uma API pela terceira vez, e o seu time provavelmente ainda está experimentando o Claude 4.5 — tudo bem.</p>
+          <p style="font-family: var(--font-body); font-weight: 600; font-size: 14px; color: var(--text); margin: 0 0 6px;">14 px · 600 — labels, captions e ui pequena.</p>
+          <p style="font-family: var(--font-body); font-weight: 400; font-size: 12px; color: var(--text-muted); letter-spacing: 0.02em; margin: 0;">12 px · 400 — meta, rodapé, fineprint.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       7 — VOICE (do / don't)
+       ============================================================ -->
+  <section data-screen-label="07 Voz" style="max-width: 1280px; margin: 0 auto 80px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">07 / voz</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">como pulso tech fala</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 24px;">
+      <!-- Sim -->
+      <div style="background: var(--surface); border-radius: 20px; padding: 40px 36px; box-shadow: var(--shadow-sm); border: 1px solid var(--border);">
+        <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 22px;">
+          <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; background: var(--accent);"></span>
+          <span style="font-family: var(--font-headline); font-size: 32px; text-transform: uppercase; color: var(--text);">ASSIM, SIM</span>
+        </div>
+        <div style="display: flex; flex-direction: column; gap: 18px;">
+          <blockquote style="font-family: var(--font-display); font-style: italic; font-size: 20px; line-height: 1.4; color: var(--text); margin: 0; padding-left: 18px; border-left: 3px solid var(--accent);">"esta semana, três coisas. a primeira você precisa ler. as outras duas, pode pular."</blockquote>
+          <blockquote style="font-family: var(--font-display); font-style: italic; font-size: 20px; line-height: 1.4; color: var(--text); margin: 0; padding-left: 18px; border-left: 3px solid var(--accent);">"o modelo é melhor. quanto melhor? depende do que você faz com ele."</blockquote>
+          <blockquote style="font-family: var(--font-display); font-style: italic; font-size: 20px; line-height: 1.4; color: var(--text); margin: 0; padding-left: 18px; border-left: 3px solid var(--accent);">"não, você não está atrasado. ninguém está em dia."</blockquote>
+        </div>
+        <div style="margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--border); display: flex; flex-wrap: wrap; gap: 8px;">
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--accent-light); color: var(--accent); white-space: nowrap;">2ª pessoa</span>
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--accent-light); color: var(--accent); white-space: nowrap;">português pt-br</span>
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--accent-light); color: var(--accent); white-space: nowrap;">caixa baixa</span>
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--accent-light); color: var(--accent); white-space: nowrap;">sem urgência</span>
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--accent-light); color: var(--accent); white-space: nowrap;">frases curtas</span>
+        </div>
+      </div>
+
+      <!-- Não -->
+      <div style="background: var(--surface); border-radius: 20px; padding: 40px 36px; box-shadow: var(--shadow-sm); border: 1px solid var(--border);">
+        <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 22px;">
+          <span style="display: inline-block; width: 14px; height: 14px; border-radius: 50%; border: 2px solid var(--text);"></span>
+          <span style="font-family: var(--font-headline); font-size: 32px; text-transform: uppercase; color: var(--text);">ASSIM, NÃO</span>
+        </div>
+        <div style="display: flex; flex-direction: column; gap: 18px;">
+          <blockquote style="font-family: var(--font-display); font-style: italic; font-size: 20px; line-height: 1.4; color: var(--text-faint); margin: 0; padding-left: 18px; border-left: 3px solid var(--paper-grain); text-decoration: line-through; text-decoration-color: var(--text-faint);">"🚀 A IA QUE VAI MUDAR TUDO! Não acredite no que estão escondendo de você."</blockquote>
+          <blockquote style="font-family: var(--font-display); font-style: italic; font-size: 20px; line-height: 1.4; color: var(--text-faint); margin: 0; padding-left: 18px; border-left: 3px solid var(--paper-grain); text-decoration: line-through; text-decoration-color: var(--text-faint);">"Em breve, todos os profissionais que não dominarem IA estarão obsoletos."</blockquote>
+          <blockquote style="font-family: var(--font-display); font-style: italic; font-size: 20px; line-height: 1.4; color: var(--text-faint); margin: 0; padding-left: 18px; border-left: 3px solid var(--paper-grain); text-decoration: line-through; text-decoration-color: var(--text-faint);">"Aqui na PulsoTech, nós acreditamos no poder transformador da..."</blockquote>
+        </div>
+        <div style="margin-top: 28px; padding-top: 20px; border-top: 1px solid var(--border); display: flex; flex-wrap: wrap; gap: 8px;">
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--surface-2); color: var(--text-faint); white-space: nowrap;">— hype</span>
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--surface-2); color: var(--text-faint); white-space: nowrap;">— caps lock</span>
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--surface-2); color: var(--text-faint); white-space: nowrap;">— emoji</span>
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--surface-2); color: var(--text-faint); white-space: nowrap;">— "nós"</span>
+          <span style="font-size: 12px; font-weight: 600; padding: 4px 12px; border-radius: 999px; background: var(--surface-2); color: var(--text-faint); white-space: nowrap;">— ameaça</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       8 — APPLICATIONS
+       ============================================================ -->
+  <section data-screen-label="08 Aplicações" style="max-width: 1280px; margin: 0 auto 40px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 28px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">08 / aplicações</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">a marca em uso</span>
+    </div>
+
+    <!-- 8a Newsletter email -->
+    <div style="margin-bottom: 24px;">
+      <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 10px;">a. edição da newsletter</div>
+      <div style="background: #FFF; border-radius: 20px; box-shadow: var(--shadow-md); overflow: hidden; max-width: 720px; margin: 0 auto;">
+        <!-- email chrome -->
+        <div style="background: #E9E2CE; padding: 14px 24px; display: flex; align-items: center; gap: 12px; border-bottom: 1px solid var(--border);">
+          <div style="display: flex; gap: 6px;">
+            <span style="width: 11px; height: 11px; border-radius: 50%; background: #BFB394;"></span>
+            <span style="width: 11px; height: 11px; border-radius: 50%; background: #BFB394;"></span>
+            <span style="width: 11px; height: 11px; border-radius: 50%; background: #BFB394;"></span>
+          </div>
+          <div style="flex: 1; font-size: 12px; color: var(--text-muted);"><b>pulso tech</b> · edição 042 · quinta-feira</div>
+        </div>
+        <!-- email body -->
+        <div style="background: var(--bg); padding: 56px 64px 48px;">
+          <!-- header lockup -->
+          <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 36px; padding-bottom: 20px; border-bottom: 1px solid var(--paper-grain);">
+            <svg viewBox="0 0 340 240" style="width: 64px; flex-shrink: 0;" aria-hidden="true">
+              <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="22" stroke-linecap="round"/></g>
+              <circle cx="170" cy="120" r="44" fill="#0F0E14"/>
+              <path d="M 22 120 L 100 120 L 122 60 L 170 184 L 218 60 L 240 180 L 264 120 L 322 120" stroke="#E84B2A" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <div style="flex: 1;">
+              <div style="font-family: var(--font-headline); font-size: 32px; line-height: 0.9; text-transform: uppercase; color: var(--text);">PULSO T<span style="color: var(--accent);">E</span>CH</div>
+              <div style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted); margin-top: 2px;">edição 042 · 13 jun 2026</div>
+            </div>
+            <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); text-align: right; line-height: 1.5;">— nr. 042<br/>—— 5 min</div>
+          </div>
+
+          <!-- main headline -->
+          <div style="font-family: var(--font-headline); font-size: 64px; line-height: 0.9; text-transform: uppercase; color: var(--text); letter-spacing: -0.005em; margin-bottom: 18px;">A SEMANA EM QUE<br/>O <span style="color: var(--accent);">CLAUDE</span> APRENDEU<br/>A ESPERAR.</div>
+          <p style="font-family: var(--font-display); font-style: italic; font-size: 20px; line-height: 1.4; color: var(--text-muted); margin: 0 0 32px;">três sinais, um contexto, e duas coisas que você pode ignorar.</p>
+
+          <!-- items -->
+          <div style="display: flex; flex-direction: column; gap: 22px;">
+            <div style="display: grid; grid-template-columns: 56px 1fr; gap: 18px; align-items: start;">
+              <div style="display: flex; flex-direction: column; align-items: center; gap: 6px;">
+                <span style="width: 20px; height: 20px; border-radius: 50%; background: var(--accent);"></span>
+                <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.16em; color: var(--accent);">01</span>
+              </div>
+              <div>
+                <div style="font-family: var(--font-display); font-style: italic; font-weight: 600; font-size: 20px; color: var(--text); margin-bottom: 4px;">claude ganhou memória de longo prazo.</div>
+                <p style="font-size: 14px; line-height: 1.6; color: var(--text-muted); margin: 0;">a anthropic liberou memória persistente entre conversas. importa pra quem usa o claude todo dia — não muda muito pra quem só passa pra perguntar algo.</p>
+              </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 56px 1fr; gap: 18px; align-items: start;">
+              <div style="display: flex; flex-direction: column; align-items: center; gap: 6px;">
+                <span style="width: 20px; height: 20px; border-radius: 50%; background: var(--text);"></span>
+                <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.16em; color: var(--text);">02</span>
+              </div>
+              <div>
+                <div style="font-family: var(--font-display); font-style: italic; font-weight: 600; font-size: 20px; color: var(--text); margin-bottom: 4px;">a ue aprovou regras pra agentes autônomos.</div>
+                <p style="font-size: 14px; line-height: 1.6; color: var(--text-muted); margin: 0;">a partir de janeiro, qualquer agente que toma ação em nome do usuário precisa registrar suas decisões. brasil ainda observa.</p>
+              </div>
+            </div>
+
+            <div style="display: grid; grid-template-columns: 56px 1fr; gap: 18px; align-items: start;">
+              <div style="display: flex; flex-direction: column; align-items: center; gap: 6px;">
+                <span style="width: 20px; height: 20px; border-radius: 50%; border: 2px solid var(--text);"></span>
+                <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.16em; color: var(--text);">03</span>
+              </div>
+              <div>
+                <div style="font-family: var(--font-display); font-style: italic; font-weight: 600; font-size: 20px; color: var(--text); margin-bottom: 4px;">openai mudou de nome (de novo).</div>
+                <p style="font-size: 14px; line-height: 1.6; color: var(--text-muted); margin: 0;">o produto agora se chama "chatgpt pro tier 2". pode ignorar até a próxima troca.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- CTA -->
+          <div style="margin-top: 36px; padding: 22px 24px; background: var(--text); border-radius: 14px; display: flex; justify-content: space-between; align-items: center;">
+            <div>
+              <div style="font-family: var(--font-display); font-style: italic; font-size: 18px; color: #F2EDDF;">recebeu de alguém?</div>
+              <div style="font-size: 12px; color: #B8B3A0; margin-top: 2px;">assine e receba toda quinta às 7h.</div>
+            </div>
+            <span style="background: var(--accent); color: #FFF; padding: 10px 22px; border-radius: 999px; font-weight: 700; font-size: 13px; letter-spacing: 0.04em; text-transform: uppercase; box-shadow: var(--accent-shadow);">assinar →</span>
+          </div>
+
+          <!-- footer -->
+          <div style="margin-top: 32px; padding-top: 18px; border-top: 1px solid var(--paper-grain); display: flex; justify-content: space-between; font-size: 11px; color: var(--text-muted); letter-spacing: 0.04em;">
+            <span>pulsotech.news</span>
+            <span>—</span>
+            <span>cancelar a qualquer momento</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 8b social cards row -->
+    <div style="margin-bottom: 24px;">
+      <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 10px;">b. social · instagram square + story 9:16</div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr 0.6fr; gap: 24px; align-items: start;">
+
+        <!-- IG square -->
+        <div style="aspect-ratio: 1 / 1; background: var(--bg); border-radius: 20px; box-shadow: var(--shadow-md); padding: 48px 44px; position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between;">
+          <svg viewBox="0 0 600 400" style="position: absolute; right: -50px; top: -40px; width: 460px; opacity: 0.5;" aria-hidden="true">
+            <g transform="rotate(-14 300 200)"><ellipse cx="300" cy="200" rx="260" ry="80" fill="none" stroke="#BFB394" stroke-width="2"/></g>
+          </svg>
+          <div style="position: relative; display: flex; align-items: center; justify-content: space-between;">
+            <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">pulso tech · nr. 042</span>
+            <span style="width: 10px; height: 10px; border-radius: 50%; background: var(--accent);"></span>
+          </div>
+          <div style="position: relative;">
+            <div style="font-family: var(--font-headline); font-size: 76px; line-height: 0.88; text-transform: uppercase; color: var(--text); letter-spacing: -0.008em;">CLAUDE<br/>APRENDEU<br/>A <span style="color: var(--accent);">ESPERAR</span>.</div>
+            <p style="font-family: var(--font-display); font-style: italic; font-size: 18px; color: var(--text-muted); margin: 14px 0 0;">memória persistente, decisões de agente, e o que ignorar.</p>
+          </div>
+          <div style="position: relative; display: flex; justify-content: space-between; align-items: end;">
+            <svg viewBox="0 0 340 240" style="width: 60px;" aria-hidden="true">
+              <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="22" stroke-linecap="round"/></g>
+              <circle cx="170" cy="120" r="42" fill="#0F0E14"/>
+              <path d="M 22 120 L 100 120 L 122 60 L 170 184 L 218 60 L 240 180 L 264 120 L 322 120" stroke="#E84B2A" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+            <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">pulsotech.news</span>
+          </div>
+        </div>
+
+        <!-- IG square — dark variant -->
+        <div style="aspect-ratio: 1 / 1; background: var(--text); border-radius: 20px; box-shadow: var(--shadow-md); padding: 48px 44px; position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between;">
+          <svg viewBox="0 0 600 400" style="position: absolute; left: -80px; bottom: -80px; width: 480px; opacity: 0.35;" aria-hidden="true">
+            <g transform="rotate(20 300 200)"><ellipse cx="300" cy="200" rx="260" ry="80" fill="none" stroke="#46424F" stroke-width="2"/></g>
+          </svg>
+          <div style="position: relative; display: flex; align-items: center; justify-content: space-between;">
+            <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: #B8B3A0;">— sinal da semana —</span>
+            <span style="width: 10px; height: 10px; border-radius: 50%; background: var(--accent);"></span>
+          </div>
+          <div style="position: relative;">
+            <div style="font-family: var(--font-display); font-style: italic; font-weight: 500; font-size: 56px; line-height: 1.05; color: #F2EDDF; letter-spacing: -0.02em;">"o modelo é melhor.<br/>quanto melhor?<br/><span style="color: var(--accent);">depende do que<br/>você faz com ele.</span>"</div>
+          </div>
+          <div style="position: relative; display: flex; justify-content: space-between; align-items: end;">
+            <div style="font-family: var(--font-headline); font-size: 28px; text-transform: uppercase; color: #F2EDDF;">PULSO T<span style="color: var(--accent);">E</span>CH</div>
+            <span style="font-family: var(--font-body); font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: #B8B3A0;">042 →</span>
+          </div>
+        </div>
+
+        <!-- Story 9:16 -->
+        <div style="aspect-ratio: 9 / 16; background: var(--accent); border-radius: 20px; box-shadow: var(--shadow-md); padding: 32px 26px; position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: space-between;">
+          <svg viewBox="0 0 400 400" style="position: absolute; right: -120px; top: 30%; width: 380px; opacity: 0.28;" aria-hidden="true">
+            <g transform="rotate(-15 200 200)">
+              <ellipse cx="200" cy="200" rx="180" ry="50" fill="none" stroke="#F2EDDF" stroke-width="4"/>
+              <ellipse cx="200" cy="200" rx="120" ry="32" fill="none" stroke="#F2EDDF" stroke-width="3" stroke-dasharray="4 6"/>
+            </g>
+          </svg>
+          <div style="position: relative; display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: #FFE2D6;">nr. 042</span>
+            <span style="width: 8px; height: 8px; border-radius: 50%; background: #F2EDDF;"></span>
+          </div>
+          <div style="position: relative;">
+            <div style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: #FFE2D6; margin-bottom: 6px;">esta quinta:</div>
+            <div style="font-family: var(--font-headline); font-size: 52px; line-height: 0.88; text-transform: uppercase; color: #F2EDDF; letter-spacing: -0.005em;">A SEMANA<br/>EM QUE<br/>CLAUDE<br/>APRENDEU<br/>A ESPERAR.</div>
+          </div>
+          <div style="position: relative;">
+            <div style="font-family: var(--font-headline); font-size: 18px; text-transform: uppercase; color: #F2EDDF;">PULSO TECH</div>
+            <div style="font-size: 9px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: #FFE2D6; margin-top: 4px;">arraste pra ler →</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- 8c — app icon + favicon + sticker + biz card -->
+    <div style="margin-bottom: 24px;">
+      <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 10px;">c. ícone, favicon, sticker, cartão</div>
+      <div style="display: grid; grid-template-columns: 1.1fr 0.6fr 1fr 1.3fr; gap: 24px; align-items: stretch;">
+
+        <!-- app icon -->
+        <div style="background: var(--surface); border-radius: 20px; padding: 32px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; gap: 18px; justify-content: center;">
+          <div style="width: 180px; height: 180px; border-radius: 42px; background: var(--text); display: flex; align-items: center; justify-content: center; box-shadow: 0 12px 32px rgba(15,14,20,0.22);">
+            <svg viewBox="0 0 340 240" style="width: 130px;" aria-hidden="true">
+              <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#F2EDDF" stroke-width="22" stroke-linecap="round"/></g>
+              <circle cx="170" cy="120" r="42" fill="#F2EDDF"/>
+              <path d="M 22 120 L 100 120 L 122 60 L 170 184 L 218 60 L 240 180 L 264 120 L 322 120" stroke="#E84B2A" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">app icon · 1024</div>
+        </div>
+
+        <!-- favicon set -->
+        <div style="background: var(--surface); border-radius: 20px; padding: 32px 20px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; align-items: center; gap: 18px; justify-content: center;">
+          <div style="display: flex; align-items: center; gap: 14px;">
+            <div style="width: 64px; height: 64px; border-radius: 14px; background: var(--text); display: flex; align-items: center; justify-content: center;">
+              <svg viewBox="0 0 340 240" style="width: 46px;" aria-hidden="true">
+                <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#F2EDDF" stroke-width="30" stroke-linecap="round"/></g>
+                <circle cx="170" cy="120" r="48" fill="#F2EDDF"/>
+              </svg>
+            </div>
+            <div style="width: 32px; height: 32px; border-radius: 8px; background: var(--text); display: flex; align-items: center; justify-content: center;">
+              <svg viewBox="0 0 340 240" style="width: 24px;" aria-hidden="true">
+                <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#F2EDDF" stroke-width="42" stroke-linecap="round"/></g>
+                <circle cx="170" cy="120" r="60" fill="#F2EDDF"/>
+              </svg>
+            </div>
+            <div style="width: 16px; height: 16px; border-radius: 4px; background: var(--text); display: flex; align-items: center; justify-content: center;">
+              <span style="width: 8px; height: 8px; border-radius: 50%; background: #F2EDDF;"></span>
+            </div>
+          </div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); text-align: center;">favicon · 64 / 32 / 16</div>
+        </div>
+
+        <!-- sticker sheet -->
+        <div style="background: var(--bg); border-radius: 20px; padding: 28px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; gap: 16px; align-items: center; justify-content: center;">
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px; width: 100%;">
+            <!-- sticker A -->
+            <div style="aspect-ratio: 1 / 1; border-radius: 999px; background: var(--text); display: flex; align-items: center; justify-content: center; padding: 16px;">
+              <svg viewBox="0 0 340 240" style="width: 70%;" aria-hidden="true">
+                <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#F2EDDF" stroke-width="22" stroke-linecap="round"/></g>
+                <circle cx="170" cy="120" r="44" fill="#F2EDDF"/>
+                <path d="M 22 120 L 100 120 L 122 60 L 170 184 L 218 60 L 240 180 L 264 120 L 322 120" stroke="#E84B2A" stroke-width="16" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </div>
+            <!-- sticker B -->
+            <div style="aspect-ratio: 1 / 1; border-radius: 18px; background: var(--accent); display: flex; align-items: center; justify-content: center; transform: rotate(-6deg); padding: 14px;">
+              <div style="font-family: var(--font-headline); font-size: 28px; line-height: 0.88; text-transform: uppercase; color: #F2EDDF; text-align: center;">SEM<br/>HYPE.</div>
+            </div>
+            <!-- sticker C -->
+            <div style="aspect-ratio: 1 / 1; border-radius: 18px; background: var(--bg); border: 2px dashed var(--text); display: flex; align-items: center; justify-content: center; transform: rotate(4deg); padding: 14px;">
+              <div style="font-family: var(--font-display); font-style: italic; font-size: 18px; line-height: 1.1; color: var(--text); text-align: center;">você não está<br/><span style="color: var(--accent);">atrasado.</span></div>
+            </div>
+            <!-- sticker D -->
+            <div style="aspect-ratio: 1 / 1; border-radius: 999px; background: var(--bg); border: 2px solid var(--text); display: flex; align-items: center; justify-content: center; padding: 16px;">
+              <div style="font-family: var(--font-headline); font-size: 36px; text-transform: uppercase; color: var(--text); line-height: 1; text-align: center;">P<span style="color: var(--accent);">·</span>T</div>
+            </div>
+          </div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); text-align: center;">stickers · die-cut</div>
+        </div>
+
+        <!-- business card -->
+        <div style="background: var(--surface); border-radius: 20px; padding: 28px; box-shadow: var(--shadow-sm); display: flex; flex-direction: column; gap: 16px; align-items: center; justify-content: center;">
+          <div style="position: relative; width: 100%; max-width: 320px;">
+            <!-- front -->
+            <div style="aspect-ratio: 1.7 / 1; background: var(--bg); border-radius: 10px; padding: 18px 20px; box-shadow: var(--shadow-md); display: flex; flex-direction: column; justify-content: space-between; position: relative; z-index: 2;">
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <span style="font-size: 8px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text-muted);">nr. 001</span>
+                <span style="width: 6px; height: 6px; border-radius: 50%; background: var(--accent);"></span>
+              </div>
+              <div>
+                <div style="font-family: var(--font-headline); font-size: 28px; line-height: 0.9; text-transform: uppercase; color: var(--text);">PULSO T<span style="color: var(--accent);">E</span>CH</div>
+                <div style="font-family: var(--font-display); font-style: italic; font-size: 11px; color: var(--text-muted); margin-top: 4px;">o ritmo da ia, sem o ruído.</div>
+              </div>
+              <div style="display: flex; justify-content: space-between; align-items: end;">
+                <div style="font-size: 9px; color: var(--text); line-height: 1.4;">
+                  <div style="font-weight: 700;">redação</div>
+                  <div>contato@pulsotech.news</div>
+                </div>
+                <svg viewBox="0 0 340 240" style="width: 36px;" aria-hidden="true">
+                  <g transform="rotate(-12 170 120)"><ellipse cx="170" cy="120" rx="140" ry="48" fill="none" stroke="#0F0E14" stroke-width="26" stroke-linecap="round"/></g>
+                  <circle cx="170" cy="120" r="44" fill="#0F0E14"/>
+                </svg>
+              </div>
+            </div>
+            <!-- back peek -->
+            <div style="position: absolute; left: 14px; top: 14px; width: 100%; aspect-ratio: 1.7 / 1; background: var(--text); border-radius: 10px; z-index: 1; box-shadow: var(--shadow-md); padding: 18px 20px;">
+              <div style="font-family: var(--font-headline); font-size: 22px; text-transform: uppercase; color: #F2EDDF; line-height: 0.9;">PULSO<br/>T<span style="color: var(--accent);">E</span>CH</div>
+            </div>
+          </div>
+          <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); text-align: center;">cartão · 85 × 50 mm</div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- 8d — poster / hero -->
+    <div>
+      <div style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); margin-bottom: 10px;">d. poster editorial</div>
+      <div style="background: var(--bg); border-radius: 20px; box-shadow: var(--shadow-md); padding: 56px 56px 40px; position: relative; overflow: hidden; min-height: 640px; display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 32px; align-items: center;">
+        <span style="position: absolute; top: 24px; left: 28px; font-size: 10px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text-muted);">— pulso tech / poster nr. 03 —</span>
+        <span style="position: absolute; top: 24px; right: 28px; font-size: 10px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text-muted);">edição 042 · 06/26</span>
+
+        <!-- LEFT: headline column -->
+        <div style="position: relative; padding-top: 32px;">
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 18px; color: var(--text-muted); margin-bottom: 14px;">manifesto poster</div>
+          <div style="font-family: var(--font-headline); font-size: 112px; line-height: 0.86; text-transform: uppercase; color: var(--text); letter-spacing: -0.012em;">SEJA<br/>GENTIL<br/>COM SUA<br/><span style="color: var(--accent);">ATENÇÃO.</span></div>
+        </div>
+
+        <!-- RIGHT: orbit illustration — contained in its own column, no overlap -->
+        <div style="position: relative; aspect-ratio: 1 / 1; max-width: 500px; justify-self: end; width: 100%;">
+          <svg viewBox="0 0 800 800" style="width: 100%; height: 100%;" aria-hidden="true">
+            <g transform="rotate(-14 400 400)">
+              <ellipse cx="400" cy="400" rx="360" ry="110" fill="none" stroke="#0F0E14" stroke-width="4"/>
+              <ellipse cx="400" cy="400" rx="280" ry="86" fill="none" stroke="#0F0E14" stroke-width="3" stroke-dasharray="6 10"/>
+              <ellipse cx="400" cy="400" rx="200" ry="62" fill="none" stroke="#0F0E14" stroke-width="3"/>
+            </g>
+            <circle cx="400" cy="400" r="96" fill="#0F0E14"/>
+            <path d="M 60 400 L 200 400 L 240 280 L 290 540 L 340 220 L 400 580 L 460 220 L 510 540 L 560 280 L 600 400 L 740 400" stroke="#E84B2A" stroke-width="12" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            <circle cx="660" cy="220" r="18" fill="#E84B2A"/>
+            <path d="M 180 130 L 190 168 L 228 178 L 190 188 L 180 226 L 170 188 L 132 178 L 170 168 Z" fill="#0F0E14"/>
+          </svg>
+        </div>
+
+        <!-- BOTTOM strip — spans full width, sits below the grid -->
+        <div style="grid-column: 1 / -1; padding-top: 24px; border-top: 1px solid var(--paper-grain); display: flex; justify-content: space-between; align-items: end;">
+          <div>
+            <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text-muted);">a única newsletter de ia que sussurra.</div>
+          </div>
+          <div style="text-align: right;">
+            <div style="font-family: var(--font-headline); font-size: 24px; text-transform: uppercase; color: var(--text); line-height: 1;">PULSO T<span style="color: var(--accent);">E</span>CH</div>
+            <div style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted); margin-top: 2px;">pulsotech.news</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- COLOPHON -->
+  <div style="max-width: 1280px; margin: 64px auto 0; display: flex; justify-content: space-between; align-items: baseline; padding-top: 24px; border-top: 1px solid #B8AE8E; font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted); font-weight: 700;">
+    <span>pulso tech · brand identity v1</span>
+    <span>— construído sobre mind space design system —</span>
+    <span>jun 2026</span>
+  </div>
+
+</main>
+</x-dc>
+</body>
+</html>

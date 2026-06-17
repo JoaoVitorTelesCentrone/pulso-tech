@@ -1,0 +1,53 @@
+{
+  "title": "Por que a Coreia do Sul se Tornou o Maior Laboratório de Adoção de IA do Mundo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Coreia do Sul: O Maior Laboratório de Adoção de IA do Mundo",
+      "subtext": "Enquanto o Ocidente debate, Seul simplesmente usa. O que podemos aprender?",
+      "image_prompt": "Futuristic airport immigration gate in Seoul, South Korea, with a robotic face scanner and a traveler passing through, neon lights, cyberpunk aesthetic, high-tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Uma jornalista do MIT Technology Review desembarca em Seul e passa pela imigração em segundos — sem um único humano. Máquinas escaneiam seu rosto e ela está dentro do país. Não é um teste piloto: é a nova normalidade.",
+      "highlight": "Imigração 100% automatizada: 12 horas de voo, 10 segundos para entrar."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Coreia do Sul apresenta os maiores índices de entusiasmo e adoção de IA do mundo. Enquanto EUA e Europa debatem ética e resistência sindical, os sul-coreanos simplesmente usam a tecnologia — em massa. IA já está integrada em serviços públicos, saúde, educação, manufatura e no cotidiano.",
+      "visual_hint": "Ícone de engrenagem com rosto sorridente, representando aceitação cultural da tecnologia"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Coreia do Sul gera dados comportamentais e econômicos em escala que nenhum outro país possui. Empresas como Samsung, LG, Kakao e Naver têm vantagem competitiva absurda no treinamento de modelos. O modelo sul-coreano desafia a premissa de que regulação pesada é o único caminho para uma IA segura.",
+      "visual_hint": "Gráfico de barras comparando adoção de IA: Coreia do Sul vs. EUA vs. Europa"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Taxa de fertilidade: 0,72 filhos por mulher — a mais baixa do mundo",
+        "Velocidade média de internet: 43 Mbps já em 2020 — a mais rápida do planeta",
+        "IA não é opção: é necessidade econômica para suprir falta de mão de obra jovem"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Seul se torna o mercado mais maduro para testar produtos de IA em cenários reais",
+        "Regulação desenhada para facilitar a inovação, não para freá-la",
+        "O resto do mundo precisará aprender com o modelo sul-coreano ou ficará para trás"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Enquanto o Ocidente discute comitês de ética, a Coreia do Sul constrói o futuro. Você está pronto?"
+    }
+  ]
+}

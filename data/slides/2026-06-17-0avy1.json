@@ -1,0 +1,53 @@
+{
+  "title": "Fusão Multimodal na Medicina: O Novo Framework de IA que Promete Revolucionar a Previsão de Sobrevivência",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IA que enxerga além da imagem: o fim do desequilíbrio entre dados clínicos e tomografias",
+      "subtext": "Novo framework de alinhamento multimodal promete prever sobrevivência com precisão inédita",
+      "image_prompt": "Futuristic medical interface with CT scan images and clinical data streams merging into a single glowing neural network, dark blue and neon green tones, holographic display"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de IA que combinam imagens médicas e dados clínicos sofrem de um gargalo silencioso: uma modalidade domina o aprendizado, enquanto a outra é ignorada. Isso limita a precisão de previsões de tempo até evento (TTE) — um dos maiores desafios da medicina preditiva.",
+      "highlight": "Até 50% dos dados clínicos podem ser subutilizados em modelos multimodais tradicionais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores do arXiv propuseram um framework que usa modelos foundation (como Vision Transformers e BioBERT) para alinhar representações de CT e dados clínicos em um espaço compartilhado. Em vez de concatenar features de forma ingênua, o método equaliza ambas as fontes com atenção cruzada, eliminando o desequilíbrio de modalidade.",
+      "visual_hint": "Ícone de dois fluxos de dados (imagem e texto) convergindo para um ponto central com setas equilibradas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de previsão de desfechos clínicos assistida por IA está em expansão explosiva. Google, Microsoft, PathAI e Viz.ai investem pesado em sistemas multimodais, mas o desequilíbrio de modalidade era um gargalo técnico. Este framework pode se tornar o novo padrão ouro para oncologia, cardiologia e cuidados intensivos.",
+      "visual_hint": "Gráfico de crescimento exponencial com logos de empresas de healthtech"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos multimodais atuais ignoram até 50% dos dados clínicos disponíveis",
+        "Framework usa modelos foundation pré-treinados em bilhões de parâmetros",
+        "Aplicação direta em oncologia, cardiologia e UTI — áreas com maior demanda por TTE"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Previsões de sobrevivência mais precisas e personalizadas para cada paciente",
+        "Ferramentas de IA que realmente integram todas as fontes de dados disponíveis",
+        "Novo padrão de facto para sistemas de TTE em healthtech e hospitais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A fusão multimodal não é mais um sonho — é o próximo passo da medicina de precisão."
+    }
+  ]
+}

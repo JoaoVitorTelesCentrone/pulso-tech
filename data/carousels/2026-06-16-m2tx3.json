@@ -1,0 +1,225 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Mecânica da Substituição",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA está canibalizando livros de autoajuda",
+        "subtext": "Entenda o mecanismo econômico por trás do fenômeno."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O argumento central de Tim Ferriss",
+        "body": "Se um LLM gera conselhos personalizados em segundos, qual o valor de um livro de 300 páginas? O post de Ferriss no Hacker News teve 86 pontos e 95 comentários."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "US$ 16,99 vs US$ 20/mês",
+        "stat_label": "Custo de um livro de autoajuda vs. assinatura de IA. A IA entrega conselhos infinitos e personalizados pelo mesmo preço mensal."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Custo por insight útil",
+        "body": "Livro: US$ 1,70 por capítulo (10 capítulos). IA: US$ 0,02 por interação relevante. A matemática é implacável, segundo Ferriss."
+      },
+      {
+        "n": 5,
+        "type": "stat",
+        "stat_number": "6-8 horas vs 30 segundos",
+        "stat_label": "Tempo para implementação: livro exige leitura; IA entrega o plano em segundos. A diferença de velocidade é um dos motores da substituição."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Três vantagens da IA sobre o livro",
+        "items": [
+          "Custo por insight: US$ 0,02 vs US$ 1,70",
+          "Tempo de implementação: 30 segundos vs 6-8 horas",
+          "Personalização: contexto financeiro, profissional e emocional"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seu livro de autoajuda ainda vale o preço?",
+        "highlight_word": "vale",
+        "subtext": "Leia o artigo completo e entenda a mecânica da substituição."
+      }
+    ],
+    "template": "D"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal: O Fim do Ritual",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA quebra o ritual de autoajuda",
+        "subtext": "O mecanismo psicológico que sustentava o mercado está ruindo."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O ritual de compromisso",
+        "body": "Livros de autoajuda funcionam como rituais: você compra, coloca na mesa de cabeceira e sente que está investindo em si mesmo. A IA quebra isso."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "23%",
+        "stat_label": "Queda nas vendas de livros de não-ficção de autoajuda nos EUA no primeiro semestre de 2026, segundo dados preliminares da Nielsen BookScan."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Estamos recebendo manuscritos gerados por IA que são melhores que 80% dos originais humanos. O problema é que não podemos publicá-los por questões legais e éticas.\"",
+        "author": "Editor de uma grande casa, no Hacker News"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O que resta para o autor humano?",
+        "body": "A resposta emergente é 'autoridade vivida': histórias pessoais, credenciais verificáveis e a capacidade de ser responsabilizado pelo conselho dado."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "O que a IA ainda não replica bem",
+        "items": [
+          "Credibilidade e curadoria humana",
+          "Histórias pessoais e autoridade vivida",
+          "Responsabilização pelo conselho dado"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Você confiaria em conselhos de IA para sua vida?",
+        "highlight_word": "confiaria",
+        "subtext": "Descubra como o ritual de autoajuda está mudando. Leia o artigo."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números: O Mercado em Queda",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$ 12 bilhões em risco",
+        "subtext": "Os números que mostram a canibalização do mercado de autoajuda pela IA."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 12 bilhões",
+        "stat_label": "Valor do mercado global anual de livros de autoajuda, incluindo finanças pessoais e desenvolvimento de carreira."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "340%",
+        "stat_label": "Crescimento nas assinaturas de ferramentas de IA conversacional (ChatGPT Plus, Claude Pro, Gemini Advanced) no mesmo período."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Projeção de vendas de autoajuda",
+        "body": "2024: US$ 11,8 bi. 2025: US$ 10,2 bi. 2026 (projetado): US$ 8,7 bi. Uma queda de 26% em dois anos."
+      },
+      {
+        "n": 5,
+        "type": "stat",
+        "stat_number": "45%",
+        "stat_label": "Queda nos avanços para novos autores de autoajuda desde 2023. O mercado de direitos autorais para não-ficção está em queda livre."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Indicadores de 2024 a 2026",
+        "items": [
+          "Assinaturas IA: 45M (2024) → 140M (2026 projetado)",
+          "Tempo semanal em apps de IA: 34 min (2024) → 112 min (2026)",
+          "Livros de autoajuda publicados/ano: 45.000 (2024) → 38.000 (2026)"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "O mercado de autoajuda vai sobreviver?",
+        "highlight_word": "sobreviver",
+        "subtext": "Veja os dados completos e projeções no artigo."
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências: O Novo Cenário",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro da autoajuda é IA",
+        "subtext": "O que acontece quando a IA se torna o principal conselheiro?"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O dilema existencial do autor",
+        "body": "Se a IA produz conteúdo superior e o consumidor não distingue, o que resta? A resposta: autoridade vivida e responsabilização."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "38.000",
+        "stat_label": "Livros de autoajuda projetados para serem publicados em 2026, contra 45.000 em 2024. Uma redução de 15,5%."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O leitor não sabe a diferença\" entre conteúdo gerado por IA e humano, disse um editor no Hacker News. O problema é legal e ético, não de qualidade.",
+        "author": "Comentarista no Hacker News"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Oportunidade para desenvolvedores",
+        "body": "Para gestores de produto, é uma oportunidade de ouro: construir os canais de distribuição que vão substituir as livrarias."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "O que esperar do futuro",
+        "items": [
+          "Autores sobrevivem vendendo credibilidade, não conselhos",
+          "IA se torna o principal canal de autoajuda personalizada",
+          "Mercado de direitos autorais para não-ficção encolhe ainda mais"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Você está pronto para um conselheiro IA?",
+        "highlight_word": "pronto",
+        "subtext": "Leia o artigo completo e descubra as consequências desse futuro."
+      }
+    ],
+    "template": "C"
+  }
+]

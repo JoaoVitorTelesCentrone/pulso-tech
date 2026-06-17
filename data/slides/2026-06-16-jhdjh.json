@@ -1,0 +1,53 @@
+{
+  "title": "A Promessa e a Incerteza dos Ar Condicionados de Estado Sólido: Uma Análise Técnica e Econômica",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Ar Condicionado de Estado Sólido: A Revolução que Ainda Não Chegou",
+      "subtext": "Eficiência energética sem compressores? O que a ciência realmente diz sobre o futuro da climatização.",
+      "image_prompt": "Futuristic solid-state air conditioner, glowing blue and orange circuits, abstract heat waves, dark background, high tech, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Após três anos consecutivos de calor recorde, a demanda por ar condicionado dispara. A Agência Internacional de Energia projeta que o número de unidades no mundo triplicará até 2050. A tecnologia atual consome 10% de toda a eletricidade global.",
+      "highlight": "Triplicação de unidades de AC até 2050"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A MIT Technology Review analisa os novos sistemas de estado sólido que substituem compressores mecânicos por materiais que mudam de temperatura com campos elétricos (eletrocalórico) ou magnéticos (magnetocalórico). A promessa: maior eficiência, silêncio e zero refrigerantes poluentes.",
+      "visual_hint": "Ícone de um chip com ondas de calor saindo, representando o efeito eletrocalórico"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Ar condicionado não é luxo: é saúde pública e produtividade. Um estudo da Lancet estima que o AC evitou quase 200 mil mortes prematuras. Mas o paradoxo é cruel: quanto mais usamos, mais aquecemos o planeta. Para data centers e edifícios corporativos, eficiência energética é diferencial competitivo direto no P&L.",
+      "visual_hint": "Gráfico de linha mostrando o paradoxo: aumento do uso de AC vs. aumento da temperatura global"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "10% de toda a eletricidade global é consumida por ACs tradicionais",
+        "200.000 mortes prematuras evitadas por ano graças ao AC (Lancet)",
+        "3 anos consecutivos de calor recorde impulsionam a busca por alternativas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Ceticismo científico: eficiência teórica ainda não se traduziu em sistemas práticos",
+        "Gestão térmica dos materiais é o maior desafio de engenharia",
+        "Se viável, impacto gigante no setor energético e na economia tech"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A revolução da climatização pode estar mais perto — ou mais longe — do que parece."
+    }
+  ]
+}

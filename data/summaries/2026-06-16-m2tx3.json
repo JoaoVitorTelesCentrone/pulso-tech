@@ -1,0 +1,15 @@
+{
+  "tldr": "A IA generativa está canibalizando o mercado de livros de autoajuda de US$ 12 bilhões, com vendas caindo 23% enquanto assinaturas de IA crescem 340%, pois a tecnologia oferece conselhos personalizados e mais baratos que os livros tradicionais.",
+  "key_facts": [
+    "Vendas de livros de autoajuda nos EUA caíram 23% no primeiro semestre de 2026, segundo Nielsen BookScan.",
+    "Assinaturas de ferramentas de IA conversacional (ChatGPT Plus, Claude Pro, Gemini Advanced) cresceram 340% no mesmo período.",
+    "O custo por insight útil de um livro é de US$ 1,70 por capítulo, contra US$ 0,02 por interação relevante da IA.",
+    "O mercado global de livros de autoajuda é estimado em US$ 12 bilhões anuais."
+  ],
+  "why_it_matters": "Este artigo sinaliza uma mudança estrutural no consumo de conhecimento: a IA não apenas complementa, mas substitui produtos editoriais inteiros, forçando editores, autores e investidores a repensar modelos de negócio e abrindo oportunidades para novos canais de distribuição baseados em IA.",
+  "watch_next": [
+    "Queda acentuada no número de novos títulos de autoajuda publicados, com editoras migrando para formatos interativos ou apoiados por IA.",
+    "Surgimento de plataformas de 'autoajuda como serviço' que combinam LLMs com curadoria humana, potencialmente substituindo livrarias digitais."
+  ],
+  "editorial_angle": "O artigo se destaca por ancorar uma discussão teórica (o fim dos livros de autoajuda) em dados concretos de mercado e uma análise econômica detalhada (custo por insight, tempo de implementação), indo além do hype para mostrar a mecânica real da substituição tecnológica."
+}

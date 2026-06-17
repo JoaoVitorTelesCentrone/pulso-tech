@@ -1,0 +1,224 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Como funciona",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Ar Condicionado Sem Compressor?",
+        "subtext": "A tecnologia de estado sólido promete revolucionar a climatização."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O Fim do Compressor Mecânico",
+        "body": "Sistemas tradicionais usam um ciclo de compressão de vapor com peças móveis que se desgastam. Os de estado sólido eliminam o compressor, usando campos elétricos ou magnéticos."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Efeito Eletrocalórico Explicado",
+        "body": "Materiais cerâmicos ou poliméricos aquecem quando um campo elétrico é aplicado e esfriam quando o campo é removido. Esse ciclo bombeia calor sem refrigerantes."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "03",
+        "headline": "Efeito Magnetocalórico",
+        "body": "Similar ao eletrocalórico, mas usando campos magnéticos. Ambos prometem maior eficiência (COP), operação silenciosa e maior vida útil por não terem peças móveis."
+      },
+      {
+        "n": 5,
+        "type": "quote",
+        "quote": "\"Os cientistas não estão tão certos\" sobre a viabilidade prática e a eficiência real desses sistemas em larga escala."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Desafios de Engenharia",
+        "items": [
+          "Gestão térmica do material que aquece e esfria ciclicamente",
+          "Materiais de alto desempenho são caros e, às vezes, tóxicos",
+          "Degradação e fadiga após milhares de ciclos de operação"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer entender a física por trás disso?",
+        "highlight_word": "física",
+        "subtext": "Leia a análise completa da MIT Technology Review."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal: Sua vida",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O AC Que Pode Salvar Vidas",
+        "subtext": "E também reduzir sua conta de luz e o aquecimento global."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "200.000",
+        "stat_label": "Mortes prematuras evitadas por ano graças ao ar condicionado, segundo estudo da Lancet."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Saúde Pública vs. Aquecimento Global",
+        "body": "O AC não é luxo, é questão de saúde. Mas o paradoxo é cruel: quanto mais usamos para nos proteger do calor, mais contribuímos para o aquecimento global."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "10%",
+        "stat_label": "De toda a eletricidade global é consumida por sistemas de ar condicionado atuais."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Diferencial Competitivo no P&L",
+        "body": "Para data centers e edifícios corporativos, a eficiência energética é um dos maiores custos operacionais. Reduzir o consumo de AC é vantagem direta no lucro."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios Prometidos",
+        "items": [
+          "Ausência de refrigerantes com alto potencial de aquecimento global (GWP)",
+          "Operação silenciosa",
+          "Maior vida útil (sem peças móveis para desgastar)"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "highlight_word": "conta",
+        "headline": "Sua conta de luz pode cair?",
+        "subtext": "Descubra o que falta para essa tecnologia chegar na sua casa."
+      }
+    ],
+    "template": "D"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números reais",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Número Que Assusta a IEA",
+        "subtext": "O consumo de energia para AC pode triplicar até 2050."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "3x",
+        "stat_label": "O número de unidades de ar condicionado no mundo deve triplicar até 2050, segundo a Agência Internacional de Energia (IEA)."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "10%",
+        "stat_label": "Consumo global de eletricidade destinado a sistemas de ar condicionado atuais."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O Tamanho do Prêmio Econômico",
+        "body": "Se o consumo triplicar, o mercado de eletricidade para AC pode consumir o equivalente a toda a capacidade de geração atual da União Europeia."
+      },
+      {
+        "n": 5,
+        "type": "stat",
+        "stat_number": "200.000",
+        "stat_label": "Mortes prematuras evitadas anualmente pelo uso de ar condicionado, de acordo com estudo da Lancet."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Gargalos de Escala",
+        "items": [
+          "Materiais de alto desempenho (chumbo, terras raras) são caros e tóxicos",
+          "Produzir toneladas para abastecer centenas de milhões de unidades",
+          "Manter eficiência por 10 a 15 anos de uso contínuo"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "highlight_word": "números",
+        "headline": "Quer ver os números completos?",
+        "subtext": "Acesse a análise da MIT Technology Review."
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Climatização Global",
+        "subtext": "Entre a promessa e o ceticismo científico."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O Contexto Crítico",
+        "body": "Após três anos consecutivos de calor recorde, a IEA projeta que o número de ACs triplicará até 2050. A tecnologia de estado sólido surge como possível solução."
+      },
+      {
+        "n": 3,
+        "type": "quote",
+        "quote": "\"A reportagem da MIT Technology Review não é um anúncio triunfal; é um alerta temperado com ceticismo científico.\""
+      },
+      {
+        "n": 4,
+        "type": "list",
+        "headline": "Os 3 Principais Desafios",
+        "items": [
+          "Eficiência real vs. teórica: a engenharia para sistemas práticos é brutal",
+          "Custo e toxicidade dos materiais (chumbo, terras raras)",
+          "Degradação: materiais podem falhar após milhares de ciclos"
+        ]
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O Paradoxo do Ar Condicionado",
+        "body": "Quanto mais usamos AC para nos proteger do calor, mais contribuímos para o aquecimento global, já que os sistemas atuais consomem 10% da eletricidade global."
+      },
+      {
+        "n": 6,
+        "type": "stat",
+        "stat_number": "10-15 anos",
+        "stat_label": "Vida útil mínima que um AC de estado sólido precisa ter para ser viável comercialmente."
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "highlight_word": "futuro",
+        "headline": "O futuro do AC é sólido?",
+        "subtext": "Leia a análise completa e tire suas conclusões."
+      }
+    ],
+    "template": "B"
+  }
+]

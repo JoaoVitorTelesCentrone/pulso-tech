@@ -1,0 +1,15 @@
+{
+  "tldr": "Artigo alerta que, enquanto o mercado foca em IA, vulnerabilidades clássicas em servidores IIS continuam expondo empresas a riscos bilionários, com milhares de servidores mal configurados ainda ativos.",
+  "key_facts": [
+    "Um artigo no Hacker News detalha métodos para explorar configurações inadequadas em servidores IIS, reacendendo o debate sobre segurança de infraestrutura.",
+    "Milhares de servidores IIS públicos ainda operam com versões desatualizadas, diretórios expostos e falta de segmentação de rede.",
+    "A exploração automatizada de CVEs conhecidas em IIS é possível, com patches disponíveis há anos mas não aplicados."
+  ],
+  "why_it_matters": "A infraestrutura de IA (APIs, bancos de dados, servidores web) muitas vezes depende de IIS mal configurados, criando um calcanhar de Aquiles que pode expor dados sensíveis, modelos proprietários e permitir ataques em escala, enquanto empresas correm para lançar produtos de IA.",
+  "watch_next": [
+    "Aumento de ataques direcionados a servidores IIS em empresas que integram IA com sistemas legados.",
+    "Possível movimento regulatório ou de mercado exigindo auditorias de segurança em infraestrutura de IA.",
+    "Publicação de ferramentas automatizadas de varredura e exploração de IIS, ampliando o risco para empresas negligenciadas."
+  ],
+  "editorial_angle": "O artigo conecta uma vulnerabilidade técnica clássica (IIS) ao hype atual de IA, mostrando que a segurança de infraestrutura não é um problema resolvido e que a pressa por inovação está criando riscos financeiros e operacionais reais."
+}

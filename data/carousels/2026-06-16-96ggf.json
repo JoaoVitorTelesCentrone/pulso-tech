@@ -1,0 +1,222 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Como e Por Que",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Holanda criou seu próprio LLM soberano",
+        "subtext": "Entenda o mecanismo e a estratégia por trás do GPT-NL"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Arquitetura Transformer Modificada",
+        "body": "O GPT-NL usa tokenizer personalizado que reduz em 40% os tokens para neerlandês vs. GPT-4. Treinado em 512 GPUs H100 no centro SURF."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2.800 MWh",
+        "stat_label": "Consumo energético do pré-treinamento — equivalente ao consumo anual de 850 residências neerlandesas."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "O GPT-NL garante que dados governamentais, jurídicos e científicos neerlandeses não precisem cruzar fronteiras para serem processados por IA."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Dados de Treinamento Específicos",
+        "body": "1,2 tri de tokens públicos, 450 bi de docs governamentais desclassificados e 80 bi de textos jurídicos e parlamentares."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Etapas do Treinamento Híbrido",
+        "items": [
+          "Pré-treinamento em cluster de 512 GPUs H100",
+          "Fine-tuning em direito administrativo neerlandês",
+          "Tokenização personalizada para neerlandês"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seu país pode replicar esse modelo?",
+        "highlight_word": "replicar",
+        "subtext": "Leia o artigo completo e descubra como a soberania digital funciona na prática."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal: O que muda",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como o GPT-NL afeta você e seu trabalho",
+        "subtext": "Dados governamentais, jurídicos e científicos agora ficam seguros"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Segurança de Dados Sensíveis",
+        "body": "Governos europeus evitam enviar dados para APIs americanas sujeitas ao Patriot Act. GPT-NL mantém tudo em território neerlandês."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "€4-6 milhões",
+        "stat_label": "Custo anual de assinar APIs comerciais para o governo neerlandês — vs. €19,6M totais do GPT-NL."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Modelos como GPT-4o são treinados predominantemente em inglês. Para línguas como o neerlandês, a qualidade cai drasticamente."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Preservação Linguística e Cultural",
+        "body": "O GPT-NL captura nuances jurídicas, expressões idiomáticas e contextos culturais que LLMs genéricos perdem — essencial para documentos oficiais."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Domínios de Fine-tuning",
+        "items": [
+          "Direito administrativo neerlandês",
+          "Documentos parlamentares",
+          "Literatura científica local e registros históricos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seus dados estão seguros com IA estrangeira?",
+        "highlight_word": "seguros",
+        "subtext": "Leia o artigo completo e entenda os riscos da dependência de APIs externas."
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números: Fatos concretos",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "GPT-NL em números: custos, tokens e impacto",
+        "subtext": "Os dados reais por trás do LLM soberano neerlandês"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "70-130 bilhões",
+        "stat_label": "Faixa de parâmetros do GPT-NL — suficiente para tarefas complexas, longe dos trilhões dos modelos comerciais."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "€19,6 milhões",
+        "stat_label": "Custo total estimado do projeto: infraestrutura (€8,5M), curadoria (€3,2M), engenheiros (€6,1M), compliance (€1,8M)."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Break-even em 3-4 anos",
+        "body": "Comparado aos €4-6M anuais em APIs comerciais, o GPT-NL se paga em até 4 anos se substituir totalmente o uso externo."
+      },
+      {
+        "n": 5,
+        "type": "stat",
+        "stat_number": "1,2 trilhão",
+        "stat_label": "Tokens de texto em neerlandês de fontes públicas usados no pré-treinamento."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Composição dos Dados de Treinamento",
+        "items": [
+          "1,2 tri de tokens públicos em neerlandês",
+          "450 bi de tokens de documentos governamentais desclassificados",
+          "80 bi de tokens de textos jurídicos e parlamentares"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quanto custa a soberania digital do seu país?",
+        "highlight_word": "custa",
+        "subtext": "Leia o artigo completo e veja a análise detalhada de custos e benefícios."
+      }
+    ],
+    "template": "C"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências: O que vem",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro dos LLMs soberanos de médio porte",
+        "subtext": "Holanda prova que países de ~18M habitantes podem ter seu próprio modelo"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Novo Segmento de Mercado",
+        "body": "LLMs soberanos de médio porte criam concorrência para Microsoft e AWS, que podem perder contratos governamentais europeus."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "€200 milhões/ano",
+        "stat_label": "Gastos da Holanda em serviços de nuvem para IA — parte pode migrar para infraestrutura nacional com o GPT-NL."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Se a Holanda provar que um país de ~18 milhões de habitantes pode sustentar seu próprio LLM soberano, isso abre precedente para dezenas de outras nações."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Impacto em Startups Europeias",
+        "body": "Empresas como a neerlandesa Axel (especializada em NLP jurídico) podem se beneficiar do ecossistema soberano."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Países que podem seguir o modelo",
+        "items": [
+          "Portugal (~10M habitantes)",
+          "Coreia do Sul (~52M habitantes)",
+          "Outras nações com línguas minoritárias"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seu país será o próximo a construir um LLM soberano?",
+        "highlight_word": "próximo",
+        "subtext": "Leia o artigo completo e descubra as implicações geopolíticas dessa nova corrida."
+      }
+    ],
+    "template": "D"
+  }
+]

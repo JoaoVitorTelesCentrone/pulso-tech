@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+  <link rel="stylesheet" href="_ds/mind-space-design-system-019e1d1e-2d72-7729-aec8-b3e98d69f760/tokens.css">
+  <script src="_ds/mind-space-design-system-019e1d1e-2d72-7729-aec8-b3e98d69f760/_ds_bundle.js"></script>
+  <script>document.documentElement.setAttribute('data-theme','light');</script>
+  <!-- shared SVG defs: patterns, filters -->
+  <svg width="0" height="0" style="position: absolute;" aria-hidden="true">
+    <defs>
+      <!-- paper noise -->
+      <filter id="paper-noise">
+        <feTurbulence type="fractalNoise" baseFrequency="0.85" numOctaves="2" seed="3"/>
+        <feColorMatrix values="0 0 0 0 0.058   0 0 0 0 0.054   0 0 0 0 0.078   0 0 0 0.22 0"/>
+        <feComposite operator="in" in2="SourceGraphic"/>
+      </filter>
+      <!-- orbit tile -->
+      <pattern id="orbit-tile" x="0" y="0" width="120" height="120" patternUnits="userSpaceOnUse" patternTransform="rotate(-14)">
+        <ellipse cx="60" cy="60" rx="52" ry="18" fill="none" stroke="#0F0E14" stroke-width="1.4"/>
+        <circle cx="60" cy="60" r="3" fill="#0F0E14"/>
+      </pattern>
+      <!-- halftone dot grid -->
+      <pattern id="dot-grid" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
+        <circle cx="8" cy="8" r="1.4" fill="#0F0E14"/>
+      </pattern>
+      <pattern id="dot-grid-coral" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+        <circle cx="10" cy="10" r="2.2" fill="#E84B2A"/>
+      </pattern>
+      <!-- pulse strip -->
+      <pattern id="pulse-strip" x="0" y="0" width="200" height="80" patternUnits="userSpaceOnUse">
+        <path d="M 0 40 L 30 40 L 42 18 L 58 62 L 74 14 L 92 66 L 108 40 L 138 40 L 150 26 L 166 54 L 200 40" stroke="#0F0E14" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      </pattern>
+      <!-- halftone gradient: dense to sparse -->
+      <pattern id="halftone-fade" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+        <circle cx="12" cy="12" r="3.5" fill="#0F0E14"/>
+      </pattern>
+      <!-- sparkle scatter -->
+      <pattern id="sparkle-scatter" x="0" y="0" width="180" height="180" patternUnits="userSpaceOnUse">
+        <path d="M 30 30 L 33 42 L 45 45 L 33 48 L 30 60 L 27 48 L 15 45 L 27 42 Z" fill="#0F0E14"/>
+        <path d="M 120 90 L 122 98 L 130 100 L 122 102 L 120 110 L 118 102 L 110 100 L 118 98 Z" fill="#E84B2A"/>
+        <path d="M 70 140 L 72 147 L 79 149 L 72 151 L 70 158 L 68 151 L 61 149 L 68 147 Z" fill="#0F0E14"/>
+        <circle cx="150" cy="40" r="3" fill="#0F0E14"/>
+        <circle cx="40" cy="120" r="2" fill="#E84B2A"/>
+      </pattern>
+    </defs>
+  </svg>
+</helmet>
+
+<main data-screen-label="Pulso Tech — Ecosystem" style="background: #E8E1CB; min-height: 100vh; padding: 64px 56px 96px; font-family: var(--font-body); color: var(--text);">
+
+  <!-- META BAR -->
+  <div style="max-width: 1280px; margin: 0 auto 56px; display: flex; align-items: baseline; justify-content: space-between; border-bottom: 1px solid #B8AE8E; padding-bottom: 18px;">
+    <div style="display: flex; align-items: baseline; gap: 18px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text);">nr. 002 — pulso tech</span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">brand ecosystem / elementos &amp; texturas</span>
+    </div>
+    <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">— um kit de partes —</span>
+  </div>
+
+  <!-- ============================================================
+       COVER — what is this
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 80px;">
+    <div style="background: var(--bg); border-radius: 24px; padding: 72px 64px 56px; position: relative; overflow: hidden; box-shadow: var(--shadow-md); min-height: 360px;">
+      <!-- corner dieline markers -->
+      <span style="position: absolute; top: 24px; left: 28px; font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">00 / abertura</span>
+      <span style="position: absolute; top: 24px; right: 28px; font-size: 10px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">— vocabulário visual</span>
+
+      <!-- floating sparkle scatter background -->
+      <svg viewBox="0 0 800 360" style="position: absolute; right: 0; top: 0; width: 60%; height: 100%; opacity: 0.08;" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+        <rect width="800" height="360" fill="url(#sparkle-scatter)"/>
+      </svg>
+
+      <div style="position: relative; display: grid; grid-template-columns: 1fr 1fr; gap: 56px; align-items: end;">
+        <div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 17px; color: var(--text-muted); margin-bottom: 18px;">v1 · jun 2026</div>
+          <h1 style="font-family: var(--font-headline); font-size: 116px; line-height: 0.88; letter-spacing: -0.008em; text-transform: uppercase; margin: 0; color: var(--text);">ECO<span style="color: var(--accent);">SS</span>ISTEMA</h1>
+          <h1 style="font-family: var(--font-headline); font-size: 116px; line-height: 0.88; letter-spacing: -0.008em; text-transform: uppercase; margin: 0; color: var(--text);">DE MARCA.</h1>
+        </div>
+        <div>
+          <p style="font-family: var(--font-display); font-style: italic; font-size: 22px; line-height: 1.45; color: var(--text); margin: 0 0 14px;">o brand book diz <span style="color: var(--accent);">o que</span> a pulso tech é. este documento mostra <span style="color: var(--accent);">com o que</span> ela é desenhada.</p>
+          <p style="font-family: var(--font-display); font-style: italic; font-size: 18px; line-height: 1.5; color: var(--text-muted); margin: 0;">sete famílias de elementos. quatro texturas. um vocabulário que se repete em toda superfície.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       1 — ORBITS
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 64px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">01 / órbitas</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">o sistema, a rotação, o entorno</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px;">
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">o-01 · simples</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <g transform="rotate(-12 100 60)"><ellipse cx="100" cy="60" rx="84" ry="28" fill="none" stroke="#0F0E14" stroke-width="6" stroke-linecap="round"/></g>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">órbita base</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">o-02 · dupla</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <g transform="rotate(-12 100 60)">
+            <ellipse cx="100" cy="60" rx="84" ry="28" fill="none" stroke="#0F0E14" stroke-width="4"/>
+            <ellipse cx="100" cy="60" rx="56" ry="18" fill="none" stroke="#0F0E14" stroke-width="3"/>
+          </g>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">dupla concêntrica</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">o-03 · pontilhada</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <g transform="rotate(-12 100 60)"><ellipse cx="100" cy="60" rx="84" ry="28" fill="none" stroke="#0F0E14" stroke-width="3" stroke-dasharray="4 6"/></g>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">pontilhada</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">o-04 · com sinal</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <g transform="rotate(-12 100 60)"><ellipse cx="100" cy="60" rx="84" ry="28" fill="none" stroke="#0F0E14" stroke-width="5" stroke-linecap="round"/></g>
+          <circle cx="100" cy="60" r="14" fill="#0F0E14"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">com planeta</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">o-05 · com satélite</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <g transform="rotate(-12 100 60)"><ellipse cx="100" cy="60" rx="84" ry="28" fill="none" stroke="#0F0E14" stroke-width="5" stroke-linecap="round"/></g>
+          <circle cx="100" cy="60" r="14" fill="#0F0E14"/>
+          <circle cx="172" cy="34" r="6" fill="#E84B2A"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">satélite coral</span>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       2 — PULSE WAVEFORMS
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 64px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">02 / pulsos</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">o ritmo da semana</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 16px;">
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">p-01 · calmo</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <path d="M 8 60 L 60 60 L 80 48 L 100 72 L 120 48 L 140 72 L 160 60 L 192 60" stroke="#E84B2A" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">descanso · 60 bpm</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">p-02 · normal</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <path d="M 8 60 L 40 60 L 54 34 L 70 86 L 86 28 L 100 92 L 116 28 L 132 86 L 146 34 L 160 60 L 192 60" stroke="#E84B2A" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">marca-primária</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">p-03 · alto</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <path d="M 8 60 L 28 60 L 38 14 L 50 106 L 62 14 L 76 106 L 88 14 L 100 106 L 112 14 L 124 106 L 138 14 L 150 106 L 162 60 L 192 60" stroke="#E84B2A" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">semana de hype</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">p-04 · spike único</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <path d="M 8 60 L 80 60 L 92 28 L 108 92 L 120 60 L 192 60" stroke="#E84B2A" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">o sinal único</span>
+      </div>
+
+      <div style="background: var(--text); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: #B8B3A0;">p-05 · sobre tinta</span>
+        <svg viewBox="0 0 200 120" style="width: 100%;" aria-hidden="true">
+          <path d="M 8 60 L 40 60 L 54 34 L 70 86 L 86 28 L 100 92 L 116 28 L 132 86 L 146 34 L 160 60 L 192 60" stroke="#FF6B49" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: #F2EDDF;">no escuro</span>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       3 — SPARKLES & SIGNALS
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 64px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">03 / faíscas &amp; sinais</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">a centelha da inteligência</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 16px;">
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">s-01</span>
+        <svg viewBox="0 0 100 100" style="width: 80%; align-self: center;" aria-hidden="true">
+          <path d="M 50 10 L 56 44 L 90 50 L 56 56 L 50 90 L 44 56 L 10 50 L 44 44 Z" fill="#0F0E14"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">4-pontas</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">s-02</span>
+        <svg viewBox="0 0 100 100" style="width: 80%; align-self: center;" aria-hidden="true">
+          <path d="M 50 12 L 56 38 L 80 28 L 64 50 L 88 56 L 62 62 L 72 88 L 50 72 L 28 88 L 38 62 L 12 56 L 36 50 L 20 28 L 44 38 Z" fill="#E84B2A"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">8-pontas coral</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">s-03</span>
+        <svg viewBox="0 0 100 100" style="width: 80%; align-self: center;" aria-hidden="true">
+          <path d="M 50 18 L 55 45 L 82 50 L 55 55 L 50 82 L 45 55 L 18 50 L 45 45 Z" fill="none" stroke="#0F0E14" stroke-width="3"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">contorno</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">s-04 · constelação</span>
+        <svg viewBox="0 0 100 100" style="width: 85%; align-self: center;" aria-hidden="true">
+          <path d="M 30 28 L 33 40 L 45 43 L 33 46 L 30 58 L 27 46 L 15 43 L 27 40 Z" fill="#0F0E14"/>
+          <path d="M 70 60 L 72 68 L 80 70 L 72 72 L 70 80 L 68 72 L 60 70 L 68 68 Z" fill="#E84B2A"/>
+          <circle cx="62" cy="32" r="3" fill="#0F0E14"/>
+        </svg>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">cluster</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">s-05 · pontos</span>
+        <div style="display: flex; flex-direction: column; gap: 12px; align-items: center; flex: 1; justify-content: center;">
+          <div style="display: flex; gap: 10px; align-items: center;">
+            <span style="width: 22px; height: 22px; border-radius: 50%; background: var(--accent);"></span>
+            <span style="width: 22px; height: 22px; border-radius: 50%; background: var(--text);"></span>
+            <span style="width: 22px; height: 22px; border-radius: 50%; border: 2px solid var(--text);"></span>
+          </div>
+        </div>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">sinal / contexto / ruído</span>
+      </div>
+
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; aspect-ratio: 1 / 1; padding: 22px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">s-06 · escala</span>
+        <div style="display: flex; gap: 4px; align-items: center; flex: 1; justify-content: center;">
+          <svg viewBox="0 0 100 100" style="width: 22%;" aria-hidden="true"><path d="M 50 10 L 56 44 L 90 50 L 56 56 L 50 90 L 44 56 L 10 50 L 44 44 Z" fill="#0F0E14"/></svg>
+          <svg viewBox="0 0 100 100" style="width: 28%;" aria-hidden="true"><path d="M 50 10 L 56 44 L 90 50 L 56 56 L 50 90 L 44 56 L 10 50 L 44 44 Z" fill="#0F0E14"/></svg>
+          <svg viewBox="0 0 100 100" style="width: 38%;" aria-hidden="true"><path d="M 50 10 L 56 44 L 90 50 L 56 56 L 50 90 L 44 56 L 10 50 L 44 44 Z" fill="#0F0E14"/></svg>
+        </div>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">tamanhos</span>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       4 — ORNAMENTS (editorial marks)
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 64px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">04 / ornamentos editoriais</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">os marcadores da página</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1.4fr 1fr 1fr; gap: 16px; margin-bottom: 16px;">
+
+      <!-- Corner dieline kit -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 240px; position: relative;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted); display: block; margin-bottom: 16px;">orn-01 · marcas de canto (dieline)</span>
+        <!-- example frame with corner registration -->
+        <div style="position: relative; height: 140px; border: 1px dashed #BFB394; border-radius: 4px;">
+          <!-- 4 corners with cross marks -->
+          <svg viewBox="0 0 20 20" style="position: absolute; top: -10px; left: -10px; width: 20px; height: 20px;"><line x1="10" y1="0" x2="10" y2="20" stroke="#0F0E14" stroke-width="1.4"/><line x1="0" y1="10" x2="20" y2="10" stroke="#0F0E14" stroke-width="1.4"/></svg>
+          <svg viewBox="0 0 20 20" style="position: absolute; top: -10px; right: -10px; width: 20px; height: 20px;"><line x1="10" y1="0" x2="10" y2="20" stroke="#0F0E14" stroke-width="1.4"/><line x1="0" y1="10" x2="20" y2="10" stroke="#0F0E14" stroke-width="1.4"/></svg>
+          <svg viewBox="0 0 20 20" style="position: absolute; bottom: -10px; left: -10px; width: 20px; height: 20px;"><line x1="10" y1="0" x2="10" y2="20" stroke="#0F0E14" stroke-width="1.4"/><line x1="0" y1="10" x2="20" y2="10" stroke="#0F0E14" stroke-width="1.4"/></svg>
+          <svg viewBox="0 0 20 20" style="position: absolute; bottom: -10px; right: -10px; width: 20px; height: 20px;"><line x1="10" y1="0" x2="10" y2="20" stroke="#0F0E14" stroke-width="1.4"/><line x1="0" y1="10" x2="20" y2="10" stroke="#0F0E14" stroke-width="1.4"/></svg>
+          <span style="position: absolute; top: 6px; left: 12px; font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">nr. 042 / 13.06</span>
+          <span style="position: absolute; bottom: 6px; right: 12px; font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">— pt-br</span>
+          <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">conteúdo aqui</span>
+        </div>
+      </div>
+
+      <!-- Asterisk + brackets -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 240px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">orn-02 · pontuação</span>
+        <div style="display: flex; gap: 24px; align-items: center; justify-content: center; padding: 18px 0;">
+          <span style="font-family: var(--font-headline); font-size: 64px; line-height: 1; color: var(--text);">[</span>
+          <span style="font-family: var(--font-headline); font-size: 56px; line-height: 1; color: var(--accent);">✱</span>
+          <span style="font-family: var(--font-headline); font-size: 64px; line-height: 1; color: var(--text);">]</span>
+        </div>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">colchetes + asterisco coral</span>
+      </div>
+
+      <!-- Arrows -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 240px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">orn-03 · setas</span>
+        <div style="display: flex; flex-direction: column; gap: 12px; padding: 12px 0;">
+          <div style="font-family: var(--font-headline); font-size: 28px; color: var(--text); line-height: 1;">— LEIA → <span style="color: var(--accent);">→→</span></div>
+          <div style="font-family: var(--font-headline); font-size: 28px; color: var(--text); line-height: 1;">↗ ↘ ↙ ↖</div>
+          <div style="font-family: var(--font-body); font-size: 18px; font-weight: 700; color: var(--text); letter-spacing: 0.04em;">→ ¬ ➝ ▸</div>
+        </div>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">leia / próximo / volta</span>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 16px;">
+
+      <!-- Divider strip variations -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">orn-04 · divisores</span>
+        <div style="display: flex; flex-direction: column; gap: 14px; padding: 10px 0;">
+          <div style="height: 1px; background: var(--text);"></div>
+          <div style="height: 2px; background: var(--paper-grain);"></div>
+          <div style="display: flex; align-items: center; gap: 10px;"><span style="flex: 1; height: 1px; background: var(--text);"></span><span style="font-family: var(--font-headline); font-size: 14px; color: var(--accent);">✱</span><span style="flex: 1; height: 1px; background: var(--text);"></span></div>
+          <div style="display: flex; align-items: center; gap: 6px;"><span style="flex: 1; height: 1px; background: var(--paper-grain); border-top: 1px dashed var(--paper-grain); background: transparent; border-bottom: none;"></span></div>
+        </div>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">linhas, traços, coral central</span>
+      </div>
+
+      <!-- Stamps / seals -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">orn-05 · selos editoriais</span>
+        <div style="display: flex; gap: 14px; align-items: center; justify-content: center; padding: 14px 0;">
+          <div style="width: 80px; height: 80px; border-radius: 50%; border: 2px solid var(--accent); display: flex; align-items: center; justify-content: center; transform: rotate(-8deg);">
+            <span style="font-family: var(--font-headline); font-size: 14px; text-transform: uppercase; color: var(--accent); text-align: center; line-height: 1; letter-spacing: 0.04em;">NOVO<br/>HOJE</span>
+          </div>
+          <div style="width: 80px; height: 80px; border: 2px solid var(--text); display: flex; align-items: center; justify-content: center; transform: rotate(6deg);">
+            <span style="font-family: var(--font-headline); font-size: 14px; text-transform: uppercase; color: var(--text); text-align: center; line-height: 1;">5 MIN<br/>READ</span>
+          </div>
+        </div>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">carimbo · estilo arquivo</span>
+      </div>
+
+      <!-- Index numerals -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 180px; display: flex; flex-direction: column; justify-content: space-between;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">orn-06 · numeração</span>
+        <div style="display: flex; align-items: baseline; gap: 10px; padding: 10px 0;">
+          <span style="font-family: var(--font-headline); font-size: 72px; line-height: 0.9; color: var(--text);">01</span>
+          <span style="font-family: var(--font-headline); font-size: 56px; line-height: 0.9; color: var(--accent);">/</span>
+          <span style="font-family: var(--font-headline); font-size: 72px; line-height: 0.9; color: var(--text);">03</span>
+        </div>
+        <span style="font-size: 11px; font-style: italic; font-family: var(--font-display); color: var(--text);">item / total · anton</span>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       5 — TEXTURES & PATTERNS
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 64px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">05 / texturas</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">superfícies que se repetem</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; margin-bottom: 18px;">
+
+      <!-- Orbit tile -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 18px; padding: 28px; min-height: 280px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">tex-01 · tile de órbitas</span>
+          <span style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted);">cobertura ampla</span>
+        </div>
+        <svg viewBox="0 0 600 200" style="width: 100%; flex: 1; border-radius: 10px; background: var(--bg);" aria-hidden="true">
+          <rect width="600" height="200" fill="url(#orbit-tile)"/>
+        </svg>
+        <p style="font-size: 12px; color: var(--text-muted); margin: 0;">fundo de seção, hero secundário, separador entre capítulos. opacity sugerida: 40–60%.</p>
+      </div>
+
+      <!-- Halftone dots -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 18px; padding: 28px; min-height: 280px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">tex-02 · halftone</span>
+          <span style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted);">peso editorial</span>
+        </div>
+        <svg viewBox="0 0 600 200" style="width: 100%; flex: 1; border-radius: 10px;" aria-hidden="true">
+          <rect width="600" height="200" fill="url(#dot-grid)"/>
+        </svg>
+        <p style="font-size: 12px; color: var(--text-muted); margin: 0;">caixa de citação, fundo de retrato, sombra editorial. pode ser coral em chamadas.</p>
+      </div>
+    </div>
+
+    <div style="display: grid; grid-template-columns: 1.4fr 1fr; gap: 18px; margin-bottom: 18px;">
+
+      <!-- Pulse strip -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 18px; padding: 28px; min-height: 220px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">tex-03 · faixa de pulso</span>
+          <span style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted);">ondulação contínua</span>
+        </div>
+        <div style="background: var(--accent); border-radius: 10px; flex: 1; display: flex; align-items: center; padding: 14px 0;">
+          <svg viewBox="0 0 800 100" style="width: 100%; height: 80px;" preserveAspectRatio="none" aria-hidden="true">
+            <rect width="800" height="100" fill="url(#pulse-strip)" opacity="0"/>
+            <path d="M 0 50 L 60 50 L 80 18 L 110 82 L 140 12 L 170 88 L 200 50 L 260 50 L 280 28 L 310 72 L 340 50 L 400 50 L 420 14 L 450 86 L 480 50 L 540 50 L 560 22 L 590 78 L 620 50 L 680 50 L 700 26 L 730 74 L 760 50 L 800 50" stroke="#F2EDDF" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <p style="font-size: 12px; color: var(--text-muted); margin: 0;">faixas separadoras entre seções da newsletter, headers de email, banners.</p>
+      </div>
+
+      <!-- Sparkle scatter -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 18px; padding: 28px; min-height: 220px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">tex-04 · constelação</span>
+        </div>
+        <svg viewBox="0 0 400 200" style="width: 100%; flex: 1; border-radius: 10px;" aria-hidden="true">
+          <rect width="400" height="200" fill="url(#sparkle-scatter)"/>
+        </svg>
+        <p style="font-size: 12px; color: var(--text-muted); margin: 0;">overlay sutil em fundos escuros · só em momentos editoriais.</p>
+      </div>
+    </div>
+
+    <!-- Paper grain + halftone fade strip -->
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 18px;">
+
+      <!-- Paper grain -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 18px; padding: 28px; min-height: 180px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">tex-05 · grão de papel</span>
+          <span style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted);">ruído editorial</span>
+        </div>
+        <div style="position: relative; background: var(--bg); border: 1px solid var(--paper-grain); border-radius: 10px; flex: 1; overflow: hidden; min-height: 100px;">
+          <svg width="100%" height="100%" style="position: absolute; inset: 0;" aria-hidden="true">
+            <rect width="100%" height="100%" filter="url(#paper-noise)"/>
+          </svg>
+          <div style="position: relative; padding: 18px 22px; font-family: var(--font-display); font-style: italic; font-size: 22px; color: var(--text); z-index: 1;">"a calma vence."</div>
+        </div>
+        <p style="font-size: 12px; color: var(--text-muted); margin: 0;">aplicado em prints, capas físicas, e fundos hero. evitar em telas pequenas.</p>
+      </div>
+
+      <!-- Halftone fade gradient -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 18px; padding: 28px; min-height: 180px; display: flex; flex-direction: column; gap: 14px;">
+        <div style="display: flex; justify-content: space-between; align-items: baseline;">
+          <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">tex-06 · halftone fade</span>
+          <span style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted);">transição de peso</span>
+        </div>
+        <svg viewBox="0 0 600 120" style="width: 100%; flex: 1; border-radius: 10px;" aria-hidden="true">
+          <defs>
+            <mask id="fade-mask"><rect width="600" height="120" fill="url(#fade-grad)"/></mask>
+            <linearGradient id="fade-grad" x1="0" y1="0" x2="1" y2="0">
+              <stop offset="0" stop-color="white"/>
+              <stop offset="1" stop-color="black"/>
+            </linearGradient>
+          </defs>
+          <rect width="600" height="120" fill="url(#dot-grid)" mask="url(#fade-mask)"/>
+        </svg>
+        <p style="font-size: 12px; color: var(--text-muted); margin: 0;">entradas e saídas de seção · denso → vazio (esquerda → direita).</p>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       6 — CATEGORY ICONS
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 64px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">06 / ícones de categoria</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">silhueta editorial · sem emoji</span>
+    </div>
+
+    <div style="background: var(--surface); border-radius: 20px; padding: 40px 48px; box-shadow: var(--shadow-sm); display: grid; grid-template-columns: repeat(8, 1fr); gap: 28px;">
+
+      <!-- 01 Sinal -->
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+        <div style="width: 64px; height: 64px; background: var(--text); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
+          <svg viewBox="0 0 48 48" style="width: 36px;" aria-hidden="true"><path d="M 4 24 L 14 24 L 18 14 L 24 34 L 30 14 L 36 24 L 44 24" stroke="#E84B2A" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </div>
+        <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text);">sinal</div>
+        <div style="font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-muted);">o que mudou</div>
+      </div>
+
+      <!-- 02 Contexto -->
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+        <div style="width: 64px; height: 64px; background: var(--text); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
+          <svg viewBox="0 0 48 48" style="width: 32px;" aria-hidden="true">
+            <path d="M 14 8 L 8 8 L 8 40 L 14 40" stroke="#F2EDDF" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+            <path d="M 34 8 L 40 8 L 40 40 L 34 40" stroke="#F2EDDF" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text);">contexto</div>
+        <div style="font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-muted);">por que importa</div>
+      </div>
+
+      <!-- 03 Ruído -->
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+        <div style="width: 64px; height: 64px; background: var(--text); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
+          <svg viewBox="0 0 48 48" style="width: 36px;" aria-hidden="true">
+            <path d="M 6 24 Q 12 14, 18 24 T 30 24 T 42 24" stroke="#F2EDDF" stroke-width="3" fill="none" stroke-linecap="round"/>
+            <line x1="10" y1="10" x2="38" y2="38" stroke="#E84B2A" stroke-width="3.5" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text);">ruído</div>
+        <div style="font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-muted);">pode ignorar</div>
+      </div>
+
+      <!-- 04 Modelos -->
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+        <div style="width: 64px; height: 64px; background: var(--text); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
+          <svg viewBox="0 0 48 48" style="width: 32px;" aria-hidden="true">
+            <path d="M 24 6 L 40 14 L 40 32 L 24 40 L 8 32 L 8 14 Z M 24 6 L 24 22 M 24 22 L 8 14 M 24 22 L 40 14" stroke="#F2EDDF" stroke-width="2.6" fill="none" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text);">modelos</div>
+        <div style="font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-muted);">o que muda</div>
+      </div>
+
+      <!-- 05 Agentes -->
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+        <div style="width: 64px; height: 64px; background: var(--text); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
+          <svg viewBox="0 0 48 48" style="width: 32px;" aria-hidden="true">
+            <rect x="10" y="14" width="28" height="22" rx="6" stroke="#F2EDDF" stroke-width="2.8" fill="none"/>
+            <circle cx="18" cy="24" r="2.4" fill="#E84B2A"/>
+            <circle cx="30" cy="24" r="2.4" fill="#E84B2A"/>
+            <line x1="24" y1="8" x2="24" y2="14" stroke="#F2EDDF" stroke-width="2.6"/>
+            <circle cx="24" cy="6" r="2" fill="#F2EDDF"/>
+          </svg>
+        </div>
+        <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text);">agentes</div>
+        <div style="font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-muted);">o que age</div>
+      </div>
+
+      <!-- 06 Regulação -->
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+        <div style="width: 64px; height: 64px; background: var(--text); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
+          <svg viewBox="0 0 48 48" style="width: 32px;" aria-hidden="true">
+            <line x1="24" y1="8" x2="24" y2="40" stroke="#F2EDDF" stroke-width="2.8"/>
+            <line x1="10" y1="14" x2="38" y2="14" stroke="#F2EDDF" stroke-width="2.8"/>
+            <path d="M 6 26 L 14 14 L 22 26 Z" stroke="#F2EDDF" stroke-width="2.4" fill="none"/>
+            <path d="M 26 26 L 34 14 L 42 26 Z" stroke="#F2EDDF" stroke-width="2.4" fill="none"/>
+            <rect x="20" y="38" width="8" height="3" fill="#F2EDDF"/>
+          </svg>
+        </div>
+        <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text);">regulação</div>
+        <div style="font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-muted);">o que a lei diz</div>
+      </div>
+
+      <!-- 07 Lab -->
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+        <div style="width: 64px; height: 64px; background: var(--text); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
+          <svg viewBox="0 0 48 48" style="width: 30px;" aria-hidden="true">
+            <path d="M 18 6 L 18 20 L 10 36 Q 10 42, 16 42 L 32 42 Q 38 42, 38 36 L 30 20 L 30 6 Z" stroke="#F2EDDF" stroke-width="2.6" fill="none" stroke-linejoin="round"/>
+            <line x1="15" y1="6" x2="33" y2="6" stroke="#F2EDDF" stroke-width="2.6" stroke-linecap="round"/>
+            <circle cx="22" cy="34" r="2" fill="#E84B2A"/>
+            <circle cx="28" cy="30" r="1.5" fill="#E84B2A"/>
+          </svg>
+        </div>
+        <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text);">lab</div>
+        <div style="font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-muted);">o que vale testar</div>
+      </div>
+
+      <!-- 08 Cultura -->
+      <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
+        <div style="width: 64px; height: 64px; background: var(--text); border-radius: 16px; display: flex; align-items: center; justify-content: center;">
+          <svg viewBox="0 0 48 48" style="width: 32px;" aria-hidden="true">
+            <path d="M 8 10 L 24 14 L 40 10 L 40 38 L 24 42 L 8 38 Z M 24 14 L 24 42" stroke="#F2EDDF" stroke-width="2.8" fill="none" stroke-linejoin="round"/>
+          </svg>
+        </div>
+        <div style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: var(--text);">cultura</div>
+        <div style="font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--text-muted);">o que a gente faz</div>
+      </div>
+    </div>
+
+    <!-- Silhouette variant on cream -->
+    <div style="margin-top: 16px; background: var(--bg); border: 1px solid var(--border); border-radius: 18px; padding: 32px 40px; display: flex; flex-direction: column; gap: 18px;">
+      <div style="display: flex; justify-content: space-between; align-items: baseline;">
+        <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">variantes silhueta · só tinta, para marketing</span>
+        <span style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted);">posters, stories, stickers</span>
+      </div>
+      <div style="display: grid; grid-template-columns: repeat(8, 1fr); gap: 24px; justify-items: center;">
+        <svg viewBox="0 0 48 48" style="width: 48px;" aria-hidden="true"><path d="M 4 24 L 14 24 L 18 14 L 24 34 L 30 14 L 36 24 L 44 24" stroke="#0F0E14" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <svg viewBox="0 0 48 48" style="width: 44px;" aria-hidden="true"><path d="M 14 8 L 8 8 L 8 40 L 14 40 M 34 8 L 40 8 L 40 40 L 34 40" stroke="#0F0E14" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        <svg viewBox="0 0 48 48" style="width: 48px;" aria-hidden="true"><path d="M 6 24 Q 12 14, 18 24 T 30 24 T 42 24" stroke="#0F0E14" stroke-width="3.4" fill="none" stroke-linecap="round"/><line x1="10" y1="10" x2="38" y2="38" stroke="#0F0E14" stroke-width="4" stroke-linecap="round"/></svg>
+        <svg viewBox="0 0 48 48" style="width: 44px;" aria-hidden="true"><path d="M 24 6 L 40 14 L 40 32 L 24 40 L 8 32 L 8 14 Z M 24 6 L 24 22 M 24 22 L 8 14 M 24 22 L 40 14" stroke="#0F0E14" stroke-width="3" fill="none" stroke-linejoin="round"/></svg>
+        <svg viewBox="0 0 48 48" style="width: 44px;" aria-hidden="true"><rect x="10" y="14" width="28" height="22" rx="6" stroke="#0F0E14" stroke-width="3.2" fill="none"/><circle cx="18" cy="24" r="2.4" fill="#0F0E14"/><circle cx="30" cy="24" r="2.4" fill="#0F0E14"/><line x1="24" y1="8" x2="24" y2="14" stroke="#0F0E14" stroke-width="3"/><circle cx="24" cy="6" r="2" fill="#0F0E14"/></svg>
+        <svg viewBox="0 0 48 48" style="width: 44px;" aria-hidden="true"><line x1="24" y1="8" x2="24" y2="40" stroke="#0F0E14" stroke-width="3.2"/><line x1="10" y1="14" x2="38" y2="14" stroke="#0F0E14" stroke-width="3.2"/><path d="M 6 26 L 14 14 L 22 26 Z" stroke="#0F0E14" stroke-width="2.8" fill="none"/><path d="M 26 26 L 34 14 L 42 26 Z" stroke="#0F0E14" stroke-width="2.8" fill="none"/></svg>
+        <svg viewBox="0 0 48 48" style="width: 42px;" aria-hidden="true"><path d="M 18 6 L 18 20 L 10 36 Q 10 42, 16 42 L 32 42 Q 38 42, 38 36 L 30 20 L 30 6 Z" stroke="#0F0E14" stroke-width="3" fill="none" stroke-linejoin="round"/><line x1="15" y1="6" x2="33" y2="6" stroke="#0F0E14" stroke-width="3" stroke-linecap="round"/></svg>
+        <svg viewBox="0 0 48 48" style="width: 44px;" aria-hidden="true"><path d="M 8 10 L 24 14 L 40 10 L 40 38 L 24 42 L 8 38 Z M 24 14 L 24 42" stroke="#0F0E14" stroke-width="3.2" fill="none" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       7 — BADGES & SEALS
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 64px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">07 / badges &amp; selos</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">marcadores de edição</span>
+    </div>
+
+    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px;">
+
+      <!-- nr. badge -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 200px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 14px;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">b-01 · número de edição</span>
+        <div style="display: flex; align-items: baseline; gap: 8px;">
+          <span style="font-family: var(--font-headline); font-size: 22px; line-height: 1; color: var(--text-muted); letter-spacing: 0.04em;">NR.</span>
+          <span style="font-family: var(--font-headline); font-size: 88px; line-height: 0.86; color: var(--text);">042</span>
+        </div>
+        <span style="font-size: 10px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">— 13 jun 2026 —</span>
+      </div>
+
+      <!-- "novo" coral pill -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 200px; display: flex; flex-direction: column; align-items: center; justify-content: space-around; gap: 12px;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">b-02 · pílula coral</span>
+        <div style="display: flex; flex-direction: column; gap: 10px; align-items: center;">
+          <span style="display: inline-flex; align-items: center; gap: 8px; padding: 8px 16px; border-radius: 999px; background: var(--accent); color: #FFF; font-size: 12px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; box-shadow: var(--accent-shadow);">
+            <span style="width: 7px; height: 7px; border-radius: 50%; background: #FFE2D6;"></span> AO VIVO
+          </span>
+          <span style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; border-radius: 999px; background: var(--accent-light); color: var(--accent); font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;">novo hoje</span>
+          <span style="display: inline-flex; align-items: center; padding: 6px 14px; border-radius: 999px; border: 1.5px solid var(--text); color: var(--text); font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;">só assinante</span>
+        </div>
+      </div>
+
+      <!-- reading time ring -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 200px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 14px;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">b-03 · tempo de leitura</span>
+        <div style="position: relative; width: 96px; height: 96px;">
+          <svg viewBox="0 0 100 100" style="width: 100%; height: 100%; transform: rotate(-90deg);" aria-hidden="true">
+            <circle cx="50" cy="50" r="42" fill="none" stroke="var(--paper-grain)" stroke-width="5"/>
+            <circle cx="50" cy="50" r="42" fill="none" stroke="#E84B2A" stroke-width="5" stroke-dasharray="180 264" stroke-linecap="round"/>
+          </svg>
+          <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+            <div style="font-family: var(--font-headline); font-size: 28px; line-height: 0.9; color: var(--text);">5</div>
+            <div style="font-size: 9px; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted);">min</div>
+          </div>
+        </div>
+        <span style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted);">com coral como progresso</span>
+      </div>
+
+      <!-- big stamp -->
+      <div style="background: var(--bg); border: 1px solid var(--border); border-radius: 16px; padding: 28px; min-height: 200px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; gap: 14px;">
+        <span style="font-size: 9px; font-weight: 700; letter-spacing: 0.2em; text-transform: uppercase; color: var(--text-muted);">b-04 · carimbo</span>
+        <div style="width: 130px; height: 130px; border-radius: 50%; border: 3px solid var(--accent); display: flex; align-items: center; justify-content: center; transform: rotate(-12deg); position: relative;">
+          <svg viewBox="0 0 130 130" style="position: absolute; inset: 0;" aria-hidden="true">
+            <defs><path id="stamp-arc" d="M 20 65 A 45 45 0 0 1 110 65"/></defs>
+            <text font-family="Plus Jakarta Sans, sans-serif" font-size="9" font-weight="700" letter-spacing="3" fill="#E84B2A">
+              <textPath href="#stamp-arc" startOffset="50%" text-anchor="middle">PULSO TECH · CERTIFICADO</textPath>
+            </text>
+          </svg>
+          <span style="font-family: var(--font-headline); font-size: 22px; text-transform: uppercase; color: var(--accent); text-align: center; line-height: 0.9;">SEM<br/>HYPE</span>
+        </div>
+        <span style="font-family: var(--font-display); font-style: italic; font-size: 13px; color: var(--text-muted);">selo redondo · coral</span>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ============================================================
+       SYSTEM IN USE — applied example bringing it together
+       ============================================================ -->
+  <section style="max-width: 1280px; margin: 0 auto 40px;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 20px;">
+      <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text);">08 / o sistema em movimento</span>
+      <span style="flex: 1; height: 1px; background: #B8AE8E;"></span>
+      <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">tudo junto, uma página</span>
+    </div>
+
+    <!-- composed sample: a sectional spread using everything -->
+    <div style="background: var(--bg); border-radius: 24px; padding: 64px 64px 48px; position: relative; overflow: hidden; min-height: 560px; box-shadow: var(--shadow-md);">
+      <!-- corner marks -->
+      <svg viewBox="0 0 20 20" style="position: absolute; top: 18px; left: 18px; width: 16px;"><line x1="10" y1="0" x2="10" y2="20" stroke="#0F0E14" stroke-width="1.4"/><line x1="0" y1="10" x2="20" y2="10" stroke="#0F0E14" stroke-width="1.4"/></svg>
+      <svg viewBox="0 0 20 20" style="position: absolute; top: 18px; right: 18px; width: 16px;"><line x1="10" y1="0" x2="10" y2="20" stroke="#0F0E14" stroke-width="1.4"/><line x1="0" y1="10" x2="20" y2="10" stroke="#0F0E14" stroke-width="1.4"/></svg>
+      <svg viewBox="0 0 20 20" style="position: absolute; bottom: 18px; left: 18px; width: 16px;"><line x1="10" y1="0" x2="10" y2="20" stroke="#0F0E14" stroke-width="1.4"/><line x1="0" y1="10" x2="20" y2="10" stroke="#0F0E14" stroke-width="1.4"/></svg>
+      <svg viewBox="0 0 20 20" style="position: absolute; bottom: 18px; right: 18px; width: 16px;"><line x1="10" y1="0" x2="10" y2="20" stroke="#0F0E14" stroke-width="1.4"/><line x1="0" y1="10" x2="20" y2="10" stroke="#0F0E14" stroke-width="1.4"/></svg>
+
+      <!-- top meta -->
+      <div style="display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 28px;">
+        <span style="font-size: 11px; font-weight: 700; letter-spacing: 0.22em; text-transform: uppercase; color: var(--text-muted);">— pulso tech · spread editorial —</span>
+        <div style="display: flex; align-items: baseline; gap: 16px;">
+          <span style="font-family: var(--font-headline); font-size: 16px; color: var(--text-muted);">NR. 042</span>
+          <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text-muted);">13 jun 2026</span>
+        </div>
+      </div>
+
+      <!-- main grid -->
+      <div style="display: grid; grid-template-columns: 1.3fr 1fr; gap: 48px; align-items: start;">
+
+        <!-- left: headline + cat strip + items -->
+        <div>
+          <div style="font-family: var(--font-display); font-style: italic; font-size: 18px; color: var(--text-muted); margin-bottom: 14px;">esta semana</div>
+          <h2 style="font-family: var(--font-headline); font-size: 80px; line-height: 0.86; text-transform: uppercase; color: var(--text); letter-spacing: -0.008em; margin: 0 0 14px;">A SEMANA EM QUE<br/><span style="color: var(--accent);">CLAUDE</span> APRENDEU<br/>A ESPERAR.</h2>
+
+          <!-- divider with central asterisk -->
+          <div style="display: flex; align-items: center; gap: 12px; margin: 28px 0 24px;">
+            <span style="flex: 1; height: 1px; background: var(--text);"></span>
+            <span style="font-family: var(--font-headline); font-size: 18px; color: var(--accent);">✱</span>
+            <span style="flex: 1; height: 1px; background: var(--text);"></span>
+          </div>
+
+          <!-- category strip with icons -->
+          <div style="display: flex; gap: 22px; margin-bottom: 24px; flex-wrap: wrap;">
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <div style="width: 32px; height: 32px; background: var(--text); border-radius: 8px; display: flex; align-items: center; justify-content: center;">
+                <svg viewBox="0 0 48 48" style="width: 22px;" aria-hidden="true"><path d="M 4 24 L 14 24 L 18 14 L 24 34 L 30 14 L 36 24 L 44 24" stroke="#E84B2A" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+              </div>
+              <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text);">sinal</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <div style="width: 32px; height: 32px; background: var(--text); border-radius: 8px; display: flex; align-items: center; justify-content: center;">
+                <svg viewBox="0 0 48 48" style="width: 22px;" aria-hidden="true"><rect x="10" y="14" width="28" height="22" rx="6" stroke="#F2EDDF" stroke-width="3" fill="none"/><circle cx="18" cy="24" r="2.4" fill="#E84B2A"/><circle cx="30" cy="24" r="2.4" fill="#E84B2A"/></svg>
+              </div>
+              <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text);">agentes</span>
+            </div>
+            <div style="display: flex; align-items: center; gap: 8px;">
+              <div style="width: 32px; height: 32px; background: var(--text); border-radius: 8px; display: flex; align-items: center; justify-content: center;">
+                <svg viewBox="0 0 48 48" style="width: 22px;" aria-hidden="true"><line x1="24" y1="8" x2="24" y2="40" stroke="#F2EDDF" stroke-width="3.4"/><line x1="10" y1="14" x2="38" y2="14" stroke="#F2EDDF" stroke-width="3.4"/></svg>
+              </div>
+              <span style="font-family: var(--font-display); font-style: italic; font-size: 14px; color: var(--text);">regulação</span>
+            </div>
+          </div>
+
+          <!-- pull quote with halftone bg -->
+          <div style="position: relative; padding: 24px 28px; border-radius: 14px; overflow: hidden; margin-bottom: 24px; background: var(--surface);">
+            <svg viewBox="0 0 600 200" style="position: absolute; right: -40px; top: -30px; width: 260px; opacity: 0.18;" aria-hidden="true"><rect width="600" height="200" fill="url(#dot-grid)"/></svg>
+            <p style="position: relative; font-family: var(--font-display); font-style: italic; font-size: 22px; line-height: 1.35; color: var(--text); margin: 0;">"o modelo é melhor. quanto melhor? <span style="color: var(--accent);">depende do que você faz com ele.</span>"</p>
+          </div>
+
+          <!-- numbered items -->
+          <div style="display: flex; flex-direction: column; gap: 14px;">
+            <div style="display: grid; grid-template-columns: 56px 1fr; gap: 14px; align-items: baseline;">
+              <span style="font-family: var(--font-headline); font-size: 36px; color: var(--accent); line-height: 0.9;">01</span>
+              <p style="font-size: 14px; line-height: 1.55; color: var(--text); margin: 0;"><b>memória persistente no claude.</b> importa pra quem usa todo dia.</p>
+            </div>
+            <div style="display: grid; grid-template-columns: 56px 1fr; gap: 14px; align-items: baseline;">
+              <span style="font-family: var(--font-headline); font-size: 36px; color: var(--text); line-height: 0.9;">02</span>
+              <p style="font-size: 14px; line-height: 1.55; color: var(--text); margin: 0;"><b>ue regula agentes autônomos.</b> brasil ainda observa.</p>
+            </div>
+            <div style="display: grid; grid-template-columns: 56px 1fr; gap: 14px; align-items: baseline;">
+              <span style="font-family: var(--font-headline); font-size: 36px; color: var(--text-muted); line-height: 0.9;">03</span>
+              <p style="font-size: 14px; line-height: 1.55; color: var(--text-muted); margin: 0;"><b>openai troca de nome.</b> de novo. pode ignorar.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- right: orbit illustration + stamp + meta -->
+        <div style="display: flex; flex-direction: column; gap: 24px; align-items: stretch;">
+          <!-- orbit illustration -->
+          <div style="aspect-ratio: 1 / 1; background: var(--surface); border-radius: 18px; padding: 28px; position: relative; overflow: hidden;">
+            <svg viewBox="0 0 600 600" style="width: 100%; height: 100%;" aria-hidden="true">
+              <g opacity="0.4"><rect width="600" height="600" fill="url(#orbit-tile)"/></g>
+              <g transform="rotate(-14 300 300)">
+                <ellipse cx="300" cy="300" rx="240" ry="80" fill="none" stroke="#0F0E14" stroke-width="3"/>
+                <ellipse cx="300" cy="300" rx="170" ry="56" fill="none" stroke="#0F0E14" stroke-width="2" stroke-dasharray="6 10"/>
+              </g>
+              <circle cx="300" cy="300" r="72" fill="#0F0E14"/>
+              <path d="M 60 300 L 160 300 L 188 220 L 226 400 L 264 200 L 300 420 L 336 200 L 374 400 L 412 220 L 440 300 L 540 300" stroke="#E84B2A" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+              <circle cx="476" cy="220" r="12" fill="#E84B2A"/>
+              <path d="M 150 130 L 158 158 L 186 166 L 158 174 L 150 202 L 142 174 L 114 166 L 142 158 Z" fill="#0F0E14"/>
+            </svg>
+          </div>
+
+          <!-- ring badge + stamp side by side -->
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 16px;">
+            <div style="background: var(--surface); border-radius: 14px; padding: 20px; display: flex; flex-direction: column; align-items: center; gap: 8px;">
+              <div style="position: relative; width: 64px; height: 64px;">
+                <svg viewBox="0 0 100 100" style="width: 100%; transform: rotate(-90deg);" aria-hidden="true">
+                  <circle cx="50" cy="50" r="42" fill="none" stroke="#DDD3B8" stroke-width="6"/>
+                  <circle cx="50" cy="50" r="42" fill="none" stroke="#E84B2A" stroke-width="6" stroke-dasharray="180 264" stroke-linecap="round"/>
+                </svg>
+                <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;">
+                  <span style="font-family: var(--font-headline); font-size: 20px; line-height: 0.9; color: var(--text);">5</span>
+                  <span style="font-size: 8px; font-weight: 700; letter-spacing: 0.18em; color: var(--text-muted);">MIN</span>
+                </div>
+              </div>
+              <span style="font-family: var(--font-display); font-style: italic; font-size: 12px; color: var(--text-muted);">tempo de leitura</span>
+            </div>
+            <div style="background: var(--surface); border-radius: 14px; padding: 20px; display: flex; flex-direction: column; align-items: center; gap: 8px;">
+              <div style="width: 72px; height: 72px; border-radius: 50%; border: 2px solid var(--accent); display: flex; align-items: center; justify-content: center; transform: rotate(-10deg);">
+                <span style="font-family: var(--font-headline); font-size: 14px; text-transform: uppercase; color: var(--accent); text-align: center; line-height: 0.9;">SEM<br/>HYPE</span>
+              </div>
+              <span style="font-family: var(--font-display); font-style: italic; font-size: 12px; color: var(--text-muted);">certificado</span>
+            </div>
+          </div>
+
+          <!-- footer mini -->
+          <div style="background: var(--text); border-radius: 14px; padding: 18px 22px; display: flex; justify-content: space-between; align-items: center;">
+            <span style="font-family: var(--font-display); font-style: italic; font-size: 15px; color: #F2EDDF;">próxima quinta, 7h.</span>
+            <span style="display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border-radius: 999px; background: var(--accent); color: #FFF; font-size: 11px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase;">assinar →</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- COLOPHON -->
+  <div style="max-width: 1280px; margin: 64px auto 0; display: flex; justify-content: space-between; align-items: baseline; padding-top: 24px; border-top: 1px solid #B8AE8E; font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-muted); font-weight: 700;">
+    <span>pulso tech · ecosystem v1</span>
+    <span>— elementos &amp; texturas · mind space ds —</span>
+    <span>jun 2026</span>
+  </div>
+
+</main>
+</x-dc>
+</body>
+</html>

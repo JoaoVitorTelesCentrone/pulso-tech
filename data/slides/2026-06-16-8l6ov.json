@@ -1,0 +1,53 @@
+{
+  "title": "Confiança Programável: A Medição da Confiança Entre Agentes de IA e o Novo Mercado de Governança de Sistemas Multi-Agente",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Confiança Programável: A Medição da Confiança Entre Agentes de IA e o Novo Mercado de Governança de Sistemas Multi-Agente",
+      "subtext": "Como medir a confiança entre agentes de IA? A chave para desbloquear a economia autônoma.",
+      "image_prompt": "Futuristic digital network of glowing AI agents shaking hands with transparent trust meters, dark blue and neon green tones, abstract technology background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado está obcecado em construir agentes autônomos, mas quase ninguém responde a uma pergunta fundamental: como esses agentes vão cooperar entre si de forma confiável? Um novo artigo do arXiv propõe a primeira métrica padronizada para medir a confiança entre agentes de IA.",
+      "highlight": "Como um agente sabe em quem confiar?"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores introduziram uma medida comportamental baseada em verificação custosa (costly verification). Cada agente decide quanto investir para verificar as ações de seus colegas. Esse custo se torna uma proxy quantificável do nível de confiança: quanto mais se gasta para checar, menor é a confiança.",
+      "visual_hint": "Ícone de balança com engrenagens e cifrão, representando custo de verificação versus confiança"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem essa calibração, sistemas multi-agente podem sofrer de paralisia burocrática (verificação excessiva) ou confiança cega (risco de colapso). A métrica impacta cadeias de suprimentos autônomas, mercados financeiros algorítmicos, infraestrutura crítica e desenvolvimento de software colaborativo.",
+      "visual_hint": "Diagrama de rede com nós coloridos indicando níveis de confiança (verde, amarelo, vermelho)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Verificação de 100% das ações: inviabiliza colaboração em larga escala",
+        "Verificação de 0%: risco de falha catastrófica é alto",
+        "Ponto ótimo: 'confiança calibrada' — verificação mínima mas suficiente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas como OpenAI, Anthropic, Google DeepMind e Microsoft poderão adotar métricas padronizadas de confiança entre agentes",
+        "Surgimento de um novo mercado de governança de sistemas multi-agente",
+        "Possibilidade de agentes mentirem sobre capacidade de produção para obter vantagem — e como detectar isso"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Confiança programável: o próximo grande desafio da IA autônoma."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Fim dos Livros de Autoajuda? Como a IA Está Canibalizando um Mercado de US$ 12 Bilhões",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim dos Livros de Autoajuda?",
+      "subtext": "Como a IA está canibalizando um mercado de US$ 12 bilhões",
+      "image_prompt": "A futuristic library where books are dissolving into streams of digital code, with a glowing AI interface emerging from the pages, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Tim Ferriss acendeu o debate: 'A IA já matou os livros de autoajuda?'. Dados da Nielsen BookScan mostram queda de 23% nas vendas do gênero nos EUA, enquanto assinaturas de IA cresceram 340% no mesmo período.",
+      "highlight": "Queda de 23% nas vendas vs. crescimento de 340% em IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "LLMs como GPT-5 e Claude geram conselhos personalizados e planos de ação em segundos — algo que antes exigia 300 páginas e meses de curadoria. O valor central do livro de autoajuda (protocolo prático) é exatamente o que a IA faz de melhor.",
+      "visual_hint": "Ícone de livro sendo substituído por um chip de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Estamos diante da canibalização total de uma categoria de US$ 12 bilhões. Editores, autores e agentes estão em alerta máximo. Para desenvolvedores e gestores de produto, é uma oportunidade de ouro para construir os canais de distribuição do futuro.",
+      "visual_hint": "Gráfico de barras mostrando a substituição de um mercado por outro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo por insight: livro = US$ 1,70 por capítulo | IA = US$ 0,02 por interação",
+        "Tempo para implementar: 6-8 horas de leitura vs. 30 segundos com IA",
+        "Assinaturas de IA conversacional: de 45M (2024) para 140M (2026)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mercado de autoajuda encolhe e se reconfigura para conteúdo hiperpersonalizado",
+        "Autores sobrevivem criando frameworks originais, não apenas 'conselhos'",
+        "Plataformas de IA se tornam as novas livrarias"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do conhecimento não será impresso — será conversacional."
+    }
+  ]
+}

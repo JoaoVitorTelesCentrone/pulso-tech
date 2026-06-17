@@ -1,0 +1,14 @@
+{
+  "tldr": "Mudança técnica na Apple pode expor o email real por trás do recurso 'Hide My Email', quebrando sua promessa de privacidade e afetando a confiança no ecossistema iCloud+.",
+  "key_facts": [
+    "O desenvolvedor Arseniy Shestakov publicou análise sobre mudança iminente na Apple que pode tornar o 'Hide My Email' inútil.",
+    "A mudança envolve cabeçalhos DKIM/SPF e campos Return-Path que podem revelar o endereço de email real do usuário.",
+    "O recurso é usado por milhões de assinantes do iCloud+ e está integrado ao Safari, login com Apple ID e apps terceiros."
+  ],
+  "why_it_matters": "A notícia expõe a tensão entre privacidade e modelos de negócio baseados em dados, mostrando que até a Apple pode recuar em suas promessas de privacidade, o que impacta a confiança do consumidor, a receita de serviços (US$ 85 bi em 2024) e o risco regulatório (LGPD, GDPR).",
+  "watch_next": [
+    "Apple pode emitir comunicado oficial confirmando ou negando a mudança técnica.",
+    "Reação da comunidade de desenvolvedores e reguladores (UE, Brasil) sobre a quebra de promessa de privacidade."
+  ],
+  "editorial_angle": "O artigo se destaca por unir uma análise técnica detalhada (mecanismo DKIM/SPF) com implicações de negócio e confiança na marca Apple, indo além do relato superficial e conectando o fato a um debate maior sobre economia de dados e privacidade."
+}

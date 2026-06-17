@@ -4,57 +4,139 @@
 
 @layer base {
   :root {
-    --ink:       #0D0D0B;
-    --cream:     #F4F0E8;
-    --paper:     #EDE8DC;
-    --warm-gray: #C8C3B8;
-    --muted:     #7A7670;
-    --electric:  #FF3D00;
+    --bg: #F2EDDF;
+    --surface: #FAF6EC;
+    --surface-2: #E9E2CE;
+    --surface-hover: #EFE9D4;
+    --paper-grain: #DDD3B8;
+    --border: #DDD3B8;
+    --border-strong: #BFB394;
+    --text: #0F0E14;
+    --text-muted: #4F4D5C;
+    --text-faint: #8A8775;
+    --accent: #E84B2A;
+    --accent-hover: #C03919;
+    --accent-dim: rgba(232, 75, 42, 0.10);
+    --accent-light: #FFE2D6;
+    --accent-shadow: 0 2px 12px rgba(232, 75, 42, 0.28);
+    --depth: #3F5577;
+    --shadow-sm: 0 1px 2px rgba(15, 14, 20, 0.06), 0 1px 1px rgba(15, 14, 20, 0.04);
+    --shadow-md: 0 4px 16px rgba(15, 14, 20, 0.08), 0 2px 4px rgba(15, 14, 20, 0.04);
+    --shadow-lg: 0 8px 32px rgba(15, 14, 20, 0.14), 0 4px 8px rgba(15, 14, 20, 0.06);
   }
 
   html {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    /* Respect iPhone notch for dock */
     padding-bottom: env(safe-area-inset-bottom, 0px);
+    background: var(--bg);
   }
 
-  /* Minimum touch target size */
-  a, button {
+  body {
+    background:
+      radial-gradient(circle at 12px 12px, rgba(15, 14, 20, 0.035) 1px, transparent 1.2px) 0 0 / 28px 28px,
+      var(--bg);
+    color: var(--text);
+  }
+
+  a,
+  button {
     -webkit-tap-highlight-color: transparent;
+  }
+
+  ::selection {
+    background: var(--accent);
+    color: var(--bg);
   }
 }
 
 @layer components {
-  /* Horizontal rule — 1px warm-gray */
   .fine-rule {
     height: 1px;
-    background-color: var(--warm-gray);
+    background-color: var(--border);
     width: 100%;
   }
 
-  /* Button styles */
+  .brand-meta {
+    @apply font-body text-[0.68rem] font-bold uppercase tracking-[0.18em] text-faint;
+  }
+
+  .brand-kicker {
+    @apply font-body text-[0.68rem] font-bold uppercase tracking-[0.22em] text-accent;
+  }
+
+  .brand-poster {
+    @apply font-headline uppercase text-text leading-[0.88] tracking-normal;
+  }
+
+  .brand-display {
+    @apply font-display italic font-medium text-text tracking-normal;
+  }
+
+  .brand-card {
+    @apply rounded-lg border border-border bg-surface shadow-sm transition-colors duration-200;
+  }
+
+  .brand-card:hover {
+    @apply border-border-strong;
+  }
+
   .btn-primary {
-    @apply inline-block bg-ink text-white font-syne font-semibold text-[0.78rem] tracking-[0.12em] uppercase px-8 py-[0.9rem] border-none cursor-pointer transition-colors duration-200;
+    @apply inline-flex items-center justify-center gap-2 rounded-md bg-accent px-6 py-3 font-body text-xs font-extrabold uppercase tracking-[0.12em] text-bg shadow-accent transition-colors duration-200;
   }
+
   .btn-primary:hover {
-    @apply bg-electric text-ink;
+    @apply bg-accent-hover;
   }
 
-  .btn-ghost {
-    @apply bg-transparent text-muted font-dm-mono text-[0.72rem] tracking-[0.1em] uppercase border-none cursor-pointer py-[0.6rem] inline-flex items-center gap-2 transition-colors duration-200;
-  }
-  .btn-ghost:hover {
-    @apply text-ink;
+  .btn-ink {
+    @apply inline-flex items-center justify-center gap-2 rounded-md bg-text px-6 py-3 font-body text-xs font-extrabold uppercase tracking-[0.12em] text-bg transition-colors duration-200;
   }
 
-  /* Tag / badge */
+  .btn-ink:hover {
+    @apply bg-accent text-bg;
+  }
+
+  .btn-soft {
+    @apply inline-flex items-center justify-center gap-2 rounded-md bg-accent-light px-5 py-2.5 font-body text-xs font-extrabold uppercase tracking-[0.12em] text-accent transition-colors duration-200;
+  }
+
+  .btn-soft:hover {
+    @apply bg-accent text-bg;
+  }
+
   .tag-brand {
-    @apply inline-block font-dm-mono text-[0.6rem] tracking-[0.15em] uppercase px-3 py-1 border border-current;
+    @apply inline-flex rounded-full bg-accent-light px-3 py-1 font-body text-[0.68rem] font-bold uppercase tracking-[0.08em] text-accent;
   }
 
-  /* Metadata label (DM Mono, small caps) */
   .meta-label {
-    @apply font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-muted;
+    @apply font-body text-[0.68rem] font-bold uppercase tracking-[0.16em] text-faint;
+  }
+
+  .dieline {
+    @apply relative overflow-hidden;
+  }
+
+  .dieline::before,
+  .dieline::after {
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    pointer-events: none;
+  }
+
+  .dieline::before {
+    top: 16px;
+    left: 16px;
+    border-top: 1px solid var(--border-strong);
+    border-left: 1px solid var(--border-strong);
+  }
+
+  .dieline::after {
+    right: 16px;
+    bottom: 16px;
+    border-right: 1px solid var(--border-strong);
+    border-bottom: 1px solid var(--border-strong);
   }
 }

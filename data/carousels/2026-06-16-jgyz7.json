@@ -1,0 +1,223 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Como a IA assessora comandantes",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "IA agora assessora comandantes militares em tempo real",
+        "subtext": "Modelos de linguagem analisam inteligência e sugerem cursos de ação."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que os conselheiros de IA fazem",
+        "body": "Processam milhões de pontos de dados — interceptações, satélites, inteligência humana — e produzem resumos, recomendações e simulações de cenários. O comandante humano ainda aperta o gatilho."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "600+",
+        "stat_label": "projetos ativos de IA no Pentágono, dos quais 40% envolvem tomada de decisão assistida."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O que antes era ficção científica — um general perguntando a um modelo de IA 'qual o menor risco de escalada se atacarmos este alvo?' — agora é realidade operacional.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O gargalo da confiança: viés de automação",
+        "body": "Em exercícios militares, oficiais tendem a confiar excessivamente na IA quando o modelo acerta algumas vezes seguidas. Isso levou a decisões catastróficas em simulações."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Países que lideram a adoção",
+        "items": [
+          "Estados Unidos",
+          "Israel",
+          "Coreia do Sul",
+          "Reino Unido"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Você confiaria em uma IA para decidir um ataque?",
+        "highlight_word": "confiaria",
+        "subtext": "Leia o artigo completo na MIT Technology Review."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto na carreira e salários",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Nova especialização: engenharia de IA para ambientes adversários",
+        "subtext": "Salários já superam US$ 400 mil anuais nos EUA."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que essa especialização exige",
+        "body": "Modelos de IA para uso militar exigem padrões de robustez, latência e segurança que não existem no mercado civil. É uma nova fronteira para engenheiros."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "US$ 400 mil",
+        "stat_label": "salário anual para engenheiros de IA militar nos EUA, segundo o artigo."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O mercado de defesa tech, antes dominado por contratos de hardware, está migrando rapidamente para software e IA.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Barreiras de entrada no setor",
+        "body": "Diferente do mercado civil, o setor militar exige certificações de segurança, autorizações de acesso a dados classificados e compliance com tratados internacionais."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Empresas que lideram o setor",
+        "items": [
+          "Palantir",
+          "Anduril",
+          "Startups especializadas em AI for command & control"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua carreira está pronta para a defesa tech?",
+        "highlight_word": "defesa tech",
+        "subtext": "Descubra as oportunidades no artigo completo."
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Números que definem o mercado",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$ 30 bilhões: o mercado de IA militar até 2028",
+        "subtext": "Startups de defesa tech receberam US$ 8,2 bilhões só no 1º semestre de 2026."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 8,2 bilhões",
+        "stat_label": "em venture capital para startups de AI defense no primeiro semestre de 2026, segundo a CB Insights."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "US$ 4,3 bilhões",
+        "stat_label": "orçamento do Joint Artificial Intelligence Center (JAIC) dos EUA em 2026, ante US$ 1,7 bilhão em 2024."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "600+",
+        "stat_label": "projetos ativos de IA no Pentágono, com 40% focados em tomada de decisão assistida."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Onde esse dinheiro está indo",
+        "body": "Empresas como Palantir e Anduril viram suas avaliações dispararem. O mercado de IA militar deve ultrapassar US$ 30 bilhões até 2028."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Fontes dos dados do artigo",
+        "items": [
+          "MIT Technology Review eBook",
+          "CB Insights",
+          "Joint Artificial Intelligence Center (JAIC)"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Onde você investiria nesse mercado de US$ 30 bi?",
+        "highlight_word": "investiria",
+        "subtext": "Veja a análise completa no artigo."
+      }
+    ],
+    "template": "F"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Riscos e consequências futuras",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O erro de um modelo pode iniciar uma guerra",
+        "subtext": "A explicabilidade da IA é uma questão de sobrevivência."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O risco existencial da IA militar",
+        "body": "Delegar a um modelo a análise de um ataque nuclear ou a identificação de um alvo de alto valor não é apenas técnico — é ético e geopolítico. Um erro pode significar milhares de mortes."
+      },
+      {
+        "n": 3,
+        "type": "quote",
+        "quote": "\"A 'explicabilidade' aqui não é um detalhe técnico: é uma questão de sobrevivência.\""
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O viés de automação em ação",
+        "body": "Em simulações militares, oficiais confiaram cegamente na IA após acertos consecutivos, ignorando erros sutis que levaram a decisões catastróficas."
+      },
+      {
+        "n": 5,
+        "type": "list",
+        "headline": "Implicações futuras do artigo",
+        "items": [
+          "Regulação internacional mais rígida (Convenção de Genebra)",
+          "Novas certificações de segurança para modelos",
+          "Corrida armamentista de IA entre países"
+        ]
+      },
+      {
+        "n": 6,
+        "type": "stat",
+        "stat_number": "40%",
+        "stat_label": "dos 600+ projetos de IA do Pentágono envolvem tomada de decisão assistida — e o risco cresce com o orçamento."
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quem regula a IA que decide sobre vidas humanas?",
+        "highlight_word": "regula",
+        "subtext": "Leia o artigo completo e forme sua opinião."
+      }
+    ],
+    "template": "C"
+  }
+]

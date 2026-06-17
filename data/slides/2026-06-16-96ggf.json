@@ -1,0 +1,54 @@
+{
+  "title": "GPT-NL: A Soberania Digital Neerlandesa e o Novo Mapa dos Modelos de Linguagem Nacionais",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-NL: O Modelo de Linguagem que a Holanda Construiu para Recuperar o Controle Digital",
+      "subtext": "Enquanto o mundo discute o GPT-5, um país de 18 milhões de habitantes silenciosamente redefiniu a geopolítica da IA",
+      "image_prompt": "A glowing digital map of the Netherlands with interconnected neural network nodes, dark blue and orange neon lights, futuristic and clean tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A TNO, instituto de pesquisa aplicada dos Países Baixos, anunciou o GPT-NL: um LLM soberano treinado exclusivamente com dados neerlandeses. Diferente de Mistral ou Aleph Alpha, o foco não é competir com gigantes americanos, mas garantir que dados governamentais, jurídicos e científicos nunca precisem cruzar fronteiras.",
+      "highlight": "Dados sensíveis nunca saem do território neerlandês"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-NL é um modelo de 70 a 130 bilhões de parâmetros, treinado em supercomputador nacional com 1,2 trilhão de tokens em neerlandês. Sua tokenização personalizada reduz em 40% os tokens necessários para representar o idioma. O modelo prioriza uso institucional e governamental, não competição comercial.",
+      "visual_hint": "Ícone de cadeado sobre um mapa da Holanda com linhas de dados fluindo internamente"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Governos europeus relutam em enviar dados sensíveis a APIs americanas sujeitas ao Patriot Act. O GPT-NL oferece controle total sobre dados de treinamento, infraestrutura e governança. Além disso, preserva nuances jurídicas e culturais do neerlandês que modelos genéricos perdem — e prova que países médios podem ter seus próprios LLMs.",
+      "visual_hint": "Três ícones: escudo de segurança, bandeira da Holanda, e um gráfico de seta ascendente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "1,2 trilhão de tokens em neerlandês para pré-treinamento",
+        "512 GPUs H100 no supercomputador SURF",
+        "2.800 MWh de energia consumida (equivalente a 850 residências)",
+        "40% menos tokens com tokenizer personalizado para neerlandês"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Segurança de dados: fim da dependência de APIs estrangeiras para dados sensíveis",
+        "Preservação linguística: modelos nativos capturam nuances que LLMs genéricos perdem",
+        "Precedente global: se a Holanda consegue, dezenas de outros países podem replicar o modelo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A soberania digital não é mais um conceito — é um modelo de linguagem."
+    }
+  ]
+}

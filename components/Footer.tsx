@@ -1,42 +1,36 @@
 import Link from 'next/link'
+import { PulsoMark } from './PulsoMark'
 
 export default function Footer() {
   return (
-    <footer className="bg-ink border-t border-[#2a2a28]">
-      <div className="flex flex-col md:flex-row items-start md:items-center justify-between px-6 md:px-12 py-10 w-full max-w-editorial mx-auto gap-8 flex-wrap">
-
-        {/* Logo */}
-        <Link href="/" className="flex items-center gap-2 leading-none group">
-          <span
-            className="inline-block w-2 h-2 rounded-full bg-electric transition-transform duration-300 group-hover:scale-125"
-            aria-hidden
-          />
-          <span className="font-syne font-extrabold text-white text-[1.35rem] tracking-[-0.04em]">
-            Pulso
-          </span>
-        </Link>
-
-        {/* Links */}
-        <div className="flex flex-wrap gap-6">
-          <Link
-            href="/privacy"
-            className="font-dm-mono text-[0.6rem] tracking-[0.1em] uppercase text-muted hover:text-white transition-colors"
-          >
-            Política de Privacidade
+    <footer className="border-t border-border bg-text text-bg">
+      <div className="mx-auto flex w-full max-w-editorial flex-col gap-10 px-6 py-12 md:flex-row md:items-end md:justify-between md:px-12">
+        <div>
+          <Link href="/" className="mb-6 flex items-center gap-3 leading-none">
+            <PulsoMark inverted className="h-10" />
+            <div className="flex flex-col">
+              <span className="font-brand text-2xl leading-none text-bg">Pulso</span>
+              <span className="font-body text-[0.58rem] font-bold uppercase tracking-[0.18em] text-[#B8B3A0]">tech</span>
+            </div>
           </Link>
-          <Link
-            href="/terms"
-            className="font-dm-mono text-[0.6rem] tracking-[0.1em] uppercase text-muted hover:text-white transition-colors"
-          >
-            Termos de Uso
-          </Link>
+          <p className="max-w-sm font-display text-lg italic leading-relaxed text-[#F2EDDF]">
+            O ritmo da inteligencia artificial sem o ruido.
+          </p>
         </div>
 
-        {/* Meta */}
-        <p className="font-dm-mono text-[0.6rem] tracking-[0.1em] leading-relaxed text-muted text-right">
-          Syne · Cormorant Garamond · DM Mono<br />
-          JV Centrone · Pulso · {new Date().getFullYear()}
-        </p>
+        <div className="flex flex-col gap-4 md:items-end">
+          <div className="flex flex-wrap gap-5">
+            <Link href="/privacy" className="font-body text-[0.68rem] font-bold uppercase tracking-[0.12em] text-[#B8B3A0] hover:text-bg">
+              Privacidade
+            </Link>
+            <Link href="/terms" className="font-body text-[0.68rem] font-bold uppercase tracking-[0.12em] text-[#B8B3A0] hover:text-bg">
+              Termos
+            </Link>
+          </div>
+          <p className="font-body text-[0.68rem] font-bold uppercase tracking-[0.12em] text-[#6D6A60]">
+            nr. 001 - pulso tech - {new Date().getFullYear()}
+          </p>
+        </div>
       </div>
     </footer>
   )

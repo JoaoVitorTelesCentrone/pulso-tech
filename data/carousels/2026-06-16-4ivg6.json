@@ -1,0 +1,226 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: O que é uma boa explicação?",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "LLMs são caixas-pretas que ninguém entende de verdade",
+        "subtext": "Um novo preprint do arXiv define os 4 critérios de uma 'boa explicação' — e mostra que nenhuma técnica atual passa em todos."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O problema filosófico da explicação",
+        "body": "O artigo 'A Definition of Good Explanations and the Challenges Explaining LLM Outputs' (arXiv, jun/2026) revisita o que é uma explicação satisfatória e aplica isso à IA moderna."
+      },
+      {
+        "n": 3,
+        "type": "list",
+        "headline": "4 critérios de uma boa explicação",
+        "items": [
+          "Causalidade: identificar causas reais, não correlações",
+          "Contrafactualidade: responder 'o que mudaria se o input fosse diferente?'",
+          "Simplicidade: compreensível para humanos sem oversimplificação",
+          "Fidelidade: refletir com precisão o funcionamento interno do modelo"
+        ]
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "78%",
+        "stat_label": "Das auto-explicações de LLMs sobre seu próprio raciocínio são inconsistentes com as verdadeiras influências nos pesos do modelo (estudo de 2025 citado no artigo)."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Por que SHAP e LIME falham",
+        "body": "Métodos de attention visualization falham no critério de causalidade (atenção não é causalidade). SHAP falha em simplicidade em sequências longas de tokens."
+      },
+      {
+        "n": 6,
+        "type": "quote",
+        "quote": "\"As técnicas que usamos hoje para explicar modelos são, na melhor das hipóteses, aproximações grosseiras. Na pior, podem ser enganosas.\"",
+        "source": "Artigo do arXiv, 2026"
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua empresa confia em explicações que são pós-racionalizações?",
+        "highlight_word": "pós-racionalizações",
+        "subtext": "Leia o artigo completo e entenda o risco."
+      }
+    ],
+    "template": "F"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal: O que muda para você?",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Sua carreira depende de explicar o inexplicável",
+        "subtext": "Para devs, gestores e investidores: a falta de explicabilidade em LLMs é um passivo regulatório e de mercado."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O risco para engenheiros de IA",
+        "body": "O artigo expõe que técnicas como SHAP, LIME e atenção visualizada dão uma falsa sensação de compreensão sobre sistemas fundamentalmente opacos."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "7%",
+        "stat_label": "Do faturamento global é a multa prevista pelo AI Act europeu para violações de transparência em IA."
+      },
+      {
+        "n": 4,
+        "type": "list",
+        "headline": "3 consequências diretas para você",
+        "items": [
+          "Perda de contratos B2B: grandes corporações e governos exigem cláusulas de explicabilidade",
+          "Risco reputacional: um incidente de viés não explicado destrói a confiança do consumidor",
+          "Multas regulatórias: AI Act, ordens executivas dos EUA e PL 2338/2023 no Brasil pressionam por transparência"
+        ]
+      },
+      {
+        "n": 5,
+        "type": "quote",
+        "quote": "\"Quando você pergunta 'por que você respondeu isso?' a um ChatGPT ou Claude, a resposta é, na maioria das vezes, uma pós-racionalização convincente, não uma explicação real.\"",
+        "source": "Artigo do arXiv, 2026"
+      },
+      {
+        "n": 6,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O que fazer agora",
+        "body": "Exigir explicabilidade robusta em contratos de fornecimento de IA. Investir em pesquisa de XAI que atenda aos 4 critérios: causalidade, contrafactualidade, simplicidade e fidelidade."
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Você já verificou se suas ferramentas de IA passam no teste da causalidade?",
+        "highlight_word": "causalidade",
+        "subtext": "Leia o artigo e proteja sua carreira."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números: O mercado da explicabilidade",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$ 9,2 bilhões: o mercado de explicabilidade de IA em 2025",
+        "subtext": "E deve crescer para US$ 28,7 bilhões até 2032. Mas as técnicas atuais falham em 78% dos casos."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 9,2B",
+        "stat_label": "Valor do mercado global de soluções de explicabilidade de IA em 2025, segundo a Grand View Research."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "US$ 28,7B",
+        "stat_label": "Projeção de crescimento do mercado até 2032, impulsionado por pressão regulatória e demanda B2B."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "78%",
+        "stat_label": "Das auto-explicações de LLMs são inconsistentes com as influências reais nos pesos do modelo (estudo de 2025)."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O custo da não conformidade",
+        "body": "O AI Act europeu prevê multas de até 7% do faturamento global para violações de transparência. Empresas que não explicarem seus modelos podem perder contratos bilionários."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Reguladores que pressionam por transparência",
+        "items": [
+          "União Europeia: AI Act com multas de até 7% do faturamento global",
+          "EUA: ordens executivas federais exigindo explicabilidade",
+          "Brasil: PL 2338/2023 em tramitação"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seu orçamento de IA já inclui explicabilidade?",
+        "highlight_word": "explicabilidade",
+        "subtext": "Leia o artigo e veja os números."
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências: O que vem a seguir?",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "A explicabilidade é o maior risco de mercado da IA",
+        "subtext": "Sem explicações reais, LLMs podem ser barrados em saúde, finanças e justiça. O futuro da IA depende disso."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O gargalo regulatório",
+        "body": "Para que a IA seja adotada em setores críticos, a explicabilidade não é um luxo — é um requisito regulatório e de confiança, segundo o artigo do arXiv."
+      },
+      {
+        "n": 3,
+        "type": "list",
+        "headline": "Setores mais afetados pela falta de explicabilidade",
+        "items": [
+          "Saúde: diagnósticos baseados em IA precisam de explicações causais",
+          "Finanças: decisões de crédito e investimento exigem contrafactualidade",
+          "Justiça: sentenças assistidas por IA requerem fidelidade e simplicidade"
+        ]
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A pesquisa acadêmica está finalmente se debruçando sobre a lacuna entre o que as empresas de IA dizem que podem explicar e o que realmente conseguem.\"",
+        "source": "Artigo do arXiv, 2026"
+      },
+      {
+        "n": 5,
+        "type": "stat",
+        "stat_number": "2020",
+        "stat_label": "Ano em que o campo de Explainable AI (XAI) explodiu, mas focado em modelos simples. LLMs com centenas de bilhões de parâmetros representam um salto de complexidade."
+      },
+      {
+        "n": 6,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O que precisa mudar",
+        "body": "Novas técnicas de XAI precisam atender aos 4 critérios: causalidade, contrafactualidade, simplicidade e fidelidade. Sem isso, a confiança na IA será minada."
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua empresa está pronta para explicar cada decisão da IA?",
+        "highlight_word": "explicar",
+        "subtext": "Leia o artigo completo e prepare-se para o futuro."
+      }
+    ],
+    "template": "D"
+  }
+]

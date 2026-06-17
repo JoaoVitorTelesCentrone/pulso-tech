@@ -1,9 +1,71 @@
-import Groq from 'groq-sdk';
+import OpenAI from 'openai';
 
-const MODEL = 'llama-3.3-70b-versatile';
+const MODEL = 'deepseek-chat';
 
 function getClient() {
-  return new Groq({ apiKey: process.env.GROQ_API_KEY });
+  return new OpenAI({
+    apiKey: process.env.DEEPSEEK_API_KEY,
+    baseURL: 'https://api.deepseek.com',
+  });
+}
+
+function getKimiClient() {
+  return new OpenAI({
+    apiKey: process.env.KIMI_API_KEY,
+    baseURL: 'https://api.moonshot.cn/v1',
+  });
+}
+
+function hasKimiApiKey(): boolean {
+  return Boolean(process.env.KIMI_API_KEY?.trim());
+}
+
+export async function reviewAndImprove(markdown: string): Promise<string> {
+  if (!hasKimiApiKey()) return markdown;
+
+  const prompt = `Você é um editor sênior do Pulso, newsletter de análise de tecnologia e economia.
+
+Recebeu o rascunho de um artigo gerado por IA. Sua tarefa é reescrever e melhorar o texto mantendo TODA a estrutura e informação, mas com qualidade editorial superior.
+
+REGRAS INEGOCIÁVEIS:
+1. Mantenha o frontmatter (---...---) EXATAMENTE igual, sem alterar nada
+2. Mantenha o marcador <!-- premium --> exatamente onde está — ele divide o conteúdo free/premium
+3. Mantenha todos os H2 (##) e a estrutura de seções
+4. Mantenha os links e fontes
+5. NÃO adicione nem remova seções
+6. NÃO use crase tripla ou blocos de código na resposta
+
+O QUE MELHORAR:
+- Abertura mais impactante — primeiro parágrafo deve prender imediatamente
+- Parágrafos mais densos e analíticos, menos genéricos
+- Frases mais diretas e ativas (menos "pode ser que", "é interessante notar")
+- Dados e números em destaque com contexto claro
+- Tom mais de "insider" — escreva como quem entende profundamente o assunto
+- Português mais fluido e preciso
+- A parte premium deve justificar a assinatura: análise mais profunda, conexões não óbvias, implicações práticas reais
+
+Retorne APENAS o markdown melhorado, começando diretamente com os três traços do frontmatter (---).
+
+RASCUNHO:
+${markdown}`
+
+  try {
+    const response = await getKimiClient().chat.completions.create({
+      model: process.env.KIMI_MODEL || 'moonshot-v1-32k',
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.6,
+      max_tokens: 4000,
+    })
+
+    let text = response.choices[0]?.message?.content || markdown
+    text = text.replace(/^```markdown\s*/i, '').replace(/^```\s*/, '').replace(/```\s*$/, '').trim()
+
+    if (!text.startsWith('---')) return markdown
+    return text
+  } catch (error) {
+    console.warn('[Kimi] Revisão falhou, usando rascunho original:', (error as Error).message)
+    return markdown
+  }
 }
 
 function cleanJson(text: string): string {
@@ -11,17 +73,234 @@ function cleanJson(text: string): string {
   return text.trim();
 }
 
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return Boolean(value && typeof value === 'object' && !Array.isArray(value));
+}
+
+function isStringArray(value: unknown): value is string[] {
+  return Array.isArray(value) && value.every(item => typeof item === 'string');
+}
+
+function isValidSummary(value: unknown): value is Record<string, unknown> {
+  if (!isRecord(value)) return false;
+  return (
+    typeof value.tldr === 'string' &&
+    isStringArray(value.key_facts) &&
+    typeof value.why_it_matters === 'string' &&
+    isStringArray(value.watch_next) &&
+    typeof value.editorial_angle === 'string'
+  );
+}
+
+function isValidSlideDeck(value: unknown): value is Record<string, unknown> {
+  if (!isRecord(value)) return false;
+  return (
+    typeof value.title === 'string' &&
+    typeof value.theme === 'string' &&
+    Array.isArray(value.slides)
+  );
+}
+
+export type RelevanceCheck = {
+  approved: boolean;
+  score: number;
+  reason: string;
+  axis: string;
+};
+
+function isValidRelevanceCheck(value: unknown): value is RelevanceCheck {
+  if (!isRecord(value)) return false;
+  return (
+    typeof value.approved === 'boolean' &&
+    typeof value.score === 'number' &&
+    typeof value.reason === 'string' &&
+    typeof value.axis === 'string'
+  );
+}
+
+async function refineJsonWithKimi<T extends object>(
+  label: string,
+  original: T,
+  prompt: string,
+  validate: (value: unknown) => value is T,
+): Promise<T> {
+  if (!hasKimiApiKey()) return original;
+
+  try {
+    const response = await getKimiClient().chat.completions.create({
+      model: process.env.KIMI_MODEL || 'moonshot-v1-32k',
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.25,
+      max_tokens: 2500,
+    });
+
+    const text = response.choices[0]?.message?.content || '';
+    const parsed = JSON.parse(cleanJson(text));
+    return validate(parsed) ? parsed : original;
+  } catch (error) {
+    console.warn(`[Kimi] Refinamento de ${label} falhou, usando versao DeepSeek:`, (error as Error).message);
+    return original;
+  }
+}
+
+async function refineSummaryWithKimi(
+  summary: Record<string, unknown>,
+  articleMarkdown: string,
+): Promise<Record<string, unknown>> {
+  const prompt = `Voce e um editor senior do Pulso. Recebeu um briefing privado gerado por IA para um artigo de tecnologia.
+
+Sua tarefa e checar e refinar o JSON, mantendo EXATAMENTE os mesmos campos e retornando somente JSON valido.
+
+REGRAS:
+- Nao invente fatos, empresas, numeros ou fontes.
+- Use apenas informacoes presentes no artigo.
+- Torne o TLDR mais especifico e analitico.
+- Troque fatos genericos por fatos concretos do artigo.
+- Deixe "why_it_matters" e "editorial_angle" com mais contexto estrategico.
+- Mantenha "key_facts" com 3 itens e "watch_next" com 2 itens.
+- Retorne somente JSON, sem markdown.
+
+ARTIGO:
+${articleMarkdown.substring(0, 5000)}
+
+JSON ATUAL:
+${JSON.stringify(summary, null, 2)}
+
+FORMATO OBRIGATORIO:
+{
+  "tldr": "Uma frase resumindo o artigo",
+  "key_facts": ["fato 1", "fato 2", "fato 3"],
+  "why_it_matters": "Por que esta noticia importa para o leitor de IA/Tech",
+  "watch_next": ["desdobramento 1", "desdobramento 2"],
+  "editorial_angle": "O que diferencia este artigo dos demais e por que foi escolhido"
+}`;
+
+  return refineJsonWithKimi('resumo privado', summary, prompt, isValidSummary);
+}
+
+async function refineSlidesWithKimi(
+  slides: Record<string, unknown>,
+  articleMarkdown: string,
+  articleTitle: string,
+): Promise<Record<string, unknown>> {
+  const prompt = `Voce e um editor de narrativa visual do Pulso. Recebeu um deck de slides gerado por IA para um artigo de tecnologia.
+
+Sua tarefa e checar e refinar o JSON, mantendo o mesmo formato geral e retornando somente JSON valido.
+
+REGRAS:
+- Nao invente fatos, numeros, empresas ou fontes.
+- Use apenas informacoes presentes no artigo.
+- Preserve "title", "theme" e o array "slides".
+- Mantenha de 6 a 8 slides.
+- Deixe headlines mais curtas, especificas e fortes.
+- Deixe bodies e bullets menos genericos, com detalhe concreto do artigo.
+- Mantenha prompts de imagem em ingles.
+- Retorne somente JSON, sem markdown.
+
+ARTIGO:
+${articleMarkdown.substring(0, 5000)}
+
+TITULO DO ARTIGO:
+${articleTitle}
+
+JSON ATUAL:
+${JSON.stringify(slides, null, 2)}`;
+
+  return refineJsonWithKimi('slides', slides, prompt, isValidSlideDeck);
+}
+
+export async function checkRelevanceWithKimi(
+  context: string,
+  recentTitles: string[] = [],
+): Promise<RelevanceCheck> {
+  if (!hasKimiApiKey()) {
+    return {
+      approved: true,
+      score: 100,
+      reason: 'KIMI_API_KEY ausente; gate de relevancia pulado.',
+      axis: 'fallback',
+    };
+  }
+
+  const prompt = `Voce e o editor-chefe do Pulso, uma newsletter diaria de IA, economia tech e programacao.
+
+Antes de gastar tokens gerando artigo, avalie se o cluster abaixo merece virar texto.
+
+APROVE SOMENTE se houver uma noticia concreta, recente e relevante em pelo menos um eixo:
+1. ECONOMIA x TECH: IPOs, M&A, valuations, big tech, capital de risco, resultados, regulacao com impacto economico.
+2. MODELOS DE IA: lancamentos, benchmarks, capacidades, APIs, pricing, pesquisa, comparacoes tecnicas relevantes.
+3. PROGRAMACAO E DEV TOOLS: ferramentas, frameworks, linguagens, engenharia, open source com impacto real para devs.
+
+PRIORIDADE MAXIMA:
+- Lancamento de modelo novo ou upgrade relevante de Claude, GPT/OpenAI, Gemini/DeepMind, Llama/Meta, DeepSeek, Mistral, Qwen ou Grok.
+- Mudanca de API, pricing, benchmark, janela de contexto, capacidade multimodal, agentes ou disponibilidade para desenvolvedores.
+- Anuncio em fonte primaria ou cobertura forte de fonte especializada.
+Esses casos devem receber score alto, exceto se forem repeticao clara dos titulos recentes.
+
+REJEITE com rigor:
+- gadget/consumer tech sem angulo economico ou tecnico forte;
+- drama de rede social, celebridade, rumor ou opiniao sem dado;
+- noticia generica sem consequencia clara;
+- tema muito parecido com titulos recentes;
+- conteudo sem fonte/link ou sem fato especifico.
+
+Titulos recentes para evitar repeticao:
+${recentTitles.slice(0, 20).map(title => `- ${title}`).join('\n') || '- nenhum'}
+
+Cluster:
+${context.substring(0, 6000)}
+
+Retorne SOMENTE JSON valido:
+{
+  "approved": true,
+  "score": 0,
+  "reason": "explicacao curta",
+  "axis": "economia-tech | modelos-ia | dev-tools | rejeitado"
+}`;
+
+  try {
+    const response = await getKimiClient().chat.completions.create({
+      model: process.env.KIMI_MODEL || 'moonshot-v1-32k',
+      messages: [{ role: 'user', content: prompt }],
+      temperature: 0.1,
+      max_tokens: 700,
+    });
+
+    const text = response.choices[0]?.message?.content || '{}';
+    const parsed = JSON.parse(cleanJson(text));
+    if (!isValidRelevanceCheck(parsed)) {
+      return { approved: true, score: 60, reason: 'Resposta Kimi invalida; usando fallback permissivo.', axis: 'fallback' };
+    }
+
+    return {
+      ...parsed,
+      approved: parsed.approved && parsed.score >= 70,
+    };
+  } catch (error) {
+    console.warn('[Kimi] Gate de relevancia falhou, usando fallback permissivo:', (error as Error).message);
+    return { approved: true, score: 60, reason: 'Erro no gate Kimi; usando fallback permissivo.', axis: 'fallback' };
+  }
+}
+
 export async function generateArticle(topic: string, context: string, recentTitles: string[] = []): Promise<string> {
   const recentTopicsText = recentTitles.length > 0
     ? `\nATENÇÃO: Os assuntos abaixo JÁ foram abordados recentemente no blog. NÃO escolha notícias que tratem do mesmo assunto. Busque uma inovação ou notícia diferente:\n${recentTitles.map(t => `- ${t}`).join('\n')}\n`
     : '';
 
-  const prompt = `Você é um redator profissional de blog sobre tecnologia e inteligência artificial.
+  const prompt = `Você é um analista sênior do Pulso — newsletter diária de IA, economia tech e programação.
 
-Tarefa:
-Você recebeu as informações INÉDITAS da internet sobre o tema abaixo no campo [CONTEXTO].
-Escolha a notícia MAIS impactante desse contexto e faça um "deep dive" (mergulho profundo) nela, em vez de fazer um resumo raso de todas. Escreva um post completo em português, pronto para publicação.
+FOCO EDITORIAL (OBRIGATÓRIO):
+Escreva APENAS sobre um destes eixos:
+1. ECONOMIA × TECH: IPOs, fusões/aquisições, valuations, impacto de IA em setores econômicos, regulação, capital de risco, resultados de big tech
+2. MODELOS DE IA: lançamentos, benchmarks, capacidades, comparações técnicas (GPT, Claude, Gemini, Llama, etc.), APIs, pricing, pesquisa
+3. PROGRAMAÇÃO E DEV TOOLS: linguagens, frameworks, ferramentas, práticas de engenharia, open source relevante
+
+REJEITE (não escreva sobre):
+- Gadgets de consumo sem ângulo econômico ou técnico relevante
+- Drama de redes sociais
+- Notícias superficiais sem análise de impacto real
 ${recentTopicsText}
+Escolha a notícia MAIS impactante do [CONTEXTO] e faça uma análise profunda em português.
 
 Tema: "${topic}"
 
@@ -29,16 +308,21 @@ Tema: "${topic}"
 ${context}
 [/CONTEXTO]
 
-Regras obrigatórias:
-1. O post deve ter:
-   - Título principal cativante e otimizado para SEO.
-   - Subtítulo com gancho.
-   - Introdução (2-3 parágrafos).
-   - Desenvolvimento dividido em 3-4 seções com subtítulos (formato H2).
-   - Conclusão com resumo ou perspectiva futura.
-   - Seção "Fontes consultadas" com links clicáveis das fontes do [CONTEXTO].
-2. Formate TUDO em Markdown, seguindo RIGOROSAMENTE esta estrutura com frontmatter no topo.
-IMPORTANTE: NÃO inclua blocos de formatação markdown (como crase tripla) na sua resposta. Comece o texto DIRETAMENTE com os 3 traços (---):
+ESTRUTURA OBRIGATÓRIA — divida o artigo em DUAS partes com o marcador especial:
+
+PARTE FREE (primeiros 40% do conteúdo — todos os leitores veem):
+- Título e introdução de alto impacto
+- O que aconteceu: contexto, fatos principais, quem está envolvido
+- Por que isso importa: análise inicial, relevância
+
+PARTE PREMIUM (60% restante — só assinantes veem):
+- Análise profunda: mecanismos, causas, dados quantitativos
+- Impacto econômico, de mercado e técnico
+- O que muda na prática para devs, gestores e investidores em tech
+- Próximos passos e o que monitorar
+- Fontes e dados detalhados
+
+Formate TUDO em Markdown com frontmatter. NÃO inclua crase tripla. Comece DIRETAMENTE com os 3 traços (---):
 
 ---
 title: "TÍTULO AQUI"
@@ -48,32 +332,37 @@ tags: ["tag1", "tag2", "tag3"]
 
 # Título Principal
 
-**Subtítulo envolvente**
+**Subtítulo com gancho analítico**
 
-## Introdução
-(conteúdo)
+## O Que Aconteceu
+(contexto e fatos — PARTE FREE)
 
-## Seção 1: (subtítulo)
-(conteúdo com links embutidos quando pertinente, ex: [Fonte](URL))
+## Por Que Isso Importa
+(análise inicial — PARTE FREE)
 
-## Seção 2: (subtítulo)
-(conteúdo)
+<!-- premium -->
 
-## Seção 3: (subtítulo)
-(conteúdo)
+## A Análise Profunda
+(mecanismos e dados — PARTE PREMIUM)
 
-## Conclusão
-(conteúdo)
+## Impacto Real: Números e Mercado
+(dados quantitativos — PARTE PREMIUM)
 
-### Fontes Consultadas
+## O Que Fazer Com Isso
+(implicações práticas — PARTE PREMIUM)
+
+## O Que Monitorar
+(próximos passos — PARTE PREMIUM)
+
+### Fontes
 - [Título da Fonte 1](URL)
 - [Título da Fonte 2](URL)
 
-3. Use linguagem acessível mas técnica na medida certa.
-4. Mínimo de 800 palavras.
-5. Inclua pelo menos 3 links embutidos no corpo do texto para as fontes originais.
-6. Não use a sintaxe de footnotes [^1]. Coloque os links diretamente no texto e crie uma lista simples no final.
-7. Não invente dados. Baseie-se no [CONTEXTO] fornecido.`;
+Regras adicionais:
+- Mínimo de 900 palavras no total
+- Inclua o marcador EXATO <!-- premium --> entre a parte free e a premium
+- Use dados reais do [CONTEXTO]. Não invente números.
+- Tom: direto, analítico, sem hype. Escreva para quem toma decisões.`;
 
   try {
     const response = await getClient().chat.completions.create({
@@ -124,7 +413,12 @@ Retorne EXATAMENTE este JSON (sem texto adicional, sem markdown):
     });
 
     const text = response.choices[0]?.message?.content || '{}';
-    return JSON.parse(cleanJson(text));
+    const parsed = JSON.parse(cleanJson(text));
+    const summary = isValidSummary(parsed)
+      ? parsed
+      : { tldr: 'Resumo nao disponivel', key_facts: [], why_it_matters: '', watch_next: [], editorial_angle: '' };
+
+    return refineSummaryWithKimi(summary, articleMarkdown);
   } catch (error) {
     console.error('Erro ao gerar resumo privado:', error);
     return { tldr: 'Resumo não disponível', key_facts: [], why_it_matters: '', watch_next: [], editorial_angle: '' };
@@ -193,7 +487,12 @@ Retorne EXATAMENTE este JSON com 6 a 8 slides (sem texto adicional, sem markdown
     });
 
     const text = response.choices[0]?.message?.content || '{}';
-    return JSON.parse(cleanJson(text));
+    const parsed = JSON.parse(cleanJson(text));
+    const slideDeck = isValidSlideDeck(parsed)
+      ? parsed
+      : { title: articleTitle, theme: 'dark-tech', slides: [] };
+
+    return refineSlidesWithKimi(slideDeck, articleMarkdown, articleTitle);
   } catch (error) {
     console.error('Erro ao gerar slides:', error);
     return { title: articleTitle, theme: 'dark-tech', slides: [] };

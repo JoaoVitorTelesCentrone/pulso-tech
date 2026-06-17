@@ -1,0 +1,15 @@
+{
+  "tldr": "Wolfram 15 integra um assistente de IA diretamente no kernel da linguagem, indo além de chatbots genéricos ao operar sobre estruturas simbólicas e validar matematicamente as operações, estabelecendo um novo padrão para ferramentas de desenvolvimento técnico.",
+  "key_facts": [
+    "Wolfram 15 foi anunciado em 16 de junho de 2026, com assistente de IA embutido no kernel da linguagem.",
+    "O assistente entende e manipula expressões simbólicas, equações diferenciais, visualizações e notação musical de forma nativa.",
+    "A versão também traz funcionalidades de música simbólica, melhorias em processamento de linguagem natural e no núcleo de computação.",
+    "A notícia alcançou o topo do Hacker News com 36 pontos e discussão ativa."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, a notícia mostra uma alternativa ao paradigma de assistentes de código genéricos (Copilot, Gemini, Claude), demonstrando que a integração profunda entre IA e uma linguagem especializada pode resolver o problema de falta de contexto e validação lógica, pressionando concorrentes como MATLAB e Ansys a repensarem suas estratégias.",
+  "watch_next": [
+    "Reação de concorrentes como MathWorks (MATLAB) e NVIDIA, que podem anunciar integrações similares em suas ferramentas.",
+    "Adoção do Wolfram 15 por desenvolvedores e cientistas, e se a integração nativa de IA acelera a migração de usuários de Python/R para o ecossistema Wolfram."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na arquitetura técnica do assistente de IA (operação sobre estruturas simbólicas vs. camada de tradução) e no timing estratégico do lançamento, contrastando com a corrida por modelos maiores. Foi escolhido por oferecer uma análise aprofundada de um movimento que pode redefinir o mercado de ferramentas técnicas, indo além do hype de IA genérica."
+}

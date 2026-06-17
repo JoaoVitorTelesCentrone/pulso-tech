@@ -1,0 +1,53 @@
+{
+  "title": "Modelos Causais Relacionais: A Próxima Fronteira da IA que Vai Além das Correlações",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Modelos Causais Relacionais: A Próxima Fronteira da IA que Vai Além das Correlações",
+      "subtext": "Enquanto o mercado se distrai com chatbots, um paper silencioso no arXiv pode conter a chave para o próximo salto evolutivo da inteligência artificial.",
+      "image_prompt": "A futuristic glowing brain network with interconnected nodes and causal arrows, dark blue and neon orange tones, digital art, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper de pesquisa, 'Relational Structural Causal Models', foi publicado no arXiv em 16 de junho de 2026. Ele aborda a incapacidade dos modelos atuais de combinar raciocínio causal com compreensão combinatorial de objetos e suas relações.",
+      "highlight": "Uma IA verdadeiramente inteligente precisa ser simultaneamente causal e combinatorial."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper propõe uma formalização matemática que unifica causalidade e combinatorialidade. Isso permite que modelos não apenas prevejam, mas entendam intervenções e contrafactuais — o 'e se' e o 'se tivesse sido diferente'.",
+      "visual_hint": "Ícone de engrenagem com setas causais ramificando-se em múltiplos objetos interconectados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "LLMs atuais são máquinas de correlação sofisticadas, mas não entendem causalidade. Isso limita a segurança em sistemas críticos (carros autônomos, diagnósticos médicos) e impede o raciocínio contrafactual essencial para a ciência.",
+      "visual_hint": "Gráfico mostrando correlação vs. causalidade com um ponto de interrogação no meio"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "3 níveis de raciocínio causal: associação, intervenção e contrafactuais",
+        "Modelos atuais falham em mudanças de domínio — generalização frágil",
+        "Paper publicado no arXiv cs.AI, termômetro das inovações reais em IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Segurança em sistemas críticos: IAs confiáveis em cenários imprevistos",
+        "Generalização robusta: modelos que se adaptam a novos contextos",
+        "Raciocínio científico: resposta confiável a perguntas contrafactuais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo salto evolutivo da IA está começando — não fique para trás."
+    }
+  ]
+}

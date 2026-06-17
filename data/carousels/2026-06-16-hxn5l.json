@@ -1,0 +1,222 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: mecanismo e ruptura",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Apple pode quebrar o 'Hide My Email'",
+        "subtext": "Mudança técnica silenciosa expõe seu endereço real."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Como o recurso funciona hoje",
+        "body": "Usuário cria alias aleatório (ex: loja-abc123@icloud.com). Apple mapeia internamente e redireciona emails. Remetente nunca descobre o endereço real."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "101 pontos",
+        "stat_label": "Análise do desenvolvedor Arseniy Shestakov alcançou o topo do Hacker News com 101 pontos e 33 comentários."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A Apple está prestes a implementar uma mudança que permite que remetentes descubram o endereço de email real por trás de um alias do 'Hide My Email'."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O mecanismo técnico da ruptura",
+        "body": "Novos cabeçalhos DKIM e SPF revelam domínio iCloud real. Campo 'Return-Path' com endereço verdadeiro já aparece em testes beta do iOS 20 e macOS 17."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "3 pilares da privacidade em risco",
+        "items": [
+          "Perda de confiança na marca Apple — ativo intangível de centenas de bilhões",
+          "Desvalorização do iCloud+ — serviços geraram US$ 85 bilhões em 2024",
+          "Risco regulatório na UE e Brasil (LGPD) — promessa vira obrigação contratual"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seu email ainda é privado?",
+        "highlight_word": "privado",
+        "subtext": "Leia a análise completa de Shestakov e entenda o paradoxo."
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal no usuário",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Seu 'Hide My Email' pode ficar inútil",
+        "subtext": "Mudança expõe seu endereço real a empresas e spammers."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que você perde com a mudança",
+        "body": "Recurso gera aliases descartáveis para evitar spam, rastreamento e vazamentos. Com a quebra, qualquer remetente descobre seu email verdadeiro."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "45 milhões",
+        "stat_label": "Usuários ativos do 'Hide My Email' — 1/3 dos 135 milhões de assinantes do iCloud+."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A separação entre identidade digital pública e privada é aniquilada se a promessa de anonimato for quebrada."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Impacto no seu dia a dia",
+        "body": "Empresas que recebem emails via alias podem cruzar dados com seu perfil real. Spam e phishing voltam a ser risco direto."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "3 consequências práticas",
+        "items": [
+          "Perda do anonimato em cadastros online",
+          "Vazamento de email real em brechas de segurança",
+          "Rastreamento entre serviços que usam o mesmo alias"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Você confia na Apple?",
+        "highlight_word": "confia",
+        "subtext": "Descubra como se proteger antes da mudança chegar."
+      }
+    ],
+    "template": "C"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números do mercado",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$ 12,5 bi em jogo na privacidade",
+        "subtext": "Mercado cresce 18,2% ao ano — e Apple pode perder bilhões."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 12 bilhões",
+        "stat_label": "Receita estimada do iCloud+ em 2025, segundo maior serviço da Apple atrás da App Store."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "US$ 600M a US$ 1,8B",
+        "stat_label": "Perda anual de receita se 5% a 15% dos assinantes do 'Hide My Email' cancelarem."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O custo do marketing de privacidade",
+        "body": "Apple gasta US$ 2 bilhões por ano posicionando privacidade como vantagem competitiva. Dano reputacional supera perda financeira."
+      },
+      {
+        "n": 5,
+        "type": "stat",
+        "stat_number": "US$ 85 bilhões",
+        "stat_label": "Receita do segmento Services da Apple em 2024, que inclui iCloud+."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Mercado de identidade digital",
+        "items": [
+          "Mercado global de privacidade de dados: US$ 12,5 bi (2025)",
+          "CAGR de 18,2% (Grand View Research)",
+          "Disputa acirrada com Google e Meta"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quanto vale sua privacidade?",
+        "highlight_word": "privacidade",
+        "subtext": "Veja os números completos e o impacto no mercado."
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências do movimento",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Apple recua na privacidade?",
+        "subtext": "Mudança sinaliza tensão entre dados e modelo de negócio."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O paradoxo da privacidade",
+        "body": "Apple posiciona privacidade como diferencial desde 2021, mas mudança técnica mostra que até a 'campeã' pode recuar diante de pressões de mercado."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2021",
+        "stat_label": "Ano de lançamento do iCloud+ com 'Hide My Email' como pilar de privacidade."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A tensão entre privacidade do usuário e modelos de negócio baseados em dados está longe de ser resolvida."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O que esperar do mercado",
+        "body": "Mercado de identity-as-a-service está em disputa. Se Apple perder credibilidade, Google e Meta podem avançar com soluções próprias."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "3 cenários futuros",
+        "items": [
+          "Apple reverte mudança após pressão de usuários e reguladores",
+          "Concorrentes exploram brecha para atacar marketing de privacidade",
+          "Novas regulações na UE e Brasil obrigam transparência"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "O futuro da privacidade digital?",
+        "highlight_word": "futuro",
+        "subtext": "Leia a análise completa e forme sua opinião."
+      }
+    ],
+    "template": "A"
+  }
+]

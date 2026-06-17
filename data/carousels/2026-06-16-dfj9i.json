@@ -1,0 +1,228 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Como funciona",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Rust na GPU: Segurança em Tempo de Compilação",
+        "subtext": "NVIDIA Research lança cuTile Rust para kernels GPU livres de data-race"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que é cuTile Rust",
+        "body": "É um runtime em Rust que gerencia execução de kernels GPU com garantias de segurança de memória e ausência de condições de corrida, algo ausente no CUDA C++ tradicional."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Como funciona tecnicamente",
+        "body": "O borrow checker do Rust garante que buffers não sejam lidos e escritos simultaneamente sem sincronização explícita. A API replica a semântica <<<grid, block>>> do CUDA com verificações de índices."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "03",
+        "headline": "Diferença crucial: estático vs dinâmico",
+        "body": "No CUDA C++, ferramentas como cuda-memcheck detectam data-races em tempo de execução. No cuTile Rust, o compilador impede que código com data-race sequer compile."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "04",
+        "headline": "Compatibilidade com GPUs atuais",
+        "body": "cuTile Rust compila para PTX, a camada intermediária do CUDA. Kernels escritos em Rust rodam nas mesmas GPUs H100, B200 e futuras, usando o mesmo driver NVIDIA."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Abstrações seguras oferecidas",
+        "items": [
+          "Alocação e gerenciamento de memória device com verificação do borrow checker",
+          "Lançamento de grids e blocos com índices verificados em compilação",
+          "Barreiras e fences encapsulados em tipos verificáveis pelo compilador Rust"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer evitar crashes silenciosos nos seus kernels?",
+        "highlight_word": "crashes",
+        "subtext": "Leia o artigo completo e entenda como a segurança estática pode transformar seu workflow GPU"
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal no desenvolvedor",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Seu código GPU pode parar de quebrar",
+        "subtext": "NVIDIA Research lança runtime Rust que elimina data-races em tempo de compilação"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 4/h",
+        "stat_label": "Custo por hora de GPU H100 em nuvem — erros silenciosos em kernels representam desperdício milionário"
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O fim dos crashes intermitentes",
+        "body": "Data-races em paralelismo massivo são a principal causa de crashes intermitentes, resultados incorretos e vulnerabilidades em cargas de trabalho de simulações físicas a inferência de LLMs."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Um data-race não detectado pode invalidar um treinamento de semanas.\"",
+        "source": "Artigo original"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Depuração de GPU: de semanas para zero",
+        "body": "Kernels GPU são notoriamente difíceis de depurar. Com cuTile Rust, o compilador impede que código com data-race compile, eliminando a necessidade de ferramentas como cuda-memcheck em tempo de execução."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Problemas que você não terá mais",
+        "items": [
+          "Silent data corruption em kernels paralelos",
+          "Crashes intermitentes em clusters de treinamento",
+          "Semanas de treinamento invalidadas por um bug não detectado"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quantas horas você já perdeu debugando data-races?",
+        "highlight_word": "debugando",
+        "subtext": "Descubra como a segurança estática do Rust pode transformar seu workflow no artigo completo"
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números do ecossistema",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Números que mostram a mudança na GPU",
+        "subtext": "Dados reais do lançamento cuTile Rust e do ecossistema CUDA"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "16/06/2026",
+        "stat_label": "Data do lançamento público do cuTile Rust pela NVIDIA Research no GitHub"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "6 pontos",
+        "stat_label": "Pontuação no Hacker News do repositório cutile-rs até o momento da publicação"
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "3 comentários",
+        "stat_label": "Comentários no Hacker News sobre o lançamento — número ainda baixo, mas peso institucional do NVLabs é enorme"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O custo de bugs em escala",
+        "body": "Com clusters de 10.000 GPUs e custo por hora ultrapassando US$ 4/h para instâncias H100, erros silenciosos em kernels representam desperdício milionário em treinamentos de semanas."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Adoção de Rust em infraestrutura crítica",
+        "items": [
+          "Linux kernel: Rust como segunda linguagem oficial",
+          "Firefox: rewrite de componentes em Rust",
+          "AWS e Android: adoção massiva em sistemas críticos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "US$ 4/h por GPU — quanto custa um bug não detectado?",
+        "highlight_word": "US$ 4/h",
+        "subtext": "Veja os números completos e entenda o impacto financeiro no artigo original"
+      }
+    ],
+    "template": "C"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências estratégicas",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "NVIDIA abre CUDA para Rust: o que vem depois?",
+        "subtext": "Movimento estratégico que pode redefinir segurança e eficiência em IA"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Reconhecimento da segurança como diferencial",
+        "body": "NVIDIA, historicamente fechada com CUDA e toolchain proprietária (nvcc, PTX), está abrindo espaço para Rust — sinalizando que segurança de memória é um diferencial competitivo."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Impacto na eficiência energética",
+        "body": "Kernels mais seguros e previsíveis permitem otimizações mais agressivas de compilação, resultando em menor consumo por inferência e menor custo total de propriedade (TCO)."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A NVIDIA não está substituindo CUDA por Rust. O cuTile Rust compila para PTX, a camada intermediária do CUDA.\"",
+        "source": "Artigo original"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "03",
+        "headline": "Pressão por eficiência em data centers",
+        "body": "O movimento ocorre no ápice da pressão por eficiência energética em data centers de IA, onde clusters de 10.000 GPUs são comuns e cada watt conta."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Sinais do interesse da NVIDIA em Rust",
+        "items": [
+          "Projetos como nvtop e drivers experimentais em Rust",
+          "Primeiro runtime público para desenvolvimento de kernels",
+          "Peso institucional do NVLabs por trás do cutile-rs"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Rust vai substituir CUDA no longo prazo?",
+        "highlight_word": "substituir",
+        "subtext": "Leia a análise completa e entenda as implicações estratégicas para o futuro da programação GPU"
+      }
+    ],
+    "template": "D"
+  }
+]

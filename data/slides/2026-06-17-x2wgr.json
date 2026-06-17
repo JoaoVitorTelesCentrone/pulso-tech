@@ -1,0 +1,53 @@
+{
+  "title": "Wolfram 15 e o Casamento Definitivo entre Computação Simbólica e IA: O Que Muda Para Desenvolvedores e o Mercado de Ferramentas Técnicas",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Wolfram 15: A IA que entende matemática de verdade",
+      "subtext": "Enquanto o mercado corre atrás de modelos maiores, Wolfram integra IA diretamente no kernel da computação simbólica.",
+      "image_prompt": "A futuristic digital brain made of mathematical symbols and code, glowing blue on a dark background, representing the fusion of symbolic computation and artificial intelligence."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 16 de junho de 2026, Stephen Wolfram anunciou o Wolfram 15. A grande novidade? Um assistente de IA embutido diretamente no kernel da linguagem, não como um add-on, mas como parte da própria estrutura simbólica.",
+      "highlight": "IA não é um chatbot na interface — é parte da linguagem."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O assistente de IA do Wolfram 15 opera diretamente sobre a estrutura simbólica da linguagem. Ele entende equações diferenciais, visualizações de dados e notação musical de forma nativa — não apenas gera código, mas valida a matemática por trás dele.",
+      "visual_hint": "Ícone de engrenagem com circuitos neurais entrelaçados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Enquanto Copilot, Gemini e Claude atuam como 'camadas de tradução' sobre linguagens existentes, o Wolfram 15 resolve o problema fundamental: o assistente entende o domínio do problema. Para engenheiros e cientistas, isso significa menos debugging e mais descoberta.",
+      "visual_hint": "Gráfico comparativo: 'Add-on de IA' vs 'IA nativa na linguagem'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "36 pontos no Hacker News em poucas horas — comunidade técnica reagiu rápido",
+        "Wolfram Language é referência em computação simbólica há décadas",
+        "Assistente de IA opera sobre expressões simbólicas, não apenas texto"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "MathWorks, Ansys e NVIDIA precisarão responder com integrações similares",
+        "Desenvolvedores terão assistentes que validam a lógica, não só o código",
+        "Mercado de ferramentas técnicas ganha um novo padrão de qualidade"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O casamento entre IA e computação simbólica está só começando. O que vem depois?"
+    }
+  ]
+}

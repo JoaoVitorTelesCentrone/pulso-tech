@@ -1,0 +1,14 @@
+{
+  "tldr": "A Holanda lançou o GPT-NL, um LLM soberano focado em dados governamentais e culturais neerlandeses, priorizando segurança e controle sobre desempenho bruto, em um movimento que pode inspirar outros países médios a seguir o mesmo caminho.",
+  "key_facts": [
+    "O GPT-NL foi desenvolvido pelo instituto TNO com foco em soberania digital, processando dados neerlandeses sem enviá-los para fora do país.",
+    "O modelo tem entre 70 e 130 bilhões de parâmetros, treinado em um supercomputador nacional com 1,2 trilhão de tokens em neerlandês.",
+    "O tokenizer personalizado reduz em 40% o número de tokens necessários para texto em neerlandês em comparação com o GPT-4."
+  ],
+  "why_it_matters": "O artigo mostra uma alternativa viável para países que não podem competir em escala com EUA e China, mas precisam de controle sobre dados sensíveis e preservação linguística, redefinindo a geopolítica da IA.",
+  "watch_next": [
+    "Outros países europeus, como Portugal ou Coreia do Sul, podem anunciar iniciativas similares de LLMs soberanos.",
+    "A União Europeia pode usar o GPT-NL como modelo para uma estratégia de IA federada entre estados-membros."
+  ],
+  "editorial_angle": "O artigo se destaca por focar na estratégia geopolítica e de segurança de dados, em vez de métricas de desempenho, oferecendo uma perspectiva única sobre como países médios podem competir na corrida da IA."
+}

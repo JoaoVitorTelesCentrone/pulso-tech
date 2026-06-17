@@ -1,0 +1,53 @@
+{
+  "title": "PrologMCP: A Ponte Simbólica que Pode Salvar os LLMs do Colapso Lógico",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "PrologMCP: A Ponte Simbólica que Pode Salvar os LLMs do Colapso Lógico",
+      "subtext": "Enquanto a indústria corre atrás de modelos maiores, um paper propõe delegar a lógica a um velho conhecido: o Prolog.",
+      "image_prompt": "A futuristic digital bridge made of glowing logic gates and neural network nodes, connecting a classical marble statue of Aristotle to a modern AI chip, dark background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "LLMs atuais, mesmo os modelos de raciocínio mais avançados, falham consistentemente em tarefas dedutivas que exigem múltiplos passos lógicos encadeados. A abordagem de aumentar o 'tempo de raciocínio interno' escala pessimamente em custo e latência.",
+      "highlight": "Modelos de raciocínio podem gerar dezenas de milhares de tokens de 'pensamento interno' — e ainda assim errar."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper PrologMCP propõe uma interface padronizada (via protocolo MCP) que permite ao LLM delegar o raciocínio dedutivo a um motor Prolog. O LLM traduz o problema em consulta, o motor resolve a lógica de forma determinística e correta, e o resultado é devolvido ao LLM.",
+      "visual_hint": "Ícone de engrenagem com um cérebro ao lado, seta indicando delegação para um motor de engrenagens lógicas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Em vez de tentar ensinar um LLM a ser um lógico perfeito (o que é inerentemente difícil, dado que LLMs são máquinas estatísticas), o PrologMCP transforma o LLM em um orquestrador inteligente que sabe quando e como usar uma ferramenta especializada. Isso reduz custos e aumenta a confiabilidade.",
+      "visual_hint": "Diagrama de fluxo: LLM como cérebro central, delegando tarefas para ferramentas especializadas (cálculo, busca, Prolog)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos de raciocínio como o1 geram de 10x a 100x mais tokens de 'pensamento interno' comparado a respostas diretas.",
+        "Um passo errado em uma corrente de 50 passos invalida todo o resultado lógico.",
+        "O PrologMCP elimina o custo de inferência para lógica, delegando a um motor determinístico e de baixo custo."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Sistemas de IA modulares: LLM como orquestrador, não como monolito.",
+        "Redução drástica de custos de inferência para tarefas que exigem lógica formal.",
+        "Aumento da confiabilidade em aplicações críticas (verificação de contratos, planejamento, diagnósticos)."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O raciocínio simbólico pode ser a chave para a próxima geração de agentes de IA inteligentes e confiáveis."
+    }
+  ]
+}

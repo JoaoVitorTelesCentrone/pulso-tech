@@ -1,11 +1,14 @@
 import { fetchTopicClusters } from '../lib/news-fetcher';
 import {
+  checkRelevanceWithKimi,
   generateArticle,
   generatePrivateSummary,
   generateSlides,
-  generateCarousels,
+  reviewAndImprove,
 } from '../lib/ai-generator';
 import { buildImagePrompt, getNegativePrompt } from '../lib/image-prompts';
+import { appendArticleToDailySummary, ArticleSummaryEntry } from '../lib/daily-summary';
+import { notifySubscribersAboutNewArticle } from '../lib/article-notifications';
 import { GoogleGenAI } from '@google/genai';
 import fs from 'fs';
 import path from 'path';
@@ -13,6 +16,42 @@ import matter from 'gray-matter';
 import { getSortedArticlesData } from '../lib/markdown';
 
 const TOPIC = 'Os principais destaques e inovações em Inteligência Artificial e Tecnologia hoje';
+
+const STOP_WORDS = new Set([
+  'the', 'this', 'that', 'with', 'from', 'have', 'will', 'been',
+  'como', 'para', 'com', 'uma', 'mais', 'into', 'about', 'your',
+  'what', 'when', 'where', 'which', 'their', 'there', 'here',
+  'just', 'more', 'than', 'over', 'after', 'before', 'could',
+  'would', 'should', 'using', 'gets', 'says', 'also', 'its',
+  'new', 'novo', 'nova', 'hoje', 'today', 'now', 'agora', 'says',
+  'week', 'year', 'month', 'semana', 'anos', 'meses',
+]);
+
+function extractKeywords(text: string): Set<string> {
+  return new Set(
+    text.toLowerCase()
+      .replace(/[^a-z0-9\s]/g, '')
+      .split(/\s+/)
+      .filter(w => w.length > 3 && !STOP_WORDS.has(w))
+  );
+}
+
+function topicAlreadyCovered(
+  cluster: { items: { title: string }[] },
+  allTitles: string[]
+): { covered: boolean; matchedTitle?: string } {
+  const clusterText = cluster.items.map(i => i.title).join(' ');
+  const clusterKeywords = extractKeywords(clusterText);
+
+  for (const title of allTitles) {
+    const titleKeywords = extractKeywords(title);
+    const overlap = [...clusterKeywords].filter(w => titleKeywords.has(w)).length;
+    if (overlap >= 3) {
+      return { covered: true, matchedTitle: title };
+    }
+  }
+  return { covered: false };
+}
 
 const genai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY! });
 
@@ -92,10 +131,20 @@ async function processCluster(
   const uniqueId = Math.random().toString(36).substring(2, 7);
   const fileName = `${dateStr}-${uniqueId}`;
 
+  console.log(`[${clusterIndex + 1}/${totalClusters}] Checando relevancia com Kimi...`);
+  const relevance = await checkRelevanceWithKimi(cluster.context, recentTitles);
+  if (!relevance.approved) {
+    console.log(`[${clusterIndex + 1}/${totalClusters}] Pulando por relevancia (${relevance.score}/100, ${relevance.axis}): ${relevance.reason}`);
+    return null;
+  }
+
   let markdownContent = await generateArticle(TOPIC, cluster.context, recentTitles);
 
   markdownContent = markdownContent.replace(/^```markdown\n/m, '');
   markdownContent = markdownContent.replace(/\n```$/m, '');
+
+  console.log(`[${clusterIndex + 1}/${totalClusters}] Revisando com Kimi...`);
+  markdownContent = await reviewAndImprove(markdownContent);
 
   const matterResult = matter(markdownContent);
   const articleTitle = matterResult.data.title || 'Inovação em Tecnologia e IA';
@@ -115,7 +164,7 @@ async function processCluster(
 
   // Summary
   console.log(`[${clusterIndex + 1}/${totalClusters}] Gerando briefing privado...`);
-  const summary = await generatePrivateSummary(finalMarkdown);
+  const summary = await generatePrivateSummary(finalMarkdown) as Record<string, unknown>;
   const summariesDir = path.join(process.cwd(), 'data', 'summaries');
   ensureDir(summariesDir);
   fs.writeFileSync(
@@ -135,18 +184,30 @@ async function processCluster(
     'utf-8'
   );
 
-  // Carousels
-  console.log(`[${clusterIndex + 1}/${totalClusters}] Gerando carrosseis...`);
-  const carousels = await generateCarousels(finalMarkdown, articleTitle);
-  const carouselsDir = path.join(process.cwd(), 'data', 'carousels');
-  ensureDir(carouselsDir);
-  fs.writeFileSync(
-    path.join(carouselsDir, `${fileName}.json`),
-    JSON.stringify(carousels, null, 2),
-    'utf-8'
-  );
+  // Appenda ao resumo diário vivo
+  const summaryEntry: ArticleSummaryEntry = {
+    slug: fileName,
+    title: articleTitle,
+    tags: articleTags,
+    image: matterResult.data.image,
+    tldr: (summary.tldr as string) || '',
+    key_facts: (summary.key_facts as string[]) || [],
+    why_it_matters: (summary.why_it_matters as string) || '',
+    watch_next: (summary.watch_next as string[]) || [],
+    editorial_angle: (summary.editorial_angle as string) || '',
+    generatedAt: new Date().toISOString(),
+  };
 
-  console.log(`[${clusterIndex + 1}/${totalClusters}] Todos os artefatos salvos para: ${fileName}`);
+  appendArticleToDailySummary(summaryEntry);
+  console.log(`[${clusterIndex + 1}/${totalClusters}] Adicionado ao resumo do dia.`);
+
+  try {
+    await notifySubscribersAboutNewArticle(summaryEntry);
+  } catch (err) {
+    console.error(`[${clusterIndex + 1}/${totalClusters}] Erro ao enviar email do novo artigo:`, err);
+  }
+
+  console.log(`[${clusterIndex + 1}/${totalClusters}] Concluido: ${fileName}`);
   return articleTitle;
 }
 
@@ -163,16 +224,25 @@ async function main() {
     console.log(`${clusters.length} cluster(s) encontrado(s). Iniciando geracao de artigos...`);
 
     const recentArticles = getSortedArticlesData();
-    const recentTitles = recentArticles.slice(0, 10).map(a => a.title);
+    const allTitles = recentArticles.map(a => a.title); // todos, não só 10
 
     const allNewUrls: string[] = [];
     let successCount = 0;
+    let skippedCount = 0;
 
     for (let i = 0; i < clusters.length; i++) {
+      // Verifica duplicata ANTES de chamar a IA
+      const { covered, matchedTitle } = topicAlreadyCovered(clusters[i], allTitles);
+      if (covered) {
+        console.log(`[${i + 1}/${clusters.length}] Pulando — assunto já coberto por: "${matchedTitle}"`);
+        skippedCount++;
+        continue;
+      }
+
       try {
-        const title = await processCluster(i, clusters.length, clusters[i], recentTitles);
+        const title = await processCluster(i, clusters.length, clusters[i], allTitles);
         if (title) {
-          recentTitles.unshift(title);
+          allTitles.unshift(title); // adiciona ao pool para os próximos clusters da mesma rodada
           allNewUrls.push(...clusters[i].urls);
           successCount++;
         }
@@ -191,7 +261,7 @@ async function main() {
     usedUrls.push(...allNewUrls);
     fs.writeFileSync(historyPath, JSON.stringify(usedUrls, null, 2), 'utf8');
 
-    console.log(`\nConcluido! ${successCount}/${clusters.length} artigos gerados com sucesso.`);
+    console.log(`\nConcluido! ${successCount} gerados, ${skippedCount} pulados (assunto ja coberto), ${clusters.length - successCount - skippedCount} com erro.`);
   } catch (error) {
     console.error('Erro fatal:', error);
     process.exit(1);

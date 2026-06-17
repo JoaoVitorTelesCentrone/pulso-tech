@@ -1,0 +1,53 @@
+{
+  "title": "O Desafio da Explicabilidade: Por que a Incapacidade de Explicar LLMs Está se Tornando o Maior Risco de Mercado da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Maior Risco da IA Não é Técnico — É a Falta de Explicação",
+      "subtext": "LLMs são caixas-pretas. Reguladores, investidores e clientes estão começando a exigir respostas que ninguém consegue dar.",
+      "image_prompt": "A dark, abstract digital brain with glowing neural pathways, partially obscured by a black box, with regulatory documents and warning symbols floating around, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo preprint do arXiv (junho/2026) reacende o debate: o que é uma 'boa explicação' para um LLM? O estudo mostra que métodos atuais como SHAP e LIME falham em critérios filosóficos básicos — causalidade, simplicidade e fidelidade.",
+      "highlight": "Modelos como GPT e Claude seguem fundamentalmente opacos — e isso agora é um passivo de mercado."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O artigo propõe 4 critérios para uma boa explicação: causalidade, contrafactualidade, simplicidade e fidelidade. Nenhuma técnica atual atende a todos. A lacuna entre o que as empresas dizem explicar e o que realmente explicam está se tornando insustentável.",
+      "visual_hint": "Ícone de lupa sobre um cérebro digital com áreas opacas e áreas 'explicadas' em destaque"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores e investidores: explicabilidade não é luxo acadêmico — é requisito regulatório e contratual. Empresas que não conseguirem demonstrar transparência algorítmica enfrentam multas, perda de contratos B2B e danos reputacionais irreversíveis.",
+      "visual_hint": "Gráfico de barras mostrando crescimento de exigências regulatórias (UE, EUA, Brasil) ano a ano"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "AI Act europeu prevê multas de até 7% do faturamento global por violações de transparência",
+        "Grandes corporações e governos já exigem cláusulas de explicabilidade em contratos de IA",
+        "Técnicas atuais (SHAP, LIME) são 'aproximações grosseiras' — e podem ser enganosas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pesquisa em XAI terá que evoluir de modelos simples para LLMs com bilhões de parâmetros",
+        "Empresas de IA precisarão investir em explicabilidade como requisito de compliance, não só de performance",
+        "Reguladores vão apertar o cerco — e o mercado vai punir quem não se adaptar"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A próxima fronteira da IA não é mais potência — é confiança. E ela começa com uma boa explicação."
+    }
+  ]
+}

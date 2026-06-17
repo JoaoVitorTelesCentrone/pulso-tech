@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores propõem um framework de IA que alinha representações de imagens de CT e dados clínicos usando modelos foundation, resolvendo o desequilíbrio de modalidade e melhorando a precisão na previsão de sobrevivência (tempo até evento).",
+  "key_facts": [
+    "O paper (arXiv 2606.15038) aborda o problema de modality imbalance e distribution shift em modelos multimodais.",
+    "O framework utiliza modelos foundation (ViT para imagens, BioBERT/ClinicalBERT para dados clínicos) para criar um espaço de representação compartilhado.",
+    "A abordagem supera a concatenação ingênua de features, equalizando a contribuição de cada modalidade no aprendizado.",
+    "O foco é a previsão de tempo até evento (TTE), um problema crítico em oncologia, cardiologia e cuidados intensivos."
+  ],
+  "why_it_matters": "A notícia importa porque revela um gargalo técnico silencioso em sistemas de IA para saúde — o desequilíbrio entre modalidades — e apresenta uma solução prática que pode elevar o padrão de precisão em diagnósticos assistidos por IA, impactando diretamente o mercado de healthtech e empresas como Google, Microsoft e startups do setor.",
+  "watch_next": [
+    "Validação clínica do framework em ensaios com pacientes reais e datasets de larga escala.",
+    "Adoção do método por plataformas de IA em saúde (ex.: Google Health, Azure Health Bot) como novo padrão para modelos multimodais.",
+    "Publicação de benchmarks comparativos entre o framework e abordagens tradicionais de fusão."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas reportar um avanço técnico, mas por expor um problema estrutural (modality imbalance) que afeta a confiabilidade de modelos multimodais em medicina, oferecendo uma solução elegante e baseada em modelos foundation — o que o torna relevante tanto para pesquisadores quanto para profissionais de healthtech que buscam implementar IA preditiva com maior acurácia."
+}

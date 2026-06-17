@@ -1,0 +1,223 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: como funciona",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Redes neurais têm 'traços de memória' localizáveis",
+        "subtext": "Framework geométrico do AI Engram promete mapear onde cada conceito é armazenado."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O que é um AI Engram?",
+        "body": "Análogo aos engramas biológicos, são marcas físicas da memória em redes neurais. O framework geométrico identifica atratores no espaço latente que armazenam informações específicas."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "arXiv:2606.14997",
+        "stat_label": "Artigo publicado no arXiv propõe framework para localizar traços de memória em redes neurais profundas."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "A pergunta central é: será que as redes neurais preservam unidades de memória identificáveis, comparáveis às que a neurociência busca há décadas?"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Como mapeiam os atratores",
+        "body": "Usam topologia algébrica e análise de variedades para mapear regiões do espaço latente que se tornam atratores para informações específicas."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Resultados preliminares",
+        "items": [
+          "ResNet-50: aglomerados geométricos estáveis para cada classe aprendida",
+          "GPT-2 small: traços de memória para conceitos abstratos persistem após fine-tuning",
+          "Distância geométrica entre traços correlacionada com similaridade semântica"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer entender como editar a memória de um modelo?",
+        "highlight_word": "memória",
+        "subtext": "Leia o artigo completo no blog Tech&Future."
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal no trabalho",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Depuração cirúrgica de modelos de IA",
+        "subtext": "Em vez de retreinar tudo, corrija traços de memória específicos."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Fim do retreinamento caro",
+        "body": "Hoje, para corrigir uma alucinação ou esquecimento, só reinício ou retreinamento. Com AI Engram, localize e substitua o traço corrompido como em um banco de dados."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "US$ 100 milhões",
+        "stat_label": "Custo estimado para treinar um modelo como GPT-4 do zero. Fine-tuning completo custa entre US$ 1M e US$ 10M por iteração."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "Se o AI Engram se provar escalável, o custo de adaptação de modelos cairia drasticamente — de milhões para centenas de milhares de dólares."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Fine-tuning localizado",
+        "body": "Em vez de ajustar bilhões de parâmetros, bastaria modificar a região geométrica que armazena a memória relevante. Redução de 90% a 99% no custo."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Impacto triplo para seu trabalho",
+        "items": [
+          "Depuração cirúrgica: corrija erros sem retreinar tudo",
+          "Transparência: modelos auditáveis para finanças, saúde e defesa",
+          "Eficiência: fine-tuning localizado reduz custo e tempo"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Como isso muda seu dia a dia com IA?",
+        "highlight_word": "muda",
+        "subtext": "Leia o artigo completo no blog Tech&Future."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números do mercado",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "US$ 8 bilhões em fine-tuning em 2025",
+        "subtext": "Mercado cresce 35% ao ano. AI Engram pode comprimir custos e expandir acesso."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 100 milhões",
+        "stat_label": "Custo de treinar GPT-4 do zero. Fine-tuning completo: US$ 1M a US$ 10M por iteração."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "90% a 99%",
+        "stat_label": "Redução de custo potencial com edição localizada de traços de memória, segundo o artigo."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Mercado de fine-tuning e adaptação",
+        "body": "Estimado em US$ 8 bilhões em 2025, com crescimento de 35% ao ano. Tecnologia que reduz custo de adaptação expande o mercado e comprime margens."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Mercado de explicabilidade e auditoria",
+        "body": "Regulamentações como EU AI Act e Lei de IA do Brasil exigem que modelos de alto risco sejam auditáveis. AI Engram pode atender a essa demanda."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Números que importam",
+        "items": [
+          "Custo de retreinamento: US$ 100M (GPT-4)",
+          "Fine-tuning completo: US$ 1M a US$ 10M por iteração",
+          "Edição localizada: centenas de milhares de dólares"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer ver os números completos?",
+        "highlight_word": "números",
+        "subtext": "Leia o artigo completo no blog Tech&Future."
+      }
+    ],
+    "template": "C"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro da IA é controlável e eficiente",
+        "subtext": "AI Engram pode redefinir arquiteturas em 3 a 5 anos, como transformers fizeram."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "De pesquisa fundamental a produto",
+        "body": "O artigo não é comercial, mas como ocorreu com transformers e attention mechanisms, pode redefinir arquiteturas de LLMs, sistemas de recomendação e agentes autônomos."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "3 a 5 anos",
+        "stat_label": "Prazo estimado para o AI Engram impactar arquiteturas comerciais, segundo análise do artigo."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "O timing é perfeito: o mercado de IA está migrando de 'modelos maiores' para 'modelos mais eficientes e controláveis'."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Transparência para mercados regulados",
+        "body": "Para finanças, saúde e defesa, saber que a memória do modelo é rastreável e editável reduz risco de adoção, acelera contratos e reduz prêmios de seguro."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Consequências futuras",
+        "items": [
+          "Depuração cirúrgica substitui retreinamento caro",
+          "Modelos auditáveis atendem EU AI Act e Lei de IA do Brasil",
+          "Fine-tuning localizado reduz custo de adaptação em 90-99%"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "O que você faria com modelos editáveis?",
+        "highlight_word": "editáveis",
+        "subtext": "Leia o artigo completo no blog Tech&Future."
+      }
+    ],
+    "template": "D"
+  }
+]

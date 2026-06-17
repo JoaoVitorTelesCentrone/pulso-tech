@@ -1,0 +1,222 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: como funciona",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Previsão de séries temporais com RAG semântico",
+        "subtext": "Entenda o mecanismo que une semântica e forecasting"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O problema atual",
+        "body": "Modelos state-of-the-art como Transformers, N-BEATS e DeepAR sofrem com falta de contexto externo. Eles veem números, mas não entendem o que acontece no mundo real."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "5-15%",
+        "stat_label": "Melhoria em erro médio absoluto (MAE) já observada em métodos RAG numéricos em benchmarks como M4, Electricity e Traffic."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "“A ideia central é simples, mas poderosa: enriquecer a recuperação de séries temporais com embeddings semânticos, permitindo que o modelo entenda o que os dados representam, não apenas como eles se comportam numericamente.”"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Arquitetura em três camadas",
+        "body": "1) Codificador semântico: embedding que captura tendência, sazonalidade e eventos implícitos. 2) Módulo de recuperação semântica: busca por similaridade conceitual. 3) Fusão temporal-semântica: atenção cruzada entre passado e presente."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benefícios da abordagem",
+        "items": [
+          "Acurácia: ganho potencial de 15-25% em MAE com adição de semântica",
+          "Generalização: melhor desempenho em séries com poucos dados (cold start)",
+          "Interpretabilidade: recuperação de segmentos semanticamente relevantes como explicação natural"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer ver o paper completo?",
+        "highlight_word": "paper",
+        "subtext": "Leia o artigo original no arXiv e entenda a arquitetura detalhada."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal no trabalho",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como o RAG semântico muda seu forecasting",
+        "subtext": "Exemplos concretos para finanças, supply chain e energia"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Exemplo real: sorvetes e ar condicionado",
+        "body": "O sistema pode aprender que uma queda nas vendas de sorvetes em janeiro está semanticamente relacionada a uma queda nas vendas de ar condicionado — mesmo que os padrões numéricos sejam diferentes."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "US$ 15 bilhões",
+        "stat_label": "Valor do mercado global de previsão de séries temporais em 2026, com crescimento anual composto de 12%."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "“O modelo pode ‘entender’ que um pico histórico de demanda foi causado por um evento específico (promoção, desastre natural, mudança regulatória) e aplicar esse conhecimento a situações similares.”"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Aplicação em finanças",
+        "body": "Previsão de preços de ativos, volatilidade e risco de crédito pode se beneficiar da recuperação de eventos semânticos passados — como crises ou anúncios econômicos."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Setores impactados diretamente",
+        "items": [
+          "Finanças: previsão de ativos, volatilidade, risco de crédito",
+          "Supply chain: demanda, inventário, logística",
+          "Energia: previsão de carga, preços de eletricidade, produção renovável"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "highlight_word": "trabalho",
+        "headline": "Como isso afeta seu trabalho hoje?",
+        "subtext": "Descubra como integrar contexto semântico aos seus modelos de forecasting."
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números do artigo",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Os números por trás do RAG semântico",
+        "subtext": "Mercado, benchmarks e ganhos de acurácia"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 15 bilhões",
+        "stat_label": "Tamanho do mercado global de time series forecasting em 2026, crescendo 12% ao ano."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "5-15%",
+        "stat_label": "Melhoria em MAE já observada em métodos RAG numéricos nos benchmarks M4, Electricity e Traffic."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "15-25%",
+        "stat_label": "Ganho potencial em MAE com a adição de semântica ao processo de recuperação, segundo o paper."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Benchmarks utilizados",
+        "body": "Os métodos RAG numéricos foram testados em M4 (previsões de varejo), Electricity (consumo de energia) e Traffic (fluxo de tráfego), com melhorias consistentes."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Áreas que movimentam o mercado",
+        "items": [
+          "Finanças: previsão de ativos e risco",
+          "Supply chain: demanda e logística",
+          "Energia: carga e preços de eletricidade"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "highlight_word": "números",
+        "headline": "Quer ver os números completos?",
+        "subtext": "Acesse o paper no arXiv e confira os dados detalhados dos benchmarks."
+      }
+    ],
+    "template": "F"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e consequências",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro do forecasting com RAG semântico",
+        "subtext": "Disrupção no mercado de US$ 15 bilhões"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Próxima revolução silenciosa",
+        "body": "Enquanto o mercado está obcecado com LLMs e agentes conversacionais, o paper no arXiv pavimenta o caminho para uma disrupção no forecasting — movimentando bilhões em finanças, logística e energia."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "12%",
+        "stat_label": "Crescimento anual composto do mercado de forecasting, que deve acelerar com a adoção de métodos semânticos."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "“O gargalo atual é que os modelos state-of-the-art ainda sofrem com a falta de contexto externo. Eles veem números, mas não entendem o que está acontecendo no mundo real.”"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Generalização em cenários cold start",
+        "body": "Modelos semânticos tendem a generalizar melhor para séries temporais com poucos dados históricos, resolvendo um problema clássico em forecasting."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Consequências esperadas",
+        "items": [
+          "Acurácia 15-25% maior em previsões complexas",
+          "Interpretabilidade natural com explicações semânticas",
+          "Adoção acelerada em finanças, energia e saúde"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "highlight_word": "futuro",
+        "headline": "Você está preparado para essa mudança?",
+        "subtext": "Leia o artigo completo e entenda como se antecipar a essa nova fronteira."
+      }
+    ],
+    "template": "D"
+  }
+]

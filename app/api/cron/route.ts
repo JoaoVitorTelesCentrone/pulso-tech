@@ -1,15 +1,19 @@
 import { NextResponse } from 'next/server';
 import { fetchTopicClusters, TopicCluster } from '@/lib/news-fetcher';
 import {
+  checkRelevanceWithKimi,
   generateArticle,
   generatePrivateSummary,
   generateSlides,
   generateCarousels,
+  reviewAndImprove,
 } from '@/lib/ai-generator';
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 import { getSortedArticlesData } from '@/lib/markdown';
+import { appendArticleToDailySummary, ArticleSummaryEntry } from '@/lib/daily-summary';
+import { notifySubscribersAboutNewArticle } from '@/lib/article-notifications';
 
 export const dynamic = 'force-dynamic';
 
@@ -56,11 +60,18 @@ async function processCluster(
   const uniqueId = Math.random().toString(36).substring(2, 7);
   const fileName = `${dateStr}-${uniqueId}`;
 
+  const relevance = await checkRelevanceWithKimi(cluster.context, recentTitles);
+  if (!relevance.approved) {
+    throw new Error(`Cluster rejeitado pelo Kimi (${relevance.score}/100, ${relevance.axis}): ${relevance.reason}`);
+  }
+
   let markdownContent = await generateArticle(TOPIC, cluster.context, recentTitles);
   markdownContent = markdownContent.replace(/^```markdown\n/m, '').replace(/\n```$/m, '');
+  markdownContent = await reviewAndImprove(markdownContent);
 
   const matterResult = matter(markdownContent);
   const articleTitle = matterResult.data.title || 'Inovação em Tecnologia e IA';
+  const articleTags: string[] = matterResult.data.tags || [];
   matterResult.data.date = toBrazilianISO(new Date());
   matterResult.data.image = await generateImage(articleTitle, fileName);
 
@@ -92,6 +103,28 @@ async function processCluster(
     JSON.stringify(carousels, null, 2),
     'utf-8'
   );
+
+  const summaryRecord = summary as Record<string, unknown>;
+  const summaryEntry: ArticleSummaryEntry = {
+    slug: fileName,
+    title: articleTitle,
+    tags: articleTags,
+    image: matterResult.data.image,
+    tldr: (summaryRecord.tldr as string) || '',
+    key_facts: (summaryRecord.key_facts as string[]) || [],
+    why_it_matters: (summaryRecord.why_it_matters as string) || '',
+    watch_next: (summaryRecord.watch_next as string[]) || [],
+    editorial_angle: (summaryRecord.editorial_angle as string) || '',
+    generatedAt: new Date().toISOString(),
+  };
+
+  appendArticleToDailySummary(summaryEntry);
+
+  try {
+    await notifySubscribersAboutNewArticle(summaryEntry);
+  } catch (err) {
+    console.error('[CRON] Erro ao enviar email do novo artigo:', err);
+  }
 
   return { fileName, title: articleTitle };
 }

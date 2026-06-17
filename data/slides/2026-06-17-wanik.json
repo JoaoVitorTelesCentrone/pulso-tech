@@ -1,0 +1,53 @@
+{
+  "title": "O Juiz Silencioso: Como a Confiabilidade dos LLMs como Avaliadores Está Criando um Novo Mercado de Auditoria de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Juiz Silencioso",
+      "subtext": "A confiabilidade dos LLMs como avaliadores está criando um novo mercado de auditoria de IA",
+      "image_prompt": "A silent, glowing digital judge in a dark courtroom, surrounded by floating data streams and binary code, cinematic lighting, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Empresas estão substituindo humanos por LLMs na avaliação de qualidade de texto. Mas a confiabilidade desses juízes artificiais depende de um alinhamento com humanos que ninguém está auditando direito. Um novo preprint do arXiv expõe esse calcanhar de Aquiles.",
+      "highlight": "A confiabilidade dos juízes de IA depende de um subconjunto de dados que ninguém está auditando direito."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Metric Match' propõe selecionar subconjuntos específicos de dados para medir com precisão o alinhamento entre LLMs e avaliadores humanos. O método reduz a necessidade de anotação humana em larga escala, mas expõe uma fragilidade estrutural: sem métricas robustas, decisões de produto e compliance podem estar baseadas em avaliadores que falham em tópicos críticos.",
+      "visual_hint": "Ícone de balança com um olho digital no centro, representando julgamento e vigilância"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores e investidores: qualquer empresa usando LLMs para moderação, análise de sentimento ou avaliação de respostas opera com risco não contabilizado. Para desenvolvedores: o Metric Match oferece um caminho prático para construir testes de estresse com menos dados humanos, desde que saibam quais pontos de dados importam.",
+      "visual_hint": "Gráfico de linha mostrando queda de 95% para 60% de concordância em tópicos específicos"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "LLMs podem ter 95% de concordância com humanos na média, mas cair para 60% em tópicos específicos",
+        "O Metric Match reduz a necessidade de anotação humana em larga escala sem sacrificar precisão",
+        "Empresas de todos os portes usam GPT-4, Claude e Gemini como juízes de qualidade"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Surge um novo mercado de auditoria de IA para validar a confiabilidade dos juízes artificiais",
+        "Empresas precisarão de testes de estresse baseados em subconjuntos informativos de dados",
+        "Decisões de produto e compliance dependerão de métricas robustas de alinhamento humano-IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O juiz silencioso está julgando — mas quem audita o juiz?"
+    }
+  ]
+}

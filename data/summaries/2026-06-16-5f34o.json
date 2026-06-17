@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe o PrologMCP, uma interface padronizada que delega raciocínio dedutivo de LLMs a motores Prolog, reduzindo custos e erros lógicos.",
+  "key_facts": [
+    "LLMs atuais, mesmo os de raciocínio, falham em tarefas dedutivas com múltiplos passos lógicos.",
+    "PrologMCP usa o protocolo MCP para conectar LLMs a motores Prolog, que resolvem lógica de forma determinística.",
+    "A abordagem transforma o LLM em um orquestrador que delega tarefas especializadas, em vez de tentar raciocinar sozinho.",
+    "O custo computacional de modelos de raciocínio pode ser 10x a 100x maior que respostas diretas, sem garantir precisão."
+  ],
+  "why_it_matters": "O artigo aborda o paradoxo do raciocínio em IA: modelos maiores e mais caros não garantem precisão lógica. O PrologMCP oferece uma alternativa modular e eficiente, alinhada à tendência de agentes e ferramentas, que pode reduzir custos e aumentar a confiabilidade em aplicações críticas.",
+  "watch_next": [
+    "Adoção do PrologMCP por frameworks de agentes como LangChain ou AutoGPT.",
+    "Comparações práticas de custo e precisão entre modelos de raciocínio puro e sistemas híbridos com PrologMCP.",
+    "Possível integração do PrologMCP em ferramentas de verificação formal e planejamento automatizado."
+  ],
+  "editorial_angle": "O artigo se destaca por atacar um problema fundamental dos LLMs (raciocínio dedutivo) com uma solução elegante e de baixo custo, contrastando com a corrida por modelos maiores. A abordagem de 'orquestrador inteligente' ressoa com a virada para sistemas modulares, tornando a notícia relevante para engenheiros e estrategistas de IA."
+}

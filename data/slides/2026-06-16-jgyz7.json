@@ -1,0 +1,53 @@
+{
+  "title": "O Conselheiro Silencioso: Como a IA Está se Tornando o Oficial de Decisão Militar e o Que Isso Significa para o Mercado de Defesa Tech",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Conselheiro Silencioso",
+      "subtext": "Como a IA está se tornando o oficial de decisão militar — e o que isso significa para o mercado de Defesa Tech",
+      "image_prompt": "A futuristic war room with holographic AI advisors and military commanders, dark blue and neon orange tones, cinematic lighting, high tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mundo debate chatbots e agentes de produtividade, a aplicação mais estratégica e controversa da IA já está em campo: modelos de linguagem assessorando comandantes militares em tempo real. O mercado de defesa tech acaba de ganhar um novo e silencioso gigante.",
+      "highlight": "A IA militar não é mais ficção científica — é realidade operacional."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Forças armadas dos EUA, Israel, Coreia do Sul e Reino Unido estão integrando LLMs diretamente em processos de tomada de decisão tática e estratégica. Esses modelos analisam inteligência, sugerem cursos de ação, avaliam riscos de escalada e acessam dados classificados em tempo real.",
+      "visual_hint": "Ícone de um cérebro digital conectado a um mapa de guerra com pontos de decisão"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A decisão de delegar a um modelo de IA a análise de um ataque nuclear ou a identificação de um 'alvo de alto valor' não é apenas técnica — é ética e geopolítica. O erro de um modelo pode significar milhares de mortes ou o início de um conflito de larga escala.",
+      "visual_hint": "Balança da justiça com um chip de IA de um lado e uma bomba do outro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de 'IA militar' deve ultrapassar US$ 30 bilhões até 2028",
+        "Salários de engenharia de IA para defesa já superam US$ 400 mil anuais nos EUA",
+        "Empresas como Palantir e Anduril viram valuations dispararem com foco em software de comando"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Barreiras de entrada enormes: certificações, compliance com Genebra e acesso a dados classificados",
+        "Nova especialização em 'engenharia de IA para ambientes adversários'",
+        "Explicabilidade de modelos deixa de ser detalhe técnico e vira questão de sobrevivência"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O conselheiro silencioso já está na sala. Você está preparado para o que vem depois?"
+    }
+  ]
+}

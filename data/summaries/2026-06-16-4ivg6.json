@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo preprint do arXiv propõe critérios filosóficos para 'boas explicações' e argumenta que as técnicas atuais de explicabilidade para LLMs são insuficientes, criando riscos regulatórios e de mercado significativos.",
+  "key_facts": [
+    "Artigo 'A Definition of Good Explanations and the Challenges Explaining LLM Outputs' publicado no arXiv em 16/06/2026.",
+    "Define quatro critérios para uma boa explicação: causalidade, contrafactualidade, simplicidade e fidelidade.",
+    "Reguladores na UE (AI Act), EUA e Brasil pressionam por transparência algorítmica, com multas de até 7% do faturamento global.",
+    "Métodos atuais como SHAP, LIME e visualização de atenção são considerados aproximações grosseiras ou enganosas."
+  ],
+  "why_it_matters": "A explicabilidade de LLMs não é apenas um problema técnico, mas um passivo regulatório e de mercado que pode resultar em multas bilionárias, perda de contratos B2B e danos reputacionais irreversíveis para empresas de IA.",
+  "watch_next": [
+    "Possível endurecimento de regulamentações globais de IA com base nos critérios do artigo.",
+    "Corrida entre big techs para desenvolver novas técnicas de explicabilidade que atendam aos critérios propostos.",
+    "Aumento de cláusulas contratuais exigindo explicabilidade em acordos B2B e governamentais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar filosofia clássica da ciência com o estado da arte técnico dos LLMs, expondo a lacuna entre o que as empresas prometem e o que realmente conseguem explicar, em um momento crítico de pressão regulatória global."
+}

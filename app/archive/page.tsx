@@ -1,5 +1,4 @@
 import Link from 'next/link'
-import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import { getSortedArticlesData } from '@/lib/markdown'
 
@@ -8,7 +7,7 @@ export default function ArchivePage() {
 
   const getMonthYear = (dateStr: string) => {
     const [y, m] = dateStr.split('T')[0].split('-')
-    const months = ['JANEIRO', 'FEVEREIRO', 'MARÇO', 'ABRIL', 'MAIO', 'JUNHO', 'JULHO', 'AGOSTO', 'SETEMBRO', 'OUTUBRO', 'NOVEMBRO', 'DEZEMBRO']
+    const months = ['JANEIRO', 'FEVEREIRO', 'MARCO', 'ABRIL', 'MAIO', 'JUNHO', 'JULHO', 'AGOSTO', 'SETEMBRO', 'OUTUBRO', 'NOVEMBRO', 'DEZEMBRO']
     return `${months[parseInt(m, 10) - 1]} ${y}`
   }
 
@@ -28,47 +27,41 @@ export default function ArchivePage() {
 
   return (
     <>
-      <Header />
-      <main className="max-w-editorial mx-auto px-6 md:px-grid-margin py-16 min-h-screen">
-
-        {/* Page header */}
-        <header className="mb-24">
-          <p className="font-dm-mono text-[0.65rem] tracking-[0.2em] uppercase text-muted flex items-center gap-3 mb-8">
-            <span className="inline-block w-5 h-px bg-muted flex-shrink-0" />
-            Registros Históricos
-          </p>
-          <h1 className="font-syne font-extrabold text-ink leading-[0.9] tracking-[-0.04em] text-5xl md:text-display-xl mb-6">
-            Arquivo de Edições
+      <main className="mx-auto min-h-screen w-full max-w-editorial px-5 py-12 md:px-grid-margin md:py-16">
+        <header className="dieline mb-16 rounded-2xl bg-surface px-7 py-10 shadow-sm md:px-12 md:py-14">
+          <p className="brand-kicker mb-5">arquivo / registros historicos</p>
+          <h1 className="brand-poster max-w-4xl text-6xl md:text-display-xl">
+            Arquivo de edicoes.
           </h1>
-          <p className="font-cormorant font-light italic text-muted text-2xl max-w-xl leading-relaxed">
-            Todas as publicações desde o início.
+          <p className="mt-6 max-w-xl font-display text-2xl italic leading-snug text-muted">
+            Todas as analises publicadas pela Pulso Tech desde o primeiro sinal.
           </p>
         </header>
 
-        {/* Archive list */}
-        <section className="space-y-20">
-          {Object.entries(archiveGroups).map(([month, datesMap]) => (
+        <section className="space-y-14">
+          {Object.entries(archiveGroups).map(([month, datesMap], monthIndex) => (
             <div key={month}>
-              {/* Month heading */}
-              <h2 className="font-dm-mono text-[0.65rem] tracking-[0.2em] uppercase text-muted mb-8 flex items-center gap-4">
-                {month}
-                <span className="flex-grow h-px bg-warm-gray" />
-              </h2>
+              <div className="mb-5 flex items-baseline gap-4">
+                <span className="brand-meta text-text">{String(monthIndex + 1).padStart(2, '0')} / {month}</span>
+                <span className="h-px flex-1 bg-border" />
+              </div>
 
-              <div className="space-y-12">
+              <div className="divide-y divide-border rounded-lg border border-border bg-surface shadow-sm">
                 {Object.entries(datesMap).map(([date, articlesList]) => (
-                  <div key={date} className="border-t border-warm-gray pt-4">
-                    <p className="font-dm-mono text-[0.65rem] tracking-[0.1em] uppercase text-muted mb-4">
-                      Edição de {getDayMonth(date)}
-                    </p>
-                    <div className="divide-y divide-warm-gray">
+                  <div key={date} className="grid gap-0 md:grid-cols-[140px_1fr]">
+                    <div className="border-b border-border p-5 md:border-b-0 md:border-r">
+                      <p className="brand-meta text-accent">{getDayMonth(date)}</p>
+                      <p className="mt-2 font-display text-sm italic text-muted">edicao</p>
+                    </div>
+                    <div className="divide-y divide-border">
                       {articlesList.map(article => (
-                        <Link
-                          key={article.slug}
-                          href={`/post/${article.slug}`}
-                          className="py-4 block group"
-                        >
-                          <h3 className="font-cormorant font-light text-ink text-2xl md:text-3xl leading-tight group-hover:text-muted transition-colors duration-200 group-hover:translate-x-1 transition-transform">
+                        <Link key={article.slug} href={`/post/${article.slug}`} className="group block p-5 transition-colors hover:bg-surface-hover">
+                          <div className="mb-3 flex flex-wrap gap-2">
+                            {article.tags?.slice(0, 3).map(tag => (
+                              <span key={tag} className="tag-brand">{tag}</span>
+                            ))}
+                          </div>
+                          <h3 className="font-display text-2xl italic leading-tight text-text transition-colors group-hover:text-accent md:text-3xl">
                             {article.title}
                           </h3>
                         </Link>
@@ -79,13 +72,6 @@ export default function ArchivePage() {
               </div>
             </div>
           ))}
-        </section>
-
-        {/* Load more placeholder */}
-        <section className="mt-24 pb-24 text-center">
-          <button className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase border border-ink px-12 py-4 text-ink hover:bg-ink hover:text-white transition-colors duration-200">
-            Carregar Edições Anteriores
-          </button>
         </section>
       </main>
       <Footer />

@@ -1,0 +1,222 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Como e Por Que",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Coreia do Sul: O Maior Laboratório de IA do Mundo",
+        "subtext": "Entenda o que impulsiona a adoção em massa da IA no país."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Cultura de Tecnologia como Progresso Coletivo",
+        "body": "Diferente do Ocidente, a Coreia do Sul vê a IA como um degrau natural do desenvolvimento pós-guerra, não como uma ameaça distópica."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "43 Mbps",
+        "stat_label": "Velocidade média de internet na Coreia do Sul já em 2020, a mais rápida do mundo, tratada como infraestrutura nacional."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A Coreia do Sul construiu sua relação com a tecnologia a partir da reconstrução pós-guerra. A internet de altíssima velocidade não é um luxo — é uma infraestrutura nacional.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA como Necessidade Econômica",
+        "body": "Com a taxa de fertilidade mais baixa do mundo (0.72), o país não tem mão de obra jovem. A IA é uma necessidade, não uma opção."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Ações Governamentais para Adoção",
+        "items": [
+          "Investimento pesado em alfabetização digital para todas as idades.",
+          "Programas públicos ensinam idosos a usar assistentes de IA.",
+          "Regras desenhadas para facilitar a inovação, não para freá-la."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua empresa está pronta para adotar a IA como a Coreia?",
+        "highlight_word": "adotar",
+        "subtext": "Leia o artigo completo no MIT Technology Review."
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal: Como Isso Muda Sua Vida",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Como a IA Sul-Coreana Muda Seu Dia a Dia",
+        "subtext": "Exemplos concretos de como a tecnologia já transforma a vida no país."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Imigração Sem Filas: O Novo Normal",
+        "body": "Ao desembarcar em Seul, a jornalista passou por um posto de imigração não tripulado. Uma máquina escaneou seu rosto e, em segundos, ela estava dentro do país."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "60%",
+        "stat_label": "Dos serviços governamentais sul-coreanos já utilizam IA, segundo o Ministério da Ciência e TIC."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Na Coreia do Sul, a resistência à IA seria irracional. Governos locais usam IA para triagem médica, logística e monitorar idosos que vivem sozinhos.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "IA na Saúde e no Cuidado de Idosos",
+        "body": "Com o envelhecimento populacional acelerado, sistemas de IA já são usados para triagem médica e para monitorar idosos que vivem sozinhos."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Setores Impactados pela IA no Cotidiano",
+        "items": [
+          "Saúde: triagem médica automatizada.",
+          "Logística: entregas otimizadas por IA.",
+          "Serviços públicos: mais de 60% já são automatizados."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Como a IA pode transformar seu trabalho amanhã?",
+        "highlight_word": "transformar",
+        "subtext": "Descubra no artigo completo do MIT Technology Review."
+      }
+    ],
+    "template": "D"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números: Estatísticas Reais",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Coreia do Sul em Números: A Revolução da IA",
+        "subtext": "Dados concretos do MIT Technology Review sobre a adoção de IA no país."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "US$ 45 bilhões",
+        "stat_label": "Valor que o mercado de IA na Coreia do Sul deve atingir até 2027."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "18%",
+        "stat_label": "Taxa de crescimento anual composta do mercado de IA sul-coreano, contra 13% da média global."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "0.72",
+        "stat_label": "Taxa de fertilidade na Coreia do Sul, a mais baixa do planeta, impulsionando a necessidade de IA."
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Vantagem Competitiva das Empresas Locais",
+        "body": "Empresas como Samsung, LG, Kakao e Naver têm vantagem absurda no treinamento de modelos de IA devido à adoção em massa."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Fatores que Explicam os Números",
+        "items": [
+          "Infraestrutura digital de ponta (internet mais rápida do mundo).",
+          "Políticas públicas coordenadas há décadas.",
+          "Cultura de tecnologia como ferramenta de progresso coletivo."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seus dados de IA são tão robustos quanto os da Coreia?",
+        "highlight_word": "robustos",
+        "subtext": "Leia a análise completa no MIT Technology Review."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências: O Que Vem Depois",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da IA: Lições da Coreia do Sul",
+        "subtext": "Projeções e consequências do modelo sul-coreano para o mundo."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Ocidente vs. Coreia: Dois Caminhos para a IA",
+        "body": "Enquanto EUA e Europa debatem comitês de ética, a Coreia do Sul já colhe os frutos de uma economia tech que cresce mais rápido."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "13%",
+        "stat_label": "Crescimento médio global do mercado de IA, contra 18% da Coreia do Sul — uma diferença que só tende a aumentar."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O modelo sul-coreano desafia a premissa de que regulação pesada é o único caminho para uma IA segura. As regras são desenhadas para facilitar a inovação.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Coreia: O Mercado-Teste Perfeito para IA",
+        "body": "Para desenvolvedores, Seul é o mercado mais maduro para testar produtos de IA. Se funciona lá, com seus padrões elevados, funciona em qualquer lugar."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Consequências para o Resto do Mundo",
+        "items": [
+          "Empresas sul-coreanas terão vantagem competitiva global em IA.",
+          "Dados comportamentais únicos para treinar modelos.",
+          "Pressão para que outros países repensem suas estratégias de regulação."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seu país está pronto para competir com a Coreia na corrida da IA?",
+        "highlight_word": "competir",
+        "subtext": "Veja a análise completa no MIT Technology Review."
+      }
+    ],
+    "template": "B"
+  }
+]

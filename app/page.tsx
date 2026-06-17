@@ -1,17 +1,16 @@
-import Image from 'next/image'
-import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import Link from 'next/link'
 import { getSortedArticlesData } from '@/lib/markdown'
 import QuickSubscribeForm from '@/components/QuickSubscribeForm'
 import { HeroHeadline } from '@/components/HeroHeadline'
+import { PulsoMark } from '@/components/PulsoMark'
 
 export default function HomePage() {
   const allArticles = getSortedArticlesData()
 
   const formatDate = (dateStr: string) => {
     const [y, m, d] = dateStr.split('-')
-    const months = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro']
+    const months = ['janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
     return `${parseInt(d, 10)} de ${months[parseInt(m, 10) - 1]} de ${y}`
   }
 
@@ -26,95 +25,87 @@ export default function HomePage() {
   const latestDate = sortedDates[0]
   const todayArticles = latestDate ? grouped[latestDate] : []
   const mainArticle = todayArticles[0]
-  const secondaryTodayArticles = todayArticles.slice(1)
-  const previousDates = sortedDates.slice(1, 4)
+  const secondaryTodayArticles = todayArticles.slice(1, 5)
+  const previousArticles = sortedDates.slice(1).flatMap(date => grouped[date]).slice(0, 8)
 
   return (
     <>
-      <Header />
-      <main className="max-w-editorial mx-auto px-6 md:px-grid-margin py-12">
+      <main className="mx-auto w-full max-w-editorial px-5 py-8 md:px-grid-margin md:py-12">
         {allArticles.length === 0 ? (
-          <div className="py-20 text-center">
-            <h1 className="font-syne font-bold text-4xl text-ink mb-4">Ainda não há artigos</h1>
-            <p className="font-cormorant text-muted text-lg">Aguarde o robô gerar a primeira publicação.</p>
-          </div>
+          <section className="brand-card dieline px-8 py-20 text-center">
+            <p className="brand-kicker mb-4">nr. 000 - aguardando sinal</p>
+            <h1 className="brand-poster mx-auto max-w-3xl text-5xl md:text-7xl">Ainda nao ha artigos</h1>
+            <p className="mx-auto mt-6 max-w-lg font-display text-xl italic text-muted">
+              O primeiro pulso editorial ainda esta sendo gerado.
+            </p>
+          </section>
         ) : (
           <>
-            {/* ── Hero — ink background ── */}
-            <header className="bg-ink -mx-6 md:-mx-grid-margin mb-section-gap px-6 md:px-grid-margin py-10 md:py-14 relative overflow-hidden">
-              {/* Decorative circle */}
-              <div
-                className="absolute top-0 right-0 w-64 h-64 rounded-full border border-white/[0.06] pointer-events-none"
-                style={{ transform: 'translate(50%, -50%)' }}
-              />
+            <section className="dieline relative mb-16 overflow-hidden rounded-2xl bg-text px-6 py-10 text-bg shadow-md md:px-14 md:py-16">
+              <svg className="absolute right-[-12%] top-8 hidden h-[420px] w-[58%] opacity-15 lg:block" viewBox="0 0 800 420" aria-hidden="true">
+                <g transform="rotate(-14 400 210)">
+                  <ellipse cx="400" cy="210" rx="350" ry="118" fill="none" stroke="#F2EDDF" strokeWidth="4" />
+                  <ellipse cx="400" cy="210" rx="260" ry="88" fill="none" stroke="#F2EDDF" strokeWidth="2" strokeDasharray="8 12" />
+                </g>
+                <path d="M 60 230 L 170 230 L 202 164 L 242 292 L 282 134 L 338 318 L 388 132 L 438 318 L 480 176 L 514 230 L 740 230" stroke="#FF6B49" strokeWidth="10" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
 
-              {/* Eyebrow */}
-              <p className="font-dm-mono text-[0.6rem] tracking-[0.2em] uppercase text-electric flex items-center gap-3 mb-5">
-                <span className="inline-block w-4 h-px bg-electric flex-shrink-0" />
-                Edição de {formatDate(latestDate)}
-              </p>
+              <div className="relative max-w-5xl">
+                <div className="mb-10 flex items-center justify-between gap-6 border-b border-[#2D2A36] pb-5">
+                  <div className="flex items-center gap-3">
+                    <PulsoMark inverted className="h-10" />
+                    <span className="font-body text-[0.68rem] font-bold uppercase tracking-[0.2em] text-[#B8B3A0]">nr. 001 - pulso tech</span>
+                  </div>
+                  <span className="hidden font-display text-sm italic text-[#B8B3A0] md:block">
+                    {formatDate(latestDate)}
+                  </span>
+                </div>
 
-              {/* Headline */}
-              <HeroHeadline title={mainArticle.title} slug={mainArticle.slug} />
+                <p className="mb-5 font-display text-xl italic text-[#B8B3A0]">
+                  o ritmo da <span className="text-accent">inteligencia artificial</span> sem o ruido.
+                </p>
+                <HeroHeadline title={mainArticle.title} slug={mainArticle.slug} />
 
-              <div className="border-t border-white/10 mb-5 max-w-3xl" />
-
-              {/* Tags */}
-              {mainArticle.tags && mainArticle.tags.length > 0 && (
-                <div className="flex flex-wrap gap-2 mb-6">
-                  {mainArticle.tags.map(tag => (
-                    <span key={tag} className="font-dm-mono text-[0.6rem] tracking-[0.15em] uppercase px-3 py-1 border border-electric/60 text-electric/80">
+                <div className="mb-8 flex flex-wrap gap-2">
+                  {mainArticle.tags?.slice(0, 4).map(tag => (
+                    <span key={tag} className="tag-brand bg-[#1A1820] text-accent">
                       {tag}
                     </span>
                   ))}
                 </div>
-              )}
 
-              {/* Actions */}
-              <div className="flex gap-6 items-center flex-wrap">
-                <Link
-                  href={`/post/${mainArticle.slug}`}
-                  className="inline-block bg-cream text-ink font-syne font-semibold text-[0.78rem] tracking-[0.12em] uppercase px-8 py-[0.9rem] hover:bg-electric transition-colors duration-200"
-                >
-                  Ler Artigo
-                </Link>
-                <Link
-                  href="/archive"
-                  className="text-warm-gray font-dm-mono text-[0.72rem] tracking-[0.1em] uppercase flex items-center gap-2 hover:text-white transition-colors"
-                >
-                  Ver todos os posts →
-                </Link>
-              </div>
-
-              {/* Cover image — subtle, aligned right */}
-              {mainArticle.image && (
-                <div className="absolute right-0 top-0 bottom-0 w-[30%] hidden lg:block opacity-20 pointer-events-none">
-                  <Image src={mainArticle.image} alt="" fill sizes="30vw" className="object-cover" />
+                <div className="flex flex-wrap items-center gap-4">
+                  <Link href={`/post/${mainArticle.slug}`} className="btn-primary">
+                    Ler sinal principal
+                  </Link>
+                  <Link href="/resumo-do-dia" className="font-body text-xs font-extrabold uppercase tracking-[0.12em] text-[#B8B3A0] hover:text-bg">
+                    Ver resumo do dia
+                  </Link>
                 </div>
-              )}
-            </header>
+              </div>
+            </section>
 
-            {/* ── Secondary articles ── */}
             {secondaryTodayArticles.length > 0 && (
-              <section className="mb-section-gap">
-                <p className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-muted mb-6">
-                  Também na edição de hoje
-                </p>
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-0 md:gap-6">
-                  {secondaryTodayArticles.map(article => (
-                    <Link
-                      key={article.slug}
-                      href={`/post/${article.slug}`}
-                      className="block border-t border-warm-gray py-5 md:pt-4 md:pb-0 group active:bg-paper/60 transition-colors"
-                    >
-                      <span className="font-dm-mono text-[0.56rem] tracking-[0.12em] uppercase text-muted mb-2 block">
-                        {formatDate(article.date.split('T')[0])}
-                      </span>
-                      <h4 className="font-syne font-bold text-ink text-xl leading-tight group-hover:text-muted transition-colors">
-                        {article.title}
-                      </h4>
-                      <span className="mt-3 inline-flex items-center gap-1 font-dm-mono text-[0.58rem] tracking-[0.12em] uppercase text-muted group-hover:text-ink transition-colors">
-                        Ler →
+              <section className="mb-16">
+                <div className="mb-5 flex items-baseline gap-4">
+                  <span className="brand-meta text-text">01 / tambem hoje</span>
+                  <span className="h-px flex-1 bg-border" />
+                  <span className="font-display text-sm italic text-muted">sinais em rotacao</span>
+                </div>
+                <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
+                  {secondaryTodayArticles.map((article, i) => (
+                    <Link key={article.slug} href={`/post/${article.slug}`} className="brand-card group flex min-h-[220px] flex-col justify-between p-6">
+                      <div>
+                        <div className="mb-4 flex items-center justify-between gap-4">
+                          <span className="brand-meta">{String(i + 2).padStart(2, '0')}</span>
+                          <span className="h-2 w-2 rounded-full bg-accent" />
+                        </div>
+                        <h2 className="font-display text-2xl italic leading-tight text-text md:text-3xl">
+                          {article.title}
+                        </h2>
+                      </div>
+                      <span className="mt-8 font-body text-[0.68rem] font-extrabold uppercase tracking-[0.12em] text-accent">
+                        Abrir analise
                       </span>
                     </Link>
                   ))}
@@ -122,73 +113,43 @@ export default function HomePage() {
               </section>
             )}
 
-            {/* ── Ad placeholder ── */}
-            <div className="w-full h-20 mb-section-gap border border-warm-gray flex items-center justify-center bg-paper">
-              <span className="font-dm-mono text-[0.6rem] tracking-[0.18em] uppercase text-muted">
-                Parceria Editorial — Tech&amp;Future
-              </span>
-            </div>
+            <section className="mb-16 grid gap-6 border-y border-border py-12 md:grid-cols-[0.9fr_1.4fr] md:gap-12">
+              <div>
+                <p className="brand-kicker mb-4">newsletter / ia & tecnologia</p>
+                <h2 className="brand-poster text-5xl md:text-7xl">
+                  Toda nova<br />analise no email.
+                </h2>
+              </div>
+              <div className="flex flex-col justify-end gap-6">
+                <p className="max-w-xl font-display text-2xl italic leading-snug text-muted">
+                  Cada post nasce com um briefing privado. Quando o sinal sai, o email sai junto.
+                </p>
+                <QuickSubscribeForm />
+              </div>
+            </section>
 
-            {/* ── Editorial grid ── */}
-            {previousDates.length > 0 && (
-              <section className="grid grid-cols-12 gap-grid-gutter mb-section-gap">
-                {/* Left — previous editions */}
-                <div className="col-span-12 border border-ink p-8 md:p-12">
-                  <p className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-muted mb-8">
-                    Publicações Anteriores
-                  </p>
-                  <div className="space-y-12">
-                    {previousDates.map(date => (
-                      <div key={date}>
-                        <h3 className="font-dm-mono text-[0.65rem] tracking-[0.1em] uppercase text-muted border-b border-warm-gray pb-2 mb-6">
-                          Edição de {formatDate(date)}
-                        </h3>
-                        <div className="flex flex-col gap-5">
-                          {grouped[date].map(article => (
-                            <Link
-                              key={article.slug}
-                              href={`/post/${article.slug}`}
-                              className="group flex items-baseline gap-4"
-                            >
-                              <span className="font-dm-mono text-[0.54rem] tracking-[0.1em] uppercase text-muted flex-shrink-0 pt-[0.3em]">
-                                {article.date.split('T')[0].slice(5).replace('-', '/')}
-                              </span>
-                              <h2 className="font-cormorant font-light text-ink text-2xl leading-tight group-hover:text-muted transition-colors">
-                                {article.title}
-                              </h2>
-                            </Link>
-                          ))}
-                        </div>
-                      </div>
-                    ))}
-                  </div>
-                  <div className="mt-12 pt-8 border-t border-warm-gray">
-                    <Link
-                      href="/archive"
-                      className="font-dm-mono text-[0.65rem] tracking-[0.15em] uppercase text-ink hover:text-muted transition-colors flex items-center gap-2"
-                    >
-                      Ver todo o arquivo →
-                    </Link>
-                  </div>
+            {previousArticles.length > 0 && (
+              <section className="mb-12">
+                <div className="mb-5 flex items-baseline gap-4">
+                  <span className="brand-meta text-text">02 / arquivo recente</span>
+                  <span className="h-px flex-1 bg-border" />
+                  <Link href="/archive" className="font-body text-[0.68rem] font-extrabold uppercase tracking-[0.12em] text-accent hover:text-accent-hover">
+                    Ver arquivo
+                  </Link>
                 </div>
-
+                <div className="divide-y divide-border rounded-lg border border-border bg-surface shadow-sm">
+                  {previousArticles.map(article => (
+                    <Link key={article.slug} href={`/post/${article.slug}`} className="grid gap-3 p-5 transition-colors hover:bg-surface-hover md:grid-cols-[120px_1fr_auto] md:items-center">
+                      <span className="brand-meta">{article.date.split('T')[0].slice(5).replace('-', '/')}</span>
+                      <h3 className="font-display text-xl italic leading-tight text-text">{article.title}</h3>
+                      <span className="font-body text-[0.68rem] font-extrabold uppercase tracking-[0.12em] text-faint">Ler</span>
+                    </Link>
+                  ))}
+                </div>
               </section>
             )}
           </>
         )}
-
-        {/* ── Newsletter ── */}
-        <section className="w-full py-20 border-t border-warm-gray flex flex-col md:flex-row items-start md:items-center justify-between gap-12 mt-12">
-          <div className="max-w-md">
-            <h4 className="font-cormorant font-light italic text-ink text-3xl mb-4 leading-tight">
-              Assine o Pulso
-            </h4>
-            <p className="font-cormorant font-light text-muted text-lg leading-relaxed">
-              O ritmo da tecnologia e IA direto no seu email — toda manhã às 06h, grátis.
-            </p>
-          </div>
-          <QuickSubscribeForm />
-        </section>
       </main>
       <Footer />
     </>

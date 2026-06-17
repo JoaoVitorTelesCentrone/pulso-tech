@@ -1,0 +1,223 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Como funciona",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "LLMs falham em lógica. Prolog salva.",
+        "subtext": "Paper do arXiv propõe delegar raciocínio dedutivo a um motor Prolog via protocolo MCP."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O problema: raciocínio dedutivo",
+        "body": "LLMs, mesmo os reasoning-tuned, falham consistentemente em tarefas dedutivas com múltiplos passos lógicos encadeados. A abordagem de aumentar cadeias de pensamento (CoT) escala pessimamente."
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "A solução: PrologMCP",
+        "body": "O LLM traduz o problema em uma consulta Prolog. O motor Prolog resolve a lógica de forma determinística e correta. O resultado é devolvido ao LLM para integrar na resposta final."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "10x a 100x",
+        "stat_label": "Fator de aumento no custo de inferência de modelos de raciocínio como o1 da OpenAI, comparado a uma resposta direta, devido a dezenas de milhares de tokens de 'pensamento interno'."
+      },
+      {
+        "n": 5,
+        "type": "quote",
+        "quote": "\"O PrologMCP transforma o LLM de um raciocinador falho em um orquestrador inteligente que sabe quando e como usar uma ferramenta especializada.\""
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Mecanismo em 5 passos",
+        "items": [
+          "LLM recebe problema de raciocínio.",
+          "Gera uma consulta Prolog bem formada.",
+          "PrologMCP envia consulta ao motor Prolog.",
+          "Motor resolve e retorna resultado determinístico.",
+          "LLM incorpora resultado correto na resposta final."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer ver o código do PrologMCP?",
+        "highlight_word": "código",
+        "subtext": "Leia o paper completo no arXiv e entenda como implementar essa ponte simbólica."
+      }
+    ],
+    "template": "F"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal no trabalho",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Seu LLM vai parar de alucinar lógica",
+        "subtext": "PrologMCP promete respostas deterministicamente corretas para problemas dedutivos complexos."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Fim do 'achismo' lógico",
+        "body": "Em vez de gerar cadeias de pensamento longas e propensas a erro, o LLM delega a lógica a um motor Prolog. Resultado: respostas garantidas, sem alucinações dedutivas."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "50 passos",
+        "stat_label": "Um passo errado em uma corrente de 50 passos de raciocínio invalida todo o resultado. Estudos internos da OpenAI e Anthropic mostram taxa de erro alta em raciocínios com mais de 10 passos."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O custo de execução de uma consulta Prolog é, na maioria dos casos práticos, ordens de magnitude menor do que gerar milhares de tokens de raciocínio.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Menos custo, mais confiança",
+        "body": "Você não precisa mais pagar 10x a 100x mais por inferência para ter raciocínio. O PrologMCP resolve com custo muito menor e precisão determinística."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Problemas que você pode resolver",
+        "items": [
+          "Provas formais e verificação de consistência.",
+          "Planejamento complexo com múltiplas restrições.",
+          "Consultas lógicas em bases de conhecimento."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Seu trabalho depende de raciocínio lógico?",
+        "highlight_word": "raciocínio",
+        "subtext": "Descubra como o PrologMCP pode transformar sua produtividade. Leia o artigo completo."
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números do paper",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Os números do colapso lógico dos LLMs",
+        "subtext": "Paper do arXiv expõe custos e falhas com dados concretos."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "10x a 100x",
+        "stat_label": "Aumento no custo de inferência de modelos de raciocínio como o1 da OpenAI comparado a respostas diretas, devido a dezenas de milhares de tokens de 'pensamento interno'."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "50 passos",
+        "stat_label": "Um passo errado em uma corrente de 50 passos de raciocínio invalida todo o resultado. Taxa de erro é significativamente alta em raciocínios com mais de 10 passos."
+      },
+      {
+        "n": 4,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Custo duplo da degradação",
+        "body": "Custo computacional: inferência multiplicada por 10x a 100x. Custo de confiabilidade: erro lógico em cadeias longas invalida o resultado. PrologMCP ataca ambos."
+      },
+      {
+        "n": 5,
+        "type": "quote",
+        "quote": "\"O custo de execução de uma consulta Prolog é, na maioria dos casos práticos, ordens de magnitude menor do que gerar milhares de tokens de raciocínio.\""
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Benchmarks afetados",
+        "items": [
+          "GSM8K (matemática): modelos de raciocínio melhoram desempenho.",
+          "GPQA (ciência): cadeias de pensamento internas ajudam.",
+          "Dedução lógica pura: desempenho degrada rapidamente com profundidade."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quer ver os números completos?",
+        "highlight_word": "números",
+        "subtext": "Acesse o paper no arXiv e confira as estatísticas detalhadas do PrologMCP."
+      }
+    ],
+    "template": "D"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro: Agentes e ferramentas",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O futuro é modular: LLM + ferramentas",
+        "subtext": "PrologMCP é a formalização da virada para sistemas de agentes com delegação inteligente."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Fim dos modelos monolíticos",
+        "body": "A indústria caminha para sistemas modulares: LLM como 'cérebro' orquestrador, delegando tarefas específicas (cálculo, busca, código, lógica) a ferramentas externas especializadas."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "10x a 100x",
+        "stat_label": "Custo de inferência de modelos monolíticos de raciocínio como o1. PrologMCP reduz isso drasticamente ao delegar lógica a um motor Prolog de baixo custo."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Isso ressoa com uma tendência maior no ecossistema de IA: a virada para agentes e ferramentas. Em vez de modelos monolíticos, sistemas modulares.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "PrologMCP como padrão",
+        "body": "Baseado no protocolo MCP (Model Context Protocol), o PrologMCP padroniza a interface para delegação de raciocínio lógico. Pode se tornar o padrão da indústria para agentes confiáveis."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "O que vem por aí",
+        "items": [
+          "LLMs orquestradores delegando lógica a Prolog.",
+          "Redução drástica de custos de inferência.",
+          "Sistemas de IA com garantias lógicas formais."
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "O futuro da IA é modular. Você está preparado?",
+        "highlight_word": "modular",
+        "subtext": "Leia o artigo completo e entenda como o PrologMCP pode moldar a próxima geração de agentes de IA."
+      }
+    ],
+    "template": "C"
+  }
+]

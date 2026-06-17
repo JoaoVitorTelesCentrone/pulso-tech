@@ -1,0 +1,222 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: Como medir confiança entre agentes",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Confiança Programável: A Nova Fronteira da IA",
+        "subtext": "Paper do arXiv propõe métrica padronizada para confiança entre agentes de IA"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O Problema Fundamental",
+        "body": "Como um agente de IA sabe em quem confiar? O paper arXiv:2606.14923 introduz uma medida comportamental baseada em verificação custosa para resolver isso."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "3",
+        "stat_label": "Dimensões críticas abordadas: formação, ruptura e recuperação da confiança entre agentes de IA"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Em um sistema multi-agente, cada agente precisa decidir quanto investir para verificar as ações de seus colegas. Esse custo de verificação se torna uma proxy quantificável do nível de confiança.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O Mecanismo de Verificação Custosa",
+        "body": "Cada agente tem um orçamento computacional (tokens, tempo ou chamadas de API). Quanto mais gasta para verificar outro agente, menor a confiança."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Cenários Críticos para Sistemas Multi-Agente",
+        "items": [
+          "Cadeias de suprimentos autônomas: agentes podem mentir sobre capacidade",
+          "Mercados financeiros algorítmicos: agentes podem enganar para manipular preços",
+          "Infraestrutura crítica: desconfiança excessiva causa ineficiência, confiança cega leva a colapsos"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua empresa já calibra a confiança entre agentes?",
+        "highlight_word": "confiança",
+        "subtext": "Leia o artigo completo no blog Tech&Future"
+      }
+    ],
+    "template": "C"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto pessoal: Como isso afeta seu trabalho",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Agentes de IA Vão Decidir por Você",
+        "subtext": "Sem métricas de confiança, sistemas multi-agente podem falhar catastróficamente"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O Paradoxo da Indústria",
+        "body": "Mercado corre para construir agentes autônomos, mas quase ninguém responde: como esses agentes vão cooperar de forma confiável?"
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "0%",
+        "stat_label": "Verificação zero entre agentes = risco de falha catastrófica em sistemas multi-agente"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Sem essa calibração, sistemas multi-agente podem sofrer de paralisia burocrática ou vulnerabilidade sistêmica.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O Ponto Ótimo da Confiança",
+        "body": "Os pesquisadores chamam de 'confiança calibrada': verificação mínima mas suficiente. Se um agente verifica 100% das ações, a colaboração em larga escala é inviável."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Empresas que já implantam agentes multi-agente",
+        "items": [
+          "OpenAI",
+          "Anthropic",
+          "Google DeepMind",
+          "Microsoft"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Você confiaria em um agente que nunca verificou?",
+        "highlight_word": "confiaria",
+        "subtext": "Descubra como a confiança programável pode salvar sua carreira em IA"
+      }
+    ],
+    "template": "E"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e números: Fatos quantitativos do paper",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Os Números da Confiança Algorítmica",
+        "subtext": "Paper arXiv:2606.14923 revela métricas para sistemas multi-agente"
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "1970",
+        "stat_label": "Ano em que Michael Spence popularizou a teoria dos jogos e modelos de sinalização, base do conceito de verificação custosa"
+      },
+      {
+        "n": 3,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "O Orçamento Computacional",
+        "body": "Cada agente possui orçamento medido em tokens, tempo de processamento ou chamadas de API para verificar outros agentes."
+      },
+      {
+        "n": 4,
+        "type": "stat",
+        "stat_number": "100%",
+        "stat_label": "Verificação total das ações de outro agente = colaboração inviável em larga escala por custo computacional e temporal"
+      },
+      {
+        "n": 5,
+        "type": "quote",
+        "quote": "\"O ponto ótimo — onde a verificação é mínima mas suficiente — é o que os pesquisadores chamam de 'confiança calibrada'.\""
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Custos da Falta de Calibração",
+        "items": [
+          "Paralisia burocrática: verificação excessiva anula ganhos de eficiência",
+          "Vulnerabilidade sistêmica: confiança ingênua permite exploração por agentes maliciosos",
+          "Colapso em infraestrutura crítica: desconfiança excessiva causa ineficiência"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Qual é o custo da confiança cega na sua empresa?",
+        "highlight_word": "custo",
+        "subtext": "Leia a análise completa no blog Tech&Future"
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro: Consequências e próximos passos",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Futuro da Governança de Agentes",
+        "subtext": "Confiança programável pode desbloquear ou travar a economia autônoma"
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "A Inovação do Paper",
+        "body": "Traduz o conceito econômico de verificação custosa para o contexto específico de agentes de linguagem, criando métrica operacionalizável para produção."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2026",
+        "stat_label": "Ano de publicação do paper que pode definir o futuro da governança de sistemas multi-agente"
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O trabalho emerge de um grupo focado em governança de sistemas multi-agente, um campo que vem ganhando tração exponencial.\""
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "O Mecanismo em Ação",
+        "body": "Agente A delega tarefa a B e decide quanto gastar do orçamento para verificar. Histórico de interações define confiança futura."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Cenários Futuros com Confiança Calibrada",
+        "items": [
+          "Cadeias de suprimentos autônomas com negociação confiável entre empresas",
+          "Mercados financeiros com agentes que não enganam para manipular preços",
+          "Desenvolvimento de software com agentes que não introduzem código malicioso"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua empresa está pronta para a economia de agentes autônomos?",
+        "highlight_word": "pronta",
+        "subtext": "Leia o artigo completo e prepare-se para o futuro"
+      }
+    ],
+    "template": "D"
+  }
+]

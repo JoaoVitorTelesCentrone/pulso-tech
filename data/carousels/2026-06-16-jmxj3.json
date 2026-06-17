@@ -1,0 +1,225 @@
+[
+  {
+    "carousel_id": 1,
+    "angle": "Educacional: O Mecanismo da Falha",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Claude Caiu: A Anatomia de um Apagão de IA",
+        "subtext": "O dia em que a infraestrutura crítica de IA mostrou suas fragilidades."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Falha no Plano de Controle",
+        "body": "O incidente afetou 'muitos modelos' da família Claude, indicando uma falha no control plane que gerencia o roteamento de requisições entre clusters de GPU."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2 a 4 horas",
+        "stat_label": "Duração estimada da interrupção, baseada em relatos de usuários que começaram a reportar erros horas antes do anúncio oficial."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Quando ele cai, não é um 'erro 404' qualquer — é uma parada de operações.\"",
+        "source": "Artigo original"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Efeito Cascata no KV Cache",
+        "body": "Uma falha no sistema de KV cache ou no scheduler de GPUs pode causar um efeito cascata: requisições falham, clusters secundários sobrecarregam, gerando um brownout generalizado."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Camadas Compartilhadas Afetadas",
+        "items": [
+          "Sistema de orquestração de inferência",
+          "Balanceador de carga",
+          "Banco de dados de contexto"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Sua empresa está preparada para um apagão de IA?",
+        "highlight_word": "apagão",
+        "subtext": "Leia o artigo completo e entenda os riscos."
+      }
+    ],
+    "template": "A"
+  },
+  {
+    "carousel_id": 2,
+    "angle": "Impacto Pessoal: O Custo da Dependência",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "Seu Negócio Parou Junto com o Claude?",
+        "subtext": "O impacto real de uma interrupção de IA em startups, fintechs e hospitais."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Desenvolvedores em Pânico",
+        "body": "No Hacker News, a notícia alcançou 154 pontos e 139 comentários, refletindo o pânico de desenvolvedores que dependem de Claude para debugging e produção."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "Milhões de dólares",
+        "stat_label": "Custo estimado de receita perdida para empresas dependentes durante uma interrupção de 2 a 4 horas em um serviço crítico de IA."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"Você não controla a sua própria operação.\"",
+        "source": "Artigo original"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Perda de Receita em Tempo Real",
+        "body": "Para gestores, a interrupção significa perda de receita em tempo real. Para investidores, o valuation de empresas 'AI-first' pode evaporar na velocidade de um erro 503."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Setores Impactados",
+        "items": [
+          "Startups que integraram Claude em fluxos críticos",
+          "Fintechs que usam IA para transações",
+          "Hospitais e plataformas de customer service"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Quanto sua empresa perderia em 4 horas sem IA?",
+        "highlight_word": "perderia",
+        "subtext": "Descubra no artigo completo."
+      }
+    ],
+    "template": "B"
+  },
+  {
+    "carousel_id": 3,
+    "angle": "Dados e Números: A Escala do Problema",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "154 Pontos, 139 Comentários, 1 Apagão",
+        "subtext": "Os números que mostram a dependência crítica de Claude no ecossistema de IA."
+      },
+      {
+        "n": 2,
+        "type": "stat",
+        "stat_number": "154",
+        "stat_label": "Pontos no Hacker News — um termômetro de atenção. Incidentes da OpenAI raramente passam de 50 pontos."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "139",
+        "stat_label": "Comentários no Hacker News, indicando que Claude se tornou uma ferramenta central para o desenvolvimento de software."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"O incidente de hoje é o equivalente, no mundo da IA, ao apagão da AWS em 2017 que derrubou meio milhão de sites.\"",
+        "source": "Artigo original"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Cobertura Total dos Modelos",
+        "body": "'Many models' sugere que Claude 5, Haiku e Sonnet foram afetados, eliminando a possibilidade de um bug específico e apontando para um problema de infraestrutura."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Comparação com Concorrentes",
+        "items": [
+          "OpenAI: incidentes similares em 2024 e 2025",
+          "Google: vantagem por operar própria infraestrutura (GCP)",
+          "Anthropic: dependente de AWS e GCP, menos controle sobre hardware"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "Os números não mentem: sua infraestrutura é frágil?",
+        "highlight_word": "frágil",
+        "subtext": "Leia a análise completa."
+      }
+    ],
+    "template": "C"
+  },
+  {
+    "carousel_id": 4,
+    "angle": "Futuro e Consequências: O Risco Sistêmico",
+    "slides": [
+      {
+        "n": 1,
+        "type": "cover",
+        "headline": "O Apagão de IA que Mudou Tudo",
+        "subtext": "Como a interrupção do Claude expôs o risco sistêmico da dependência de modelos de fronteira."
+      },
+      {
+        "n": 2,
+        "type": "content",
+        "topic_number": "01",
+        "headline": "Risco Sistêmico em Modelos de Fronteira",
+        "body": "A confiabilidade de GPT-5, Claude 5 e Gemini Ultra tornou-se um fator crítico de risco sistêmico para empresas que construíram produtos inteiramente sobre APIs de terceiros."
+      },
+      {
+        "n": 3,
+        "type": "stat",
+        "stat_number": "2017",
+        "stat_label": "Ano do apagão da AWS que derrubou meio milhão de sites — o equivalente, no mundo da IA, ao incidente do Claude em 2026."
+      },
+      {
+        "n": 4,
+        "type": "quote",
+        "quote": "\"A dependência é ainda mais profunda: não é apenas infraestrutura de nuvem, mas o próprio cérebro do produto que para de funcionar.\"",
+        "source": "Artigo original"
+      },
+      {
+        "n": 5,
+        "type": "content",
+        "topic_number": "02",
+        "headline": "Narrativa de Confiabilidade Quebrada",
+        "body": "A Anthropic construiu sua reputação em cima de 'confiabilidade e segurança'. Este incidente quebra essa narrativa, enquanto Google se beneficia por operar sua própria nuvem."
+      },
+      {
+        "n": 6,
+        "type": "list",
+        "headline": "Lições para o Futuro",
+        "items": [
+          "Diversificar provedores de IA para evitar dependência única",
+          "Investir em infraestrutura própria ou híbrida",
+          "Preparar planos de contingência para interrupções de 2 a 4 horas"
+        ]
+      },
+      {
+        "n": 7,
+        "type": "cta",
+        "headline": "O próximo apagão pode ser o seu. Está preparado?",
+        "highlight_word": "preparado",
+        "subtext": "Leia o artigo e repense sua estratégia."
+      }
+    ],
+    "template": "D"
+  }
+]
