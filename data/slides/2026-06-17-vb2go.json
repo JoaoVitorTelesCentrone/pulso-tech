@@ -1,0 +1,53 @@
+{
+  "title": "Ling 2.6 e Ring 2.6: O Salto dos Trilhões de Parâmetros que Pode Redefinir a Economia dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Salto dos Trilhões de Parâmetros",
+      "subtext": "Como Ling 2.6 e Ring 2.6 podem quebrar o trilema da IA agente: latência, raciocínio e escala.",
+      "image_prompt": "Futuristic digital brain with glowing neural pathways, split into two halves representing speed and depth, dark blue and neon orange color palette, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado se distrai com chatbots mais rápidos, um paper silencioso do arXiv apresenta uma família de modelos que promete resolver o trilema da IA agente: latência, raciocínio e escala.",
+      "highlight": "O custo de não prestar atenção pode ser ficar para trás na próxima onda de automação."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Ling 2.6 e Ring 2.6 são modelos de trilhões de parâmetros que combinam atenção esparsa dinâmica, rotas de inferência adaptativas e compressão de estados intermediários para entregar inteligência agentiva com latência de tempo real.",
+      "visual_hint": "Ícone de engrenagem com raios de luz, representando eficiência e velocidade"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Agentes de IA atuais são rápidos e rasos ou profundos e lentos. Ling e Ring quebram essa barreira, viabilizando automação em call centers, DevOps e suporte técnico com latência abaixo de 1 segundo.",
+      "visual_hint": "Gráfico de linha mostrando a curva de trade-off entre latência e profundidade sendo quebrada"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos com trilhões de parâmetros operando com eficiência de centenas de bilhões",
+        "Latência abaixo de 1 segundo em tarefas agentivas complexas",
+        "Redução drástica no custo por tarefa agente, turbinando o ROI da automação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução do custo por tarefa agente: automação se torna viável em escala",
+        "Viabilização de agentes em tempo real para suporte, código e indústria",
+        "Mudança no paradigma de treinamento: modelos gigantes podem ser podados dinamicamente para cada requisição"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A corrida por agentes de IA está entrando em uma nova fase. A eficiência será o diferencial competitivo."
+    }
+  ]
+}

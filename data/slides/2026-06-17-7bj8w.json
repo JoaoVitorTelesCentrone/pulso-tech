@@ -1,0 +1,53 @@
+{
+  "title": "A Conta de Carbono da IA: Anthropic Entra na Coalizão de US$ 915 Mi e Assume o Passivo Ambiental do Setor",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Conta de Carbono da IA",
+      "subtext": "Enquanto o mercado debate o custo dos tokens, a Anthropic acaba de internalizar um passivo que a concorrência ainda ignora: o preço real do carbono gerado por cada inferência de IA.",
+      "image_prompt": "A futuristic data center with glowing servers and carbon dioxide molecules floating above, dark blue and neon green tones, cinematic lighting, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Anthropic tornou-se a primeira startup de IA a ingressar como membro pleno na Frontier Carbon Removal Coalition, que acaba de receber novos compromissos de US$ 915 milhões para financiar projetos de remoção de carbono. Até agora, a coalizão era dominada por big techs consolidadas e setores intensivos em carbono.",
+      "highlight": "US$ 915 milhões em novos compromissos para remoção de carbono"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Anthropic se comprometeu a pagar por toneladas de CO₂ removido a preços entre US$ 200 e US$ 600 por tonelada, via contratos de compra antecipada. O movimento sinaliza que o setor de IA está começando a contabilizar seu próprio passivo ambiental.",
+      "visual_hint": "Ícone de balança com um chip de IA de um lado e uma nuvem de CO₂ do outro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O treinamento e a inferência de modelos de fronteira consomem volumes de energia que rivalizam com plantas industriais médias. Com a corrida por modelos maiores e agentes autônomos, a pegada de carbono da IA está se tornando um risco reputacional e regulatório.",
+      "visual_hint": "Gráfico de linha ascendente mostrando o crescimento do consumo de energia da IA vs. indústrias tradicionais"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Um único treinamento do GPT-4 gerou cerca de 10.000 toneladas de CO₂ equivalente",
+        "Preço por tonelada de CO₂ removido: entre US$ 200 e US$ 600",
+        "Total de compromissos da coalizão ultrapassa US$ 2,5 bilhões"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Diferenciação de marca: Anthropic se posiciona como 'IA responsável' também no impacto planetário",
+        "Preparação regulatória: antecipação a exigências de compensação de carbono na UE e EUA",
+        "Criação de barreira de entrada: startups menores dificilmente terão caixa para arcar com esses compromissos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O passivo ambiental está sendo precificado. Quem não se preparar pagará mais caro no futuro."
+    }
+  ]
+}

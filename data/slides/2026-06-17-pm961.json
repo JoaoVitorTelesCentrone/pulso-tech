@@ -1,0 +1,53 @@
+{
+  "title": "AdaMame: A Receita Secreta para Salvar o Raciocínio Multilíngue dos Modelos de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "AdaMame: A Receita Secreta para Salvar o Raciocínio Multilíngue dos Modelos de IA",
+      "subtext": "Enquanto os LLMs dominam o inglês, eles sofrem um colapso cognitivo em outras línguas. Um novo método de treinamento promete consertar isso sem quebrar o banco.",
+      "image_prompt": "A futuristic digital brain with multiple language flags floating around it, glowing circuits, dark blue and purple tech background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de IA de grande porte (LRMs) são treinados em múltiplos idiomas, mas falham ao raciocinar na língua da pergunta. Esse fenômeno, chamado de language collapse, faz com que o modelo 'pense' em inglês mesmo quando questionado em português, espanhol ou mandarim.",
+      "highlight": "Language collapse: o modelo responde bem em inglês, mas colapsa em outros idiomas."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o AdaMame, uma receita de treinamento que combina aprendizado por reforço com um mecanismo de recompensa adaptativo para fidelidade linguística. Em vez de penalizar ou recompensar de forma binária, o método ajusta dinamicamente o peso da recompensa com base no desempenho do modelo.",
+      "visual_hint": "Ícone de balança ajustável ou gráfico de curva de aprendizado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O language collapse não é apenas um detalhe técnico — é uma barreira econômica e geopolítica. Empresas que expandem para mercados não anglófonos enfrentam um dilema: treinar modelos específicos para cada língua (caríssimo) ou oferecer um serviço de segunda categoria.",
+      "visual_hint": "Mapa-múndi com regiões destacadas ou ícone de globo com cifrão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de localização de IA estimado em dezenas de bilhões de dólares",
+        "Fine-tuning monolíngue: treinar um modelo separado para cada idioma é proibitivo",
+        "AdaMame preserva a acurácia do raciocínio enquanto reduz significativamente o language collapse"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica de custos de localização para empresas globais",
+        "Chatbots e assistentes que realmente pensam no idioma do usuário",
+        "Maior confiabilidade em setores críticos como direito, medicina e finanças"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA multilíngue está sendo escrito agora. Não fique de fora."
+    }
+  ]
+}

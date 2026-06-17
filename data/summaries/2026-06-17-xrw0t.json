@@ -1,0 +1,16 @@
+{
+  "tldr": "O blackout da Anthropic expôs a fragilidade da dependência global da infraestrutura de IA americana, levando líderes do G7 a exigirem 'soberania digital operacional' e redefinindo o debate geopolítico para o controle do acesso à computação e modelos.",
+  "key_facts": [
+    "Blackout da Anthropic derrubou o Claude por horas, paralisando operações de milhares de empresas e governos.",
+    "Macron e Modi levantaram alerta no G7 sobre vulnerabilidade estratégica da dependência de IA americana.",
+    "Dependência se sustenta em três pilares: compute (clusters NVIDIA/TPUs), APIs fechadas e cadeia de suprimentos de chips sob jurisdição dos EUA.",
+    "Líderes exigem 'soberania digital operacional' – capacidade de manter sistemas críticos sem acesso a infraestrutura americana."
+  ],
+  "why_it_matters": "A notícia sinaliza o nascimento do 'nacionalismo de infraestrutura de IA', que pode forçar big techs americanas a ceder em arquitetura (modelos open-weight, redundância multi-nuvem) ou perder contratos bilionários para players locais ou chineses, redefinindo o cálculo de risco para qualquer operação baseada em APIs americanas.",
+  "watch_next": [
+    "Pressão do G7 por modelos open-weight e redundância multi-nuvem das big techs americanas.",
+    "Possível migração de contratos governamentais para provedores locais ou chineses.",
+    "Adoção de doutrinas de 'soberania digital operacional' por outros países e blocos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um incidente técnico (blackout da Anthropic) a uma mudança geopolítica concreta no G7, usando a analogia do 'interruptor nuclear digital' para mostrar que o poder técnico dos EUA equivale a poder político, independentemente de intenção. Foi escolhido por antecipar uma nova doutrina de 'nacionalismo de infraestrutura de IA' que impactará diretamente o ecossistema de startups, investidores e formuladores de políticas."
+}

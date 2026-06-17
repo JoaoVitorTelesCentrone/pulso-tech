@@ -1,0 +1,53 @@
+{
+  "title": "A Tensão na Cúpula do G7: O Jantar que Expôs a Guerra Fria entre a Anthropic e a Casa Branca",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Jantar que Expôs a Guerra Fria entre a Anthropic e a Casa Branca",
+      "subtext": "Enquanto o CEO da Anthropic almoçava com líderes do G7, os bastidores revelavam uma briga regulatória que pode definir o teto de valuation de toda a indústria de IA.",
+      "image_prompt": "A tense dinner table at a G7 summit, world leaders and a tech CEO in suits, dark moody lighting, geopolitical tension, cinematic photography style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "No dia 17 de junho de 2026, durante a Cúpula do G7 em Évian-les-Bains, o CEO da Anthropic, Dario Amodei, participou de um almoço de trabalho com líderes mundiais. A imagem de um executivo de IA à mesa com chefes de estado parecia simbolizar maturidade — mas o clima era de confronto direto com a Casa Branca.",
+      "highlight": "A briga regulatória pode definir o teto de valuation de toda a indústria de IA."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A administração Trump pressiona por restrições duras ao modelo Fable (da família Mythos), classificando-o como 'tecnologia de uso dual'. A Anthropic resiste, argumentando que as regras sufocam a inovação e beneficiam concorrentes chineses. Amodei estava no G7 para fazer lobby contra a própria Casa Branca.",
+      "visual_hint": "Ícone de aperto de mão com um cadeado no centro, simbolizando conflito entre cooperação e controle"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este é o primeiro grande teste de fogo da regulação de modelos de fronteira em escala global. Se a Casa Branca conseguir impor limites ao Fable, o mesmo argumento será usado contra OpenAI (GPT-6), Google (Gemini Ultra 3) e Meta (Llama 5). A briga de hoje define o teto regulatório para toda a indústria pelos próximos anos.",
+      "visual_hint": "Gráfico de dominó caindo, representando o efeito cascata regulatório"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Valuation da Anthropic: US$ 900 bilhões em negociações privadas",
+        "Modelo Fable: classificado como 'raciocínio autônomo avançado'",
+        "Impacto potencial: redução drástica do TAM (mercado endereçável total)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Governo americano dividido: G7 tenta frente unificada, Trump adota postura agressiva",
+        "Investidores (SoftBank, Spark Capital) podem recuar se valuation cair",
+        "Precedente para OpenAI, Google e Meta: limites de capacidade podem virar regra"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra fria da regulação de IA está só começando. Fique por dentro."
+    }
+  ]
+}

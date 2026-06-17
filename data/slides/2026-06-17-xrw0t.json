@@ -1,0 +1,53 @@
+{
+  "title": "O Efeito Dominó da Soberania Digital: Como o Blackout da Anthropic Incendiou o Debate do G7 sobre a Dependência Global da IA Americana",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Interruptor Nuclear Digital",
+      "subtext": "Como um blackout da Anthropic expôs a fragilidade da dependência global da IA americana e reacendeu o debate sobre soberania no G7.",
+      "image_prompt": "A dramatic, dark digital artwork showing a giant red power switch labeled 'AI' being pulled, with a map of the world flickering and going dark in the background, cyberpunk style, high contrast, cinematic lighting."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na cúpula do G7 em junho de 2026, Macron e Modi acenderam um alerta global: a dependência da infraestrutura de IA americana criou uma vulnerabilidade estratégica sem precedentes. O gatilho foi o blackout da Anthropic, que derrubou o Claude por horas, paralisando operações ao redor do mundo.",
+      "highlight": "\"Se amanhã a API do Claude ou do GPT cair, nosso PIB digital para?\""
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O blackout da Anthropic não foi um ataque cibernético, mas uma falha de infraestrutura. O efeito, porém, foi o mesmo de um bloqueio: expôs que o poder técnico dos EUA é suficiente para causar danos estratégicos, indistinguíveis de uma sanção política.",
+      "visual_hint": "Ícone de um domínio caindo, com engrenagens quebradas e um cadeado digital ao fundo."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Estamos diante do nascimento do 'nacionalismo de infraestrutura de IA'. O debate deixa de ser sobre dados (GDPR) e passa a ser sobre o controle do acesso à computação e aos modelos. A pergunta agora é: sua operação crítica sobrevive a um 'interruptor' desligado em Washington?",
+      "visual_hint": "Gráfico de barras mostrando a dependência de APIs americanas vs. capacidade local de resiliência."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Horas de blackout do Claude: o suficiente para paralisar cadeias de valor inteiras.",
+        "Pilares da dependência: Compute (NVIDIA H100), APIs fechadas (OpenAI, Anthropic) e Hyperscalers (AWS, Azure, GCP).",
+        "Mercados do G7 exigindo resiliência ou perdendo contratos para players locais/chineses."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Exigência de 'soberania digital operacional': sistemas críticos devem rodar mesmo sem acesso aos EUA.",
+        "Big techs americanas terão que ceder em arquitetura (modelos open-weight, redundância multi-nuvem) ou perderão contratos.",
+        "Corrida global por infraestrutura de IA independente, acelerando o desenvolvimento de alternativas locais."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O efeito dominó da soberania digital está apenas começando. Entenda como proteger sua operação do 'interruptor nuclear'."
+    }
+  ]
+}

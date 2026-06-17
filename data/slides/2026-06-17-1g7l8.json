@@ -1,0 +1,53 @@
+{
+  "title": "Skill-Constrained MPC: A Revolução Silenciosa que Pode Redefinir a Economia das Cadeias de Suprimentos na Era da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Skill-Constrained MPC: A Revolução Silenciosa na Economia das Cadeias de Suprimentos",
+      "subtext": "Enquanto o mundo foca em LLMs, a verdadeira disrupção industrial pode estar na integração de restrições de capital humano em sistemas de controle preditivo.",
+      "image_prompt": "Futuristic factory floor with holographic data overlays showing worker certification levels and production flows, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria 4.0 enfrenta um gargalo crítico e pouco discutido: a gestão de trabalhadores certificados. A capacidade humana qualificada disponível amanhã depende das decisões de treinamento tomadas hoje, criando um dilema de alocação de tempo entre produção e upskilling.",
+      "highlight": "O elo mais fraco não é mais a matéria-prima ou o transporte — é a mão de obra especializada."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo artigo do arXiv propõe um framework de Controle Preditivo por Modelo (MPC) que integra restrições de capital humano certificado como variável dinâmica de decisão. O sistema otimiza simultaneamente produção e treinamento, tratando certificações como ativos perecíveis que precisam ser geridos ativamente.",
+      "visual_hint": "Diagrama de fluxo mostrando a interconexão entre estoque, demanda, pool de trabalhadores e decisões de treinamento/produção"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Em setores como farmacêutico, semicondutores e manufatura avançada, uma máquina é instalada em semanas, mas um técnico certificado leva meses ou anos para ser formado. Ignorar essa restrição leva a decisões de produção impossíveis de executar. O framework antecipa escassez de mão de obra, em vez de apenas reagir a ela.",
+      "visual_hint": "Gráfico de comparação: tempo de instalação de máquina vs. tempo de formação de técnico certificado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Máquina: instalada em semanas; Técnico certificado: meses ou anos para formar",
+        "Certificações decaem se não forem mantidas — ativo perecível",
+        "Treinamento consome o mesmo recurso escasso que a produção: o tempo dos trabalhadores qualificados"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Cadeias de suprimentos resilientes a choques de demanda e oferta, considerando rigidez de capital humano",
+        "Decisões de produção baseadas em disponibilidade real de mão de obra certificada",
+        "Planejamento integrado de produção e upskilling como vantagem competitiva"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A revolução silenciosa está apenas começando — e ela pode redefinir a economia da manufatura na era da IA."
+    }
+  ]
+}

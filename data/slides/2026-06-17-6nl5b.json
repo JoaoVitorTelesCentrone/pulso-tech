@@ -1,0 +1,53 @@
+{
+  "title": "O Químico de IA Quase Autônomo: Como a OpenAI Está Acelerando a Descoberta de Medicamentos e Redefinindo o P&D Farmacêutico",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Químico de IA Quase Autônomo",
+      "subtext": "Como a OpenAI está acelerando a descoberta de medicamentos e redefinindo o P&D farmacêutico",
+      "image_prompt": "A futuristic pharmaceutical laboratory with robotic arms and holographic molecular structures, glowing blue and purple, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado debate agentes de IA para programação e customer service, a OpenAI silenciosamente demonstrou que o maior impacto econômico da IA pode estar em um lugar inesperado: o laboratório de química medicinal.",
+      "highlight": "US$ 100 bilhões gastos anualmente em P&D farmacêutico, com 90% de taxa de falha"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI publicou um estudo onde um sistema de IA otimizou uma reação química complexa, aprendendo com feedback experimental e iterando em direção a soluções otimizadas — um verdadeiro 'químico de IA quase autônomo'.",
+      "visual_hint": "Ícone de molécula com engrenagens e setas de feedback loop"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O gargalo da indústria farmacêutica não é a descoberta de alvos moleculares — é a química medicinal. Cada reação mal sucedida custa tempo e dinheiro. Automatizar esse processo pode reduzir custos de P&D em 20-30% e acelerar o time-to-market em 1-2 anos.",
+      "visual_hint": "Gráfico de barras comparando tempo e custo com e sem IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo médio para desenvolver um novo medicamento: US$ 2,6 bilhões",
+        "Economia potencial por medicamento: US$ 500-800 milhões",
+        "Mercado global de P&D farmacêutico: US$ 224 bilhões em 2025, projetado para US$ 310 bilhões até 2030"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica de custos e tempo no desenvolvimento de novos medicamentos",
+        "Democratização da química medicinal: laboratórios menores poderão competir com grandes farmacêuticas",
+        "Cientistas amplificados pela IA, explorando espaços químicos muito maiores do que seria possível manualmente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A revolução silenciosa da IA na ciência está apenas começando. Não fique de fora."
+    }
+  ]
+}
