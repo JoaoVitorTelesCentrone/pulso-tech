@@ -1,0 +1,53 @@
+{
+  "title": "Nemotron 3 Ultra: A Arquitetura Híbrida que Pode Quebrar o Gargalo dos Modelos de Raciocínio para Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Nemotron 3 Ultra: O Fim do Gargalo dos Agentes de IA?",
+      "subtext": "NVIDIA funde Transformer e Mamba em um modelo de 550B parâmetros com contexto de 1 milhão de tokens.",
+      "image_prompt": "Futuristic digital brain with glowing neural pathways merging two distinct architectures, one crystalline (Transformer) and one fluid (Mamba), in a dark high-tech lab environment, neon blue and purple lighting, cinematic, 8k."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria de IA corre para construir modelos cada vez maiores, mas esbarra no custo computacional de contextos longos. Modelos puramente Transformer têm complexidade quadrática, tornando inviável o processamento de milhões de tokens.",
+      "highlight": "Contexto de 1 milhão de tokens: 10.000x mais eficiente com a nova arquitetura."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A NVIDIA apresentou o Nemotron 3 Ultra, um modelo MoE híbrido de 550B parâmetros (55B ativos) que alterna camadas Transformer e Mamba. Ele foi pré-treinado em 20 trilhões de tokens e projetado para raciocínio agêntico em cadeias complexas.",
+      "visual_hint": "Ícone de engrenagem com dois símbolos de circuito integrado (Transformer e Mamba) se entrelaçando."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas e desenvolvedores, isso significa agentes de IA capazes de analisar documentos extensos, bases de código inteiras ou conversas longas com custo de inferência acessível. O foco em agentic reasoning abre caminho para automação de decisões em múltiplas etapas.",
+      "visual_hint": "Gráfico de barras comparando custo de inferência: Transformer puro vs. Nemotron 3 Ultra para 1M tokens."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "550B parâmetros totais, 55B ativos por token (MoE)",
+        "20 trilhões de tokens de pré-treinamento",
+        "Contexto de 1 milhão de tokens com eficiência linear O(n)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes autônomos com raciocínio em cadeia longa se tornam viáveis comercialmente",
+        "Análise de documentos jurídicos, médicos ou código-fonte em escala industrial",
+        "Nova corrida arquitetural: modelos híbridos podem superar Transformers puros"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA não é maior — é mais inteligente."
+    }
+  ]
+}

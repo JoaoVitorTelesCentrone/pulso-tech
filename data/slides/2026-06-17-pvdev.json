@@ -1,0 +1,53 @@
+{
+  "title": "SEAGym: O Novo Campo de Provas que Vai Separar Agentes de IA que Evoluem de Brinquedos que Estagnam",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "SEAGym: O Campo de Provas que Vai Separar Agentes de IA que Evoluem de Brinquedos que Estagnam",
+      "subtext": "A diferença entre um agente que melhora sozinho e um que morre na praia não está no modelo, mas no harness.",
+      "image_prompt": "A futuristic digital arena with glowing neon lines, a central AI agent evolving through multiple layers of code and tools, dark tech atmosphere, cinematic lighting, high contrast, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de agentes de IA está em uma encruzilhada. Empresas como Anthropic, OpenAI e Vercel lançam agentes que prometem autonomia, mas a maioria não melhora com o uso — eles executam tarefas, mas não aprendem com os erros.",
+      "highlight": "A maioria dos agentes de IA não melhora com o uso."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o SEAGym (Self-Evolving Agent Gymnasium), o primeiro ambiente padronizado para testar a capacidade de agentes LLM de se auto-aperfeiçoarem ao longo do tempo, alterando prompts, memória, ferramentas e middleware.",
+      "visual_hint": "Ícone de um cérebro com engrenagens evoluindo em etapas, ou um gráfico de linha ascendente com nós de código."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Até agora, a métrica dominante era 'precisão na primeira tentativa'. O SEAGym introduz a 'curva de melhoria ao longo do tempo' — um agente que acerta 70% e chega a 95% vale mais que um que acerta 80% e estaciona. Isso redefine o valor de agentes para produção.",
+      "visual_hint": "Gráfico comparativo de duas curvas de aprendizado: uma subindo, outra estagnada."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Agentes evoluem alterando o 'agent harness' — 5 componentes principais: prompts, memória, ferramentas, middleware, estado de runtime.",
+        "SEAGym mede 3 métricas: taxa de melhoria, custo de evolução (tokens) e estabilidade.",
+        "Um agente que acerta 70% na 1ª tentativa e chega a 95% após 10 iterações vale mais que um que acerta 80% e estaciona."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Desenvolvedores poderão comparar agentes não só por performance inicial, mas por capacidade de evolução autônoma.",
+        "Investidores terão uma métrica objetiva para separar agentes que 'aprendem' de agentes que 'estagnam'.",
+        "O SEAGym se torna o novo padrão para benchmarks de agentes autônomos, substituindo métricas estáticas."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA não está no modelo que você escolhe, mas no harness que você constrói — e no quanto ele consegue evoluir sozinho."
+    }
+  ]
+}

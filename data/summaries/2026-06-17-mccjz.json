@@ -1,0 +1,16 @@
+{
+  "tldr": "Ordem executiva dos EUA obriga Anthropic a bloquear acesso de estrangeiros a seus modelos de IA, incluindo funcionários e clientes legais, causando colapso operacional e expondo fragilidade regulatória.",
+  "key_facts": [
+    "Administração Trump emitiu ordem executiva determinando corte imediato de acesso aos modelos Fable 5 e Mythos 5 para 'todos os estrangeiros'.",
+    "A ordem bloqueou cidadãos estrangeiros residentes legais nos EUA e funcionários não naturalizados da própria Anthropic.",
+    "Usuários pagantes dentro dos EUA sem passaporte americano perderam acesso; engenheiros foram impedidos de trabalhar nos sistemas que ajudaram a construir.",
+    "Anthropic negocia nos bastidores os limites da ordem enquanto mercado reage com choque."
+  ],
+  "why_it_matters": "A notícia revela que a governança de IA está sendo feita no modo pânico, com regras imprecisas que podem paralisar qualquer empresa do setor, independentemente de seu valor ou importância estratégica, e expõe a dependência de talento global como risco existencial.",
+  "watch_next": [
+    "Possível revisão ou esclarecimento da ordem executiva após pressão da indústria e negociações nos bastidores.",
+    "Reação de outras empresas de IA (OpenAI, Google DeepMind) que podem ser alvo de medidas similares.",
+    "Debate público sobre a necessidade de regulamentação mais precisa e menos danosa para a inovação."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no absurdo operacional e humano da medida — como engenheiros foram trancados fora de seus próprios sistemas — em vez de apenas discutir geopolítica abstrata, tornando a crise concreta e urgente para o leitor de tecnologia."
+}

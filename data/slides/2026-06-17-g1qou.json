@@ -1,0 +1,53 @@
+{
+  "title": "MODE: A Revolução Silenciosa na Compressão de MoE que Pode Redefinir os Custos de Inferência em IA Multimodal",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "MODE: A Revolução Silenciosa na Compressão de MoE",
+      "subtext": "Como rodar modelos multimodais com metade da GPU e redefinir os custos de inferência em IA",
+      "image_prompt": "Futuristic data center with glowing blue and orange server racks, abstract digital waves representing AI compression, sleek dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de Linguagem Multimodais baseados em Mistura de Especialistas (MoE-MLLMs) entregam desempenho de ponta, mas consomem memória GPU em uma velocidade que torna a escala comercial impraticável. O mercado está obcecado em construir modelos maiores, mas quem vai ganhar dinheiro de verdade é quem descobrir como rodá-los com metade da GPU.",
+      "highlight": "O custo de inferência é o gargalo da IA multimodal em escala."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper MODE propõe uma quantização inteligente por especialista e por modalidade (texto, imagem, áudio), abandonando a compressão uniforme. Especialistas visuais complexos usam 8 bits, enquanto especialistas de texto podem usar 4 bits, otimizando o uso de memória sem perder qualidade.",
+      "visual_hint": "Ícone de um cérebro dividido em partes coloridas, cada uma com um número de bits (4, 8), representando a compressão seletiva"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Isso significa que empresas podem rodar modelos multimodais de ponta com menos GPUs, reduzindo custos de inferência drasticamente. A tecnologia viabiliza aplicações em tempo real, como assistentes visuais e análise de vídeo, que antes eram inviáveis financeiramente.",
+      "visual_hint": "Gráfico de barras comparando custo de GPU antes e depois do MODE, com uma seta para baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de até 50% no uso de memória GPU em MoE-MLLMs",
+        "Manutenção da precisão em 8 bits para especialistas visuais e 4 bits para texto",
+        "Viabiliza inferência em tempo real para aplicações multimodais comerciais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Custos de inferência multimodal podem cair para a metade, acelerando a adoção empresarial",
+        "Startups e médias empresas ganham acesso a modelos que antes eram exclusivos de big techs",
+        "A corrida por modelos maiores dá lugar à otimização inteligente de recursos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A revolução silenciosa na compressão de IA está apenas começando. Não fique de fora."
+    }
+  ]
+}

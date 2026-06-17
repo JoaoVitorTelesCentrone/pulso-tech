@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores lançaram o SEAGym, o primeiro ambiente padronizado para medir a capacidade de agentes de IA baseados em LLM de se auto-aperfeiçoarem ao longo do tempo, focando na evolução do 'agent harness' em vez do modelo base.",
+  "key_facts": [
+    "O SEAGym (Self-Evolving Agent Gymnasium) foi publicado no arXiv em 17 de junho de 2026.",
+    "O benchmark mede a capacidade de auto-evolução do agente, não apenas a performance em tarefas isoladas.",
+    "O foco está na modificação do 'agent harness' (prompts, memória, ferramentas, middleware, estado de runtime e loop modelo-ferramenta).",
+    "A métrica principal é a 'curva de melhoria ao longo do tempo', combinando taxa de melhoria, custo de evolução e estabilidade."
+  ],
+  "why_it_matters": "Para desenvolvedores e investidores, o SEAGym introduz uma métrica crucial para produção: a capacidade de um agente aprender e melhorar com o uso, diferenciando agentes que estagnam daqueles que evoluem, algo que benchmarks tradicionais de 'precisão na primeira tentativa' ignoram.",
+  "watch_next": [
+    "Adoção do SEAGym por grandes players (Anthropic, OpenAI, Vercel) como padrão de avaliação de seus agentes.",
+    "Surgimento de startups focadas em otimização de 'agent harness' baseada nos resultados do SEAGym.",
+    "Debate sobre a relação custo-benefício da auto-evolução (tokens gastos vs. ganho de performance) em aplicações comerciais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao ir além do anúncio técnico, conectando o SEAGym a uma lacuna crítica do mercado: a falta de métricas para evolução contínua de agentes. Ele foi escolhido por oferecer uma lente estratégica sobre um problema real de produção, em vez de apenas reportar um novo benchmark."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Xeque-Mate Regulatório na Anthropic: Como Regras de Exportação Incompreensíveis Podem Desmantelar o Futuro da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Xeque-Mate Regulatório na Anthropic",
+      "subtext": "Como regras de exportação mal calibradas podem paralisar o futuro da IA",
+      "image_prompt": "A chessboard with a black king piece falling, digital background with glowing red and blue lines, cyberpunk style, high contrast, dramatic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A administração Trump emitiu uma ordem executiva obrigando a Anthropic a bloquear o acesso de todos os estrangeiros — incluindo funcionários e clientes nos EUA — aos seus modelos de ponta Fable 5 e Mythos 5. A redação vaga e abrangente gerou um colapso operacional imediato.",
+      "highlight": "US$ 900 bilhões em avaliação paralisados por burocracia"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Engenheiros que arquitetaram os modelos foram trancados fora dos próprios sistemas. Clientes pagantes dentro dos EUA perderam acesso da noite para o dia. A empresa negocia nos bastidores os limites da ordem, enquanto o mercado assiste atônito.",
+      "visual_hint": "Ícone de cadeado sobre um globo com pessoas dentro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se uma ordem executiva mal calibrada consegue paralisar a Anthropic, nenhuma empresa de IA está segura. A governança de IA está sendo escrita no modo pânico, com consequências imprevisíveis para toda a indústria.",
+      "visual_hint": "Gráfico de linha caindo abruptamente com um raio ao lado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 900 bilhões: avaliação da Anthropic ameaçada",
+        "100% dos funcionários estrangeiros bloqueados dos próprios sistemas",
+        "Horas: tempo para um blackout operacional total"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Dependência de talento global se torna risco existencial",
+        "Infraestrutura crítica de IA exposta como frágil diante da geopolítica",
+        "Regulamentação precisa urgente para evitar danos colaterais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não pode ser escrito com machado — precisa de bisturi."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Custo Oculto dos Agentes de IA: Por Que Módulos de Memória e Habilidade Podem Estar Queimando Seu Orçamento de Tokens",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Custo Oculto dos Agentes de IA",
+      "subtext": "Módulos de memória e habilidade estão queimando seu orçamento de tokens?",
+      "image_prompt": "A futuristic data center with glowing red warning signs over server racks, digital smoke and token counters spinning out of control, dark blue and neon orange lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo estudo do arXiv revela que o mercado de agentes de IA para web pode estar ignorando um custo crítico: o consumo de tokens dos módulos de suporte. A pergunta que fica é: vale a pena pagar por memória e habilidades se o custo de inferência do ator já é alto?",
+      "highlight": "Ninguém estava contabilizando o custo de test-time tokens que esses módulos consomem."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Agentes online são construídos com um 'ator' e aumentados com módulos de memória e habilidades. O estudo mostra que, sob restrição orçamentária de tokens, esses módulos nem sempre compensam — o custo extra pode superar o ganho de performance.",
+      "visual_hint": "Ícone de balança com um prato pesado de tokens e outro leve de performance"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para desenvolvedores, gestores e investidores: o custo operacional de um agente não é apenas o modelo base. Se um agente 'inteligente' custa 3x mais tokens, o ROI precisa ser reavaliado. A narrativa de 'mais módulos = mais inteligente' pode estar quebrada.",
+      "visual_hint": "Gráfico de barras mostrando custo vs. ganho de precisão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Agentes com módulos consomem até 3x mais tokens por tarefa",
+        "Em tarefas simples, módulos não geram ganho de precisão significativo",
+        "Métrica chave: acurácia por token gasto — não apenas acurácia bruta"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas precisam repensar a arquitetura modular de agentes",
+        "Frameworks como Eve, AWS e Google podem ter que otimizar custos",
+        "Desenvolvedores devem priorizar eficiência de tokens sobre complexidade"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O custo escondido pode estar drenando seu orçamento. Fique por dentro."
+    }
+  ]
+}

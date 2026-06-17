@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Silencioso da IA Global: Como Tokenizers Injustos Criam uma Economia de Dados de Duas Velocidades",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Silencioso da IA Global",
+      "subtext": "Como tokenizers injustos criam uma economia de dados de duas velocidades",
+      "image_prompt": "A futuristic digital divide: a glowing English text token flows smoothly through a narrow pipeline, while a Vietnamese text token struggles, fragmented and blocked, with a cost meter rising. Dark tech background, neon blue and red accents, cinematic lighting."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo estudo forense revela que os tokenizers dos principais LLMs (Llama 3, GPT-4, Gemini) favorecem estruturalmente línguas latinas. Usuários de IA em Nairóbi pagam mais por prompt do que usuários em Nova York — para obter o mesmo resultado.",
+      "highlight": "Línguas como vietnamita e suaíli consomem até 2x mais tokens que o inglês para expressar a mesma ideia."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Byte-Pair Encoding (BPE) usado pelos modelos é treinado em corpora dominados por inglês (45% do Common Crawl). Línguas sub-representadas geram tokens mais longos e menos eficientes, criando um 'imposto de pobreza' sobre dados não-ingleses.",
+      "visual_hint": "Ícone de balança desbalanceada: de um lado, um token curto 'Hello'; do outro, um token longo 'Xin chào' com um cifrão."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas em mercados emergentes, a adoção de IA não é só infraestrutura — é arquitetura de modelo. Um chatbot em hindi pode custar 30% mais caro por conversa que um em inglês, mesmo no mesmo hardware. Isso cria uma economia de IA de duas velocidades.",
+      "visual_hint": "Gráfico de barras comparando custo por conversa: inglês vs. hindi, com um ícone de globo partido ao meio."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Inglês: 1.0 (linha de base) — token mais eficiente",
+        "Hindi: 1.45 (45% mais caro por token)",
+        "Vietnamita: 1.75 (75% mais caro); Tâmil: 1.88 (88% mais caro)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Tokenizers precisam ser redesenhados com equidade linguística como requisito",
+        "Mercados emergentes podem sofrer adoção mais lenta e cara de IA",
+        "Surge oportunidade para startups criarem tokenizers multilíngues eficientes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A próxima fronteira da IA não é só poder computacional — é justiça linguística."
+    }
+  ]
+}

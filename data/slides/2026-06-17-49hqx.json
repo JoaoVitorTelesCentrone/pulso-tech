@@ -1,0 +1,53 @@
+{
+  "title": "A Física Oculta do Aprendizado: Como a Descoberta das Transições de Fase em Redes Neurais Pode Redefinir o Treinamento de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Física Oculta do Aprendizado",
+      "subtext": "Como transições de fase em redes neurais podem redefinir o treinamento de IA",
+      "image_prompt": "A neural network transforming into a crystalline phase transition, glowing nodes and connections, dark background with neon blue and purple light, digital art, sci-fi aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O fenômeno do 'grokking' — quando um modelo de IA subitamente generaliza após um longo platô — sempre foi um mistério. Agora, um novo paper no arXiv propõe uma explicação matemática baseada em transições de fase da física estatística.",
+      "highlight": "Grokking: de mistério a fenômeno previsível"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores demonstraram que redes neurais profundas exibem transições de fase de primeira ordem sob variações na regularização L2. O ruído do gradiente descendente estocástico (SGD) atua como temperatura, permitindo que o sistema escape de fases metaestáveis e atinja a generalização.",
+      "visual_hint": "Diagrama de fases com curvas de energia potencial e setas indicando transição"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Esta descoberta transforma a regularização L2 em um parâmetro de controle termodinâmico, não apenas um hiperparâmetro empírico. Agora podemos prever quando um modelo vai generalizar, ajustar treinamentos com precisão e reduzir custos computacionais evitando regimes metaestáveis.",
+      "visual_hint": "Termômetro digital com escala de 'temperatura de ruído' e zonas de fase"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Transições de fase de primeira ordem identificadas em redes profundas",
+        "Temperatura crítica do ruído determina se o modelo fica preso ou generaliza",
+        "Batch size maior = menos ruído = pior generalização (efeito de 'resfriamento')"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Previsão precisa do tempo de treinamento para atingir generalização",
+        "Ajuste da regularização L2 como parâmetro termodinâmico, não empírico",
+        "Redução de custos computacionais ao evitar treinos longos em fases metaestáveis"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A física estatística está reescrevendo as regras do deep learning. Não fique para trás."
+    }
+  ]
+}
