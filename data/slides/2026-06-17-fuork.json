@@ -1,0 +1,53 @@
+{
+  "title": "Agentic Resource Discovery: O Novo Protocolo Que Transforma Agentes de IA em Caçadores Autônomos de Recursos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Agentic Resource Discovery: Agentes de IA Viram Caçadores Autônomos de Recursos",
+      "subtext": "A Hugging Face acaba de lançar um protocolo que elimina o gargalo humano da infraestrutura de IA",
+      "image_prompt": "A futuristic glowing network of interconnected AI agents hunting for GPU resources across a global cloud map, neon blue and purple tones, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado está obcecado com agentes que escrevem código, mas ignora o verdadeiro gargalo: nenhum sistema multi-agente escala quando cada unidade depende de um engenheiro para escolher GPU, modelo e endpoint. A Hugging Face resolveu isso em 17 de junho de 2026.",
+      "highlight": "Nenhum sistema multi-agente funciona bem quando cada unidade depende de um engenheiro humano"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Hugging Face lançou o Agentic Resource Discovery — um protocolo que transforma agentes de IA de consumidores passivos em agentes econômicos capazes de caçar, avaliar e consumir recursos computacionais sozinhos. Agentes leem metadados em tempo real, comparam latência, custo e disponibilidade, e negociam acesso sem intervenção humana.",
+      "visual_hint": "Ícone de radar ou scanner digital com nós de rede pulsando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A orquestração manual de recursos é o verdadeiro assassino da margem. Cada novo agente exige decisões de engenharia: qual modelo, qual região, qual endpoint, qual orçamento. Esse tributo não escala — ele engessa. Agora, agentes deixam de ser tráfego sobre infraestrutura alheia e passam a ser participantes ativos de um mercado computacional contínuo.",
+      "visual_hint": "Gráfico de barras comparando custo operacional com e sem descoberta autônoma"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Agentes encontram GPUs ociosas e endpoints subutilizados, pagando menos por carga de trabalho não crítica",
+        "Falha de endpoint vira evento de rotina, não incidente — migração em milissegundos",
+        "Novos agentes entram em produção sem tickets de infraestrutura: configuração substituída por política declarativa"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Custo operacional cai drasticamente com alocação dinâmica de recursos",
+        "Resiliência se torna nativa: agentes descartam provedores falhos e migram automaticamente",
+        "Desenvolvedores deixam de fazer engenharia de integração e passam a definir intenção e restrição"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da infraestrutura de IA não se configura — se declara."
+    }
+  ]
+}

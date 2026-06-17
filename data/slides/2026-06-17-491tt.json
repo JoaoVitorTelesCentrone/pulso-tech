@@ -1,0 +1,53 @@
+{
+  "title": "Kiro no Bolso: Como a AWS Está Transformando o Smartphone em um Hub de Supervisão de DevOps com Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Seu Celular Agora é a Sala de Controle da Produção de Software",
+      "subtext": "AWS transforma o iPhone em um terminal de supervisão para agentes de IA que escrevem código — e redefine quem está no comando.",
+      "image_prompt": "A futuristic smartphone floating in a dark tech environment, glowing holographic dashboard with code graphs and AI agent nodes, neon blue and purple lighting, cinematic, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A AWS lançou o aplicativo nativo para iOS do Kiro, seu ambiente de desenvolvimento orientado por IA. Agora, monitorar, orientar e travar agentes de codificação pode ser feito diretamente da tela do celular, sem necessidade de estar em frente a um monitor.",
+      "highlight": "\"Confiança é a maior barreira para a adoção da IA\" — Chefão de IA da AWS"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Kiro mobile se conecta ao Bedrock AgentCore, uma camada de governança que intercepta resultados catastróficos antes da produção. O app oferece um dashboard em tempo real com grafos de decisão, métricas de execução e botões de intervenção remota que realmente funcionam.",
+      "visual_hint": "Ícone de smartphone com engrenagens e escudo de segurança sobrepostos, linhas de código fluindo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Até ontem, codificação agêntica era uma prática de mesa. Agora, a supervisão humana se torna ubíqua: um push notification dispara sobre uma anomalia e, com três toques, o dev aprova, reverte ou modifica uma ação do agente. O código não para quando você sai para almoçar.",
+      "visual_hint": "Gráfico de linha ascendente com ícone de olho humano e botão de pausa"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Lançamento do Kiro iOS em 17 de junho de 2026",
+        "Integração com Bedrock AgentCore — log imutável e auditável de cada decisão dos agentes",
+        "Projeto open source Polypore viraliza no Hacker News: 'codificação agêntica merece mais do que uma caixa de chat acoplada ao VS Code'"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Supervisão ubíqua: desenvolvedores auditam agentes de qualquer lugar, a qualquer momento",
+        "Confiança como SKU: a AWS comercializa o direito de intervir a qualquer momento como feature premium",
+        "Resposta a uma dor real: interfaces de chat dão lugar a dashboards mobile-first com visualizações de grafos de decisão"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do DevOps cabe no seu bolso. Fique por dentro das próximas revoluções."
+    }
+  ]
+}

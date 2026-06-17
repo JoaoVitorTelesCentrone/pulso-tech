@@ -1,0 +1,53 @@
+{
+  "title": "Vercel Lança Eve: O Framework Open Source que Transforma Agentes de IA em Diretórios e Redefine a Infraestrutura de Desenvolvimento",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Eve: Agentes de IA como Diretórios Unix",
+      "subtext": "Vercel reinventa a infraestrutura de agentes com uma metáfora tão óbvia quanto revolucionária",
+      "image_prompt": "Futuristic digital interface showing a directory tree with AI agent nodes glowing in neon blue, abstract tech background with Vercel logo"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de agentes de IA está fragmentado, sem uma arquitetura padrão. Cada equipe constrói seus agentes com soluções proprietárias, lembrando os primeiros dias do desenvolvimento web antes de frameworks como React.",
+      "highlight": "Fragmentação técnica que trava a inovação em sistemas multi-agente"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Vercel lançou o Eve, um framework open-source que trata cada agente de IA como um diretório de sistema de arquivos. Desenvolvedores podem navegar, inspecionar e compor agentes usando comandos Unix familiares, sem APIs complexas ou orquestradores monolíticos.",
+      "visual_hint": "Ícone de terminal Unix com pastas representando agentes de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Eve resolve o problema mais espinhoso do desenvolvimento multi-agente: gerenciamento de estado e contexto. Ao usar o paradigma de sistema de arquivos, permite inspeção nativa, composição hierárquica e integração com ferramentas existentes como editores de código e CI/CD.",
+      "visual_hint": "Diagrama de árvore hierárquica com agentes conectados por linhas de dados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Framework open-source sob licença permissiva no GitHub",
+        "Cada agente é um diretório com manifest.eve, state/ e tools/",
+        "Substitui APIs complexas por comandos Unix familiares (ls, cd, cat)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de IA se tornam artefatos versionáveis como qualquer código",
+        "Composição hierárquica permite sistemas multi-agente escaláveis",
+        "Ferramentas de observabilidade e CI/CD interagem sem adaptadores"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Eve não é só um framework — é a nova camada de abstração que a IA precisava"
+    }
+  ]
+}

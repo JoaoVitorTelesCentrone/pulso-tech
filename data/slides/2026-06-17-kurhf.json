@@ -1,0 +1,53 @@
+{
+  "title": "LLMs no Boardroom: Por que o Benchmark que Testa CEOs de IA Pode Redefinir o Valor da Automação Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "LLMs no Boardroom: O Fim do Hype dos CEOs de IA?",
+      "subtext": "Um novo benchmark revela que nenhum modelo superou uma regra simples de alocação igualitária. O abismo entre a promessa e a realidade da automação executiva.",
+      "image_prompt": "A futuristic boardroom with holographic screens showing AI agents as silhouettes, dark blue and neon orange lighting, data streams and stock charts in the background, cinematic, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram no arXiv um benchmark inédito que testa se LLMs conseguem realocar recursos estratégicos como um CEO. Em vez de trivia, os modelos enfrentaram cenários macroeconômicos, choques de mercado e pressões competitivas em um ambiente multi-agente.",
+      "highlight": "Nenhum modelo superou consistentemente um baseline simples de alocação igualitária."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O estudo 'Can LLMs Be CEOs?' simulou uma empresa com três unidades de negócio, onde agentes de IA (CEO, CFO, CTO) precisavam negociar e decidir alocações de capital, talento e tempo. O resultado: em ambientes de alta incerteza, os LLMs tiveram desempenho pior que regras heurísticas básicas.",
+      "visual_hint": "Ícone de um tabuleiro de xadrez com peças de IA vs. um dado simples"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Enquanto o mercado se empolga com agentes que escrevem código ou reservam restaurantes, a pergunta real é: quando a IA vai tomar decisões estratégicas que movem bilhões? A resposta do paper é 'ainda não', expondo um gargalo estrutural: LLMs são máquinas de correlação, não de causalidade estratégica.",
+      "visual_hint": "Gráfico de linha mostrando hype vs. realidade, com uma queda acentuada na linha de 'decisão estratégica'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos testados: GPT-5.4, Claude 5 Fable, Gemini Ultra 3.0, Llama 6",
+        "Métrica principal: retorno sobre capital ajustado ao risco após 20 ciclos",
+        "Baseline superado por nenhum modelo: alocação proporcional ao desempenho passado"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Valuation de empresas de agentes de IA pode estar superestimada se o mercado assume tomada de decisão executiva em breve",
+        "O gargalo não é escala de parâmetros, mas representação de trade-offs causais e temporais",
+        "VCs precisam recalibrar prazos: o 'CEO de IA' ainda é ficção científica"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo passo da automação corporativa não será um CEO de IA — será entender onde a máquina ainda falha."
+    }
+  ]
+}

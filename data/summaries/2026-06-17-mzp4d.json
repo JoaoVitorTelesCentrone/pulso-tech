@@ -1,0 +1,16 @@
+{
+  "tldr": "Vercel lança Eve, um framework open-source que trata agentes de IA como diretórios de sistema de arquivos, simplificando a construção e composição de agentes.",
+  "key_facts": [
+    "Eve foi lançado pela Vercel em 17 de junho de 2026 como um framework open-source.",
+    "Cada agente é representado como um diretório com manifesto e subdiretórios de estado.",
+    "O framework compete com LangChain, CrewAI e AutoGen, propondo uma nova abstração baseada em sistema de arquivos.",
+    "O código-fonte está disponível no GitHub sob licença permissiva."
+  ],
+  "why_it_matters": "O Eve oferece uma metáfora familiar (sistema de arquivos) para resolver a fragmentação técnica no desenvolvimento de agentes de IA, facilitando inspeção, composição e versionamento sem reinventar infraestruturas complexas.",
+  "watch_next": [
+    "Adoção do Eve por grandes empresas e comunidades open-source.",
+    "Comparações práticas com LangChain e CrewAI em benchmarks de desempenho e usabilidade.",
+    "Possível integração do Eve com o ecossistema Vercel (Next.js, Edge Functions) para deploy simplificado."
+  ],
+  "editorial_angle": "O artigo se destaca por focar na inovação conceitual (agente como diretório) em vez de apenas listar features, posicionando o Eve como uma potencial virada de paradigma no desenvolvimento de sistemas multi-agente."
+}

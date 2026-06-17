@@ -1,0 +1,16 @@
+{
+  "tldr": "Hugging Face lançou o Agentic Resource Discovery, um protocolo que permite agentes de IA descobrirem e negociarem autonomamente recursos computacionais (GPUs, modelos, endpoints) em tempo real, eliminando a dependência de configuração manual de infraestrutura.",
+  "key_facts": [
+    "Protocolo e framework anunciado pela Hugging Face em 17 de junho de 2026.",
+    "Agentes consultam recursos por capacidade (latência, custo, localização) em vez de endpoints fixos.",
+    "Sistema opera com registro descentralizado de metadados e protocolo de descoberta baseado em intenções.",
+    "Permite que agentes migrem automaticamente entre provedores em milissegundos em caso de falha ou oportunidade de custo."
+  ],
+  "why_it_matters": "A orquestração manual de recursos é o gargalo oculto que impede a escala de sistemas multi-agente. Este protocolo transforma agentes de consumidores passivos em participantes ativos de um mercado computacional, reduzindo custos operacionais, aumentando resiliência e permitindo que desenvolvedores foquem em lógica de negócio em vez de integração de infraestrutura.",
+  "watch_next": [
+    "Adoção por provedores de nuvem e startups de infraestrutura de IA, criando um ecossistema de recursos interconectados.",
+    "Surgimento de ferramentas de política declarativa para desenvolvedores definirem restrições de custo e desempenho.",
+    "Possível padronização do protocolo como camada base para orquestração de agentes em produção."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo real de escala — a orquestração manual de recursos — em vez de apenas celebrar a capacidade de agentes escreverem código. Ele oferece uma análise técnica do mecanismo (registro descentralizado + consulta por intenção) e conecta a inovação a implicações práticas de custo, resiliência e escalabilidade, posicionando a Hugging Face como solucionadora de um problema estrutural ignorado pelo mercado."
+}

@@ -1,0 +1,14 @@
+{
+  "tldr": "A AWS lançou o Kiro para iOS integrado ao Bedrock AgentCore, transformando o smartphone em um terminal de supervisão tática que, segundo a empresa, reduz em 40% o tempo de resposta a incidentes em pipelines de IA e redefine a relação de poder entre desenvolvedores e agentes autônomos.",
+  "key_facts": [
+    "A AWS lançou em 17 de junho de 2026 o aplicativo nativo do Kiro para iOS, que permite monitorar, orientar e travar agentes de codificação via dashboard com grafos de decisão, métricas de execução e botões de intervenção remota.",
+    "O app se conecta ao Bedrock AgentCore, middleware de governança que mantém log imutável e auditável de cada decisão dos agentes, e a AWS alega que a combinação reduz em 40% o tempo médio de resposta a incidentes em pipelines de CI/CD, segundo números citados pelo The Register.",
+    "O lançamento responde diretamente à crítica do projeto open source Polypore, viralizado no Hacker News, que defendia que a codificação agêntica merecia mais do que interfaces de chat acopladas ao VS Code."
+  ],
+  "why_it_matters": "A notícia importa porque representa a mercantilização da supervisão humana como produto de primeira classe: ao arquitetar o Kiro mobile como um sistema SCADA para agentes de IA e não apenas um app de consulta de logs, a AWS transforma a confiança em um SKU comercializável, acelera a adoção do 'DevOps agêntico contínuo' e desloca o centro de gravidade do controle de software das estações de trabalho para qualquer ponto com conectividade, alterando a arquitetura de poder entre humanos e máquinas autônomas.",
+  "watch_next": [
+    "Expansão do Kiro mobile para Android e a reação de concorrentes como GitHub Copilot ao modelo de supervisão tática fora do desktop.",
+    "Adoção do Bedrock AgentCore por grandes empresas como padrão de governança para pipelines CI/CD gerenciados por agentes autônomos e a evolução das notificações push para intervenções preventivas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao mapear o lançamento do Kiro mobile como resposta estratégica à crítica do Polypore e como peça central da estratégia da AWS de vender confiança como feature, analisando a arquitetura técnica (logs imutáveis, timeline visual com indicadores de risco, inspiração direta em sistemas SCADA industriais) e seu impacto na redistribuição do controle produtivo entre desenvolvedores e agentes de IA, em vez de tratar o fato como mero aplicativo mobile para desenvolvedores."
+}

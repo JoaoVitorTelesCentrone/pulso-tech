@@ -1,0 +1,15 @@
+{
+  "tldr": "Novo benchmark do arXiv testa LLMs como CEOs em simulação multi-agente de realocação estratégica de recursos, revelando que nenhum modelo supera heurísticas básicas em cenários de alta incerteza, expondo o abismo entre hype e aplicação real em gestão executiva.",
+  "key_facts": [
+    "Paper arXiv:2606.17459 propõe benchmark inédito para avaliar LLMs em tomada de decisão estratégica de alto nível, simulando realocação de capital, talento e tempo entre unidades de negócio.",
+    "Modelos testados (GPT-5.4, Claude 5 Fable, Gemini Ultra 3.0, Llama 6) não superaram baseline de alocação igualitária em todos os cenários; em alta incerteza, tiveram desempenho pior que regras heurísticas básicas.",
+    "Ambiente multi-agente replica assimetria de informações e trade-offs complexos (orçamento soma zero, contratação/demissão, prazos de produto, choques macroeconômicos), com métrica de retorno sobre capital ajustado ao risco após 20 ciclos."
+  ],
+  "why_it_matters": "A notícia desafia diretamente a narrativa de que agentes de IA estão próximos de tomar decisões executivas que movem bilhões, forçando recalibração de valuations de empresas de agentes autônomos, prazos de investimento de VCs e roadmap de automação corporativa C-level.",
+  "watch_next": [
+    "Reações de empresas como OpenAI e Anthropic ao paper, possivelmente publicando contrapontos ou novos benchmarks proprietários.",
+    "Movimento de VCs recalibrando teses de investimento em agentes de IA de alto nível, com possível migração para automação de processos táticos em vez de estratégicos.",
+    "Surgimento de benchmarks concorrentes focados em causalidade e tomada de decisão sob incerteza, pressionando LLMs a evoluírem de máquinas de correlação para sistemas de raciocínio causal."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um resultado técnico específico (fracasso de LLMs em benchmark estratégico) com implicações econômicas concretas (supervalorização de startups, recalibração de investimentos), indo além do hype e oferecendo análise crítica baseada em evidências experimentais, o que é raro na cobertura de agentes de IA."
+}

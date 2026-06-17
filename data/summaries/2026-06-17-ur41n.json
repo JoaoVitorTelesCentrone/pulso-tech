@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI e Molecule.one usaram o GPT-5.4 para criar um químico de IA quase autônomo que planeja, executa e otimiza reações complexas em loop fechado, comprimindo semanas de tentativa e erro em ciclos autônomos.",
+  "key_facts": [
+    "O sistema combina o GPT-5.4 com uma plataforma robótica da Molecule.one para operar um loop fechado de experimentação.",
+    "A IA propõe condições de reação, interpreta dados de rendimento e pureza, e reajusta parâmetros sem intervenção humana.",
+    "A reação escolhida é notoriamente difícil, representando um gargalo típico na descoberta de medicamentos.",
+    "O custo médio para levar um medicamento ao mercado ultrapassa US$ 2 bilhões e leva mais de uma década."
+  ],
+  "why_it_matters": "Esta notícia importa porque demonstra a transição de IA como ferramenta de sugestão para IA como agente autônomo de descoberta científica, atacando diretamente a crise de produtividade da indústria farmacêutica e abrindo um mercado vertical massivo de automação do conhecimento científico.",
+  "watch_next": [
+    "Expansão do sistema para outras reações e classes de moléculas, validando generalização.",
+    "Adoção por grandes farmacêuticas e impacto nos prazos de P&D e valuation de startups de IA química.",
+    "Debate ético e regulatório sobre autonomia de IA em experimentação científica e propriedade intelectual."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no salto qualitativo de 'co-piloto' para 'piloto automático' na síntese molecular, destacando o impacto econômico e estrutural na indústria farmacêutica, em vez de apenas reportar a demonstração técnica."
+}

@@ -1,0 +1,54 @@
+{
+  "title": "O Abismo de Confiança: 63% dos Americanos Acham que a IA Avança Rápido Demais e Apenas 16% Veem Impacto Positivo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Abismo de Confiança na IA",
+      "subtext": "63% acham que a IA avança rápido demais. Apenas 16% veem impacto positivo. O que isso significa para o futuro da tecnologia?",
+      "image_prompt": "A dark digital landscape with a glowing AI brain in the center, surrounded by a crowd of shadowy figures looking away, symbolizing distrust and skepticism, high contrast, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto Wall Street aposta bilhões na IA como a próxima revolução industrial, o cidadão comum americano está cada vez mais cético. Dados do Pew Research Center revelam um abismo entre o entusiasmo do mercado e a desconfiança pública.",
+      "highlight": "63% dos americanos acreditam que a IA está avançando rápido demais."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O uso de chatbots disparou de 33% para 49% entre 2024 e 2026, mas a confiança despencou. As pessoas usam IA por conveniência, mas sem convicção — um terreno fértil para rejeição futura.",
+      "visual_hint": "Ícone de gráfico de linha subindo (uso) e outro descendo (confiança), em contraste"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A desconfiança pública freia a adoção empresarial, acelera a pressão regulatória e agrava a crise de talentos. Empresas B2C enfrentam resistência direta do consumidor, enquanto governos preparam leis mais duras.",
+      "visual_hint": "Ilustração de uma engrenagem quebrada entre 'Mercado' e 'Sociedade'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "63% acham que a IA avança rápido demais (vs. 33% que acham adequado)",
+        "Apenas 16% veem impacto positivo na sociedade",
+        "42% preveem impacto negativo; 42% estão incertos",
+        "Uso de chatbots saltou de 33% (2024) para 49% (2026)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Adoção empresarial freia: clientes corporativos hesitam em implantar IA em interfaces voltadas ao consumidor",
+        "Pressão regulatória aumenta: EUA podem seguir a UE com leis estaduais e federais mais rígidas",
+        "Crise de talentos se agrava: engenheiros evitam a área ou exigem salários mais altos pelo estigma"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O abismo de confiança pode definir a próxima década da IA. Não fique para trás."
+    }
+  ]
+}

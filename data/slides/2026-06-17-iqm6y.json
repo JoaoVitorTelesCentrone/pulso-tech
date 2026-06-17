@@ -1,0 +1,53 @@
+{
+  "title": "Google Home Speaker com Gemini: O Fim do Comando de Voz Rígido e a Reinvenção do Hub Doméstico pela IA Generativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Smart Speaker que Raciocina",
+      "subtext": "Adeus, comandos rígidos. O novo Google Home com Gemini conversa, antecipa e reinventa o hub doméstico.",
+      "image_prompt": "A futuristic smart speaker glowing with blue light in a modern living room, digital particles floating around, dark background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de smart speakers estagnou. A IDC registrou queda de 8% nas vendas globais em 2025. A queixa dominante? A fricção cognitiva: assistentes que esquecem o contexto, exigem sintaxe exata e desistem diante da ambiguidade.",
+      "highlight": "Queda de 8% nas vendas globais de smart speakers em 2025"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Google lançou o novo Google Home Speaker por US$ 99,99, substituindo o Google Assistant pelo Gemini. Agora, o usuário mantém diálogos contínuos com memória contextual. Não é um controle remoto falante — é um agente doméstico que raciocina.",
+      "visual_hint": "Ícone de diálogo com setas circulares indicando conversa contínua"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Amazon Echo e Apple HomePod ainda usam assistentes de primeira geração. O Gemini transforma o alto-falante em um orquestrador proativo da casa. Se a aposta funcionar, Amazon e Apple ficam defasadas da noite para o dia. O consumidor comum está disposto a pagar por um assistente que conversa, não que obedece.",
+      "visual_hint": "Ícone de balança com um lado pesando 'comando' e o outro 'conversa'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 99,99: preço do novo Google Home Speaker",
+        "US$ 49,99: preço do Echo Dot (concorrente direto)",
+        "8%: queda nas vendas globais de smart speakers em 2025"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A fricção cognitiva desaparece: o assistente lembra o contexto entre turnos",
+        "A corrida por IA generativa em hardware doméstico se acelera",
+        "O consumidor decide se paga o prêmio por utilidade real ou se contenta com o básico"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O hub doméstico renasceu. A pergunta é: você está pronto para conversar?"
+    }
+  ]
+}

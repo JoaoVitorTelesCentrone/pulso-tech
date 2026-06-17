@@ -1,0 +1,16 @@
+{
+  "tldr": "Google lança smart speaker de US$ 99,99 com Gemini, substituindo comandos rígidos por diálogos contínuos e memória contextual, desafiando Amazon e Apple em um mercado estagnado.",
+  "key_facts": [
+    "Google Home Speaker com Gemini custa US$ 99,99 e substitui o Google Assistant tradicional.",
+    "Dispositivo permite diálogos contínuos com memória contextual, eliminando a necessidade de frases-código.",
+    "Mercado de smart speakers caiu 8% em 2025, com queixa principal de fricção cognitiva.",
+    "Google precisa resolver latência, custo de inferência e privacidade para o LLM funcionar em hardware doméstico."
+  ],
+  "why_it_matters": "A notícia sinaliza uma mudança de paradigma no hub doméstico: se a aposta da Google vingar, a IA generativa pode reanimar um setor estagnado, forçando Amazon e Apple a repensarem seus assistentes legados sob risco de obsolescência.",
+  "watch_next": [
+    "Aceitação do consumidor nos primeiros 90 dias: o Gemini agrega valor real ou é apenas um chatbot caro?",
+    "Resposta da Amazon e Apple: atualização do Alexa/Siri com IA generativa ou guerra de preços?",
+    "Impacto na cadeia de suprimentos e custos de inferência para dispositivos de baixo custo."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na aposta econômica e técnica da Google — não apenas no anúncio do produto, mas na tese de que a utilidade do hub doméstico pode ser reconstruída do zero pela IA generativa, contrastando com a estagnação dos concorrentes."
+}
