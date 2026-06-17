@@ -56,7 +56,9 @@ function topicAlreadyCovered(
   return { covered: false };
 }
 
-const genai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY! });
+const genai = process.env.GEMINI_API_KEY
+  ? new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY })
+  : null;
 
 function toBrazilianISO(date: Date): string {
   const pad = (n: number) => String(n).padStart(2, '0');
@@ -79,6 +81,11 @@ async function generateImageWithGemini(
   const prompt = buildImagePrompt(articleTitle, tags);
   const imagesDirPath = path.join(process.cwd(), 'public', 'images');
   ensureDir(imagesDirPath);
+
+  if (!genai) {
+    console.warn('  GEMINI_API_KEY ausente, usando Pollinations para imagem...');
+    return generateImageWithPollinations(articleTitle, fileName, imagesDirPath);
+  }
 
   try {
     const response = await genai.models.generateImages({
