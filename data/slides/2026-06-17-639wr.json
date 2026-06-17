@@ -1,0 +1,53 @@
+{
+  "title": "A Arquitetura Oculta da IA: Por Que o Desempenho do Seu Modelo é Apenas Metade da Equação",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Melhor Motor do Mundo Não Faz o Carro Andar",
+      "subtext": "O novo paper do arXiv expõe a fragilidade dos agentes de IA: o problema não é o modelo, é o 'arnês' que o segura.",
+      "image_prompt": "A futuristic car engine suspended in a dark void, connected by fragile, glowing wires and gears to a wheel that is barely turning, cinematic lighting, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo artigo de pesquisa, disponibilizado no arXiv em 17 de junho de 2026, está provocando um debate silencioso nos laboratórios de IA. O estudo propõe uma tese incômoda: o desempenho de um agente de IA não é apenas um problema de modelagem — é, fundamentalmente, um problema de sistemas.",
+      "highlight": "O gap entre as suposições de comportamento do modelo e o comportamento real do 'arnês' pode impedir que capacidades teóricas se traduzam em performance prática."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores dissecaram trajetórias completas de agentes baseados em GPT-5, Claude 5 e Gemini 3. Eles descobriram que modelos state-of-the-art apresentam quedas de performance de até 40% quando colocados em 'arneses' mal calibrados, mesmo pontuando perfeitamente em benchmarks tradicionais.",
+      "visual_hint": "Ícone de um quebra-cabeça onde uma peça (o modelo) se encaixa perfeitamente, mas a moldura (o sistema) está torta e quebrada."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de agentes de IA está explodindo, com empresas prometendo autonomia real. Mas a indústria inteira está tratando a performance do agente como sinônimo da performance do modelo. Se a tese do artigo estiver correta, estamos diante de um gargalo estrutural que pode frear bilhões em investimento.",
+      "visual_hint": "Gráfico de barras mostrando investimento em modelos (barras altas) vs. investimento em infraestrutura de agentes (barras baixas), com uma seta vermelha indicando o desequilíbrio."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Queda de performance de até 40% em agentes com arneses mal calibrados.",
+        "Em 30% das trajetórias, o agente falhou devido a chamadas de ferramenta erradas, não por falta de conhecimento do modelo.",
+        "Modelos como GPT-5, Claude 5 e Gemini 3 pontuam perfeitamente em benchmarks, mas falham em tarefas do mundo real."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "O foco em modelos cada vez maiores pode não ser suficiente sem uma arquitetura de sistemas robusta.",
+        "Empresas precisarão investir em 'engenharia de arnês' tanto quanto em modelos de linguagem.",
+        "O retorno sobre investimento em IA dependerá da qualidade da camada de infraestrutura que conecta o modelo ao mundo."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O motor é potente, mas a transmissão precisa ser redesenhada. A revolução dos agentes está apenas começando."
+    }
+  ]
+}

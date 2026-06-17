@@ -1,0 +1,53 @@
+{
+  "title": "Além do Paralelismo: A Nova Fronteira da Busca por Agentes de IA que Escala com Diversidade, Não com Volume",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim do 'Jogar Mais Dados no Problema'",
+      "subtext": "Como a diversidade de consultas pode reduzir o custo de agentes de IA em 10x",
+      "image_prompt": "A futuristic digital landscape with multiple diverging paths of light, each a different color, branching from a single point into a vast network, dark background with neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA estão presos em um loop caro: para garantir confiabilidade, empresas executam o mesmo agente dezenas de vezes em paralelo. O resultado? Custos de inferência explodindo e ganhos marginais cada vez menores.",
+      "highlight": "Rendimentos decrescentes severos na amostragem paralela tradicional"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper (arXiv 2606.17209) revela que o calcanhar de Aquiles da escalabilidade de agentes não é volume, mas repetição. Executar o mesmo agente 100 vezes gera os mesmos erros. A solução? Inicialização diversa de consultas: variações sistemáticas no prompt inicial que forçam exploração genuína.",
+      "visual_hint": "Ícone de um labirinto com múltiplas entradas, cada uma levando a um caminho diferente, em vez de uma única entrada repetida"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas rodando milhões de tarefas agentivas por dia, isso representa economia de milhões de dólares em compute. Mais importante: a diversidade de inicialização não é só otimização de custo — é um mecanismo de robustez contra falhas em cenários de borda.",
+      "visual_hint": "Gráfico de duas curvas: uma plana (paralelismo tradicional) e outra exponencial (diversidade de consultas), mostrando cobertura vs. número de execuções"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "10 execuções diversas = 100 execuções paralelas homogêneas em cobertura",
+        "Custo computacional reduzido por fator de 10x",
+        "Rendimentos decrescentes severos na amostragem i.i.d. tradicional"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim da era de 'ensemble de agentes' como solução padrão para confiabilidade",
+        "Nova métrica de eficiência: diversidade por dólar gasto em inferência",
+        "Agentes mais robustos e adaptáveis a cenários de borda imprevistos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "A Nova Fronteira é a Diversidade",
+      "subtext": "Acompanhe o blog para mergulhar nos detalhes do paper e descobrir como aplicar essa virada de chave na sua stack de agentes."
+    }
+  ]
+}

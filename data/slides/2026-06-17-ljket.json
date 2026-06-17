@@ -1,0 +1,53 @@
+{
+  "title": "Android 17 e Wear OS 7: Google Usa o Sistema Operacional como Cavalo de Troia da IA e Redefine a Economia dos Dispositivos Móveis",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Android 17: O Cavalo de Troia da IA",
+      "subtext": "Google transforma 3 bilhões de dispositivos em terminais de inteligência artificial",
+      "image_prompt": "A futuristic Android robot emerging from a glowing digital portal, with AI neural network patterns spreading across a dark tech background, neon green and blue lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 16 de junho de 2026, o Google lançou Android 17 e Wear OS 7. Não é uma atualização incremental — é uma reestruturação completa do sistema operacional para distribuir IA em escala global.",
+      "highlight": "3 bilhões de dispositivos ativos"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Gemini não é mais um app — é uma camada do sistema que antecipa, sugere e executa. O Google está usando o Android como o canal de distribuição mais agressivo para sua IA, integrando modelos diretamente no kernel, serviços e framework.",
+      "visual_hint": "Ícone de cérebro digital conectado a engrenagens de sistema operacional"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Enquanto Apple e Microsoft são cautelosas, o Google torna a IA onipresente e gratuita na camada mais fundamental da experiência mobile. Cada Pixel e cada Android se tornam terminais de IA. O valor migra do hardware para o sistema operacional como plataforma de inteligência.",
+      "visual_hint": "Gráfico de três curvas: Google subindo exponencialmente, Apple e Microsoft estáveis"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "3 bilhões de dispositivos Android ativos no mundo",
+        "Gemini opera em 3 níveis: Kernel, Framework e Aplicação",
+        "Wear OS 7 promete salto substancial na autonomia de bateria via IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Ciclo de upgrade será definido por IA, não por hardware",
+        "Concorrentes precisarão de escala similar para competir",
+        "Privacidade e monetização da IA no dispositivo viram campo de batalha"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A IA não é mais o futuro — é o sistema operacional do presente."
+    }
+  ]
+}

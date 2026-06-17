@@ -1,0 +1,14 @@
+{
+  "tldr": "Pesquisadores lançaram o MemTrace, um benchmark que expõe falhas catastróficas na memória de longo prazo de agentes de IA ao rastrear padrões de erro sequenciais que a acurácia média tradicional esconde.",
+  "key_facts": [
+    "MemTrace é um framework de avaliação que rastreia falhas de memória em agentes LLM usando um grafo de dependências temporais.",
+    "Benchmarks tradicionais como MemWalk e LongMemEval medem acurácia agregada, ignorando padrões de falha sistêmicos.",
+    "Modelos com 95% de acurácia em testes convencionais podem cair para 40-60% em condições de alta interferência cognitiva."
+  ],
+  "why_it_matters": "A memória de longo prazo é o calcanhar de Aquiles dos agentes de IA, e o MemTrace revela que a confiança do usuário pode ser minada por falhas não óbvias, impactando bilhões investidos em assistentes pessoais, chatbots e automação.",
+  "watch_next": [
+    "Empresas como OpenAI e Anthropic podem adotar o MemTrace como padrão interno de qualidade para sistemas de memória.",
+    "Startups de agentes com memória persistente podem ser forçadas a repensar arquiteturas para evitar falhas em contextos complexos."
+  ],
+  "editorial_angle": "O artigo se destaca por transformar uma descoberta técnica (o rastreamento sequencial de falhas) em um alerta prático para o mercado, mostrando como métricas enganosas podem esconder riscos reais de usabilidade e confiança."
+}

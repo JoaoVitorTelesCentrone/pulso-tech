@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores publicaram um paper propondo um agente de IA que aprende e evolui suas próprias regras de busca jurídica em tempo real, prometendo revolucionar a recuperação de precedentes legais e impactar o mercado de legal tech de US$ 30 bilhões.",
+  "key_facts": [
+    "Paper intitulado 'When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval' foi publicado no arXiv.",
+    "O agente combina regras lexicais aprendidas com evolução contínua baseada em feedback do usuário.",
+    "Mercado global de legal tech movimenta US$ 30 bilhões anuais, com projeção de US$ 50 bilhões até 2030.",
+    "Sistemas tradicionais de busca jurídica (Westlaw, LexisNexis) são estáticos e sofrem com vocabulary mismatch."
+  ],
+  "why_it_matters": "Esta notícia importa porque apresenta uma inovação concreta que resolve um gargalo crítico da legal tech — a adaptação dinâmica a diferentes jurisdições e estilos de redação —, abrindo um novo campo de competição para startups e prometendo redução drástica no tempo de pesquisa jurídica, um dos maiores custos operacionais de escritórios de advocacia.",
+  "watch_next": [
+    "Startups de legal tech podem anunciar produtos baseados em agentes auto-evolutivos, gerando uma corrida por patentes e datasets proprietários.",
+    "Tribunais e grandes escritórios podem iniciar projetos-piloto para testar a tecnologia em casos reais, gerando benchmarks de precisão.",
+    "Possível reação de players estabelecidos como Thomson Reuters (Westlaw) e LexisNexis, que podem adquirir ou desenvolver soluções concorrentes."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar em uma inovação técnica específica e pouco divulgada (agentes auto-evolutivos) em vez de tendências genéricas de IA, conectando-a diretamente a um mercado de bilhões de dólares e a um problema prático e mensurável (tempo de pesquisa jurídica), o que o torna relevante tanto para profissionais de tecnologia quanto para investidores e operadores do direito."
+}

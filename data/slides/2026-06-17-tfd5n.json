@@ -1,0 +1,53 @@
+{
+  "title": "SpeechDx: O Novo Benchmark que Pode Redefinir o Mercado de Diagnóstico por Voz e IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Voz Humana: O Próximo Biomarcador de US$ 50 Bilhões",
+      "subtext": "SpeechDx: o benchmark que pode unificar e acelerar o diagnóstico por IA na medicina.",
+      "image_prompt": "Futuristic digital visualization of human vocal cords transforming into sound waves and DNA helix, glowing blue and green, high tech medical background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a indústria de IA foca em gerar vídeos e textos, um novo benchmark silencioso promete desbloquear o maior mercado não explorado da medicina: o diagnóstico por voz. Publicado no arXiv, o SpeechDx chega para padronizar o que antes era fragmentado.",
+      "highlight": "Mercado de diagnóstico por voz pode ultrapassar US$ 50 bilhões até 2035."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o SpeechDx, um benchmark multi-tarefa para IA clínica de fala. Diferente de abordagens isoladas, ele integra múltiplas condições — Parkinson, depressão, DPOC — em um único framework, forçando os modelos a generalizar.",
+      "visual_hint": "Ícone de um cérebro com ondas sonoras saindo, conectado a um gráfico de rede neural."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O diagnóstico por voz enfrentava fragmentação e falta de padronização. Com o SpeechDx, hospitais e startups podem validar modelos em diferentes populações, idiomas e condições acústicas, acelerando a adoção de diagnósticos não invasivos e escaláveis.",
+      "visual_hint": "Ícone de um estetoscópio digital com ondas de áudio se transformando em um gráfico de barras ascendente."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado global de diagnóstico por voz em saúde: US$ 2,8 bilhões em 2025.",
+        "Projeção para 2035: mais de US$ 50 bilhões.",
+        "Uma gravação de 30 segundos revela coordenação neuromuscular, padrões respiratórios e modulação vocal."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Padronização: modelos poderão ser comparados e reutilizados entre diferentes condições médicas.",
+        "Aceleração: o benchmark pode encurtar em anos o caminho para diagnósticos por voz em larga escala.",
+        "Acessibilidade: diagnósticos baratos e não invasivos para populações remotas ou sem acesso a especialistas."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da medicina pode estar na sua próxima frase. Fique ligado."
+    }
+  ]
+}

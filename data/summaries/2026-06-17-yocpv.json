@@ -1,0 +1,14 @@
+{
+  "tldr": "Hugging Face e Amazon integram LLMs a robôs físicos via Strands Agents e LeRobot, criando um pipeline open source que democratiza a automação física.",
+  "key_facts": [
+    "A integração usa Strands Agents (Amazon) como orquestrador e LeRobot (Hugging Face) como framework robótico open source.",
+    "O pipeline conecta modelos de linguagem do Hugging Face Hub a hardware físico real sem exigir especialização em robótica.",
+    "O mercado de robótica industrial era de US$ 75 bi em 2025, com crescimento de 12% ao ano, mas a programação de robôs ainda é um gargalo caro."
+  ],
+  "why_it_matters": "Esta notícia importa porque sinaliza a transição dos agentes de IA do mundo digital para o físico, reduzindo drasticamente o custo e a complexidade da automação robótica e abrindo o mercado para empresas de médio porte.",
+  "watch_next": [
+    "Empresas de médio porte adotando braços robóticos de baixo custo com modelos open source, acelerando a automação em armazéns e fábricas.",
+    "Expansão da arquitetura para robôs móveis e drones, levando agentes de IA para logística urbana e entrega."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no impacto econômico e na democratização do acesso, em vez de apenas detalhar a tecnologia, mostrando como a combinação open source + hardware barato pode dobrar o TAM da robótica."
+}

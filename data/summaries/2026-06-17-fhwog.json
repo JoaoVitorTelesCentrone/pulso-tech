@@ -1,0 +1,14 @@
+{
+  "tldr": "PhoneHarness é um benchmark que expõe a fragilidade dos agentes de IA para smartphone ao testá-los em tarefas híbridas de GUI, CLI e ferramentas nativas, revelando que modelos estado-da-arte falham em cenários reais de produtividade.",
+  "key_facts": [
+    "PhoneHarness foi publicado no arXiv (2606.14832) e propõe a métrica TCR-MA para medir alternância entre modos de interação.",
+    "Modelos como GPT-4o e Gemini 1.5 Pro superam 85% em tarefas visuais, mas caem abaixo de 40% em tarefas que exigem CLI e ações nativas.",
+    "Benchmarks tradicionais como AndroidWorld e MobileAgent testam apenas navegação visual, ignorando workflows complexos do mundo real."
+  ],
+  "why_it_matters": "A notícia importa porque, em meio à corrida de Google, Apple e Samsung para integrar LLMs nos sistemas operacionais, o PhoneHarness demonstra que os agentes atuais são incapazes de executar tarefas produtivas reais, expondo um abismo entre o marketing e a funcionalidade prática.",
+  "watch_next": [
+    "Empresas como Google e Apple podem adotar o PhoneHarness como padrão para validar seus agentes, forçando mudanças na arquitetura dos modelos.",
+    "O surgimento de novos agentes híbridos que combinam visão computacional com acesso a CLI e APIs nativas para superar a barreira dos 40% de TCR-MA."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas reportar um novo benchmark, mas por fazer uma crítica estrutural à indústria de agentes móveis, usando dados concretos para desmascarar a ilusão de que controlar uma GUI é suficiente para produtividade real."
+}

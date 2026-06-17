@@ -1,0 +1,15 @@
+{
+  "tldr": "Oracle e OpenAI firmaram acordo que permite empresas usarem créditos de contratos Oracle para acessar modelos OpenAI, criando lock-in e democratizando IA corporativa.",
+  "key_facts": [
+    "Empresas com contratos Oracle podem usar créditos para acessar GPT-4, GPT-4 Turbo e Codex via OCI.",
+    "O acordo elimina barreiras de procurement e compliance para adoção de IA em setores como finanças, saúde e governo.",
+    "Oracle monetiza capacidade ociosa de GPUs e se posiciona no mercado de inferência corporativa."
+  ],
+  "why_it_matters": "Este movimento reconfigura a economia da nuvem corporativa ao transformar compromissos existentes em créditos de IA, aumentando o lock-in e acelerando a adoção de IA generativa em grandes empresas sem novos orçamentos.",
+  "watch_next": [
+    "Detalhamento técnico do acordo: revenda pura vs. inferência em hardware Oracle.",
+    "Reação de concorrentes como AWS e Azure, que podem buscar acordos similares com outros provedores de modelos.",
+    "Impacto no mercado de créditos de nuvem e na estratégia de lock-in da Oracle."
+  ],
+  "editorial_angle": "O artigo destaca o ângulo econômico e estratégico do acordo, em vez do técnico, mostrando como a Oracle usa a OpenAI como âncora para reter clientes e monetizar capacidade ociosa, algo que diferencia a cobertura das análises focadas em modelos ou infraestrutura."
+}

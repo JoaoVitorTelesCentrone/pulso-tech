@@ -1,0 +1,53 @@
+{
+  "title": "Guerra Híbrida na Era da IA: Como Operações de Influência Chinesas Estão Manipulando o Debate Tecnológico nos EUA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Guerra Híbrida na Era da IA",
+      "subtext": "Como a China está usando inteligência artificial para manipular o debate tecnológico nos EUA",
+      "image_prompt": "A dark, futuristic digital battlefield with glowing red and blue data streams, a shattered American flag made of code, and a subtle Chinese dragon silhouette in the background, cyberpunk style, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI revelou um relatório detalhado sobre operações de influência vinculadas ao Partido Comunista Chinês. Pela primeira vez, há evidências públicas de que a própria IA está sendo usada como arma para moldar o mercado global de tecnologia.",
+      "highlight": "Primeira evidência pública de IA sendo usada como arma de influência estatal"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Campanhas coordenadas utilizam LLMs para gerar conteúdo em massa, criar personas falsas e amplificar discursos divisionistas. Os alvos incluem data centers, tarifas de chips e a credibilidade do ChatGPT — tudo para semear dúvida e desconfiança.",
+      "visual_hint": "Ícone de rede neural com nós vermelhos se espalhando como um vírus sobre um mapa dos EUA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O alvo não é apenas a opinião pública — é a confiança dos investidores, a direção da regulação e a competitividade das empresas americanas de IA. Se a desinformação influenciar legisladores, o mercado global pode se fragmentar de forma irreversível.",
+      "visual_hint": "Gráfico de linha mostrando confiança do investidor caindo enquanto a desinformação sobe"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 7 trilhões: mercado de IA estimado pela Goldman Sachs até 2030",
+        "US$ 100 bilhões+: investimentos previstos em data centers de IA nos próximos 3 anos",
+        "Milhares de posts e personas falsas gerados por LLMs em múltiplas plataformas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Risco regulatório assimétrico: regras mais duras para empresas dos EUA, enquanto a China avança",
+        "Custo de confiança: empresas podem adiar adoção de IA, freando o mercado",
+        "Guerra de narrativas sobre data centers pode impactar valuations e alocação de capital"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra híbrida está só começando — e a IA é o novo campo de batalha."
+    }
+  ]
+}

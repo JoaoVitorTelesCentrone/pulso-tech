@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores descobriram que modelos multimodais de IA armazenam conhecimento em neurônios segregados por modalidade, fazendo com que edições de conhecimento aplicadas em texto ou imagem não se propaguem para a outra modalidade, criando inconsistências silenciosas e vulnerabilidades sistêmicas.",
+  "key_facts": [
+    "O estudo 'Correct When Paired, Wrong When Split' documenta a falha de desacoplamento na edição de conhecimento em MLLMs.",
+    "Neurônios específicos de modalidade armazenam informação de forma segregada, sem integração total entre texto e imagem.",
+    "Técnicas de edição herdadas de modelos textuais (ROME, MEMIT) não conseguem atualizar conhecimento em ambas as modalidades simultaneamente.",
+    "A inconsistência entre modalidades é silenciosa: o sistema não alerta quando o conhecimento se perde entre texto e imagem."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, esta notícia expõe que a confiabilidade dos sistemas multimodais em produção (GPT-4V, Gemini, Claude) é fraturada, afetando diretamente setores como saúde, finanças e direito, onde consistência entre modalidades é requisito de compliance. Empresas que usam edição de conhecimento correm o risco de propagar informações desatualizadas ou incorretas sem perceber.",
+  "watch_next": [
+    "Desenvolvimento de técnicas de edição simultânea em múltiplas modalidades, como a proposta inicial dos autores.",
+    "Auditorias de segurança em MLLMs empresariais para detectar inconsistências entre modalidades.",
+    "Possível regulamentação ou exigência de certificação de consistência multimodal para sistemas críticos."
+  ],
+  "editorial_angle": "O artigo se diferencia por revelar uma vulnerabilidade estrutural e silenciosa em modelos multimodais, indo além de ataques conhecidos para expor um problema de arquitetura fundamental. Foi escolhido por seu impacto prático imediato em sistemas empresariais e por redefinir os riscos de segurança e confiabilidade na adoção de MLLMs."
+}

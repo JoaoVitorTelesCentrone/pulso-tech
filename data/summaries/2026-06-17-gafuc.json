@@ -1,0 +1,15 @@
+{
+  "tldr": "Novo preprint do arXiv propõe uma arquitetura de rede de agentes distribuídos peer-to-peer que substitui o orquestrador central, prometendo escalabilidade linear e redução drástica de custos em sistemas multi-agente.",
+  "key_facts": [
+    "Paper publicado em 17/06/2026 no arXiv (2606.17368) apresenta arquitetura de rede distribuída para agentes de IA.",
+    "Três mecanismos-chave: Descoberta Dinâmica de Capacidades (DDC), Roteamento Baseado em Confiança (TRR) e Consenso Parcial Assíncrono (APC).",
+    "Prototipos demonstram escalabilidade linear e eliminação do gargalo de coordenação centralizada."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, esta pesquisa ataca o gargalo central da atual geração de agentes — a coordenação centralizada que gera latência quadrática e custos proibitivos. Se validada, pode redefinir a infraestrutura de sistemas autônomos, tornando redes de agentes viáveis para produção em larga escala e mudando o foco de desenvolvimento de prompts para design de protocolos de comunicação.",
+  "watch_next": [
+    "Validação em produção por grandes players (OpenAI, Google, Anthropic) ou startups de infraestrutura.",
+    "Surgimento de frameworks open-source baseados nos mecanismos DDC, TRR e APC.",
+    "Impacto no mercado de orquestração de agentes, com possível desvalorização de soluções centralizadas como AutoGPT e CrewAI."
+  ],
+  "editorial_angle": "O artigo se diferencia ao abordar um problema estrutural ignorado pela maioria das coberturas (foco excessivo em capacidade individual de agentes) e ao oferecer uma solução técnica concreta e detalhada, com mecanismos específicos e protótipos. Foi escolhido por representar uma mudança de paradigma potencialmente disruptiva, com implicações diretas para desenvolvedores, investidores e arquitetos de sistemas de IA."
+}

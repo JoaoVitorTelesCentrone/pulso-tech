@@ -1,0 +1,53 @@
+{
+  "title": "Claude Code vs. Goose: A Guerra de Preços que Pode Redefinir o Mercado de Agentes de IA para Programação",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Claude Code vs. Goose: A Guerra de Preços que Pode Redefinir o Mercado de Agentes de IA para Programação",
+      "subtext": "O agente de codificação da Anthropic custa até US$ 200/mês. Um concorrente open-source faz o mesmo de graça. A disrupção não está na tecnologia, mas no modelo de negócios.",
+      "image_prompt": "A futuristic battlefield with two giant robots facing each other, one glowing purple (Claude) and one glowing green (Goose), digital code rain in the background, neon lights, cyberpunk style, high contrast, dark atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A revolução da codificação com IA está em pleno vapor, mas um novo capítulo se escreve não nos laboratórios de pesquisa, mas nas planilhas de custo. De um lado, o Claude Code, agente terminal da Anthropic que promete autonomia total. Do outro, o Goose, alternativa open-source que entrega funcionalidades equivalentes sem custo de assinatura.",
+      "highlight": "US$ 200/mês vs. GRÁTIS — a diferença que pode excluir ou incluir desenvolvedores no ecossistema de agentes de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Goose não é um clone do Claude Code; é uma resposta direta ao modelo de precificação da Anthropic. Enquanto o Claude Code é um produto verticalizado (modelo + orquestração + interface), o Goose opera como um framework de agente genérico, funcionando com Claude, GPT, Llama ou modelos locais.",
+      "visual_hint": "Ícone de duas pilhas de tecnologia lado a lado: uma fechada (vertical) e uma aberta (horizontal), com setas de custo descendo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para desenvolvedores individuais, startups bootstrapped e empresas em mercados emergentes, a diferença de US$ 200/mês por desenvolvedor é um fator de exclusão ou inclusão. O Goose questiona a premissa de que agentes de codificação precisam ser serviços pagos, corroendo margens como o open-source sempre fez.",
+      "visual_hint": "Gráfico de barras comparando barreiras de entrada: barreira alta (Claude Code) vs. barreira baixa (Goose), com ícones de pessoas sendo incluídas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Claude Code: US$ 20/mês para até 500 tarefas autônomas; US$ 200/mês para tarefas ilimitadas",
+        "Goose: Gratuito. Custo operacional depende do modelo de backend (API ou local)",
+        "A diferença de US$ 200/mês por dev pode representar US$ 240.000/ano para uma equipe de 100 pessoas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas de IA precisarão justificar valuations com valor real, não apenas promessas de receita",
+        "O open-source força a commoditização da camada de orquestração de agentes",
+        "Desenvolvedores ganham poder de escolha: qualidade premium paga vs. flexibilidade gratuita"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra de preços dos agentes de IA está apenas começando. Quem será o próximo a entrar no ringue?"
+    }
+  ]
+}

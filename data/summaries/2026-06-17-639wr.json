@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisa do arXiv revela que o desempenho de agentes de IA depende mais da arquitetura de sistemas (o 'arnês') do que do modelo em si, com quedas de até 40% em arneses mal calibrados.",
+  "key_facts": [
+    "Artigo 'Dissecting model behavior through agent trajectories' foi publicado no arXiv em 17/06/2026.",
+    "Estudo analisou trajetórias completas de agentes baseados em GPT-5, Claude 5 e Gemini 3.",
+    "Modelos state-of-the-art apresentaram quedas de performance de até 40% quando colocados em arneses mal calibrados.",
+    "Em 30% das trajetórias, a falha foi causada pelo arnês (chamadas de ferramenta erradas), não pelo modelo."
+  ],
+  "why_it_matters": "A indústria trata performance de agente como sinônimo de performance de modelo, mas este artigo expõe um gargalo estrutural que pode comprometer bilhões em investimentos em LLMs, afetando CEOs, CTOs e engenheiros que estão adotando agentes de IA.",
+  "watch_next": [
+    "Empresas de IA (OpenAI, Anthropic, Google) podem começar a patentear ou abrir suas arquiteturas de arnês como diferencial competitivo.",
+    "Surgimento de startups focadas exclusivamente em otimização de arneses para agentes de IA.",
+    "Novos benchmarks que avaliam não só o modelo, mas a integração modelo-arnês."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no 'arnês' como o elo perdido da performance de agentes, desafiando a narrativa dominante de que modelos maiores são a única chave para o progresso. Foi escolhido por trazer uma perspectiva de sistemas que é crucial para engenheiros e executivos que estão implementando agentes em produção."
+}

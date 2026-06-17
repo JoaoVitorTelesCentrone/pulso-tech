@@ -1,0 +1,53 @@
+{
+  "title": "SkillChain-Gym: O Novo Benchmark que Transforma a Crise de Talentos em Variável de Decisão na Indústria 4.0",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "SkillChain-Gym: A Crise de Talentos Agora é uma Variável de Decisão",
+      "subtext": "Enquanto o mercado foca em chatbots, um novo benchmark silencioso redefine a gestão industrial.",
+      "image_prompt": "A futuristic factory floor with holographic skill certificates floating above workers, digital chains connecting human talent to production lines, dark blue and neon orange lighting, cinematic wide shot."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A economia global enfrenta um paradoxo: a IA promete automatizar, mas a demanda por trabalhadores qualificados em manufatura, semicondutores e energia cresce exponencialmente. Modelos clássicos tratam a força de trabalho como recurso infinito — uma ficção perigosa.",
+      "highlight": "2,1 milhões de posições industriais vazias nos EUA até 2030"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o SkillChain-Gym, um benchmark que trata a capacidade da força de trabalho como variável de decisão ativa. Ele simula fábricas onde certificações expiram, treinamento compete com produção e cada decisão de alocação impacta estoques e custos.",
+      "visual_hint": "Ícone de engrenagem com um cérebro humano no centro, setas de treinamento saindo e voltando para a linha de produção"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, um framework padronizado permite testar algoritmos de IA que equilibram produtividade com sustentabilidade da força de trabalho. A IA de gestão de talentos sai do RH e entra no core da operação industrial.",
+      "visual_hint": "Gráfico de duas curvas: uma de produtividade subindo e outra de habilidades caindo, com um ponto de equilíbrio destacado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Benchmark modela produção multiestágio com vetor de habilidades que degrada sem uso",
+        "Decisões simultâneas: produção, alocação, treinamento e contratação",
+        "Ambiente inclui choques de demanda e interrupções na cadeia de suprimentos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas que ignorarem a variável 'talento' terão planejamentos inviabilizados",
+        "Algoritmos de IA precisarão otimizar treinamento como ativo estratégico",
+        "Reskilling deixa de ser custo de RH para se tornar decisão de operações"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo humano invisível que pode redefinir a Indústria 4.0 — e como a IA está aprendendo a resolvê-lo."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Anthropic lança Claude Cowork, um agente de IA que opera diretamente no sistema de arquivos do desktop, democratizando o poder dos agentes para usuários não-técnicos, construído em apenas uma semana e meia usando o próprio Claude Code.",
+  "key_facts": [
+    "Claude Cowork foi lançado em 12 de janeiro de 2026, estendendo o Claude Code para usuários comuns.",
+    "O recurso foi construído em aproximadamente uma semana e meia pela equipe da Anthropic usando o próprio Claude Code.",
+    "No dia seguinte ao lançamento, a Anthropic pausou uma mudança de faturamento no Claude Agent SDK após reação negativa de desenvolvedores.",
+    "Cowork opera diretamente no sistema de arquivos do desktop, permitindo manipulação de documentos, planilhas e apresentações via linguagem natural."
+  ],
+  "why_it_matters": "O Cowork representa uma mudança estratégica da Anthropic ao levar agentes de IA do terminal do desenvolvedor para o desktop do profissional de negócios, resolvendo a resistência empresarial ao envio de dados sensíveis para a nuvem e sinalizando que a competição migra de 'quem tem o modelo mais inteligente' para 'quem tem a integração mais útil'.",
+  "watch_next": [
+    "Como concorrentes como OpenAI e Google responderão com agentes locais ou baseados em navegador.",
+    "Se a Anthropic conseguirá monetizar o Cowork de forma sustentável, dado o recuo no faturamento do SDK.",
+    "Possível aceleração do ciclo de desenvolvimento de IA usando IA, com o Claude Code como plataforma de criação de novos agentes."
+  ],
+  "editorial_angle": "O artigo se destaca ao revelar o 'dogfooding extremo' da Anthropic — construir o Cowork em tempo recorde usando o próprio Claude Code — e ao contextualizar o lançamento com a crise de faturamento do SDK, oferecendo uma visão estratégica sobre a democratização dos agentes de IA e a mudança do campo de batalha para integrações úteis."
+}

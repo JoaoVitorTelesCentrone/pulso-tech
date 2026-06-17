@@ -1,0 +1,16 @@
+{
+  "tldr": "Google transforma Android 17 e Wear OS 7 em plataformas de distribuição de IA integrada ao sistema, redefinindo o valor dos dispositivos móveis e o ciclo de upgrade.",
+  "key_facts": [
+    "Android 17 e Wear OS 7 foram lançados em 16 de junho de 2026, com integração profunda do Gemini.",
+    "Gemini opera em três níveis: kernel (otimização de recursos), framework (processamento de entrada) e aplicações.",
+    "Wear OS 7 introduz 'Live Updates' com IA local para relevância em tempo real.",
+    "Google usa a base de 3 bilhões de dispositivos Android como canal de distribuição de IA."
+  ],
+  "why_it_matters": "A notícia mostra que o Google está usando o sistema operacional como cavalo de Troia para tornar a IA onipresente e gratuita, criando um fosso competitivo baseado em escala que pode forçar concorrentes (Apple, Microsoft) a acelerar suas estratégias de IA integrada.",
+  "watch_next": [
+    "Impacto no ciclo de upgrade: consumidores podem adiar trocas se a IA estender a vida útil dos dispositivos via otimização.",
+    "Reação regulatória: integração de IA no sistema pode levantar questões de privacidade e concorrência na UE e EUA.",
+    "Adoção por fabricantes parceiros: Samsung e Xiaomi podem adotar ou criar suas próprias camadas de IA, fragmentando o ecossistema."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na reconfiguração estratégica do campo de batalha da IA, não nas features superficiais, e ao destacar o Android como plataforma de distribuição de inteligência, não apenas como SO. Foi escolhido por antecipar um movimento de mercado que pode redefinir a economia mobile."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Oracle + OpenAI: O Acordo que Pode Redefinir a Economia Corporativa da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Oracle + OpenAI: O Acordo que Pode Redefinir a Economia Corporativa da IA",
+      "subtext": "Como compromissos financeiros pré-existentes se transformam em poder computacional para modelos de linguagem — e o que isso significa para o mercado de US$ 500 bilhões em cloud computing.",
+      "image_prompt": "A futuristic digital landscape with two massive glowing pillars, one labeled 'Oracle' in blue and the other 'OpenAI' in green, merging into a single beam of light, with abstract data streams and corporate server racks in the background, dark tech aesthetic, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de cloud computing corporativo está travado em uma guerra de descontos. AWS, Azure e Google Cloud oferecem créditos e compromissos de longo prazo que amarram empresas a ecossistemas fechados — mas até agora, esses compromissos só podiam ser gastos em serviços nativos de cada nuvem, excluindo os modelos de IA de fronteira.",
+      "highlight": "Mais de 60% da receita de cloud corporativa vem de contratos baseados em compromissos financeiros."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI anunciou uma parceria estratégica com a Oracle Cloud que permite que empresas utilizem seus compromissos financeiros pré-existentes com a Oracle para acessar os modelos da OpenAI, incluindo o Codex. Na prática, companhias podem redirecionar parte desse gasto para inferência e fine-tuning de modelos como GPT-4 e GPT-4 Turbo, sem precisar de aprovação orçamentária extra ou contratos separados.",
+      "visual_hint": "Ícone de um cadeado se abrindo sobre um gráfico de barras financeiras, com setas conectando 'Oracle Contract' a 'OpenAI API'"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para CIOs e CTOs, isso elimina o maior gargalo de adoção de IA em larga escala: a briga orçamentária entre times de infraestrutura e times de dados/IA. Se o dinheiro já está alocado na Oracle, o custo marginal de começar a usar GPT-4 para automação de processos, análise de contratos ou geração de código cai para zero do ponto de vista de aprovação financeira.",
+      "visual_hint": "Ilustração de duas engrenagens (Infraestrutura e IA) se encaixando perfeitamente, com uma moeda no centro brilhando"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Compromissos financeiros pré-existentes podem ser redirecionados em até 100% para chamadas de API da OpenAI, sem multas ou renegociações.",
+        "Modelos rodam na infraestrutura Oracle (OCI), garantindo que dados de inferência nunca saiam do ambiente controlado da empresa.",
+        "Setores regulados como finanças, saúde e governo agora têm acesso direto a modelos de fronteira sem violar conformidade."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A Oracle se torna o primeiro hyperscaler a integrar nativamente modelos de fronteira da OpenAI em seu ecossistema de compromissos financeiros.",
+        "Empresas podem redirecionar orçamentos já aprovados para IA generativa, acelerando a adoção em larga escala.",
+        "A guerra de descontos no cloud computing agora inclui acesso a modelos de IA como moeda de troca estratégica."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O casamento entre nuvem corporativa e inteligência artificial de ponta está apenas começando. Fique por dentro das próximas movimentações que vão redefinir a economia da IA."
+    }
+  ]
+}

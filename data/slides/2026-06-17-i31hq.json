@@ -1,0 +1,53 @@
+{
+  "title": "Oracle + OpenAI: O Acordo Silencioso que Pode Redefinir a Economia Corporativa da Nuvem de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Oracle + OpenAI: O Cavalo de Troia da Nuvem Corporativa",
+      "subtext": "Como compromissos de nuvem existentes podem se tornar créditos para a IA mais cobiçada do planeta — sem novo orçamento ou procurement.",
+      "image_prompt": "A massive Trojan horse made of cloud servers and glowing data streams, standing in a futuristic corporate data center, dark blue and orange neon lighting, cinematic, high contrast, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca nas guerras de modelos de IA, Oracle e OpenAI fecharam um acordo silencioso que pode redefinir a economia da nuvem corporativa. Empresas com contratos Oracle podem agora redirecionar gastos comprometidos para acessar GPT-4 e Codex.",
+      "highlight": "Compromissos de nuvem existentes viram créditos de IA."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI integrou seus modelos diretamente ao Oracle Cloud Infrastructure (OCI). Clientes com contratos plurianuais de milhões de dólares podem usar esses créditos para chamadas de API da OpenAI — sem nova aprovação orçamentária ou processo de procurement.",
+      "visual_hint": "Ícone de engrenagem conectando um contrato Oracle a uma nuvem com o logo da OpenAI"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este é um movimento econômico e estratégico. Empresas que antes enfrentavam barreiras de compliance e orçamento para adotar IA generativa agora têm acesso imediato. O lock-in com a Oracle se torna reverso: sair significa perder créditos de IA já pagos.",
+      "visual_hint": "Ilustração de um cadeado com setas apontando para dentro, simbolizando lock-in reverso"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Contratos Oracle de US$ 10M+ anuais podem ser redirecionados para IA",
+        "Oracle se junta a Azure e Google Cloud como hyperscaler com OpenAI nativo",
+        "Mercado de inferência corporativa: a aposta silenciosa da Oracle"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas de finanças, saúde e governo adotam IA sem novo procurement",
+        "Oracle monetiza capacidade ociosa de GPUs em data centers",
+        "Concorrentes (AWS, GCP) precisam responder com acordos similares"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O acordo Oracle + OpenAI é apenas o começo de uma nova era na economia da nuvem de IA."
+    }
+  ]
+}

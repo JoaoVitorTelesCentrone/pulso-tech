@@ -1,0 +1,15 @@
+{
+  "tldr": "Oracle permite que empresas usem compromissos financeiros pré-existentes com sua nuvem para acessar modelos OpenAI (GPT-4, Codex), eliminando barreiras orçamentárias e de governança para adoção corporativa de IA.",
+  "key_facts": [
+    "Parceria anunciada em 10 de junho de 2026 entre OpenAI e Oracle Cloud.",
+    "Empresas podem redirecionar até 100% de contratos anuais/plurianuais da Oracle para chamadas de API da OpenAI.",
+    "Modelos rodam na infraestrutura OCI, garantindo segurança e conformidade para setores regulados.",
+    "Inclui integração nativa do Codex para automação de pipelines e bancos de dados Oracle."
+  ],
+  "why_it_matters": "Resolve o maior gargalo de adoção de IA em larga escala: a disputa orçamentária entre infraestrutura e times de IA, ao permitir que gastos já comprometidos com cloud sejam usados para inferência de modelos de fronteira, sem necessidade de nova aprovação financeira.",
+  "watch_next": [
+    "Reação da AWS, Azure e Google Cloud: devem anunciar parcerias similares para não perder clientes corporativos.",
+    "Impacto no mercado de US$ 500 bilhões em cloud computing: possível commoditização de compromissos financeiros e guerra de descontos focada em IA."
+  ],
+  "editorial_angle": "Diferencia-se ao focar no mecanismo financeiro (commitment-based consumption) como alavanca estratégica, em vez de apenas listar features técnicas, explicando como o acordo reconfigura a economia da nuvem corporativa e a adoção de IA."
+}

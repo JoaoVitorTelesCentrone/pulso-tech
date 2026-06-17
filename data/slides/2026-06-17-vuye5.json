@@ -1,0 +1,53 @@
+{
+  "title": "BBVA + OpenAI: O Maior Banco Espanhol Coloca a IA no Centro do Core Bancário e Cria um Novo Padrão para o Setor Financeiro Global",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "BBVA + OpenAI: A IA Assume o Core Bancário",
+      "subtext": "100 mil funcionários conectados. Não é um piloto. É a nova infraestrutura operacional de um dos maiores bancos do mundo.",
+      "image_prompt": "Futuristic bank headquarters with glowing AI neural network connections, digital data streams flowing through a classical building, dark blue and gold tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O BBVA, maior banco espanhol com presença global, anunciou uma parceria estratégica de longo prazo com a OpenAI. A inteligência artificial deixa de ser uma camada auxiliar e passa a ser o motor principal de decisão e execução bancária.",
+      "highlight": "ChatGPT Enterprise escalado para 100 mil colaboradores"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O BBVA está redesenhando sua arquitetura de dados e processos para integrar modelos de IA diretamente em sistemas críticos: crédito, investimentos, prevenção a fraudes e compliance. Não é sobre 'dar ChatGPT para todo mundo' — é sobre reconstruir a espinha dorsal tecnológica do banco com IA como camada fundamental.",
+      "visual_hint": "Ícone de engrenagem digital com chip de IA no centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Bancos são os ambientes mais regulados do planeta. Se a IA prova valor e segurança aqui, abre caminho para adoção em massa em seguros, saúde e governo. O movimento do BBVA força concorrentes a responderem — o que começa como vantagem competitiva vira novo padrão de mercado em poucos trimestres.",
+      "visual_hint": "Gráfico de dominó caindo em sequência"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "100 mil funcionários conectados ao ChatGPT Enterprise",
+        "Mais de €200 bilhões em ativos sob gestão",
+        "Fine-tuning de modelos com dados proprietários do banco"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "IA no núcleo do core bancário vira novo padrão global",
+        "Receita enterprise de IA migra de experimentos para contratos de longo prazo com impacto direto no P&L",
+        "Setores regulados (seguros, saúde, governo) aceleram adoção"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do setor financeiro está sendo reescrito agora. Fique por dentro."
+    }
+  ]
+}

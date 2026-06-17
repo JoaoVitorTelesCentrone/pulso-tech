@@ -1,0 +1,15 @@
+{
+  "tldr": "BBVA integra ChatGPT Enterprise para 100 mil funcionários e coloca IA generativa no núcleo do core bancário, em uma parceria estratégica de longo prazo com a OpenAI.",
+  "key_facts": [
+    "BBVA escalou o ChatGPT Enterprise para 100 mil colaboradores.",
+    "A parceria inclui fine-tuning de modelos com dados proprietários do banco e integração via API em sistemas críticos (crédito, risco, compliance).",
+    "O anúncio foi feito pela OpenAI, destacando o caso como um dos maiores exemplos de adoção enterprise de IA generativa no setor financeiro global."
+  ],
+  "why_it_matters": "A notícia marca a transição da IA de camada auxiliar para motor central de operações em um setor altamente regulado, sinalizando que a adoção enterprise de IA está saindo de provas de conceito para contratos de longo prazo com impacto direto no P&L.",
+  "watch_next": [
+    "Concorrentes (Santander, CaixaBank, bancos globais) anunciarem parcerias similares para não perder vantagem competitiva.",
+    "Reguladores financeiros (BCE, Banco da Espanha) emitirem novas diretrizes para uso de IA generativa em core banking.",
+    "Expansão do modelo BBVA para outras geografias (América Latina, Turquia) e para novos produtos financeiros baseados em IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na profundidade da integração (fine-tuning, APIs em sistemas críticos) e no efeito demonstração para o setor, em vez de tratar o caso como mera adoção de ferramenta de produtividade. Foi escolhido por representar um marco na maturidade da IA empresarial em ambientes regulados."
+}

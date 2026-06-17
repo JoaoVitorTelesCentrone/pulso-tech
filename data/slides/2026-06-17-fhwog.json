@@ -1,0 +1,53 @@
+{
+  "title": "PhoneHarness: O Benchmark que Transforma Agentes de Smartphone de Brinquedos em Ferramentas de Produtividade Real",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "PhoneHarness: O Fim dos Agentes de Smartphone como Brinquedos",
+      "subtext": "O benchmark que expõe a verdade: seus agentes de IA são turistas perdidos na tela, não estagiários digitais.",
+      "image_prompt": "A futuristic smartphone screen shattered into pieces, revealing a complex circuit board and command lines underneath, dark tech aesthetic with neon blue and orange highlights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de agentes de IA para celular explode em 2026, com Google, Apple e Samsung prometendo assistentes que 'entendem o contexto do usuário'. Mas os benchmarks tradicionais só medem navegação visual em ambientes estéreis.",
+      "highlight": "Benchmarks atuais medem apenas o espelho retrovisor — não o motorista."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o PhoneHarness (arXiv:2606.14832), um benchmark que testa agentes em cenários reais: misturando interface gráfica, linha de comando e ferramentas nativas do sistema. Não basta clicar — é preciso configurar VPN, extrair PDFs e depurar via ADB.",
+      "visual_hint": "Ícone de um cérebro com engrenagens, conectado a uma tela de celular e um terminal de comando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Agentes que só enxergam a tela e clicam são inúteis no mundo real. O abismo entre 'enxergar a interface' e 'operar o sistema' é o que separa um conceito de um produto. Notificações, pop-ups e mudanças de contexto sabotam o fluxo de qualquer agente puramente visual.",
+      "visual_hint": "Gráfico de linha mostrando uma queda abrupta de desempenho"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos estado-da-arte (GPT-4o, Gemini 1.5 Pro) têm >85% em tarefas visuais puras",
+        "Mesmos modelos caem para <40% em tarefas que exigem alternância entre GUI, CLI e APIs nativas",
+        "Queda de quase 50 pontos percentuais — a diferença entre brinquedo e ferramenta"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes puramente visuais serão considerados obsoletos para produtividade real",
+        "Fabricantes precisarão integrar LLMs com acesso profundo ao sistema operacional",
+        "O mercado de agentes móveis será dividido entre 'brinquedos de demonstração' e 'ferramentas de trabalho'"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA não está na tela — está no que acontece sob o capô."
+    }
+  ]
+}

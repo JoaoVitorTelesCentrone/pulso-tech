@@ -1,0 +1,53 @@
+{
+  "title": "SkillChain-Gym: O Novo Benchmark que Transforma a Crise de Talentos em Variável de Decisão na Indústria 4.0",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "SkillChain-Gym: A Crise de Talentos Agora é uma Variável de Decisão",
+      "subtext": "Como um novo benchmark transforma requalificação em otimização da cadeia de suprimentos — e redefine o valuation de fábricas inteligentes.",
+      "image_prompt": "A futuristic industrial control room with holographic displays showing human skill matrices intertwined with supply chain data streams, dark blue and neon orange tones, digital art style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria 4.0 sempre tratou a força de trabalho como um recurso fixo. Mas com a meia-vida das habilidades técnicas caindo para 2,5 anos, a requalificação deixou de ser um problema de RH para se tornar um gargalo operacional. O SkillChain-Gym surge para integrar o fator humano como variável dinâmica no planejamento de produção.",
+      "highlight": "Meia-vida das habilidades técnicas: 2,5 anos"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o SkillChain-Gym, um benchmark que simula cenários de disrupção — como mudanças na demanda ou quebras de equipamentos — onde a decisão de treinar ou manter um operador na linha impacta diretamente inventário e cumprimento de pedidos. Pela primeira vez, certificações expiradas e requalificação são modeladas como variáveis matemáticas em sistemas de controle de produção.",
+      "visual_hint": "Ícone de engrenagem com um cérebro humano no centro, representando a integração entre produção e capital humano"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A crise de talentos é estrutural: manter a força de trabalho atualizada é fator de competitividade. Decisões erradas sobre quem treinar geram desperdício de horas produtivas, aumento de estoque de segurança e perda de vendas. O SkillChain-Gym permite quantificar esse impacto e tomar decisões baseadas em dados — não em intuição.",
+      "visual_hint": "Gráfico de linha mostrando o custo da inação versus o custo do treinamento ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Meia-vida das habilidades técnicas: 2,5 anos em manufatura avançada e logística",
+        "Certificações expiram se não praticadas entre 6 e 18 meses",
+        "Custo da inação: desperdício de horas produtivas, aumento de estoque de segurança e perda de vendas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "RH e operações passam a compartilhar a mesma linguagem de otimização",
+        "IA pode tomar decisões sobre treinamento com base em dados estruturados",
+        "Fábricas inteligentes incluirão o fator humano como variável dinâmica de valuation"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da indústria 4.0 não é só automatizar — é integrar o humano na equação."
+    }
+  ]
+}

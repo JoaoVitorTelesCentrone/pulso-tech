@@ -1,0 +1,53 @@
+{
+  "title": "Claude Cowork: A Revolução Silenciosa da Anthropic que Democratiza o Poder dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Claude Cowork: O Agente de IA que Mora no seu Computador",
+      "subtext": "A Anthropic levou o poder dos agentes do terminal para o desktop — sem uma linha de código.",
+      "image_prompt": "Futuristic digital desktop interface with glowing AI agent icons interacting with documents, spreadsheets, and folders, dark blue and purple neon tones, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na segunda-feira, 12 de janeiro de 2026, a Anthropic lançou o Cowork, um agente Claude que opera diretamente no sistema de arquivos do desktop. Até então, o Claude Code era restrito a desenvolvedores. Agora, qualquer pessoa pode manipular documentos, planilhas e apresentações com comandos em linguagem natural.",
+      "highlight": "Construído em apenas 1,5 semanas usando o próprio Claude Code — dogfooding extremo."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Cowork é uma camada de abstração sobre o sistema de arquivos. Diferente de agentes baseados em navegador (como o Operator da OpenAI), ele acessa diretamente o sistema operacional, lê e escreve arquivos, e executa operações complexas como formatação e extração de dados — tudo localmente.",
+      "visual_hint": "Ícone de engrenagem com setas conectando documentos e pastas, simbolizando automação local"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O Cowork democratiza o poder dos agentes de IA para usuários não-técnicos. Ele resolve um problema real de adoção empresarial: a resistência em enviar dados sensíveis para a nuvem. O processamento pode ocorrer localmente, mantendo o controle dos arquivos nas mãos do usuário.",
+      "visual_hint": "Gráfico de adoção empresarial com barra destacada para 'processamento local' vs 'nuvem'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "1,5 semanas: tempo de desenvolvimento do Cowork usando Claude Code",
+        "12 de janeiro de 2026: data de lançamento oficial",
+        "0 linhas de código necessárias para o usuário final operar o agente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A guerra dos agentes de IA migra de 'quem tem o modelo mais inteligente' para 'quem tem a integração mais útil'",
+        "Usuários não-técnicos ganham superpoderes de automação sem depender de engenheiros",
+        "A Anthropic acelera o ciclo: usa IA para criar IA, criando uma plataforma de desenvolvimento de agentes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O agente que vive no seu computador está apenas começando. O futuro do trabalho é local, inteligente e sem código."
+    }
+  ]
+}
