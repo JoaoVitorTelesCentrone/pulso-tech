@@ -1,0 +1,53 @@
+{
+  "title": "MODE: A Revolução Silenciosa na Compressão de MoE que Pode Redefinir os Custos de Inferência em IA Multimodal",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "MODE: A Revolução Silenciosa na Compressão de MoE",
+      "subtext": "Como um novo método de quantização pode cortar custos de GPU sem perder performance — e redefinir a economia da IA multimodal.",
+      "image_prompt": "Futuristic digital brain with glowing neural pathways, split into multiple colored modules representing different data modalities (text, image, audio), floating in a dark tech environment with subtle blue and purple lighting, cinematic quality"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos multimodais baseados em Mixture-of-Experts (MoE) oferecem performance excepcional, mas consomem memória GPU proibitiva — até 200GB+ em FP16. O custo de inferência para modelos multimodais pode ser 5x a 10x maior que para modelos puramente textuais, tornando-se o maior gargalo para adoção empresarial.",
+      "highlight": "Custo de inferência multimodal: 5x a 10x maior que modelos textuais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o MODE (Modality-Decomposed Expert-Level Mixed-Precision Quantization), uma técnica de compressão pós-treinamento que decompõe a quantização por modalidade (texto, imagem, áudio) e aplica precisão mista em nível de especialista. Especialistas menos sensíveis são quantizados para INT4/INT8, enquanto os críticos mantêm FP16.",
+      "visual_hint": "Ícone de um cérebro dividido em três zonas coloridas (texto, imagem, áudio) com setas indicando diferentes níveis de precisão (FP16, INT8, INT4)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O MODE ataca a ineficiência estrutural dos MoE-MLLMs, permitindo reduzir o consumo de memória GPU em 40-60% com menos de 1% de degradação em benchmarks. Isso viabiliza a implantação de modelos multimodais em servidores commodity, democratizando o acesso a IA multimodal de alto desempenho para empresas de todos os portes.",
+      "visual_hint": "Gráfico de barras comparando uso de memória GPU antes e depois do MODE, com ícone de servidor e cifrão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de 40-60% no consumo de memória GPU",
+        "Menos de 1% de degradação em benchmarks",
+        "Modelo MoE multimodal com 8 especialistas e 22B parâmetros ativos: até 200GB+ VRAM em FP16 → viável em servidores commodity"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão implantar IA multimodal sem investir em clusters de GPU caríssimos",
+        "A corrida por capacidade multimodal dará lugar à corrida por eficiência e custo-benefício",
+        "Métodos como MODE podem se tornar padrão na indústria, redefinindo a economia de infraestrutura de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A revolução silenciosa na compressão de MoE está apenas começando. Fique por dentro das próximas disrupções."
+    }
+  ]
+}

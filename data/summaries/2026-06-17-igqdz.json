@@ -1,0 +1,15 @@
+{
+  "tldr": "Google transforma Android 17 e Wear OS 7 em plataformas de IA integradas ao sistema, redefinindo a economia mobile ao eliminar atrito de adoção e forçar obsolescência programada por software.",
+  "key_facts": [
+    "Android 17 e Wear OS 7 foram lançados em 16 de junho de 2026 com IA como camada basal do sistema operacional.",
+    "Gemini opera em três camadas: local (NPU), híbrida (edge/nuvem) e na interface do usuário, mediando multitarefa, segurança e notificações.",
+    "Pixel Drop injeta modelos de IA diretamente nos dispositivos, institucionalizando obsolescência programada por software."
+  ],
+  "why_it_matters": "A notícia importa porque o Google elimina o atrito de adoção de IA, aumenta o custo de troca para concorrentes (Apple, Huawei) e redefine a competição em wearables (US$ 60 bi até 2028), além de forçar a troca de hardware para acessar novos ciclos de IA.",
+  "watch_next": [
+    "Reação da Apple e de fabricantes de forks do Android (ex.: Huawei) à monopolização do pipeline de IA.",
+    "Impacto no mercado de wearables com Wear OS 7 rodando IA local, desafiando a dominância da Apple Watch.",
+    "Possível regulação antitruste sobre obsolescência programada por software e controle de dados pelo Google."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o Android 17 não como uma atualização de rotina, mas como uma 'tomada de controle silenciosa' da interação humano-máquina, destacando a estratégia de monopolização de pipeline e a reconfiguração da economia mobile, em vez de apenas listar funcionalidades."
+}

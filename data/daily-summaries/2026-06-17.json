@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "updatedAt": "2026-06-17T12:38:19.871Z",
+  "updatedAt": "2026-06-17T13:45:52.750Z",
   "articles": [
     {
       "slug": "2026-06-17-8saax",
@@ -533,6 +533,249 @@
       ],
       "editorial_angle": "O artigo se diferencia ao focar no 'arnês' como o elo perdido da performance de agentes, desafiando a narrativa dominante de que modelos maiores são a única chave para o progresso. Foi escolhido por trazer uma perspectiva de sistemas que é crucial para engenheiros e executivos que estão implementando agentes em produção.",
       "generatedAt": "2026-06-17T12:38:19.871Z"
+    },
+    {
+      "slug": "2026-06-17-nm88y",
+      "title": "O Erro Silencioso dos Modelos Multimodais: Como Neurônios Específicos de Modalidade Estão Criando uma Nova Classe de Vulnerabilidade em IA",
+      "tags": [
+        "modelos de IA",
+        "MLLMs",
+        "edição de conhecimento",
+        "multimodal",
+        "pesquisa",
+        "segurança"
+      ],
+      "image": "/images/2026-06-17-nm88y.jpg",
+      "tldr": "Pesquisadores descobriram que modelos multimodais de IA armazenam conhecimento em neurônios segregados por modalidade, fazendo com que edições de conhecimento aplicadas em texto ou imagem não se propaguem para a outra modalidade, criando inconsistências silenciosas e vulnerabilidades sistêmicas.",
+      "key_facts": [
+        "O estudo 'Correct When Paired, Wrong When Split' documenta a falha de desacoplamento na edição de conhecimento em MLLMs.",
+        "Neurônios específicos de modalidade armazenam informação de forma segregada, sem integração total entre texto e imagem.",
+        "Técnicas de edição herdadas de modelos textuais (ROME, MEMIT) não conseguem atualizar conhecimento em ambas as modalidades simultaneamente.",
+        "A inconsistência entre modalidades é silenciosa: o sistema não alerta quando o conhecimento se perde entre texto e imagem."
+      ],
+      "why_it_matters": "Para leitores de IA/Tech, esta notícia expõe que a confiabilidade dos sistemas multimodais em produção (GPT-4V, Gemini, Claude) é fraturada, afetando diretamente setores como saúde, finanças e direito, onde consistência entre modalidades é requisito de compliance. Empresas que usam edição de conhecimento correm o risco de propagar informações desatualizadas ou incorretas sem perceber.",
+      "watch_next": [
+        "Desenvolvimento de técnicas de edição simultânea em múltiplas modalidades, como a proposta inicial dos autores.",
+        "Auditorias de segurança em MLLMs empresariais para detectar inconsistências entre modalidades.",
+        "Possível regulamentação ou exigência de certificação de consistência multimodal para sistemas críticos."
+      ],
+      "editorial_angle": "O artigo se diferencia por revelar uma vulnerabilidade estrutural e silenciosa em modelos multimodais, indo além de ataques conhecidos para expor um problema de arquitetura fundamental. Foi escolhido por seu impacto prático imediato em sistemas empresariais e por redefinir os riscos de segurança e confiabilidade na adoção de MLLMs.",
+      "generatedAt": "2026-06-17T12:43:12.084Z"
+    },
+    {
+      "slug": "2026-06-17-rj2ik",
+      "title": "GLM-5.2: O Modelo de Pesos Abertos que Reacende a Guerra Fria da IA na China e no Vale do Silício",
+      "tags": [
+        "modelos de IA",
+        "open source",
+        "benchmarks",
+        "GLM",
+        "China",
+        "mercado de IA"
+      ],
+      "image": "/images/2026-06-17-rj2ik.jpg",
+      "tldr": "O modelo GLM-5.2, da chinesa Zhipu AI, assume a liderança no ranking de pesos abertos do Artificial Analysis Intelligence Index, superando concorrentes ocidentais e reacendendo a disputa geopolítica e comercial por domínio em IA.",
+      "key_facts": [
+        "GLM-5.2 alcançou o primeiro lugar no Artificial Analysis Intelligence Index entre modelos de pesos abertos.",
+        "A Zhipu AI, fundada em 2019, já captou mais de US$ 1 bilhão com investimentos do Alibaba, Tencent e fundos estatais chineses.",
+        "O modelo é otimizado para hardware chinês (Huawei Ascend), contornando sanções dos EUA sobre GPUs da NVIDIA."
+      ],
+      "why_it_matters": "A notícia importa porque demonstra que a China não apenas compete, mas lidera em eficiência e custo de modelos abertos, ameaçando a hegemonia do Vale do Silício e criando alternativas viáveis para desenvolvedores e startups que buscam independência de APIs americanas.",
+      "watch_next": [
+        "Reação de Meta, Mistral e outras empresas ocidentais com novos lançamentos ou cortes de preço para recuperar a liderança.",
+        "Aceleração de parcerias entre Zhipu AI e provedores de nuvem globais para expandir a adoção do GLM-5.2 fora da China."
+      ],
+      "editorial_angle": "O artigo se diferencia ao conectar a performance técnica do modelo com implicações geopolíticas e econômicas, destacando como o GLM-5.2 é um vetor de soft power chinês e um teste de estresse para o ecossistema de IA ocidental.",
+      "generatedAt": "2026-06-17T12:48:36.337Z"
+    },
+    {
+      "slug": "2026-06-17-jz21h",
+      "title": "MODE: A Revolução Silenciosa na Compressão de MoE que Pode Redefinir os Custos de Inferência em IA Multimodal",
+      "tags": [
+        "modelos de ia",
+        "compressão de modelos",
+        "moE",
+        "quantização",
+        "multimodal",
+        "economia de ia"
+      ],
+      "image": "/images/2026-06-17-jz21h.jpg",
+      "tldr": "Pesquisadores propõem o MODE, um método de quantização pós-treinamento que decompõe a compressão por modalidade e aplica precisão mista em especialistas de MoE, reduzindo em 40-60% o consumo de memória GPU em modelos multimodais com menos de 1% de perda de performance.",
+      "key_facts": [
+        "O MODE é uma técnica de compressão pós-treinamento (PTQ) para MoE-MLLMs (Modelos de Linguagem Multimodais baseados em Mixture-of-Experts).",
+        "O método decompõe a quantização por modalidade (texto, imagem, áudio) e aplica precisão mista em nível de especialista, reconhecendo sensibilidades distintas à perda de precisão.",
+        "O resultado potencial é uma redução de 40-60% no consumo de memória GPU com menos de 1% de degradação em benchmarks.",
+        "O custo de inferência para modelos multimodais pode ser 5x a 10x maior do que para modelos puramente textuais, e um MoE multimodal com 8 especialistas e 22B parâmetros ativos pode exigir mais de 200GB de VRAM em FP16."
+      ],
+      "why_it_matters": "Esta notícia importa porque ataca diretamente o maior gargalo para adoção empresarial de IA multimodal: o custo proibitivo de inferência em GPU. Se validado, o MODE pode viabilizar a implantação de modelos multimodais em servidores commodity, reduzindo drasticamente a barreira de entrada para empresas que dependem de processamento de imagem, vídeo e áudio simultâneo.",
+      "watch_next": [
+        "Validação independente dos resultados do MODE por grupos de pesquisa ou empresas como Meta, Google ou Mistral.",
+        "Integração do MODE em frameworks de inferência populares (vLLM, TensorRT-LLM) e adoção por provedores de nuvem (AWS, Azure, GCP) como otimização de custo.",
+        "Surgimento de técnicas concorrentes que combinem MODE com pruning ou destilação para compressão ainda mais agressiva."
+      ],
+      "editorial_angle": "O artigo se diferencia ao focar no impacto econômico da compressão de modelos, em vez de apenas nos ganhos técnicos. Ele conecta a inovação em PTQ ao custo real de inferência multimodal (5x-10x maior que textual) e posiciona o MODE como um potencial 'fator de disrupção econômica' na camada de infraestrutura de IA, algo raramente abordado em coberturas puramente técnicas.",
+      "generatedAt": "2026-06-17T12:56:30.127Z"
+    },
+    {
+      "slug": "2026-06-17-igqdz",
+      "title": "Android 17 e Wear OS 7: Google Usa o Sistema Operacional como Cavalo de Troia da IA e Redefine a Economia dos Dispositivos Móveis",
+      "tags": [
+        "android",
+        "google",
+        "gemini",
+        "sistema operacional",
+        "ia",
+        "wearables",
+        "mercado mobile"
+      ],
+      "image": "/images/2026-06-17-igqdz.jpg",
+      "tldr": "Google transforma Android 17 e Wear OS 7 em plataformas de IA integradas ao sistema, redefinindo a economia mobile ao eliminar atrito de adoção e forçar obsolescência programada por software.",
+      "key_facts": [
+        "Android 17 e Wear OS 7 foram lançados em 16 de junho de 2026 com IA como camada basal do sistema operacional.",
+        "Gemini opera em três camadas: local (NPU), híbrida (edge/nuvem) e na interface do usuário, mediando multitarefa, segurança e notificações.",
+        "Pixel Drop injeta modelos de IA diretamente nos dispositivos, institucionalizando obsolescência programada por software."
+      ],
+      "why_it_matters": "A notícia importa porque o Google elimina o atrito de adoção de IA, aumenta o custo de troca para concorrentes (Apple, Huawei) e redefine a competição em wearables (US$ 60 bi até 2028), além de forçar a troca de hardware para acessar novos ciclos de IA.",
+      "watch_next": [
+        "Reação da Apple e de fabricantes de forks do Android (ex.: Huawei) à monopolização do pipeline de IA.",
+        "Impacto no mercado de wearables com Wear OS 7 rodando IA local, desafiando a dominância da Apple Watch.",
+        "Possível regulação antitruste sobre obsolescência programada por software e controle de dados pelo Google."
+      ],
+      "editorial_angle": "O artigo se diferencia ao tratar o Android 17 não como uma atualização de rotina, mas como uma 'tomada de controle silenciosa' da interação humano-máquina, destacando a estratégia de monopolização de pipeline e a reconfiguração da economia mobile, em vez de apenas listar funcionalidades.",
+      "generatedAt": "2026-06-17T13:09:46.252Z"
+    },
+    {
+      "slug": "2026-06-17-4lgg0",
+      "title": "Google Redesenha a Caixa de Busca pela Primeira Vez em 25 Anos: O Fim dos Links Azuis e o Início da Era da Pesquisa Gerativa",
+      "tags": [
+        "google",
+        "busca",
+        "IA generativa",
+        "economia tech",
+        "UX",
+        "mercado de publicidade"
+      ],
+      "image": "/images/2026-06-17-4lgg0.jpg",
+      "tldr": "Google substitui a clássica caixa de busca por uma interface gerativa com respostas sintetizadas por IA, eliminando a predominância dos links azuis e transformando o modelo de negócios da publicidade digital.",
+      "key_facts": [
+        "Anúncio feito em 19 de maio de 2026, na conferência I/O do Google.",
+        "Nova interface integra respostas gerativas por IA (Gemini) no topo dos resultados, reduzindo o espaço dos links tradicionais.",
+        "Lançamento do Google Home Speaker, primeiro hardware com Gemini como assistente de voz nativo.",
+        "Mais de 8,5 bilhões de pesquisas por dia são impactadas pela mudança."
+      ],
+      "why_it_matters": "A mudança rompe o modelo de negócios baseado em cliques que sustentou a web por 25 anos, afetando diretamente editores, criadores e anunciantes. Para profissionais de IA/Tech, sinaliza a consolidação da busca gerativa como novo padrão de interação com informação, exigindo adaptação em SEO, UX e estratégias de conteúdo.",
+      "watch_next": [
+        "Queda drástica no tráfego orgânico para sites de conteúdo e impacto nos modelos de receita de editores.",
+        "Reação de reguladores antitruste, especialmente nos EUA e Europa, sobre o poder de mercado do Google na nova era de busca sintética.",
+        "Adoção de interfaces de busca gerativa por concorrentes (Bing, Perplexity, startups) e fragmentação do mercado de publicidade digital."
+      ],
+      "editorial_angle": "O artigo se diferencia ao tratar a mudança não como uma atualização estética, mas como uma ruptura estrutural no modelo de negócios da web, conectando a transformação da interface com implicações econômicas profundas para o mercado de publicidade de US$ 200 bilhões. A escolha editorial reflete o timing estratégico (pós-I/O) e a relevância para o leitor de tecnologia de negócios, que precisa entender o impacto sistêmico além do hype da IA.",
+      "generatedAt": "2026-06-17T13:16:21.915Z"
+    },
+    {
+      "slug": "2026-06-17-kqhhc",
+      "title": "PhoneHarness: O Benchmark que Separa Agentes de Smartphone de Brinquedos em Ferramentas de Produtividade Real",
+      "tags": [
+        "agentes de IA",
+        "benchmark",
+        "mobile",
+        "produtividade",
+        "dev tools",
+        "avaliação de IA"
+      ],
+      "image": "/images/2026-06-17-kqhhc.jpg",
+      "tldr": "PhoneHarness é um novo benchmark que avalia agentes de IA para smartphones com base em sua capacidade de executar fluxos de trabalho reais combinando GUI, CLI e ferramentas nativas, indo além da simples previsão de toques na tela.",
+      "key_facts": [
+        "O paper foi publicado no arXiv (ID: 2606.14832) por pesquisadores acadêmicos e de IA.",
+        "O benchmark avalia agentes em três dimensões: GUI Actions, CLI Actions e Tool Actions.",
+        "Os cenários incluem tarefas complexas como agendar compromissos a partir de e-mails e compilar relatórios de múltiplos apps.",
+        "A avaliação é baseada em fatores implícitos de decisão, mapeando como o agente chegou a uma decisão, não apenas o resultado final."
+      ],
+      "why_it_matters": "Este benchmark chega em um momento de explosão de soluções de agentes mobile, oferecendo um critério objetivo para separar soluções superficiais de sistemas verdadeiramente úteis, impactando desenvolvedores, gestores de produto e investidores.",
+      "watch_next": [
+        "Adoção do PhoneHarness por empresas de agentes mobile como padrão de avaliação.",
+        "Surgimento de novas arquiteturas de agentes projetadas especificamente para se sair bem no benchmark.",
+        "Possível consolidação do mercado em torno de soluções que atendam aos critérios do PhoneHarness."
+      ],
+      "editorial_angle": "O artigo se diferencia ao destacar o salto qualitativo do benchmark — de prever toques para entender contextos ambíguos — e ao conectar isso diretamente às implicações práticas para o mercado de produtividade mobile, em vez de apenas descrever o paper tecnicamente.",
+      "generatedAt": "2026-06-17T13:23:50.227Z"
+    },
+    {
+      "slug": "2026-06-17-1q4s4",
+      "title": "Dissecando o Sistema: Por Que o Futuro dos Agentes de IA Depende de Entender Suas Trajetórias",
+      "tags": [
+        "agentes-ia",
+        "sistemas",
+        "pesquisa-ia",
+        "benchmark",
+        "arquitetura"
+      ],
+      "image": "/images/2026-06-17-1q4s4.jpg",
+      "tldr": "O futuro dos agentes de IA depende mais da engenharia de sistemas (o 'arreio' que conecta o modelo ao mundo real) do que do treinamento de modelos maiores, pois gargalos arquiteturais sabotam o desempenho de LLMs avançados.",
+      "key_facts": [
+        "Um paper do arXiv propõe analisar 'trajetórias' completas de agentes (ações, observações, estados internos) em vez de modelos isolados.",
+        "O desempenho de agentes de IA é um problema de sistemas, não de modelagem pura: o 'arreio' (harness) pode bloquear capacidades do LLM.",
+        "Exemplo concreto: um agente falha em login (Erro 403) não por incapacidade do modelo, mas por política de segurança no arreio.",
+        "A vantagem competitiva migra de quem tem o melhor modelo para quem constrói o sistema mais eficiente para operacionalizá-lo."
+      ],
+      "why_it_matters": "Para empresas investindo milhões em agentes de IA, o upgrade mais barato e impactante não é trocar de LLM, mas auditar a arquitetura do agente — o gargalo real está na engenharia de sistemas, não na capacidade cognitiva do modelo.",
+      "watch_next": [
+        "Surgimento de ferramentas de debugging específicas para trajetórias de agentes, como 'arreio-analisadores'.",
+        "Mudança no foco de benchmarks: de métricas de modelo para métricas de eficiência de sistemas de agentes.",
+        "Consolidação de startups especializadas em auditoria de arquiteturas de agentes, em vez de treinamento de LLMs."
+      ],
+      "editorial_angle": "O artigo se diferencia ao inverter a narrativa dominante da indústria (foco em modelos maiores) e oferecer uma tese prática e empiricamente fundamentada: o gargalo é o sistema, não o cérebro. A analogia mecânica (motor F1 com transmissão de fusca) e o exemplo concreto de falha em login tornam a crítica acessível e urgente para engenheiros e tomadores de decisão.",
+      "generatedAt": "2026-06-17T13:30:55.417Z"
+    },
+    {
+      "slug": "2026-06-17-jgh9w",
+      "title": "Neurônios Modais: A Descoberta que Expõe a Fragilidade Oculta dos Modelos Multimodais de IA",
+      "tags": [
+        "multimodal",
+        "knowledge-editing",
+        "mllm",
+        "seguranca-ia",
+        "pesquisa-ia"
+      ],
+      "image": "/images/2026-06-17-jgh9w.jpg",
+      "tldr": "Paper no arXiv:2606.17057 demonstra que 15-25% dos neurônios em camadas intermediárias de MLLMs como LLaVA e Qwen-VL são modais, causando 'editing decoupling failure': técnicas padrão como MEMIT e ROME corrigem conhecimento na via textual mas silenciosamente degradam a performance visual em benchmarks como VQA e captioning, expondo uma vulnerabilidade estrutural na manutenção de modelos multimodais.",
+      "key_facts": [
+        "O paper 'Correct When Paired, Wrong When Split' (arXiv:2606.17057) identifica o fenômeno de 'editing decoupling failure', onde aproximadamente 15-25% dos neurônios em MLLMs são específicos de modalidade (texto ou visual).",
+        "Em testes com LLaVA e Qwen-VL, métodos de Knowledge Editing como MEMIT e ROME preservaram a acurácia textual mas degradaram o desempenho visual pós-edição em tarefas como VQA e captioning.",
+        "Os pesquisadores propõem mecanismos para editar neurônios modais de forma desacoplada, permitindo que correções sejam aplicadas simultaneamente ou seletivamente nas diferentes vias sensoriais do modelo."
+      ],
+      "why_it_matters": "Para o leitor de IA/Tech, esta descoberta desmonta a premissa de que editar MLLMs é uma extensão trivial de LLMs textuais. Empresas que aceleram para multimodalidade em setores de alta criticidade — como diagnósticos médicos, veículos autônomos e suporte ao cliente — correm o risco de implantar modelos 'corrigidos' que carregam falhas invisíveis em uma modalidade, aumentando custos operacionais de validação cross-modal, dificultando auditorias de segurança e abrindo vetores de ataque silenciosos que exploram a inconsistência entre texto e imagem.",
+      "watch_next": [
+        "Desenvolvimento de ferramentas de auditoria multimodal para detectar 'conhecimento cindido' em modelos implantados em produção.",
+        "Corrida de fornecedores e laboratórios de pesquisa para criar técnicas de edição de conhecimento cross-modal que garantam consistência simultânea entre texto e visão."
+      ],
+      "editorial_angle": "O artigo traduz uma descoberta acadêmica sobre ativação neural em risco de mercado e operacional, mostrando que a 'dissociação representacional' entre modalidades não é apenas um problema técnico, mas uma nova classe de custo e vulnerabilidade para a infraestrutura de IA empresarial. A escolha editorial foi priorizar o impacto estratégico imediato — a necessidade de novos processos de validação e a fragilidade de correções apressadas em MLLMs — sobre o detalhamento metodológico do paper.",
+      "generatedAt": "2026-06-17T13:37:31.993Z"
+    },
+    {
+      "slug": "2026-06-17-4l5hi",
+      "title": "GLM-5.2 Assume a Liderança: O Modelo de Pesos Abertos que Reacende a Guerra Fria da IA",
+      "tags": [
+        "modelos de IA",
+        "open source",
+        "benchmarks",
+        "GLM",
+        "concorrência"
+      ],
+      "image": "/images/2026-06-17-4l5hi.jpg",
+      "tldr": "O modelo GLM-5.2 da Zhipu AI lidera o ranking de modelos de pesos abertos, reconfigurando o cenário de IA ao oferecer uma alternativa viável e soberana aos gigantes fechados.",
+      "key_facts": [
+        "GLM-5.2 tornou-se o novo líder entre modelos de pesos abertos no Artificial Analysis Intelligence Index.",
+        "O modelo superou concorrentes como Llama 4, Qwen 3 e DeepSeek-V4 em raciocínio, codificação e compreensão de linguagem.",
+        "Zhipu AI é uma empresa chinesa com valuation estimado em US$ 25 bilhões e apoio de capital estatal."
+      ],
+      "why_it_matters": "A liderança do GLM-5.2 impacta diretamente desenvolvedores (redução de custos com auto-hospedagem), investidores (quebra do duopólio OpenAI/Anthropic) e formuladores de políticas (soberania digital e independência tecnológica).",
+      "watch_next": [
+        "Possível adoção do GLM-5.2 por governos e empresas em setores regulados, como saúde e defesa.",
+        "Pressão sobre preços de inferência de IA com a entrada de um novo player competitivo."
+      ],
+      "editorial_angle": "O artigo se diferencia ao focar nas implicações práticas e geopolíticas do avanço de um modelo chinês de pesos abertos, em vez de apenas reportar o benchmark, destacando a guerra fria da IA e a busca por soberania digital.",
+      "generatedAt": "2026-06-17T13:45:52.749Z"
     }
   ]
 }

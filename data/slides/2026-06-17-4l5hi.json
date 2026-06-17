@@ -1,0 +1,53 @@
+{
+  "title": "GLM-5.2 Assume a Liderança: O Modelo de Pesos Abertos que Reacende a Guerra Fria da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GLM-5.2 Assume a Liderança",
+      "subtext": "O modelo de pesos abertos que reacende a Guerra Fria da IA",
+      "image_prompt": "A futuristic digital battlefield with glowing AI circuits and a Chinese flag subtly embedded in the code, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado olhava para gigantes fechados como OpenAI e Anthropic, a Zhipu AI silenciosamente colocou o GLM-5.2 no topo do ranking de modelos abertos. O Artificial Analysis Intelligence Index confirmou a virada em 17 de junho de 2026.",
+      "highlight": "GLM-5.2 é agora o líder entre modelos de pesos abertos"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Diferente de GPT-5 ou Claude 4, o GLM-5.2 é disponibilizado com pesos abertos. Qualquer desenvolvedor, empresa ou governo pode baixar, inspecionar, ajustar e rodar o modelo em sua própria infraestrutura. Isso muda a equação de custos, privacidade e soberania digital.",
+      "visual_hint": "Ícone de cadeado aberto com engrenagens ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para CTOs, o custo total de propriedade despenca com auto-hospedagem. Para investidores, o duopólio OpenAI-Anthropic se quebra. Para governos, a soberania digital ganha um aliado concreto — sem dependência de APIs externas ou riscos de vazamento.",
+      "visual_hint": "Gráfico de barras mostrando queda de custos vs. concorrentes"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Raciocínio matemático (MATH-500): supera Llama 4 em 4,2 pontos percentuais",
+        "Codificação (HumanEval+): 87,3% de aprovação, contra 84,1% do Qwen 3",
+        "Valuação da Zhipu AI: estimada em US$ 25 bilhões"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas em setores regulados (saúde, finanças, defesa) ganham alternativa viável a APIs fechadas",
+        "Mercado de inferência de IA, projetado para US$ 100 bi até 2028, tem novo player para pressionar preços",
+        "Países como UE e Brasil podem adotar GLM-5.2 como espinha dorsal de estratégias nacionais de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A Guerra Fria da IA está apenas começando — e os pesos abertos são a nova artilharia."
+    }
+  ]
+}

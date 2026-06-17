@@ -1,0 +1,53 @@
+{
+  "title": "GLM-5.2: O Modelo de Pesos Abertos que Reacende a Guerra Fria da IA na China e no Vale do Silício",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GLM-5.2: O Modelo que Reacendeu a Guerra Fria da IA",
+      "subtext": "Pequim acabou de cruzar a linha de chegada — e o Vale do Silício está correndo para alcançar.",
+      "image_prompt": "A futuristic digital battlefield with a glowing Chinese AI chip on one side and a Silicon Valley server farm on the other, connected by a beam of light, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o Vale do Silício ainda digeria os últimos movimentos da OpenAI, um novo modelo chinês de pesos abertos tomou o topo do ranking mais cobiçado da IA. A Zhipu AI, spin-off da Universidade Tsinghua, colocou o GLM-5.2 no centro do ringue.",
+      "highlight": "234 pontos no Hacker News em poucas horas — engenheiros de ponta estão preocupados."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GLM-5.2 lidera o Artificial Analysis Intelligence Index, um benchmark que combina qualidade técnica com custo por token e latência. Ele não é apenas inteligente — é barato e rápido. E está disponível para download no Hugging Face.",
+      "visual_hint": "Ícone de troféu com um chip de computador ao lado, setas de performance subindo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para startups e desenvolvedores, o GLM-5.2 é uma válvula de escape da dependência de APIs americanas. Para a geopolítica, é um cavalo de Troia: código aberto que cria dependência técnica silenciosa e projeta soft power digital da China.",
+      "visual_hint": "Mapa-múndi com linhas de conexão partindo da China para o mundo, ícones de código e nuvem"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 bilhão captado pela Zhipu AI desde 2019",
+        "1º lugar no ranking de pesos abertos do Artificial Analysis",
+        "Parceria com Huawei Ascend para hardware livre de sanções dos EUA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Desenvolvedores terão alternativa viável a APIs americanas, com custo e latência menores",
+        "Ecossistema paralelo de chips chineses ganha legitimidade via software de ponta",
+        "A guerra da IA se desloca dos laboratórios para os repositórios GitHub e contratos de nuvem"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo capítulo dessa guerra fria está sendo escrito agora. Não perca."
+    }
+  ]
+}

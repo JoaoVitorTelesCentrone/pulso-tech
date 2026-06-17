@@ -1,0 +1,14 @@
+{
+  "tldr": "Paper no arXiv:2606.17057 demonstra que 15-25% dos neurônios em camadas intermediárias de MLLMs como LLaVA e Qwen-VL são modais, causando 'editing decoupling failure': técnicas padrão como MEMIT e ROME corrigem conhecimento na via textual mas silenciosamente degradam a performance visual em benchmarks como VQA e captioning, expondo uma vulnerabilidade estrutural na manutenção de modelos multimodais.",
+  "key_facts": [
+    "O paper 'Correct When Paired, Wrong When Split' (arXiv:2606.17057) identifica o fenômeno de 'editing decoupling failure', onde aproximadamente 15-25% dos neurônios em MLLMs são específicos de modalidade (texto ou visual).",
+    "Em testes com LLaVA e Qwen-VL, métodos de Knowledge Editing como MEMIT e ROME preservaram a acurácia textual mas degradaram o desempenho visual pós-edição em tarefas como VQA e captioning.",
+    "Os pesquisadores propõem mecanismos para editar neurônios modais de forma desacoplada, permitindo que correções sejam aplicadas simultaneamente ou seletivamente nas diferentes vias sensoriais do modelo."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, esta descoberta desmonta a premissa de que editar MLLMs é uma extensão trivial de LLMs textuais. Empresas que aceleram para multimodalidade em setores de alta criticidade — como diagnósticos médicos, veículos autônomos e suporte ao cliente — correm o risco de implantar modelos 'corrigidos' que carregam falhas invisíveis em uma modalidade, aumentando custos operacionais de validação cross-modal, dificultando auditorias de segurança e abrindo vetores de ataque silenciosos que exploram a inconsistência entre texto e imagem.",
+  "watch_next": [
+    "Desenvolvimento de ferramentas de auditoria multimodal para detectar 'conhecimento cindido' em modelos implantados em produção.",
+    "Corrida de fornecedores e laboratórios de pesquisa para criar técnicas de edição de conhecimento cross-modal que garantam consistência simultânea entre texto e visão."
+  ],
+  "editorial_angle": "O artigo traduz uma descoberta acadêmica sobre ativação neural em risco de mercado e operacional, mostrando que a 'dissociação representacional' entre modalidades não é apenas um problema técnico, mas uma nova classe de custo e vulnerabilidade para a infraestrutura de IA empresarial. A escolha editorial foi priorizar o impacto estratégico imediato — a necessidade de novos processos de validação e a fragilidade de correções apressadas em MLLMs — sobre o detalhamento metodológico do paper."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "O futuro dos agentes de IA depende mais da engenharia de sistemas (o 'arreio' que conecta o modelo ao mundo real) do que do treinamento de modelos maiores, pois gargalos arquiteturais sabotam o desempenho de LLMs avançados.",
+  "key_facts": [
+    "Um paper do arXiv propõe analisar 'trajetórias' completas de agentes (ações, observações, estados internos) em vez de modelos isolados.",
+    "O desempenho de agentes de IA é um problema de sistemas, não de modelagem pura: o 'arreio' (harness) pode bloquear capacidades do LLM.",
+    "Exemplo concreto: um agente falha em login (Erro 403) não por incapacidade do modelo, mas por política de segurança no arreio.",
+    "A vantagem competitiva migra de quem tem o melhor modelo para quem constrói o sistema mais eficiente para operacionalizá-lo."
+  ],
+  "why_it_matters": "Para empresas investindo milhões em agentes de IA, o upgrade mais barato e impactante não é trocar de LLM, mas auditar a arquitetura do agente — o gargalo real está na engenharia de sistemas, não na capacidade cognitiva do modelo.",
+  "watch_next": [
+    "Surgimento de ferramentas de debugging específicas para trajetórias de agentes, como 'arreio-analisadores'.",
+    "Mudança no foco de benchmarks: de métricas de modelo para métricas de eficiência de sistemas de agentes.",
+    "Consolidação de startups especializadas em auditoria de arquiteturas de agentes, em vez de treinamento de LLMs."
+  ],
+  "editorial_angle": "O artigo se diferencia ao inverter a narrativa dominante da indústria (foco em modelos maiores) e oferecer uma tese prática e empiricamente fundamentada: o gargalo é o sistema, não o cérebro. A analogia mecânica (motor F1 com transmissão de fusca) e o exemplo concreto de falha em login tornam a crítica acessível e urgente para engenheiros e tomadores de decisão."
+}

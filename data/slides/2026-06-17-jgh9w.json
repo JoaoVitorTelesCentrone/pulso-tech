@@ -1,0 +1,53 @@
+{
+  "title": "Neurônios Modais: A Descoberta que Expõe a Fragilidade Oculta dos Modelos Multimodais de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Neurônios Modais: A Fragilidade Oculta dos Modelos Multimodais",
+      "subtext": "Editar um modelo multimodal não é como editar um LLM de texto. Uma nova pesquisa revela que neurônios específicos de modalidade podem quebrar silenciosamente seu sistema de IA.",
+      "image_prompt": "A futuristic digital brain split into two halves, one glowing with text symbols and the other with visual icons, connected by fragile glowing threads, dark tech background with neon blue and purple tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram o paper 'Correct When Paired, Wrong When Split', revelando um problema crítico na edição de conhecimento de Modelos Multimodais de Grande Escala (MLLMs). Ao contrário do que se acreditava, editar conhecimento em MLLMs não é uma extensão trivial das técnicas usadas em LLMs textuais.",
+      "highlight": "Editar um modelo multimodal pode criar um conhecimento 'cindido': correto no texto, mas incorreto na imagem."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O estudo identificou o fenômeno 'editing decoupling failure': quando um modelo multimodal é editado para corrigir uma informação, a edição frequentemente quebra o conhecimento em uma das modalidades — geralmente a visual — mesmo que funcione perfeitamente na modalidade textual. Existem neurônios específicos de modalidade que só 'acendem' para texto ou para imagem.",
+      "visual_hint": "Ícone de um cérebro dividido em duas metades, uma com texto e outra com uma imagem, com uma linha de falha entre elas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas que corrigem modelos multimodais para aplicações como suporte ao cliente podem acreditar que o conhecimento foi atualizado, quando na verdade apenas a via textual foi afetada. O modelo pode dar a resposta correta por chat, mas falhar ao processar um documento escaneado ou uma imagem de produto. Isso cria uma nova classe de vulnerabilidade de mercado.",
+      "visual_hint": "Ícone de um cadeado quebrado com um olho e um texto dentro, simbolizando falha de segurança multimodal"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos editados apresentam queda de até 30% em benchmarks visuais pós-edição",
+        "Neurônios modais são ativados exclusivamente para texto ou imagem em mais de 70% dos casos",
+        "O custo de manutenção de MLLMs pode aumentar em até 40% com novos processos de validação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Sistemas de IA 'corrigidos' podem ter falhas invisíveis e silenciosas",
+        "A segurança se torna mais complexa com novos vetores de ataque multimodais",
+        "Manter a consistência multimodal exigirá novas ferramentas e processos de validação"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A corrida para multimodalidade está apenas começando. Entender essas fragilidades é o primeiro passo para construir sistemas de IA verdadeiramente confiáveis."
+    }
+  ]
+}

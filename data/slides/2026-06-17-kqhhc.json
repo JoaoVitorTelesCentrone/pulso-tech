@@ -1,0 +1,53 @@
+{
+  "title": "PhoneHarness: O Benchmark que Separa Agentes de Smartphone de Brinquedos em Ferramentas de Produtividade Real",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "PhoneHarness: O Teste de Fogo para Agentes de Smartphone",
+      "subtext": "Benchmark que separa soluções reais de brinquedos que só adivinham o próximo toque na tela.",
+      "image_prompt": "Futuristic smartphone with glowing AI agent interface, digital grid background, neon blue and purple lighting, cinematic tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de agentes de IA para dispositivos móveis está explodindo, mas a maioria das soluções é avaliada em ambientes controlados que não refletem a complexidade do uso real. O novo benchmark PhoneHarness chega para mudar isso.",
+      "highlight": "Benchmarks atuais tratam agentes como 'prevê a próxima ação na tela' — o mundo real exige muito mais."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o PhoneHarness, um benchmark que avalia agentes de smartphone em três dimensões simultâneas: GUI Actions (toques e navegação), CLI Actions (comandos de terminal) e Tool Actions (APIs e integrações nativas). Cenários reais como agendar compromissos a partir de e-mails ou compilar relatórios de múltiplos apps.",
+      "visual_hint": "Ícone de três engrenagens interligadas representando GUI, CLI e Tool Actions"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores de produto e investidores, este benchmark é um divisor de águas: agora é possível comparar objetivamente soluções superficiais de sistemas verdadeiramente úteis. Para desenvolvedores, construir um agente que se saia bem no PhoneHarness exige arquiteturas muito mais sofisticadas — novas oportunidades e desafios.",
+      "visual_hint": "Gráfico de linha ascendente com um ponto de inflexão marcado como 'PhoneHarness'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "3 dimensões de avaliação: GUI, CLI e Tool Actions",
+        "Cenários que vão de 'agendar compromisso' a 'compilar relatório formatado'",
+        "Avaliação baseada em fatores implícitos de decisão, não apenas acerto/erro"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Separação clara entre soluções viáveis e 'brinquedos' no mercado de agentes mobile",
+        "Exigência de arquiteturas mais sofisticadas para desenvolvedores de LLMs aplicados a mobile",
+        "Critério objetivo para investidores e gestores avaliarem soluções de produtividade mobile"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de smartphone está sendo escrito agora — não fique para trás."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Android 17 e Wear OS 7: Google Usa o Sistema Operacional como Cavalo de Troia da IA e Redefine a Economia dos Dispositivos Móveis",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Android 17: O Cavalo de Troia da IA",
+      "subtext": "3 bilhões de dispositivos viram uma rede de distribuição de inteligência artificial — sem você perceber.",
+      "image_prompt": "A futuristic digital Trojan horse made of glowing blue circuit lines, entering a smartphone silhouette, dark background with neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 16 de junho de 2026, o Google apresentou o Android 17 e o Wear OS 7. Pela primeira vez, um sistema operacional mainstream foi redesenhado com IA como camada basal, não como aplicativo acessório.",
+      "highlight": "IA não é mais um app — é o sistema."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Google dissolveu o Gemini nas camadas mais fundamentais do sistema. Multitarefa, notificações, segurança e interface agora são mediados por IA em tempo real. O Android 17 não roda IA. Ele é IA.",
+      "visual_hint": "Ícone de sistema operacional com um cérebro digital pulsando no centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O Google elimina o atrito de adoção: não há assistente para escolher ou comando para aprender. O custo de troca para concorrentes como Apple e Huawei dispara. O usuário respira Gemini sem perceber.",
+      "visual_hint": "Três engrenagens conectadas, uma delas invisível, representando a IA embutida"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "3 bilhões de dispositivos Android se tornam nós de uma rede de IA distribuída",
+        "Mercado de wearables deve movimentar US$ 60 bilhões até 2028",
+        "Latência da IA local cai para menos de 50ms em tarefas críticas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Obsolescência programada por software: hardware antigo perde acesso às IAs mais novas",
+        "Wear OS 7 com IA local mata latência e resolve privacidade em vestíveis",
+        "Google monopoliza o pipeline de dados entre edge e nuvem"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A próxima década do mobile já começou — e ela respira IA."
+    }
+  ]
+}

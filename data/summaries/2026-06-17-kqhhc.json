@@ -1,0 +1,16 @@
+{
+  "tldr": "PhoneHarness é um novo benchmark que avalia agentes de IA para smartphones com base em sua capacidade de executar fluxos de trabalho reais combinando GUI, CLI e ferramentas nativas, indo além da simples previsão de toques na tela.",
+  "key_facts": [
+    "O paper foi publicado no arXiv (ID: 2606.14832) por pesquisadores acadêmicos e de IA.",
+    "O benchmark avalia agentes em três dimensões: GUI Actions, CLI Actions e Tool Actions.",
+    "Os cenários incluem tarefas complexas como agendar compromissos a partir de e-mails e compilar relatórios de múltiplos apps.",
+    "A avaliação é baseada em fatores implícitos de decisão, mapeando como o agente chegou a uma decisão, não apenas o resultado final."
+  ],
+  "why_it_matters": "Este benchmark chega em um momento de explosão de soluções de agentes mobile, oferecendo um critério objetivo para separar soluções superficiais de sistemas verdadeiramente úteis, impactando desenvolvedores, gestores de produto e investidores.",
+  "watch_next": [
+    "Adoção do PhoneHarness por empresas de agentes mobile como padrão de avaliação.",
+    "Surgimento de novas arquiteturas de agentes projetadas especificamente para se sair bem no benchmark.",
+    "Possível consolidação do mercado em torno de soluções que atendam aos critérios do PhoneHarness."
+  ],
+  "editorial_angle": "O artigo se diferencia ao destacar o salto qualitativo do benchmark — de prever toques para entender contextos ambíguos — e ao conectar isso diretamente às implicações práticas para o mercado de produtividade mobile, em vez de apenas descrever o paper tecnicamente."
+}

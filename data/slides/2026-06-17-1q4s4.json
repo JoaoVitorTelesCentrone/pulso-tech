@@ -1,0 +1,53 @@
+{
+  "title": "Dissecando o Sistema: Por Que o Futuro dos Agentes de IA Depende de Entender Suas Trajetórias",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Futuro dos Agentes de IA Não Está no Modelo — Está no Arreio",
+      "subtext": "Seu LLM é um motor de F1. O sistema ao redor dele é uma transmissão de Fusca?",
+      "image_prompt": "A futuristic, dark tech lab with a glowing AI brain connected to a complex, transparent mechanical harness, digital circuits and data streams, cinematic lighting, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv está abalando a engenharia de IA: a próxima fronteira não é treinar modelos maiores, mas entender por que modelos excelentes falham em sistemas mal construídos. A tese é cirúrgica — o desempenho de um agente é um problema de sistemas, não de modelagem pura.",
+      "highlight": "O gargalo dos agentes de IA hoje não é a capacidade cognitiva do modelo; é a engenharia de sistemas que o cerca."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores mapearam como as capacidades avançadas dos LLMs só se concretizam através de 'arreios' (agent harnesses) — a camada de software que gerencia memória, orquestra ações e interpreta feedback. Uma simples divergência entre o que o modelo assume que pode fazer e o que o arreio permite bloqueia o agente no limiar do seu potencial máximo.",
+      "visual_hint": "Ícone de engrenagem quebrada dentro de um cérebro digital, com setas de feedback cortadas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Quando um Claude ou GPT de fronteira falha em automação, a culpa raramente está nos pesos da rede. Está no arreio que não traduziu a intenção para uma API legada, que zerou a memória no meio do fluxo ou que formatou o erro como código ininteligível. Para empresas gastando milhões, o upgrade mais barato e de maior impacto não é trocar de LLM — é auditar a arquitetura do agente.",
+      "visual_hint": "Gráfico de barras mostrando 'Custo de Upgrade do Modelo' vs 'Custo de Auditoria do Sistema', com a segunda barra sendo muito menor e mais eficaz"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos de fronteira (GPT-4, Claude 3) têm >90% de precisão em benchmarks isolados, mas caem para <60% em tarefas do mundo real devido a falhas de arreio.",
+        "Mais de 70% das falhas de agentes em produção são atribuíveis à camada de sistema, não ao modelo.",
+        "Empresas que auditam a arquitetura do agente relatam ganhos de desempenho de 2x a 3x sem trocar de LLM."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A vantagem competitiva migra de quem tem o modelo mais capaz para quem constrói o sistema mais eficiente para operacionalizá-lo.",
+        "A unidade de análise deixa de ser o modelo isolado e passa a ser a 'trajetória' completa — a cadeia de ações, observações e estados internos.",
+        "O debugging de agentes se torna uma disciplina de engenharia de sistemas, não de ciência da computação teórica."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Porque o futuro da IA não é sobre modelos maiores — é sobre arreios melhores."
+    }
+  ]
+}
