@@ -2,7 +2,7 @@ name: AI Article Generator
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Teste: a cada 5 minutos (BRT: 08:45, 08:50, 08:55, 09:00, 09:05...)
+    - cron: '*/5 * * * *' # Teste: a cada 5 minutos
   workflow_dispatch:
 
 permissions:
@@ -36,26 +36,32 @@ jobs:
           SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
           NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
+          SEND_ARTICLE_EMAILS: 'false'
         run: npx tsx scripts/generate-article.ts
-
-      - name: Send Daily Digest
-        env:
-          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
-          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
-          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
-          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
-        run: npx tsx scripts/send-digest.ts
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
 
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git add content/articles/ public/images/ data/history.json data/summaries/ data/slides/ data/carousels/ data/digest-sent.json
-            git commit -m "🤖 Auto-generated AI articles [skip ci]"
+          if [[ -n "$(git status --porcelain content/articles public/images data/history.json data/summaries data/slides data/carousels data/daily-summaries)" ]]; then
+            git add content/articles/ public/images/ data/history.json data/summaries/ data/slides/ data/carousels/ data/daily-summaries/
+            git commit -m "Auto-generated AI articles [skip ci]"
             git push
-            echo "✅ Artigos commitados com sucesso."
+            echo "Articles committed successfully."
           else
-            echo "⚠️ Nenhuma notícia nova. Nada a commitar."
+            echo "No new articles to commit."
           fi
+
+      - name: Wait for Published Articles
+        env:
+          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
+        run: npx tsx scripts/wait-for-generated-publication.ts
+
+      - name: Send Generated Article Emails
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+          NEXT_PUBLIC_SITE_URL: ${{ secrets.NEXT_PUBLIC_SITE_URL }}
+        run: npx tsx scripts/send-generated-notifications.ts

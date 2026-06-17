@@ -8,14 +8,16 @@ import { PulsoMark } from '@/components/PulsoMark'
 export default function HomePage() {
   const allArticles = getSortedArticlesData()
 
+  const getDateKey = (dateStr: string) => dateStr.split('T')[0]
+
   const formatDate = (dateStr: string) => {
-    const [y, m, d] = dateStr.split('-')
+    const [y, m, d] = getDateKey(dateStr).split('-')
     const months = ['janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
     return `${parseInt(d, 10)} de ${months[parseInt(m, 10) - 1]} de ${y}`
   }
 
   const grouped = allArticles.reduce((acc, curr) => {
-    const dateKey = curr.date.split('T')[0]
+    const dateKey = getDateKey(curr.date)
     if (!acc[dateKey]) acc[dateKey] = []
     acc[dateKey].push(curr)
     return acc
@@ -27,6 +29,7 @@ export default function HomePage() {
   const mainArticle = todayArticles[0]
   const secondaryTodayArticles = todayArticles.slice(1, 5)
   const previousArticles = sortedDates.slice(1).flatMap(date => grouped[date]).slice(0, 8)
+  const editionNumber = String(sortedDates.length).padStart(3, '0')
 
   return (
     <>
@@ -54,7 +57,7 @@ export default function HomePage() {
                 <div className="mb-10 flex items-center justify-between gap-6 border-b border-[#2D2A36] pb-5">
                   <div className="flex items-center gap-3">
                     <PulsoMark inverted className="h-10" />
-                    <span className="font-body text-[0.68rem] font-bold uppercase tracking-[0.2em] text-[#B8B3A0]">nr. 001 - pulso tech</span>
+                    <span className="font-body text-[0.68rem] font-bold uppercase tracking-[0.2em] text-[#B8B3A0]">nr. {editionNumber} - pulso tech</span>
                   </div>
                   <span className="hidden font-display text-sm italic text-[#B8B3A0] md:block">
                     {formatDate(latestDate)}

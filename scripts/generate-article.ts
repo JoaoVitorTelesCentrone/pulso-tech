@@ -17,6 +17,9 @@ import { getSortedArticlesData } from '../lib/markdown';
 
 const TOPIC = 'Os principais destaques e inovações em Inteligência Artificial e Tecnologia hoje';
 
+const SEND_ARTICLE_EMAILS = process.env.SEND_ARTICLE_EMAILS === 'true';
+const GENERATED_RUN_PATH = path.join(process.cwd(), 'data', 'generated-run.json');
+
 const STOP_WORDS = new Set([
   'the', 'this', 'that', 'with', 'from', 'have', 'will', 'been',
   'como', 'para', 'com', 'uma', 'mais', 'into', 'about', 'your',
@@ -123,7 +126,8 @@ async function processCluster(
   clusterIndex: number,
   totalClusters: number,
   cluster: { context: string; urls: string[] },
-  recentTitles: string[]
+  recentTitles: string[],
+  generatedEntries: ArticleSummaryEntry[]
 ): Promise<string | null> {
   console.log(`\n[${clusterIndex + 1}/${totalClusters}] Gerando artigo...`);
 
@@ -199,12 +203,17 @@ async function processCluster(
   };
 
   appendArticleToDailySummary(summaryEntry);
+  generatedEntries.push(summaryEntry);
   console.log(`[${clusterIndex + 1}/${totalClusters}] Adicionado ao resumo do dia.`);
 
-  try {
-    await notifySubscribersAboutNewArticle(summaryEntry);
-  } catch (err) {
-    console.error(`[${clusterIndex + 1}/${totalClusters}] Erro ao enviar email do novo artigo:`, err);
+  if (SEND_ARTICLE_EMAILS) {
+    try {
+      await notifySubscribersAboutNewArticle(summaryEntry);
+    } catch (err) {
+      console.error(`[${clusterIndex + 1}/${totalClusters}] Erro ao enviar email do novo artigo:`, err);
+    }
+  } else {
+    console.log(`[${clusterIndex + 1}/${totalClusters}] Email adiado para etapa pos-deploy.`);
   }
 
   console.log(`[${clusterIndex + 1}/${totalClusters}] Concluido: ${fileName}`);
@@ -217,6 +226,8 @@ async function main() {
     const clusters = await fetchTopicClusters();
 
     if (clusters.length === 0) {
+      ensureDir(path.dirname(GENERATED_RUN_PATH));
+      fs.writeFileSync(GENERATED_RUN_PATH, JSON.stringify({ generatedAt: new Date().toISOString(), articles: [] }, null, 2), 'utf8');
       console.log('Nenhuma noticia nova encontrada. Abortando.');
       process.exit(0);
     }
@@ -227,6 +238,7 @@ async function main() {
     const allTitles = recentArticles.map(a => a.title); // todos, não só 10
 
     const allNewUrls: string[] = [];
+    const generatedEntries: ArticleSummaryEntry[] = [];
     let successCount = 0;
     let skippedCount = 0;
 
@@ -240,7 +252,7 @@ async function main() {
       }
 
       try {
-        const title = await processCluster(i, clusters.length, clusters[i], allTitles);
+        const title = await processCluster(i, clusters.length, clusters[i], allTitles, generatedEntries);
         if (title) {
           allTitles.unshift(title); // adiciona ao pool para os próximos clusters da mesma rodada
           allNewUrls.push(...clusters[i].urls);
@@ -260,6 +272,7 @@ async function main() {
     }
     usedUrls.push(...allNewUrls);
     fs.writeFileSync(historyPath, JSON.stringify(usedUrls, null, 2), 'utf8');
+    fs.writeFileSync(GENERATED_RUN_PATH, JSON.stringify({ generatedAt: new Date().toISOString(), articles: generatedEntries }, null, 2), 'utf8');
 
     console.log(`\nConcluido! ${successCount} gerados, ${skippedCount} pulados (assunto ja coberto), ${clusters.length - successCount - skippedCount} com erro.`);
   } catch (error) {
