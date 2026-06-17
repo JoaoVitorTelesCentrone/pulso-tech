@@ -65,7 +65,7 @@ jobs:
 
           if [[ -n "$(git status --porcelain content/articles public/images data/history.json data/summaries data/slides data/carousels data/daily-summaries)" ]]; then
             git add content/articles/ public/images/ data/history.json data/summaries/ data/slides/ data/carousels/ data/daily-summaries/
-            git commit -m "Auto-generated AI articles [skip ci]"
+            git commit -m "Auto-generated AI articles"
             git push
             echo "Articles committed successfully."
           else
