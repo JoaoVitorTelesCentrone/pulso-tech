@@ -1,0 +1,53 @@
+{
+  "title": "O Truque de Timing que Corta 14% da Energia no Treinamento de LLMs: A Otimização Silenciosa que Pode Redefinir a Economia da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Truque de Timing que Corta 14% da Energia no Treinamento de LLMs",
+      "subtext": "Uma descoberta simples — mas matematicamente elegante — que promete economizar gigawatts-hora nos data centers mais famintos do mundo.",
+      "image_prompt": "Futuristic data center interior with glowing server racks and dynamic energy flow lines, dark blue and neon green color palette, cinematic lighting, high tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O treinamento do GPT-4 consumiu 50 GWh — equivalente ao consumo anual de 5.000 residências. Modelos como GPT-5 já ultrapassam 100 GWh, colocando a indústria de IA em rota de colisão com metas de sustentabilidade.",
+      "highlight": "100 GWh: a nova marca de consumo para treinar modelos de fronteira"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores da OpenAI e acadêmicos publicaram o TAGA (Timing-Aware Gradient Accumulation): um método que ajusta dinamicamente os ciclos de forward e backward propagation para coincidir com janelas de menor demanda energética na rede elétrica do data center. O modelo 'espera' milissegundos para executar cálculos quando a energia está mais barata e limpa.",
+      "visual_hint": "Ícone de relógio sincronizado com um gráfico de onda de energia"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Uma redução de 14% no consumo de treinamento representa economias anuais na casa das dezenas de milhões de dólares para empresas como OpenAI, Google DeepMind e Anthropic. Além disso, reduz a pressão sobre redes elétricas, diminui a pegada de carbono e aumenta a margem para modelos ainda maiores.",
+      "visual_hint": "Ícone de cifrão verde com folha, simbolizando economia e sustentabilidade"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "14,2% de redução no consumo de energia durante o treinamento de LLMs",
+        "50 milissegundos de atraso máximo por iteração, sem sacrificar velocidade total",
+        "60% da energia de cada iteração está nos backward passes, alvo do TAGA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Inovação em eficiência não precisa de hardware novo — software de agendamento é a nova fronteira",
+        "Data centers conectados a redes inteligentes podem aplicar o método a outros domínios de computação intensiva",
+        "A corrida por modelos maiores ganha um aliado silencioso: o timing certo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O truque de timing que pode redefinir a economia da IA está só começando."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OpenAI Academy: O Curso Gratuito que Está Criando o Novo Profissional de IA — e o Que Isso Significa para o Mercado de Trabalho",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "OpenAI Academy: O Curso Gratuito que Está Criando o Novo Profissional de IA",
+      "subtext": "Enquanto o Vale do Silício debate cortes, a OpenAI silenciosamente redefine quem captura valor na economia da IA — e não é quem desenvolve os modelos.",
+      "image_prompt": "A futuristic digital classroom with glowing AI interfaces, holographic screens showing workflows and agents, dark background with neon blue and purple lights, students interacting with transparent data streams, cinematic lighting, high tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 12 de junho de 2026, a OpenAI lançou três cursos gratuitos focados em aplicar IA no trabalho do dia a dia. O conteúdo não é sobre teoria de transformers — é sobre como pessoas comuns podem construir habilidades práticas, criar workflows repetíveis e usar agentes de IA.",
+      "highlight": "A OpenAI está deixando de ser apenas uma fornecedora de APIs para se tornar uma plataforma de capacitação profissional."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Três módulos gratuitos foram lançados: Construindo Habilidades Práticas de IA, Criando Workflows Repetíveis e Aplicando Agentes no Trabalho Cotidiano. A OpenAI está atacando o gargalo mais crítico da economia da IA: a escassez de profissionais que sabem aplicar a tecnologia, não apenas consumi-la.",
+      "visual_hint": "Ícone de engrenagem com cérebro digital, setas de fluxo de trabalho conectando módulos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas gastam fortunas em tokens e inferência, mas o retorno real vem de quem sabe orquestrar essas ferramentas. A OpenAI está criando seu próprio mercado de trabalho: quanto mais pessoas souberem usar ChatGPT, GPTs e agentes, maior a demanda por seus produtos. Um ciclo virtuoso que concorrentes ainda não replicaram.",
+      "visual_hint": "Gráfico de ciclo virtuoso: capacitação → uso → demanda → mais capacitação"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Cursos 100% gratuitos e online, sem pré-requisitos técnicos",
+        "Coursera reportou aumento de 1.200% nas matrículas de cursos de IA generativa em 2025",
+        "3 camadas de captura de valor: criação de demanda, diferenciação competitiva e padronização de mercado"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Profissionais treinados viram potenciais assinantes do ecossistema OpenAI",
+        "Switching costs aumentam: quem aprende no ecossistema OpenAI tende a não migrar para concorrentes",
+        "O gargalo da economia de IA não é mais o modelo — é o humano capacitado"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do trabalho está sendo escrito agora. E quem domina os workflows de IA não será substituído — será promovido."
+    }
+  ]
+}

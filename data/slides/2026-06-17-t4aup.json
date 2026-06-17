@@ -1,0 +1,53 @@
+{
+  "title": "LifeSciBench: O Novo Padrão que Vai Separar a IA que Cura da IA que Alucina na Indústria Farmacêutica",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "LifeSciBench: O Padrão que Vai Separar a IA que Cura da IA que Alucina",
+      "subtext": "OpenAI lança benchmark criado por cientistas para testar se a IA realmente entende ciência — ou só finge.",
+      "image_prompt": "Futuristic pharmaceutical lab with AI holograms and DNA helix, dark blue and neon green tones, high tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria farmacêutica investe US$ 200 bilhões anuais em P&D, e a IA promete reduzir esse custo em até 40%. Mas a confiança nos modelos ainda é baixa — benchmarks genéricos como MMLU não capturam erros críticos em tarefas reais de pesquisa.",
+      "highlight": "US$ 200 bi em P&D anuais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI lançou o LifeSciBench, um benchmark criado e revisado por especialistas com doutorado em biologia, farmacologia e bioestatística. Ele testa não apenas conhecimento, mas competência em tarefas reais: interpretar gráficos, desenhar experimentos e detectar vieses.",
+      "visual_hint": "Ícone de microscópio com engrenagens de IA ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para startups de biotech, o LifeSciBench pode se tornar o padrão-ouro de due diligence. Investidores de venture capital agora terão um instrumento objetivo para separar empresas com tecnologia real das que surfam o hype. Para engenheiros de IA, o desafio é construir sistemas que raciocinem causalmente sobre fenômenos biológicos.",
+      "visual_hint": "Gráfico de barras comparando startups com e sem validação no benchmark"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 200 bilhões: investimento anual global em P&D farmacêutico",
+        "Até 40%: redução de custo prometida pela IA no setor",
+        "90%: acurácia de modelos no MMLU, mas erros grotescos em tarefas reais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Due diligence de startups de biotech será baseada em competência real, não em promessas",
+        "Modelos de IA precisarão evoluir de recuperação de informação para raciocínio causal",
+        "O fluxo de capital de risco no setor será redefinido por benchmarks objetivos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "LifeSciBench não é só um teste — é o novo padrão que vai separar a IA que cura da IA que alucina."
+    }
+  ]
+}

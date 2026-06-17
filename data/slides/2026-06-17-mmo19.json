@@ -1,0 +1,53 @@
+{
+  "title": "O Ringue dos Robôs: Como o Benchmark 'Last Agent Standing' Vai Definir Quem Domina a Economia da IA Física",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Ringue dos Robôs",
+      "subtext": "O benchmark que vai decidir quem domina a economia da IA física — um mercado de US$ 1 trilhão.",
+      "image_prompt": "A futuristic robotic arena with multiple humanoid robots in combat, neon lights, dark atmosphere, cinematic lighting, high tech, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenRouter, a 'bolsa de valores' das APIs de IA, criou um experimento brutal: colocar Claude, Grok e GPT no controle de robôs em uma arena. O objetivo? Sobreviver. O resultado? Um diagnóstico sobre qual modelo realmente pode comandar o mundo físico.",
+      "highlight": "Pela primeira vez, um benchmark testa a 'agência incorporada' dos LLMs — não apenas texto bonito."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "No 'Royale: Last Agent Standing', cada LLM controla um robô em tempo real. Eles precisam navegar, tomar decisões em frações de segundo e traçar estratégias. O hardware é o mesmo. A única variável é o 'cérebro'. E os resultados estão expondo um abismo entre teoria e prática.",
+      "visual_hint": "Ícone de robô com um cérebro brilhante, cercado por engrenagens e circuitos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se Claude ou Grok não conseguem manter um robô de pé em uma arena controlada, como confiar a eles uma fábrica, um carro autônomo ou um hospital? Este benchmark é o filtro de realidade para investimentos bilionários em robótica. O valor de uma empresa agora está no modelo de IA que escolheu.",
+      "visual_hint": "Gráfico de barras comparando desempenho de modelos em tarefas estáticas vs. dinâmicas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: valor estimado do mercado de robótica e automação até o fim da década.",
+        "Bilhões de requisições de API processadas por mês pela OpenRouter.",
+        "Modelos como GPT, Claude e Grok testados em condições idênticas pela primeira vez."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Benchmarks estáticos (MMLU, GSM8K) perdem valor como preditores de desempenho real.",
+        "Startups de robótica serão avaliadas pelo modelo de IA que escolherem como parceiro.",
+        "A corrida pela 'agência incorporada' se torna o novo campo de batalha da inovação."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O ringue dos robôs está apenas começando. Quem vai sobreviver?"
+    }
+  ]
+}

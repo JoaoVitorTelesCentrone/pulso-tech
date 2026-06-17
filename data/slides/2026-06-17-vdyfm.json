@@ -1,0 +1,53 @@
+{
+  "title": "O Fim do Pensamento Infinito: Como o Novo Método de Parada Adaptativa de Atenção Pode Economizar Bilhões em Inferência de LLMs",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim do Pensamento Infinito",
+      "subtext": "Como um novo método de parada adaptativa de atenção pode economizar bilhões em inferência de LLMs",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways, some paths fading into darkness, symbolizing the end of overthinking in AI, dark tech aesthetic, neon blue and purple tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de raciocínio (LRMs) como GPT-4 e Claude estão 'pensando demais', gerando cadeias de tokens excessivamente longas e redundantes. Esse overthinking queima orçamentos e comprime margens de lucro, limitando a adoção em larga escala.",
+      "highlight": "Overthinking pode multiplicar o custo por consulta em 10x a 50x"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe monitorar o estado de atenção do modelo durante a geração. Quando a atenção se torna difusa e não-informativa — sinal de que o modelo está 'andando em círculos' — o sistema interrompe o raciocínio automaticamente, sem perder precisão.",
+      "visual_hint": "Ícone de um cérebro com um medidor de atenção, mostrando uma agulha caindo na zona vermelha"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para engenheiros e empresas, isso significa redução drástica de custos de inferência e latência em aplicações críticas como agentes autônomos, assistentes de código e chatbots empresariais. A viabilidade econômica dos LRMs finalmente se aproxima do mundo real.",
+      "visual_hint": "Gráfico de barras comparando custo antes e depois, com uma seta verde apontando para baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de 30-60% no número de tokens gerados em tarefas de raciocínio complexo",
+        "Modelos de raciocínio podem custar 10x a 50x mais por consulta que modelos padrão",
+        "Sem queda mensurável de precisão em benchmarks de matemática e lógica"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Inferência mais barata e rápida para aplicações de alto volume",
+        "Adoção em massa de LRMs em chatbots e automação empresarial",
+        "Novo padrão de eficiência para a próxima geração de modelos de raciocínio"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O pensamento infinito acabou. O futuro é eficiente."
+    }
+  ]
+}

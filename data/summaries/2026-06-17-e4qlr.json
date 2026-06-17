@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper CoCoGEC revela que corretores gramaticais de IA falham com mudanças de contexto, propondo treinamento contrafactual para robustez, o que pode impactar um mercado de US$ 2 bilhões.",
+  "key_facts": [
+    "Sistemas GEC (Grammarly, LanguageTool) têm queda acentuada de desempenho quando o contexto da frase é levemente alterado.",
+    "O framework CoCoGEC gera exemplos contrafactuais para treinar modelos a ignorar ruído contextual.",
+    "Benchmarks estáticos como CoNLL-2014 e BEA-2019 não testam robustez contextual, criando uma ilusão de acurácia.",
+    "Mercado global de correção gramatical por IA foi avaliado em US$ 2,1 bilhões em 2025, com CAGR de 14,5%."
+  ],
+  "why_it_matters": "A fragilidade dos corretores gramaticais expõe um risco de confiança e perda financeira para desenvolvedores e empresas de IA, além de questionar a robustez de LLMs em tarefas de precisão linguística, afetando aplicações críticas como revisão jurídica e compliance.",
+  "watch_next": [
+    "Adoção do CoCoGEC por empresas como Grammarly e LanguageTool em seus pipelines de treinamento.",
+    "Criação de novos benchmarks que testem robustez contextual em GEC.",
+    "Impacto em APIs de correção gramatical e possíveis correções de preço ou garantias de SLA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma fragilidade técnica pouco discutida (falha em contexto estendido) com um impacto econômico concreto (US$ 200 milhões em valor perdido), alertando desenvolvedores e investidores sobre a ilusão de acurácia em benchmarks estáticos."
+}

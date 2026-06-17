@@ -1,0 +1,14 @@
+{
+  "tldr": "OpenAI lança LifeSciBench, um benchmark revisado por especialistas para avaliar se modelos de IA realmente entendem ciências da vida ou apenas alucinam, com potencial de se tornar o padrão-ouro para due diligence em biotech.",
+  "key_facts": [
+    "LifeSciBench foi criado e revisado por cientistas ativos, cobrindo tarefas como interpretação de dados, desenho experimental e análise de risco.",
+    "Diferente de benchmarks genéricos (MMLU, GPQA), o LifeSciBench testa a cadeia de raciocínio completa de um pesquisador humano.",
+    "A indústria farmacêutica movimenta US$ 200 bilhões anuais em P&D e a IA promete reduzir custos em até 40%, mas a falta de confiança nos modelos é um entrave."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o LifeSciBench representa um divisor de águas: ele pode redefinir o valuation de startups de biotech, orientar investimentos de VC e forçar desenvolvedores a construir sistemas com raciocínio causal, indo além do mero aumento de escala dos modelos.",
+  "watch_next": [
+    "Divulgação dos resultados dos modelos da OpenAI no LifeSciBench e comparação com concorrentes (Google DeepMind, Anthropic).",
+    "Adoção do benchmark por fundos de venture capital como critério objetivo para investir em startups de biotech baseadas em IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um lançamento técnico (benchmark) diretamente com o impacto financeiro e estratégico no ecossistema de startups e VC, em vez de tratá-lo apenas como mais uma métrica de desempenho de IA. A escolha editorial reflete o interesse do público em entender como a IA pode gerar valor real na indústria farmacêutica, separando hype de capacidade concreta."
+}

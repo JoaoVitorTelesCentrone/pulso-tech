@@ -1,0 +1,16 @@
+{
+  "tldr": "O 'tokenmaxxing' — uso desenfreado de tokens de IA sem métricas de ROI — está causando um estouro de orçamentos em empresas como Uber e Meta, forçando o Vale do Silício a migrar da experimentação a qualquer custo para uma disciplina financeira rigorosa.",
+  "key_facts": [
+    "Uber queimou seu orçamento anual de IA em apenas alguns meses.",
+    "Empresas estão cortando licenças do Claude (Anthropic) para departamentos inteiros.",
+    "Tiffany Luck, sócia da NEA, afirma que o mercado está saindo da experimentação para a disciplina financeira.",
+    "Uma empresa de médio porte pode gastar US$ 5-10 milhões/ano em tokens de IA.",
+    "VCs agora exigem métricas de retorno tangíveis antes de financiar rodadas baseadas em adoção de IA."
+  ],
+  "why_it_matters": "O artigo expõe a bolha de custos oculta na adoção corporativa de IA, alertando que a falta de governança e métricas de ROI pode levar a cortes drásticos, down rounds e até falências de startups que cresceram queimando tokens sem gerar receita proporcional.",
+  "watch_next": [
+    "Correção de rota em big techs: migração de modelos premium para alternativas mais baratas ou open source.",
+    "Reavaliação de valuations de startups de IA que não comprovam retorno financeiro tangível."
+  ],
+  "editorial_angle": "Diferencia-se ao focar no fenômeno específico do 'tokenmaxxing' e no caso concreto da Uber, com dados de custos e depoimento de uma sócia de VC, em vez de abordar a IA empresarial de forma genérica. A escolha se justifica pelo timing: o artigo captura o momento de virada da euforia para a realidade financeira."
+}

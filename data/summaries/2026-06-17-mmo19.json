@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenRouter lançou o benchmark 'Last Agent Standing', que testa LLMs (Claude, Grok, GPT) controlando robôs em uma arena, revelando quais modelos são capazes de comandar corpos físicos em tempo real — um termômetro crucial para o mercado de robótica e automação industrial, estimado em US$ 1 trilhão.",
+  "key_facts": [
+    "OpenRouter publicou o experimento 'Royale: Last Agent Standing', onde LLMs controlam robôs em uma arena com o objetivo de sobreviver.",
+    "O benchmark testa 'agência incorporada' — capacidade de um modelo de agir no mundo físico com autonomia, segurança e eficácia.",
+    "A arena é isonômica: mesmo hardware e regras para todos os modelos, variando apenas o 'cérebro' (LLM).",
+    "O resultado expõe que modelos considerados 'inteligentes' para linguagem podem ser lentos, indecisos ou propensos a erros catastróficos em tempo real."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, este artigo mostra que benchmarks estáticos (como MMLU) são péssimos preditores de desempenho em cenários dinâmicos e que o valor de empresas de robótica agora depende do modelo de IA escolhido — um alerta direto para investidores e startups que apostam em automação.",
+  "watch_next": [
+    "Empresas de robótica podem começar a anunciar parcerias exclusivas com os LLMs vencedores do benchmark.",
+    "OpenRouter pode transformar o 'Last Agent Standing' em um benchmark recorrente, influenciando decisões de investimento no setor.",
+    "Modelos que falharem na arena podem perder credibilidade no mercado de automação industrial e robótica."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar um experimento técnico como um 'termômetro confiável' para um mercado de US$ 1 trilhão, conectando diretamente o desempenho de LLMs em uma arena de robôs a decisões de investimento e estratégias de startups — algo que a cobertura tradicional de benchmarks de IA raramente faz."
+}

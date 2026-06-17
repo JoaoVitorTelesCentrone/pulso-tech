@@ -1,0 +1,54 @@
+{
+  "title": "O Contra-Ataque Silencioso: Como a Geração de Dados Sintéticos por Contrafactuais Pode Salvar (ou Quebrar) a Economia dos Corretores Gramaticais de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Contra-Ataque Silencioso",
+      "subtext": "Como dados sintéticos por contrafactuais podem salvar (ou quebrar) a economia dos corretores gramaticais de IA",
+      "image_prompt": "A futuristic digital battlefield with glowing grammar check icons and data streams, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Corretores gramaticais de IA falham quando o contexto muda. Um novo método promete transformar essa fragilidade em um mercado de US$ 2 bilhões — se os desenvolvedores aceitarem o custo.",
+      "highlight": "Mercado global de correção gramatical: US$ 2,1 bilhões em 2025"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper CoCoGEC revela que sistemas GEC têm queda de desempenho quando o contexto é levemente alterado. O framework gera exemplos contrafactuais que forçam o modelo a ignorar ruídos contextuais e focar no erro gramatical real.",
+      "visual_hint": "Ícone de cérebro com setas de ruído sendo filtradas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se um sistema GEC falha em 10% dos casos com contexto estendido, isso representa US$ 200 milhões perdidos anualmente em retrabalho e erosão de confiança. A fragilidade afeta assistentes jurídicos, revisão de contratos e ferramentas de compliance.",
+      "visual_hint": "Gráfico de barras mostrando queda de confiança do usuário"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 2,1 bilhões: valor do mercado de correção gramatical em 2025",
+        "Crescimento CAGR de 14,5% até 2030",
+        "Grammarly avaliada em US$ 13 bilhões em 2021",
+        "10% de falhas contextuais = US$ 200 milhões em valor perdido"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Modelos GEC precisarão de treinamento contrafactual para serem robustos",
+        "Benchmarks estáticos como CoNLL-2014 se tornarão obsoletos",
+        "Desenvolvedores terão que escolher entre precisão e custo computacional"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O contra-ataque silencioso está apenas começando. Prepare-se para a próxima fronteira da IA linguística."
+    }
+  ]
+}

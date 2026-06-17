@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo paper propõe interromper a geração de tokens em modelos de raciocínio quando a atenção se torna difusa, reduzindo custos de inferência em até 60% sem perda de precisão.",
+  "key_facts": [
+    "Paper arXiv:2606.15070 propõe método de parada adaptativa baseado no estado de atenção.",
+    "Overthinking em LRMs gera cadeias de raciocínio 10x a 50x mais longas que o necessário.",
+    "Classificador leve monitora a atenção e interrompe a geração quando detecta atenção difusa persistente.",
+    "Resultados preliminares indicam redução de 30-60% no número de tokens gerados sem queda em benchmarks."
+  ],
+  "why_it_matters": "O custo de inferência é o principal gargalo para adoção em larga escala de modelos de raciocínio. Se validado, o método pode viabilizar economicamente aplicações de alto volume, reduzir latência em agentes autônomos e comprimir margens de provedores de API, impactando diretamente o ROI de empresas que dependem de LLMs para tarefas complexas.",
+  "watch_next": [
+    "Validação independente dos resultados em benchmarks mais amplos e cenários do mundo real.",
+    "Adoção do método por provedores como OpenAI, Anthropic e Google em suas APIs de raciocínio.",
+    "Surgimento de técnicas concorrentes baseadas em outros sinais internos do modelo (ex.: entropia, gradientes)."
+  ],
+  "editorial_angle": "Diferencia-se por abordar um problema prático e mensurável (custo de inferência) com uma solução tecnicamente elegante e cirúrgica, em vez de discutir apenas tendências ou anúncios. A escolha se justifica pelo impacto econômico imediato e pela relevância para engenheiros e tomadores de decisão que lidam com orçamentos de IA."
+}
