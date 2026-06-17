@@ -5,23 +5,38 @@ import { getSortedArticlesData } from '@/lib/markdown'
 export default function ArchivePage() {
   const allArticles = getSortedArticlesData()
 
-  const getMonthYear = (dateStr: string) => {
+  const monthNames = ['janeiro', 'fevereiro', 'marco', 'abril', 'maio', 'junho', 'julho', 'agosto', 'setembro', 'outubro', 'novembro', 'dezembro']
+
+  const getMonthKey = (dateStr: string) => {
     const [y, m] = dateStr.split('T')[0].split('-')
-    const months = ['JANEIRO', 'FEVEREIRO', 'MARCO', 'ABRIL', 'MAIO', 'JUNHO', 'JULHO', 'AGOSTO', 'SETEMBRO', 'OUTUBRO', 'NOVEMBRO', 'DEZEMBRO']
-    return `${months[parseInt(m, 10) - 1]} ${y}`
+    return `${y}-${m}`
   }
 
-  const getDayMonth = (dateStr: string) => {
+  const getMonthLabel = (monthKey: string) => {
+    const [y, m] = monthKey.split('-')
+    return {
+      month: monthNames[parseInt(m, 10) - 1],
+      year: y,
+    }
+  }
+
+  const getDateLabel = (dateStr: string) => {
     const [, m, d] = dateStr.split('T')[0].split('-')
-    return `${d}.${m}`
+    const date = new Date(Number(dateStr.slice(0, 4)), Number(m) - 1, Number(d))
+
+    return {
+      day: d,
+      month: monthNames[parseInt(m, 10) - 1].slice(0, 3),
+      weekday: date.toLocaleDateString('pt-BR', { weekday: 'short' }).replace('.', ''),
+    }
   }
 
   const archiveGroups = allArticles.reduce((acc, curr) => {
     const dateKey = curr.date.split('T')[0]
-    const monthYear = getMonthYear(dateKey)
-    if (!acc[monthYear]) acc[monthYear] = {}
-    if (!acc[monthYear][dateKey]) acc[monthYear][dateKey] = []
-    acc[monthYear][dateKey].push(curr)
+    const monthKey = getMonthKey(dateKey)
+    if (!acc[monthKey]) acc[monthKey] = {}
+    if (!acc[monthKey][dateKey]) acc[monthKey][dateKey] = []
+    acc[monthKey][dateKey].push(curr)
     return acc
   }, {} as Record<string, Record<string, typeof allArticles>>)
 
@@ -39,19 +54,42 @@ export default function ArchivePage() {
         </header>
 
         <section className="space-y-14">
-          {Object.entries(archiveGroups).map(([month, datesMap], monthIndex) => (
-            <div key={month}>
-              <div className="mb-5 flex items-baseline gap-4">
-                <span className="brand-meta text-text">{String(monthIndex + 1).padStart(2, '0')} / {month}</span>
-                <span className="h-px flex-1 bg-border" />
+          {Object.entries(archiveGroups).map(([monthKey, datesMap]) => {
+            const { month, year } = getMonthLabel(monthKey)
+            const dates = Object.entries(datesMap)
+            const articleCount = dates.reduce((total, [, articles]) => total + articles.length, 0)
+
+            return (
+            <div key={monthKey}>
+              <div className="mb-5 grid gap-3 md:grid-cols-[1fr_auto] md:items-end">
+                <div>
+                  <p className="brand-meta mb-2 text-accent">calendario editorial</p>
+                  <h2 className="font-display text-4xl italic leading-none text-text md:text-5xl">
+                    {month} <span className="text-muted">{year}</span>
+                  </h2>
+                </div>
+                <div className="rounded-full border border-border bg-surface px-4 py-2 shadow-sm">
+                  <span className="brand-meta">
+                    {dates.length} {dates.length === 1 ? 'edicao' : 'edicoes'} / {articleCount} {articleCount === 1 ? 'texto' : 'textos'}
+                  </span>
+                </div>
               </div>
 
               <div className="divide-y divide-border rounded-lg border border-border bg-surface shadow-sm">
-                {Object.entries(datesMap).map(([date, articlesList]) => (
+                {dates.map(([date, articlesList]) => {
+                  const label = getDateLabel(date)
+
+                  return (
                   <div key={date} className="grid gap-0 md:grid-cols-[140px_1fr]">
-                    <div className="border-b border-border p-5 md:border-b-0 md:border-r">
-                      <p className="brand-meta text-accent">{getDayMonth(date)}</p>
-                      <p className="mt-2 font-display text-sm italic text-muted">edicao</p>
+                    <div className="border-b border-border bg-bg p-5 md:border-b-0 md:border-r">
+                      <p className="brand-meta text-accent">{label.weekday}</p>
+                      <div className="mt-3 flex items-end gap-2">
+                        <span className="font-headline text-5xl leading-none text-text">{label.day}</span>
+                        <span className="pb-1 font-body text-[0.68rem] font-extrabold uppercase tracking-[0.12em] text-muted">{label.month}</span>
+                      </div>
+                      <p className="mt-3 font-display text-sm italic text-muted">
+                        {articlesList.length} {articlesList.length === 1 ? 'texto' : 'textos'}
+                      </p>
                     </div>
                     <div className="divide-y divide-border">
                       {articlesList.map(article => (
@@ -68,10 +106,12 @@ export default function ArchivePage() {
                       ))}
                     </div>
                   </div>
-                ))}
+                  )
+                })}
               </div>
             </div>
-          ))}
+            )
+          })}
         </section>
       </main>
       <Footer />
