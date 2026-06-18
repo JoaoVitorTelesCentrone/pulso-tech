@@ -1,0 +1,17 @@
+{
+  "tldr": "Paper do arXiv propõe Gaussian Mixture Attention (GMA), um mecanismo de atenção linear O(n) que substitui a atenção densa quadrática por roteamento probabilístico via misturas gaussianas, prometendo viabilizar modelos de contexto infinito com custo computacional drasticamente reduzido.",
+  "key_facts": [
+    "Paper arXiv:2606.18283 propõe Gaussian Mixture Attention (GMA).",
+    "GMA reduz complexidade da atenção de O(n²) para O(n) usando distribuições gaussianas latentes para roteamento probabilístico.",
+    "Mecanismo é uma substituição direta da atenção tradicional, mantendo a estrutura geral do Transformer.",
+    "Paper ainda é pré-impressão, sem detalhes sobre autores ou afiliação.",
+    "GMA se diferencia de alternativas como Mamba e RWKV por preservar a arquitetura Transformer."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, esta notícia aborda o gargalo mais crítico dos Transformers — o custo quadrático de contexto — e apresenta uma solução linear que pode baratear drasticamente a inferência de longo contexto, democratizar o acesso a modelos massivos e viabilizar aplicações como processamento de livros inteiros ou bases de código milionárias.",
+  "watch_next": [
+    "Publicação de resultados empíricos em escala (ex.: benchmarks como LongBench, RULER) para validar a qualidade da representação.",
+    "Implementações open-source e adoção por frameworks como Hugging Face ou PyTorch.",
+    "Comparações diretas com Mamba, RWKV e FlashAttention em custo e performance."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar na inovação arquitetural (roteamento probabilístico) como uma alternativa prática e de baixo atrito à atenção tradicional, em vez de apenas reportar mais um paper. A escolha editorial se justifica pelo potencial de impacto imediato na indústria, combinando relevância técnica com uma narrativa clara de 'próximo passo' para modelos de contexto longo."
+}

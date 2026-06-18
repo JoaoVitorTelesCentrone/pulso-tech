@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores propõem o StepGuard, um mecanismo de calibração passo a passo que reduz a propagação de erros em agentes de navegação web, aumentando a taxa de sucesso em tarefas longas em 47% com apenas 8% de custo computacional adicional.",
+  "key_facts": [
+    "Agentes de navegação web falham sistematicamente em tarefas longas devido ao acúmulo de erros a cada passo.",
+    "O StepGuard adiciona um detector de falha por passo, um calibrador de rota e um mecanismo de rollback parcial.",
+    "Em benchmarks como WebArena e Mind2Web, o StepGuard melhora a taxa de sucesso em tarefas com 10+ passos em 47%.",
+    "O custo computacional adicional é de apenas 8% por tarefa, sem necessidade de retreinamento do modelo base."
+  ],
+  "why_it_matters": "O mercado de agentes de IA para automação web está projetado para ultrapassar US$ 10 bilhões, mas a baixa confiabilidade (falha de 88% em tarefas de 20 passos) inviabiliza o uso em produção. O StepGuard ataca esse gargalo crítico, tornando agentes viáveis para fluxos de trabalho reais.",
+  "watch_next": [
+    "Adoção do StepGuard por empresas como Anthropic, OpenAI e Vercel em seus agentes de navegação.",
+    "Surgimento de benchmarks específicos para medir robustez a erros acumulados em agentes web.",
+    "Desenvolvimento de técnicas complementares de verificação em tempo real para outros tipos de agentes autônomos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico aparentemente simples (correção de erros passo a passo) com um impacto econômico massivo (viabilização de um mercado de US$ 10 bilhões), oferecendo uma análise clara do mecanismo e dos resultados, sem exageros técnicos ou promessas irreais."
+}

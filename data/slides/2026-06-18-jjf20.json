@@ -1,0 +1,53 @@
+{
+  "title": "O Efeito Dominó do Banimento do Fable 5: Como Modelos Open Source Estão Capitalizando a Crise Regulatória da Anthropic",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Governo Desligou o Fable 5. Em Horas, o Open Source Tomou Conta.",
+      "subtext": "Como a regulação está redesenhando o mapa de poder da IA — e por que isso muda tudo para sua empresa.",
+      "image_prompt": "A dramatic digital domino effect, with a glowing red 'OFF' switch on the left and four green open-source nodes lighting up on the right, dark cyberpunk style, neon accents, 2026 tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na sexta-feira, 12 de junho de 2026, o governo dos EUA suspendeu o acesso público aos modelos Claude Fable 5 e Mythos 5 da Anthropic, alegando preocupações com segurança nacional. O setor foi pego de surpresa.",
+      "highlight": "Ordem sem precedentes: modelos de fronteira desligados da noite para o dia."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Em horas, quatro modelos de pesos abertos (Llama 5, Mistral Large 3, Qwen 3.5 e outros) ocuparam o vácuo competitivo. Desenvolvedores publicaram benchmarks mostrando que a diferença de desempenho era menor do que se imaginava — especialmente em código e análise de dados.",
+      "visual_hint": "Ícone de um vácuo sendo preenchido por engrenagens abertas e conectadas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Dependência de modelos proprietários agora é um risco regulatório mensurável. Empresas que diversificaram suas fontes de inferência com modelos abertos sofreram menos. O episódio reacende o debate sobre soberania digital: se os EUA podem desligar o modelo mais avançado, outros governos também podem.",
+      "visual_hint": "Mapa-múndi com cadeados e chaves abertas sobre diferentes regiões"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "4 modelos open source se posicionaram como alternativas em menos de 24 horas",
+        "Benchmarks mostraram diferença de desempenho inferior a 15% em tarefas de programação",
+        "Empresas com suporte a múltiplos provedores tiveram 0% de downtime operacional"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Diversificação de provedores de IA deixa de ser opção e vira exigência de compliance",
+        "Modelos abertos ganham tração como espinha dorsal de infraestrutura crítica",
+        "Regulação acelera a descentralização que tentava conter — efeito dominó irreversível"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O mapa de poder da IA está sendo redesenhado em tempo real. Não fique para trás."
+    }
+  ]
+}

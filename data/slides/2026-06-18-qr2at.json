@@ -1,0 +1,53 @@
+{
+  "title": "Gaussian Mixture Attention: A Revolução Probabilística que Pode Romper o Gargalo de Contexto dos Transformers",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Gaussian Mixture Attention: O Fim do Gargalo Quadrático dos Transformers?",
+      "subtext": "Uma nova arquitetura promete processar milhões de tokens com custo linear, substituindo a atenção densa por um roteamento probabilístico baseado em misturas gaussianas.",
+      "image_prompt": "A futuristic digital brain made of glowing Gaussian curves and probability clouds, with a transformer architecture dissolving into linear light paths, dark tech background, neon blue and purple tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A atenção tradicional dos Transformers tem complexidade O(n²), tornando inviável processar contextos muito longos. Enquanto a indústria corre para escalar modelos a milhões de tokens, o custo computacional explode.",
+      "highlight": "Dobrar o contexto = quadruplicar o custo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores propuseram a Gaussian Mixture Attention (GMA), que substitui a atenção densa por um roteamento probabilístico. Cada token consulta distribuições gaussianas latentes, não todos os outros tokens, reduzindo a complexidade de O(n²) para O(n).",
+      "visual_hint": "Ícone de nuvem de probabilidade com setas de roteamento linear"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A GMA é uma substituição direta do mecanismo de atenção, mantendo a estrutura geral do Transformer. Isso facilita a adoção e pode democratizar modelos de longo contexto, reduzindo custos de inferência drasticamente.",
+      "visual_hint": "Ícone de engrenagem substituindo peça quadrada por peça linear"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Atenção tradicional: O(n²) — complexidade quadrática",
+        "Gaussian Mixture Attention: O(n) — complexidade linear",
+        "Contexto de 1 milhão de tokens se torna viável sem clusters de GPUs"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Modelos de contexto infinito se tornam viáveis (livros, código, áudio)",
+        "Redução drástica de custos de inferência para empresas de IA",
+        "Democratização: startups podem rodar modelos de longo contexto sem hardware caro"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A pergunta que fica: a qualidade da representação se mantém? O futuro dos Transformers pode depender dessa resposta."
+    }
+  ]
+}

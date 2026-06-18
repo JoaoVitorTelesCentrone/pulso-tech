@@ -1,0 +1,53 @@
+{
+  "title": "StepGuard: A Correção de Rota que Pode Salvar a Economia dos Agentes de Navegação Web",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "StepGuard: A Correção de Rota que Pode Salvar a Economia dos Agentes de Navegação Web",
+      "subtext": "Um novo paper revela o calcanhar de Aquiles que pode tornar obsoleto o mercado de US$ 10 bilhões em agentes de IA — e a solução que pode salvá-lo.",
+      "image_prompt": "A futuristic digital highway with glowing arrows and a single agent navigating a complex web of nodes, with a red warning light and a green correction path, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria corre para construir agentes que navegam na web como humanos. Empresas como Anthropic, OpenAI e Vercel apostam que esses agentes vão substituir fluxos de trabalho manuais. Mas há um problema estrutural: a propagação de erros.",
+      "highlight": "Mercado projetado para ultrapassar US$ 10 bilhões nos próximos três anos"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o paper StepGuard, que aborda um problema crítico: agentes de navegação web falham sistematicamente em tarefas longas porque erros se acumulam a cada passo. A solução? Uma calibração passo a passo que verifica se a ação anterior foi bem-sucedida antes de prosseguir.",
+      "visual_hint": "Ícone de um agente com uma lupa sobre cada passo de uma sequência, com um sinal de 'check' verde ou 'X' vermelho"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se um agente erra 1 em cada 10 passos, e uma tarefa típica exige 20 passos, a taxa de sucesso cai para 12%. Nenhuma empresa vai delegar processos críticos a um sistema que falha 88% das vezes. O StepGuard ataca o gargalo mais doloroso: a propagação de erros.",
+      "visual_hint": "Gráfico de barras mostrando a queda drástica da taxa de sucesso conforme o número de passos aumenta"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Taxa de sucesso em tarefas de 10 passos: apenas 35% (com 90% de acerto por passo)",
+        "StepGuard melhora a taxa de sucesso em tarefas longas (10+ passos) em 47%",
+        "Custo computacional adicional de apenas 8% por tarefa"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de navegação web podem se tornar ferramentas de produção confiáveis, não apenas brinquedos",
+        "Empresas poderão automatizar fluxos de trabalho críticos sem medo de falhas catastróficas",
+        "A abordagem não exige retreinamento do modelo base — apenas uma camada de verificação pós-ação"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O StepGuard é o primeiro passo para uma nova geração de agentes confiáveis. A economia dos agentes de navegação web depende disso."
+    }
+  ]
+}

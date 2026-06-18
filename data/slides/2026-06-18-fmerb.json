@@ -1,0 +1,53 @@
+{
+  "title": "DecoSearch: O Roteador de Consultas que Pode Quebrar o Gargalo do Text-to-SQL Empresarial",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "DecoSearch: O Fim do Gargalo no Text-to-SQL Empresarial",
+      "subtext": "Um framework que promete transformar perguntas complexas em SQL preciso — sem treinar novos modelos.",
+      "image_prompt": "A futuristic glowing data router splitting a beam of light into multiple paths, with SQL code fragments floating in a dark digital space, cyberpunk style, blue and neon orange accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Empresas gastam bilhões com equipes de dados para traduzir perguntas de negócio em SQL. Ferramentas como Copilot e Code Interpreter falham em consultas com 3 ou mais junções, com taxas de erro acima de 40%.",
+      "highlight": "Consultas complexas ainda são o calcanhar de Aquiles da IA aplicada a dados."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o DecoSearch, um framework training-free que avalia a complexidade da pergunta antes de gerar SQL. Ele roteia para pipelines simples ou de reparo em nível de plano, corrigindo a lógica — não apenas o texto.",
+      "visual_hint": "Ícone de roteador com dois caminhos: um reto (simples) e outro com engrenagens (reparo lógico)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para CTOs e líderes de produto, isso significa que a promessa de 'pergunte ao banco em português' está mais perto da realidade. Para engenheiros, é a prova de que a próxima geração de ferramentas de dados será sobre arquiteturas inteligentes, não modelos maiores.",
+      "visual_hint": "Gráfico de linha ascendente mostrando 'precisão em consultas complexas' subindo após a adoção do framework"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Erro >40% em consultas com 3+ junções nos principais benchmarks",
+        "DecoSearch é training-free: não exige novos modelos ou fine-tuning",
+        "Dois mecanismos: Roteamento Consciente de Complexidade + Reparo em Nível de Plano"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Democratização real do acesso a dados para áreas de negócio",
+        "Redução drástica do tempo de analistas em consultas complexas",
+        "Migração de abordagens centradas em modelo para centradas em pipeline"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do Text-to-SQL não é um modelo maior — é uma arquitetura mais inteligente."
+    }
+  ]
+}

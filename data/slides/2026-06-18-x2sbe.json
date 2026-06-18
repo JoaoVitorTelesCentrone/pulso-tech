@@ -1,0 +1,53 @@
+{
+  "title": "Sistemas Multi-Agente para Empresas: O Novo Paper do arXiv que Expõe o Gargalo da Customização em Larga Escala",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível que Pode Custar Bilhões em Implantação de IA",
+      "subtext": "Customização em escala: o calcanhar de Aquiles dos sistemas multi-agente empresariais",
+      "image_prompt": "A dark futuristic data center with glowing blue server racks, a subtle red warning light blinking on one server, digital network lines connecting multiple AI agent nodes, cinematic lighting, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv revela o abismo entre a demonstração de laboratório e a implantação real de sistemas multi-agente em empresas. Enquanto o mercado celebra agentes de IA, a customização para domínios específicos e a escalabilidade operacional se tornam os verdadeiros gargalos.",
+      "highlight": "Projetos de US$ 10 milhões que nunca saem do piloto"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O artigo 'Towards Scalable Customization and Deployment of Multi-Agent Systems for Enterprise Applications' expõe que a abordagem atual — fine-tuning individual de cada agente — não escala. Cada empresa tem dados, processos e regras de negócio únicos, e um agente genérico falha miseravelmente em ambientes reais com ERPs legados e requisitos regulatórios.",
+      "visual_hint": "Ícone de engrenagens quebradas conectadas por linhas de código"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de agentes corporativos está avaliado em centenas de bilhões de dólares. Se a customização em escala continuar sendo um gargalo, veremos uma repetição do que aconteceu com a IA nos anos 2010: muitos pilotos, poucas implantações reais. O valor real não está no modelo base, mas na camada de adaptação que permite a colaboração entre múltiplos agentes em ambientes empresariais específicos.",
+      "visual_hint": "Gráfico de linha mostrando hype vs. realidade em implantações de IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Sistemas com 5 a 20 agentes especializados precisam ser customizados individualmente para cada domínio",
+        "Custo de inferência explode exponencialmente com o número de agentes customizados",
+        "Projetos de US$ 10 milhões frequentemente não saem da fase piloto"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas precisarão investir em camadas de adaptação, não apenas em modelos base",
+        "A corrida será por arquiteturas que permitam customização sem aumentar custos de inferência",
+        "Setores como finanças, saúde e manufatura exigirão soluções específicas de coordenação entre agentes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA empresarial não está nos modelos, mas em como os adaptamos à realidade de cada negócio"
+    }
+  ]
+}

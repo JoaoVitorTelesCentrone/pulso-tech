@@ -1,0 +1,53 @@
+{
+  "title": "O Salto Quântico na Inferência Lógica: Como a Teoria dos Tipos Homotópicos Pode Redefinir a Economia dos Sistemas Neuro-Simbólicos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Salto Quântico na Inferência Lógica",
+      "subtext": "Como a Teoria dos Tipos Homotópicos pode quebrar o gargalo mais caro dos sistemas Neuro-Simbólicos",
+      "image_prompt": "A futuristic quantum leap visualization, glowing geometric paths connecting neural networks and symbolic logic, dark tech background with deep blue and purple tones, abstract mathematical shapes"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria corre atrás de modelos maiores e mais dados, mas um paper no arXiv propõe uma revolução silenciosa nas fundações matemáticas da IA. O gargalo atual: sistemas neuro-simbólicos são computacionalmente caros e limitados por álgebras distintas para cada método de inferência.",
+      "highlight": "Weighted Model Counting é #P-completo — intratável para instâncias grandes"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo artigo (arXiv:2606.17851) propõe usar a Teoria dos Tipos Homotópicos (HoTT) para unificar todos os métodos de inferência neuro-simbólica — como lógica fuzzy, probabilística e weighted model counting — em uma única estrutura matemática. Tipos viram espaços, igualdades viram caminhos.",
+      "visual_hint": "Ícone de um cubo topológico com setas conectando diferentes formas lógicas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se validada, a abordagem pode reduzir drasticamente a complexidade computacional da inferência NeSy. Isso barateia a lógica verificável em ordens de grandeza, abrindo mercados hoje inviáveis: diagnósticos médicos, verificação de contratos, otimização de cadeias de suprimentos.",
+      "visual_hint": "Gráfico de barras mostrando custo caindo exponencialmente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Inferência NeSy atual: #P-completo na teoria",
+        "HoTT pode explorar novas simetrias para aproximações eficientes",
+        "Impacto econômico imediato se complexidade cair ordens de grandeza"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Sistemas NeSy escaláveis para aplicações empresariais reais",
+        "Redução drástica no custo de raciocínio lógico verificável",
+        "Abertura de mercados antes inviáveis economicamente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A revolução silenciosa nas fundações da IA está apenas começando."
+    }
+  ]
+}

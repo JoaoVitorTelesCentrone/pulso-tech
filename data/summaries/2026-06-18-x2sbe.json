@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo paper do arXiv revela que o gargalo real para sistemas multi-agente empresariais não é a capacidade dos LLMs, mas a customização em larga escala, que pode inviabilizar projetos de milhões de dólares.",
+  "key_facts": [
+    "Paper intitulado 'Towards Scalable Customization and Deployment of Multi-Agent Systems for Enterprise Applications' publicado no arXiv em 18/06/2026.",
+    "O estudo aponta que a customização para domínios específicos e a escalabilidade operacional são os verdadeiros gargalos, não o desempenho dos LLMs.",
+    "A abordagem atual de fine-tuning individual de cada agente não escala devido ao custo de inferência e à complexidade de coordenação entre agentes."
+  ],
+  "why_it_matters": "O hype em torno de agentes de IA esconde um problema crítico de implantação empresarial. Se a customização em escala não for resolvida, o mercado de agentes corporativos, avaliado em centenas de bilhões, pode repetir o ciclo de muitos pilotos e poucas implantações reais, gerando desperdício de investimento.",
+  "watch_next": [
+    "Empresas de IA (Anthropic, OpenAI, Google) podem anunciar novas camadas de adaptação ou APIs focadas em customização multi-agente.",
+    "Startups de infraestrutura para agentes empresariais podem ganhar destaque, oferecendo soluções de orquestração e customização escalável.",
+    "Publicação de estudos de caso de empresas que implementaram a arquitetura proposta no paper, validando ou refutando sua eficácia."
+  ],
+  "editorial_angle": "O artigo se diferencia ao expor o 'calcanhar de Aquiles' do hype dos agentes de IA, focando no problema prático e econômico da customização, em vez de apenas celebrar avanços técnicos. A escolha se justifica por trazer uma perspectiva crítica e orientada a negócios, relevante para tomadores de decisão em tecnologia."
+}

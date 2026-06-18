@@ -1,0 +1,53 @@
+{
+  "title": "FlowRAG: A Revolução Silenciosa na Busca por Raciocínio Explícito em Grafos de Conhecimento",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "FlowRAG: O Fim do Raciocínio Implícito em Grafos de Conhecimento",
+      "subtext": "Como uma nova arquitetura promete desbloquear bilhões em valor de dados corporativos com rastreabilidade total.",
+      "image_prompt": "A futuristic digital network of glowing nodes and flowing data streams, with a central bright light representing explicit reasoning paths, dark blue and purple tones, high tech abstract style."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Sistemas RAG conectam LLMs a bases de dados internas, mas falham em perguntas que exigem conectar múltiplos documentos. O GraphRAG tradicional tenta resolver isso, mas com um raciocínio implícito e opaco, gerando altos custos de inferência e falta de confiança.",
+      "highlight": "Raciocínio multi-hop: o calcanhar de Aquiles da IA corporativa."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper FlowRAG propõe um fluxo de raciocínio explícito baseado em um grafo de múltiplas granularidades que leva em conta a frequência das conexões. Em vez de 'adivinhar' relações, o sistema cria uma trilha de auditoria técnica clara de como chegou a cada conclusão.",
+      "visual_hint": "Ícone de um grafo com setas direcionais e um caminho destacado em neon, simbolizando o fluxo explícito."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para setores regulados como finanças, saúde e direito, a explicabilidade não é opcional. O FlowRAG transforma a caixa-preta do GraphRAG em um processo auditável, permitindo que bancos, hospitais e escritórios de advocacia confiem e justifiquem cada decisão gerada por IA.",
+      "visual_hint": "Ícone de um escudo com um cadeado e uma lupa, representando segurança e auditoria."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de RAG explodiu nos últimos 2 anos, com adoção em massa por empresas de todos os portes.",
+        "Sistemas RAG simples falham em perguntas que exigem conectar 2 ou mais documentos (raciocínio multi-hop).",
+        "Custos ocultos: inferência ineficiente (mais tokens) e falta de confiança (dificuldade de auditar respostas)."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão auditar tecnicamente cada decisão de IA, abrindo portas para setores altamente regulados.",
+        "Redução drástica de custos de inferência ao eliminar tentativas e erros em buscas multi-hop.",
+        "Novo padrão de confiança: a 'caixa-preta' dos grafos de conhecimento se torna transparente e rastreável."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "FlowRAG não é apenas mais um benchmark. É o início de uma nova era para a IA explicável em grafos."
+    }
+  ]
+}

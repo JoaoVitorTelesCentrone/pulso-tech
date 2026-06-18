@@ -1,0 +1,16 @@
+{
+  "tldr": "DecoSearch é um framework training-free que melhora a precisão de Text-to-SQL em consultas complexas usando roteamento consciente de complexidade e reparo em nível de plano lógico.",
+  "key_facts": [
+    "Framework training-free publicado no arXiv (ID 2606.17821) para Text-to-SQL empresarial.",
+    "Introduz dois mecanismos: Roteamento Consciente de Complexidade e Reparo em Nível de Plano.",
+    "Melhora significativamente a precisão em consultas com múltiplas junções e subconsultas aninhadas.",
+    "Não propõe novo modelo, mas sim uma arquitetura de pipeline mais inteligente."
+  ],
+  "why_it_matters": "O artigo aborda o gargalo central do Text-to-SQL empresarial — consultas complexas com alta taxa de erro — e mostra que a solução não está em modelos maiores, mas em arquiteturas de sistema mais inteligentes, aproximando a promessa de 'pergunte ao banco em português' da realidade.",
+  "watch_next": [
+    "Empresas como Microsoft e OpenAI podem adotar abordagens similares de roteamento em suas ferramentas de dados.",
+    "O conceito de reparo em nível de plano pode influenciar outras áreas de geração de código (ex.: GraphQL, APIs).",
+    "Benchmarks futuros devem incluir métricas de complexidade para avaliar sistemas de Text-to-SQL."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na arquitetura de pipeline (roteamento + reparo lógico) em vez de um novo modelo, alinhando-se à tendência de 2026 de orquestração inteligente de sistemas, o que é mais relevante para CTOs e líderes de produto do que para pesquisadores de ML puro."
+}
