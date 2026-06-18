@@ -1,0 +1,53 @@
+{
+  "title": "A Inconsistência Lógica dos LLMs: O Novo Benchmark que Expõe a Fragilidade Oculta do Raciocínio em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Raciocínio da IA Tem um Calcanhar de Aquiles",
+      "subtext": "Novo benchmark revela que modelos acertam a resposta final por caminhos lógicos instáveis e contraditórios",
+      "image_prompt": "A futuristic digital brain with cracks and unstable glowing pathways, dark background, high contrast, tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA estão sendo implantados em produção para programação, finanças e diagnósticos. Mas a confiabilidade do raciocínio multi-etapas nunca foi medida com rigor — até agora.",
+      "highlight": "O problema não é mais se a IA pode raciocinar, mas se ela consegue ser consistente quando raciocina."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um estudo do arXiv (2606.17312) propõe o Structural Uncertainty: uma métrica que quantifica a instabilidade dos caminhos lógicos internos dos LLMs, revelando fragilidades ocultas mesmo em modelos com alta acurácia.",
+      "visual_hint": "Ícone de labirinto com múltiplos caminhos, alguns quebrados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para engenheiros usando Claude Code ou Goose em produção, a diferença entre um raciocínio consistente e um 'sorteado' é a diferença entre um deploy seguro e uma falha catastrófica em cascata.",
+      "visual_hint": "Gráfico de linha mostrando duas trajetórias que chegam ao mesmo ponto, uma reta e outra caótica"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos topo de linha exibem níveis preocupantes de Structural Uncertainty em tarefas de dedução multi-etapas",
+        "Benchmarks tradicionais como GSM8K e MATH não capturam a instabilidade do raciocínio interno",
+        "Quanto mais longo o caminho lógico, maior a probabilidade de contradições não detectadas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Confiabilidade de LLMs não será mais medida apenas por acurácia, mas por estabilidade lógica",
+        "Agentes autônomos precisarão de validação de caminhos, não só de respostas finais",
+        "A métrica pode redefinir quem lidera a corrida dos agentes de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Porque confiar na resposta certa não é o mesmo que confiar no raciocínio."
+    }
+  ]
+}

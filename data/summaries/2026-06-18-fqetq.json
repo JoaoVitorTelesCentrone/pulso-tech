@@ -1,0 +1,16 @@
+{
+  "tldr": "O benchmark DeepInsight propõe uma infraestrutura unificada para avaliar toda a pilha de IA Física, expondo gargalos de integração entre camadas cognitivas, de controle e físicas, e prometendo separar inovação real de mero teatro no mercado de robótica.",
+  "key_facts": [
+    "DeepInsight é um benchmark que unifica a avaliação da pilha de IA Física, do decoding de modelos de fundação (ms) ao controle corporal (minutos).",
+    "Introduz o conceito de Cross-Layer Fidelity (CLF) para medir a degradação de performance entre camadas de IA.",
+    "O artigo foi publicado no arXiv e visa criar uma régua única para comparar empresas como Tesla, Boston Dynamics, Figure, Agility e 1X.",
+    "O mercado de IA física está avaliado em dezenas de bilhões de dólares, mas carece de métricas padronizadas."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o DeepInsight pode ser o divisor de águas que a robótica precisa: ao forçar transparência e métricas comparáveis, ele reduz riscos para investidores, acelera a inovação e expõe quais empresas realmente têm capacidade técnica, separando-as das que apenas fazem marketing.",
+  "watch_next": [
+    "Adoção do DeepInsight por grandes players da indústria (Tesla, Boston Dynamics) como padrão de facto.",
+    "Consolidação do mercado de robótica, com startups incapazes de atingir CLF alto sendo adquiridas ou fechando.",
+    "Surgimento de benchmarks derivados focados em setores específicos (logística, manufatura, saúde)."
+  ],
+  "editorial_angle": "O artigo se diferencia ao não apenas reportar o lançamento de um benchmark, mas ao contextualizá-lo como um potencial 'momento ImageNet' para a IA Física, destacando a crise de credibilidade do setor e a importância estratégica da integração entre camadas — um ângulo que vai além do técnico e atinge investidores e estrategistas de mercado."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores publicaram um framework de IA que usa gêmeos digitais para simular tratamentos em tempo real, prometendo revolucionar a tomada de decisão clínica personalizada.",
+  "key_facts": [
+    "Framework integra simulação de gêmeos digitais com estimativa de efeito de tratamento (Treatment Effect).",
+    "Sistema é adaptativo online, ajustando recomendações em tempo real conforme a condição do paciente evolui.",
+    "Segurança é incorporada como restrição matemática no processo de otimização, não como camada posterior.",
+    "Artigo foi publicado no arXiv em 17 de junho de 2026."
+  ],
+  "why_it_matters": "A notícia importa porque aborda o gargalo central da saúde personalizada: a incapacidade de sistemas atuais de capturar a dinâmica individual dos pacientes. Este framework pode desbloquear um mercado de US$ 50 bilhões ao transformar CDSASs de ferramentas reativas em plataformas preditivas e simulatórias, impactando hospitais, seguradoras e farmacêuticas.",
+  "watch_next": [
+    "Validação clínica do framework em ensaios reais e aprovação regulatória (FDA/ANVISA).",
+    "Parcerias estratégicas entre os pesquisadores e grandes players de saúde ou big techs.",
+    "Adoção do modelo por hospitais para reduzir custos com tratamentos ineficazes e melhorar desfechos."
+  ],
+  "editorial_angle": "O artigo se diferencia por não ser apenas mais um avanço em IA generativa, mas sim uma aplicação concreta que resolve um problema real de segurança e adaptação em tempo real na medicina. Foi escolhido por conectar inovação técnica (gêmeos digitais + TE) a um mercado de alto valor e por oferecer uma narrativa clara de 'antes e depois' para o leitor de tecnologia."
+}

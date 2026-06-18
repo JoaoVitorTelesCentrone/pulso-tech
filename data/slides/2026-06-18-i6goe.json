@@ -1,0 +1,54 @@
+{
+  "title": "LLM como Juiz na Sala de Aula: O Pipeline de Correção que Pode Redefinir o Mercado de US$ 6 Bi da EdTech",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "LLM como Juiz na Sala de Aula",
+      "subtext": "O pipeline de correção que pode redefinir o mercado de US$ 6 bilhões da EdTech",
+      "image_prompt": "Futuristic classroom with holographic AI judge grading papers, neon blue and purple lighting, digital curriculum floating in air, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo artigo no arXiv propõe um pipeline de correção automatizada que ancora o julgamento do LLM diretamente no currículo oficial. O sistema reduz a variabilidade entre corretores em 40% e mantém concordância acima de 85% com especialistas humanos.",
+      "highlight": "40% menos variabilidade entre corretores"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O pipeline de 4 estágios (Curriculum Grounding, Question-Curriculum Alignment, Criteria Generation, LLM Judging) transforma o LLM de um 'avaliador criativo' imprevisível em um 'avaliador disciplinado' e auditável. A variabilidade entre julgamentos do mesmo modelo caiu de 12% para 4%.",
+      "visual_hint": "Ícone de engrenagem com checkmarks em cada estágio do pipeline"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para escolas, universidades e plataformas de ensino, a automação de correção deixa de ser um experimento e passa a ser um produto viável. O middleware de governança força o modelo a seguir um currículo explícito, abrindo caminho para correção escalável de provas de alto risco.",
+      "visual_hint": "Ícone de gráfico de crescimento com cifrão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de avaliação educacional automatizada: US$ 6 bilhões (2025)",
+        "Crescimento projetado: 18% ao ano",
+        "Concordância com especialistas: 85%+ em questões de média complexidade",
+        "Concordância entre corretores humanos: 65-70%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Correção de provas de alto risco se torna escalável e confiável",
+        "Instituições podem contratar o sistema como produto, não como experimento",
+        "LLM disciplinado e auditável substitui avaliadores criativos e imprevisíveis"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da correção automatizada está mais perto do que você imagina."
+    }
+  ]
+}

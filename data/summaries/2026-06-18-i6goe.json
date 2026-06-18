@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo pipeline de correção automatizada de provas, baseado em LLM e ancorado no currículo oficial, reduz a variabilidade entre corretores em 40% e atinge mais de 85% de concordância com especialistas, abrindo caminho para um mercado de US$ 6 bilhões em automação educacional.",
+  "key_facts": [
+    "O pipeline LLM-as-Judge in Education reduz a variabilidade entre corretores em 40%.",
+    "A concordância com especialistas humanos é superior a 85% em questões de média complexidade e 72% em alta complexidade.",
+    "A variabilidade entre julgamentos do mesmo LLM caiu de 12% para 4% com o uso do pipeline.",
+    "O mercado global de avaliação educacional automatizada é de US$ 6 bilhões, com crescimento projetado de 18% ao ano."
+  ],
+  "why_it_matters": "A notícia importa porque apresenta uma solução concreta para o gargalo de confiabilidade na correção automatizada, transformando LLMs de 'avaliadores criativos' imprevisíveis em 'avaliadores disciplinados' auditáveis, o que viabiliza a automação em exames de alto risco e abre uma frente de receita significativa para o setor de EdTech.",
+  "watch_next": [
+    "Adoção do pipeline por plataformas de ensino e universidades em programas piloto.",
+    "Desenvolvimento de versões especializadas do pipeline para diferentes disciplinas e níveis de ensino.",
+    "Discussões regulatórias sobre o uso de IA em avaliações de alto risco e a necessidade de auditoria externa."
+  ],
+  "editorial_angle": "O artigo se diferencia por não tratar o LLM como um fim em si mesmo, mas como parte de um middleware de governança que resolve o problema de inconsistência e alucinação. A abordagem de 'ensemble de julgamentos' e o foco em exames de alto risco (onde a confiabilidade é crítica) tornam a notícia relevante para investidores, CTOs de EdTech e formuladores de políticas educacionais."
+}

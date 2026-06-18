@@ -1,0 +1,14 @@
+{
+  "tldr": "Um novo preprint propõe uma arquitetura de aprendizado por reforço verbal que permite que agentes de LLM extraiam e armazenem regras verbais de interações reais, melhorando o desempenho sem necessidade de re-treinamento caro dos pesos do modelo.",
+  "key_facts": [
+    "O artigo 'Closing the Feedback Loop' propõe um sistema de aprendizado verbal que substitui o fine-tuning tradicional por extração de regras em linguagem natural.",
+    "Agentes usando o método superaram em até 34% agentes sem aprendizado em simulações de otimização de cadeias de suprimento.",
+    "O sistema inclui um módulo de 'Experience Extraction' que filtra insights com base em consistência e impacto, além de um framework de 'Insight Governance' para auditoria de regras."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, esta notícia importa porque aborda o maior gargalo operacional de agentes em produção: o custo e a complexidade da manutenção contínua. Se validado, o VRL com extração de experiência pode democratizar a automação adaptativa, reduzindo drasticamente a dependência de infraestrutura de treinamento e pipelines de MLOps, especialmente para startups e médias empresas.",
+  "watch_next": [
+    "Acompanhar a validação empírica do método em ambientes reais e não apenas simulados, especialmente em cenários de alta volatilidade como mercados financeiros.",
+    "Observar o desenvolvimento de ferramentas práticas de 'Insight Governance' que permitam auditoria e correção de regras extraídas, evitando overfitting e comportamentos prejudiciais de curto prazo."
+  ],
+  "editorial_angle": "O que diferencia este artigo é o foco no 'loop fechado' prático e na governança de insights, indo além da mera descrição técnica do VRL. Ele conecta a inovação acadêmica a um problema real de custo e escalabilidade na indústria, oferecendo uma perspectiva crítica sobre os riscos de governança, o que o torna relevante tanto para engenheiros quanto para tomadores de decisão."
+}

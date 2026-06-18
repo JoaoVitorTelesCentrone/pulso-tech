@@ -1,0 +1,53 @@
+{
+  "title": "O Loop Fechado do Aprendizado Verbal: Como a Extração de Experiência Está Criando Agentes de IA que Aprendem Sem Treinamento",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Agentes que Aprendem Sem Treinar: O Fim do Fine-Tuning?",
+      "subtext": "Como a Extração de Experiência Está Criando IAs que Evoluem em Tempo Real",
+      "image_prompt": "A futuristic AI agent with a glowing brain, extracting golden rules from a digital environment, dark tech background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O maior custo da IA em produção não é a inferência — é a manutenção. Modelos precisam ser re-treinados quando o ambiente muda, exigindo GPUs, dados rotulados e ciclos longos de MLOps.",
+      "highlight": "Custo de manutenção supera custo de inferência"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo preprint propõe uma arquitetura de Verbal Reinforcement Learning (VRL) onde agentes extraem regras verbais de interações reais e as reutilizam como contexto — sem ajustar os pesos da rede neural.",
+      "visual_hint": "Ícone de engrenagem com seta em loop, representando ciclo fechado de aprendizado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Startups e médias empresas podem manter agentes adaptativos sem infraestrutura cara de treinamento. Grandes players escalam automação sem escalar custos. O gargalo agora é a governança dos insights extraídos.",
+      "visual_hint": "Gráfico de barras mostrando custo caindo drasticamente com VRL vs. fine-tuning tradicional"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Agentes VRL superam agentes sem aprendizado em até 34% em cadeias de suprimento simuladas",
+        "Zero necessidade de re-treino de pesos — economia de GPUs e horas de computação",
+        "Regras extraídas em linguagem natural, armazenadas e injetadas como contexto no próximo prompt"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes que se adaptam em tempo real a mudanças de mercado ou estoque",
+        "Redução drástica do ciclo de MLOps — sem pipeline de dados nem intervenção humana",
+        "Desafio crítico: governança de insights — como evitar regras prejudiciais de curto prazo?"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O aprendizado verbal pode ser o próximo salto da IA aplicada — e ele está mais perto do que você imagina."
+    }
+  ]
+}

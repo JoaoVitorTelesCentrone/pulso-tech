@@ -1,0 +1,53 @@
+{
+  "title": "O Viés Silencioso dos LLMs: Como o Efeito 'Incumbent Advantage' Está Distorcendo o Mercado de Recomendações e Criando uma Nova Fronteira de Risco Regulatório",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Viés Silencioso dos LLMs",
+      "subtext": "Seu assistente de IA pode estar favorecendo grandes marcas — sem você saber.",
+      "image_prompt": "A futuristic digital brain with a subtle bias scale, glowing blue and red neon lines, dark background, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo estudo do arXiv revela que LLMs como GPT e Claude favorecem sistematicamente marcas estabelecidas em recomendações de produtos, independentemente da qualidade. O viés 'Incumbent Advantage' está embutido nos dados de treinamento.",
+      "highlight": "LLMs reforçam o status quo do mercado — sem que o usuário perceba."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores testaram LLMs em recomendações de skincare e descobriram um viés consistente por marcas incumbentes. O motivo? Elas aparecem com mais frequência nos dados de treinamento, criando um proxy de qualidade falso.",
+      "visual_hint": "Ícone de balança desequilibrada com logotipos de marcas grandes de um lado e startups do outro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se LLMs se tornarem a interface padrão para descoberta de produtos, startups inovadoras serão invisíveis. O viés vira um imposto sobre inovação — e um risco regulatório iminente para FTC, CADE e órgãos antitruste.",
+      "visual_hint": "Ilustração de um funil de vendas com um portão controlado por IA, bloqueando marcas menores"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "LLMs recomendam marcas incumbentes em até 78% dos casos, mesmo quando produtos concorrentes têm avaliações superiores.",
+        "Startups com ingredientes inovadores têm 3x menos chance de serem mencionadas.",
+        "O viés de frequência nos datasets de treino é o principal mecanismo identificado."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Reguladores vão exigir auditoria de viés em sistemas de recomendação baseados em LLM.",
+        "Empresas de IA precisarão balancear dados de treino para evitar manipulação cognitiva.",
+        "Consumidores podem perder confiança em assistentes de compras — a menos que haja transparência."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O viés algorítmico é a nova fronteira da regulação tech. Não fique para trás."
+    }
+  ]
+}

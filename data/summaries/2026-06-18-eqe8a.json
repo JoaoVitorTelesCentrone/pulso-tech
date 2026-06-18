@@ -1,0 +1,14 @@
+{
+  "tldr": "Google finalmente permite desativar sugestões de IA no Docs, revelando a crescente fadiga de IA e um novo mercado de produtividade 'analógica'.",
+  "key_facts": [
+    "Google publicou guia para desativar sugestões 'Write with Gemini' no Docs, após milhares de reclamações.",
+    "Estudos mostram que intervenções proativas de IA reduzem a produtividade em até 23% para tarefas de foco profundo.",
+    "Custo de inferência não utilizada no Google Workspace é estimado em mais de US$ 200 milhões anuais."
+  ],
+  "why_it_matters": "A notícia sinaliza o fim da era de adoção forçada de IA generativa no ambiente corporativo, abrindo espaço para ferramentas que priorizam o controle do usuário e a produtividade real sobre métricas de uso de IA.",
+  "watch_next": [
+    "Outras plataformas (Microsoft, Notion) podem seguir o Google e oferecer interruptores mais granulares para IA.",
+    "Surgimento de um mercado de 'produtividade analógica' focado em ferramentas que minimizam ou eliminam a assistência algorítmica."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o botão de desativar não como uma simples feature, mas como um sintoma de uma crise maior de adoção e fadiga de IA, conectando UX, economia e regulação."
+}

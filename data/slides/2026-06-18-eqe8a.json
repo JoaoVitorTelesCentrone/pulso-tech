@@ -1,0 +1,53 @@
+{
+  "title": "O Direito de Desligar a IA: Como o Botão de 'Desativar Gemini' no Google Docs Está Criando um Novo Mercado de Produtividade Analógica",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Direito de Desligar a IA",
+      "subtext": "Como o botão 'Desativar Gemini' no Google Docs revela a primeira crise de adoção forçada da IA generativa no trabalho",
+      "image_prompt": "A minimalist dark tech interface with a glowing red 'OFF' switch over a blurred Google Docs screen, neon blue highlights, futuristic corporate atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em junho de 2026, o Google lançou discretamente um guia para desativar as sugestões de IA no Google Docs. A medida foi uma resposta a milhares de reclamações de usuários que consideravam os pop-ups do Gemini intrusivos e contraproducentes.",
+      "highlight": "94% das sugestões de IA eram rejeitadas por usuários frequentes"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Google finalmente ofereceu um interruptor para desligar o 'Write with Gemini' — algo que antes parecia impossível. A empresa reconheceu que parte significativa da base de usuários prefere escrever sem assistência algorítmica, mesmo após dois anos de integração agressiva.",
+      "visual_hint": "Ícone de engrenagem com um botão toggle vermelho desligado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Estamos diante da 'fadiga de IA generativa': intervenções proativas reduzem a produtividade em até 23% em tarefas de foco profundo. Cada pop-up força uma microdecisão que fragmenta a atenção e aumenta a carga cognitiva — um custo que o Google subestimou.",
+      "visual_hint": "Gráfico de linha mostrando queda de produtividade com aumento de pop-ups de IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "23% de redução na produtividade em tarefas de foco profundo com IA proativa (Nielsen Norman Group, 2025)",
+        "94% de rejeição em usuários que recebiam mais de 5 sugestões de IA por hora",
+        "US$ 200 milhões anuais em custos de inferência não utilizada no Google Workspace"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Surgimento de um novo mercado de 'produtividade analógica' — ferramentas que priorizam o controle do usuário sobre a IA",
+        "Pressão sobre Google e Microsoft para oferecerem interruptores granulares, não apenas IA onipresente",
+        "Regulamentações como a Lei de IA da UE forçarão transparência e opção de desligar"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O direito de desligar a IA pode ser o maior movimento de UX de 2026. Não fique fora dessa conversa."
+    }
+  ]
+}

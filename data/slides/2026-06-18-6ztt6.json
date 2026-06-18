@@ -1,0 +1,53 @@
+{
+  "title": "Gêmeos Digitais na Tomada de Decisão Clínica: O Novo Framework de IA que Pode Redefinir o Mercado de Saúde Personalizada",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Gêmeos Digitais na Tomada de Decisão Clínica",
+      "subtext": "O novo framework de IA que simula tratamentos em tempo real e pode redefinir o mercado de saúde personalizada",
+      "image_prompt": "A futuristic digital twin of a human body glowing with neural networks and medical data streams, dark background with holographic interface"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O setor de saúde enfrenta um paradoxo: dados abundantes, mas decisões ainda reativas e baseadas em protocolos genéricos. Sistemas tradicionais de suporte à decisão falham em capturar a dinâmica individual de cada paciente.",
+      "highlight": "Mercado atual de CDSASs: US$ 5 bilhões"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram no arXiv um framework inovador que integra simulação de gêmeos digitais com estimativa de efeito de tratamento. O sistema cria uma réplica digital do paciente e testa múltiplas intervenções virtualmente antes de recomendar uma ação real.",
+      "visual_hint": "Ícone de cérebro digital com linhas de simulação ramificadas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O sistema aprende continuamente com novos dados, ajusta recomendações em tempo real e incorpora segurança como restrição matemática no processo de otimização. Isso permite distinguir correlação de causalidade — algo crucial em medicina.",
+      "visual_hint": "Gráfico de linha mostrando adaptação em tempo real com alertas de segurança"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado potencial de medicina personalizada habilitada por IA: US$ 50 bilhões",
+        "Framework opera em 3 camadas: Gêmeo Digital, Simulação de Cenários e Otimização",
+        "Publicado em 17 de junho de 2026 no repositório cs.AI do arXiv"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Hospitais poderão simular resultados de tratamentos antes de aplicá-los",
+        "Seguradoras terão modelos preditivos mais precisos para personalizar planos",
+        "Farmacêuticas poderão testar virtualmente interações medicamentosas complexas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A diferença entre adivinhar e simular é a diferença entre um mercado de US$ 5 bilhões e um de US$ 50 bilhões."
+    }
+  ]
+}

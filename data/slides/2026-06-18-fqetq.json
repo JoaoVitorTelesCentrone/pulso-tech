@@ -1,0 +1,53 @@
+{
+  "title": "DeepInsight: O Novo Padrão que Vai Separar a Robótica de Brinquedo da Revolução Industrial da IA Física",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "DeepInsight: O Novo Padrão que Vai Separar a Robótica de Brinquedo da Revolução Industrial da IA Física",
+      "subtext": "Enquanto o mercado se empolga com chatbots que desenham, a verdadeira batalha econômica da próxima década será travada no mundo físico.",
+      "image_prompt": "A futuristic, dark industrial robot arm holding a glowing, crystalline benchmark cube, with digital data streams and circuit patterns in the background, cinematic lighting, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de robótica e IA física está avaliado em dezenas de bilhões de dólares, mas opera como o Velho Oeste. Cada empresa usa suas próprias métricas, cenários e definições de 'sucesso'.",
+      "highlight": "Uma cortina de fumaça que impede comparações sérias."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o DeepInsight, uma infraestrutura de avaliação que unifica toda a pilha de IA Física — do decoding de modelos de fundação (milissegundos) ao controle corporal completo (minutos). Pela primeira vez, uma régua única para medir do pensamento abstrato à ação concreta.",
+      "visual_hint": "Ícone de um alvo ou régua de medição digital sobreposta a engrenagens e circuitos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O DeepInsight força a transparência. Se adotado, pode fazer pela IA Física o que o ImageNet fez pela visão computacional em 2012: criar um campo de prova unificado que acelera a inovação e expõe quem está blefando.",
+      "visual_hint": "Gráfico de linha ascendente com um ponto de inflexão destacado, simbolizando uma aceleração na inovação"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Operadores variam em mais de 3 ordens de grandeza (milissegundos a minutos)",
+        "3 camadas integradas: Cognitiva, Controle Intermediário e Física",
+        "Nova métrica: Cross-Layer Fidelity (CLF) mede a degradação na interface entre camadas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investidores: risco de alocar capital em startups de robótica cai drasticamente",
+        "Engenheiros: foco muda de 'fazer algo legal' para 'otimizar métricas comparáveis'",
+        "Mercado: a consolidação está chegando"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A verdadeira batalha econômica da próxima década será travada no mundo físico. Você está preparado?"
+    }
+  ]
+}
