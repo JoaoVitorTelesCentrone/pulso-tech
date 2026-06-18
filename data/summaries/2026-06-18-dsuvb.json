@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo paper do arXiv mostra que o custo de inferência, e não apenas o treinamento, está se tornando o principal gargalo na avaliação de LLMs, redefinindo a economia da IA ao exigir que modelos sejam eficientes em transformar poder computacional em soluções para tarefas complexas.",
+  "key_facts": [
+    "Paper 'How Inference Compute Shapes Frontier LLM Evaluation' foi publicado no arXiv em 18 de junho de 2026.",
+    "O desempenho de LLMs em tarefas complexas (raciocínio multi-etapas, uso de ferramentas) é altamente sensível ao poder computacional gasto durante a inferência.",
+    "Modelos que gastam mais tokens 'pensando' (ex.: tree-of-thought) superam modelos que respondem rápido, mesmo com mais dados de treinamento.",
+    "O custo total de propriedade de uma tarefa (número de chamadas, tokens de saída, latência) se torna mais relevante que o preço por token."
+  ],
+  "why_it_matters": "Para desenvolvedores e empresas, a escolha de um modelo ou provedor de API não pode mais se basear apenas no preço por token; é crucial considerar a eficiência em transformar compute em solução, impactando diretamente os custos operacionais e a viabilidade de aplicações empresariais de IA.",
+  "watch_next": [
+    "Provedores de API podem começar a oferecer planos baseados em 'custo por tarefa resolvida' em vez de preço por token.",
+    "Arquiteturas de modelos e estratégias de prompting (como tree-of-thought) devem se tornar diferenciais competitivos no mercado de LLMs."
+  ],
+  "editorial_angle": "O artigo se destaca por inverter a lógica tradicional da indústria (treinamento como custo dominante) e trazer uma análise econômica prática para um tópico técnico, conectando a descoberta acadêmica diretamente às decisões de negócio e desenvolvimento."
+}

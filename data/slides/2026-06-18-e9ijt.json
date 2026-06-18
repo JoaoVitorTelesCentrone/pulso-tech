@@ -1,0 +1,54 @@
+{
+  "title": "Amazon vs. Nvidia: A Jogada de US$ 50 Bi que Pode Redefinir a Economia dos Chips de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Amazon vs. Nvidia: A Jogada de US$ 50 Bi",
+      "subtext": "A AWS quer vender seus próprios chips de IA — e desafiar o monopólio da Nvidia",
+      "image_prompt": "A futuristic data center with glowing blue and orange server racks, a giant Amazon logo on one side and an Nvidia logo on the other, digital battle lines, neon lights, cinematic tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A AWS sempre manteve seus chips Trainium e Inferentia exclusivos para sua nuvem. Agora, a Amazon quer vendê-los para data centers terceiros — abrindo uma frente de batalha de US$ 50 bilhões contra a Nvidia.",
+      "highlight": "US$ 50 bilhões em mercado endereçável"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Amazon está em negociações avançadas para vender seus chips de IA proprietários (Trainium e Inferentia) para operadores de data centers como Equinix e Digital Realty. Pela primeira vez, a AWS sai do modelo de aluguel para se tornar fornecedora de hardware.",
+      "visual_hint": "Ícone de chip com seta saindo de uma nuvem para um data center"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Nvidia domina mais de 80% do mercado de aceleradores de IA e não consegue suprir a demanda. Se a Amazon criar um padrão alternativo viável, o mercado de infraestrutura de IA ganha mais opções, preços mais baixos e menos dependência de um único fornecedor.",
+      "visual_hint": "Gráfico de pizza mostrando 80% Nvidia vs 20% outros, com uma seta de ruptura"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bi: mercado endereçável identificado pela Amazon",
+        "80%+ do mercado de aceleradores de IA dominado pela Nvidia",
+        "30% menor custo por token com Trainium vs H100 da Nvidia",
+        "Demanda por GPUs H100 e B200 ainda supera a oferta"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Desenvolvedores ganham alternativa real ao ecossistema CUDA da Nvidia",
+        "Operadores de data center podem reduzir custos e dependência",
+        "A guerra dos chips de IA se intensifica — e o monopólio da Nvidia pode enfraquecer"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia dos chips de IA está sendo reescrita. Fique por dentro."
+    }
+  ]
+}

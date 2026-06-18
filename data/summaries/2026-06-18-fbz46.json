@@ -1,0 +1,14 @@
+{
+  "tldr": "OpenAI lançou o GPT-5.5 Instant, uma atualização do ChatGPT focada em saúde, com raciocínio clínico aprimorado e validação médica, visando conquistar o mercado de diagnóstico por IA.",
+  "key_facts": [
+    "O GPT-5.5 Instant foi anunciado em 18 de junho de 2026, integrando melhorias de raciocínio, contexto, comunicação e avaliações médicas diretamente no ChatGPT.",
+    "A OpenAI utilizou 'physician-informed evaluations', um processo de fine-tuning com feedback de médicos e dataset curado de pares pergunta-resposta clínicos.",
+    "O mercado de saúde digital movimentou US$ 350 bilhões em 2025, com projeção de US$ 1,2 trilhão até 2032; a fatia de IA em diagnósticos cresce 28% ao ano."
+  ],
+  "why_it_matters": "A OpenAI está normalizando o uso de IA para decisões de saúde, reduzindo a distância entre assistente genérico e ferramenta clínica confiável, o que pressiona modelos de negócio existentes e abre precedentes regulatórios e comerciais no setor de telemedicina e diagnóstico.",
+  "watch_next": [
+    "Possível reação de concorrentes como Google DeepMind e Anthropic, que podem acelerar suas próprias ofertas de IA clínica.",
+    "Impacto regulatório: agências como FDA e ANVISA podem revisar diretrizes para IA em triagem e diagnóstico, influenciando a adoção em larga escala."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no movimento estratégico de mercado da OpenAI — não apenas na atualização técnica — e ao revelar o mecanismo oculto de fine-tuning com viés clínico, conectando a inovação a impactos econômicos e regulatórios no setor de saúde."
+}

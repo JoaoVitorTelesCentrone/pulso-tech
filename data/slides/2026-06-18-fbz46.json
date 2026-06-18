@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.5 Instant: A Revolução Silenciosa da OpenAI na Saúde que Pode Redefinir o Mercado de Diagnóstico por IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-5.5 Instant: A Revolução Silenciosa da OpenAI na Saúde",
+      "subtext": "Enquanto o mercado olha para agentes autônomos, a OpenAI turbinou o ChatGPT com inteligência clínica. O que parece incremental pode redefinir o diagnóstico por IA.",
+      "image_prompt": "A futuristic medical AI interface with glowing neural networks and a human silhouette, dark blue and green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 18 de junho de 2026, a OpenAI anunciou uma atualização silenciosa no ChatGPT: o GPT-5.5 Instant. O modelo foi refinado com raciocínio clínico mais forte, melhor contexto e avaliações informadas por médicos. A saúde digital movimenta US$ 350 bilhões e a IA em diagnósticos cresce 28% ao ano.",
+      "highlight": "US$ 350 bilhões: o tamanho do mercado de saúde digital em 2025"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI integrou inteligência clínica diretamente no ChatGPT, sem lançar um modelo separado. O GPT-5.5 Instant recebeu fine-tuning com feedback de médicos, priorizando protocolos clínicos sobre respostas apenas 'naturais'. Qualquer usuário agora tem um assistente de saúde mais confiável.",
+      "visual_hint": "Ícone de cérebro com stetoscópio, linhas de dados fluindo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A OpenAI está normalizando o uso de IA para decisões de saúde. Pacientes ganham triagem confiável, médicos um segundo opinion rápido, e o sistema de saúde enfrenta pressão sobre modelos de negócio tradicionais. É um movimento de mercado, não só de tecnologia.",
+      "visual_hint": "Gráfico de crescimento exponencial com ícone de hospital ao fundo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Saúde digital: US$ 350 bi em 2025, projeção de US$ 1,2 tri até 2032",
+        "IA em diagnósticos: 15% do mercado, crescendo 28% ao ano",
+        "GPT-5.5 Instant: fine-tuning com milhares de pares clínicos revisados por médicos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pacientes: menos idas desnecessárias a pronto-socorros com triagem confiável",
+        "Médicos: diagnósticos diferenciais acelerados com assistente de IA",
+        "Mercado: pressão sobre planos de saúde e serviços de telemedicina tradicionais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A revolução silenciosa já começou. O diagnóstico por IA nunca mais será o mesmo."
+    }
+  ]
+}

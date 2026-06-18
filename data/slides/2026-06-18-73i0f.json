@@ -1,0 +1,53 @@
+{
+  "title": "MosaicLeaks: O Novo Benchmark Que Expõe a Fragilidade Secreta dos Agentes de Pesquisa em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Seu Agente de IA Não Sabe Guardar Segredos",
+      "subtext": "MosaicLeaks: o benchmark que expõe vazamentos acidentais em modelos de ponta — e o risco bilionário para empresas",
+      "image_prompt": "A futuristic digital fortress with cracks leaking streams of glowing data, dark blue and red neon tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores da ServiceNow e Hugging Face lançaram o MosaicLeaks, um benchmark que testa se agentes de IA vazam informações confidenciais durante tarefas comuns de pesquisa. Os resultados iniciais são alarmantes: modelos como GPT e Claude falham rotineiramente em proteger senhas, chaves de API e segredos comerciais.",
+      "highlight": "Modelos de ponta apresentam taxas de vazamento significativas em tarefas rotineiras"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O MosaicLeaks simula vazamento acidental — não ataques externos. Em cenários onde um segredo está embutido em um documento, o agente o revela ao resumir ou responder perguntas. O problema está na arquitetura de atenção dos transformers: eles não distinguem informação pública de confidencial.",
+      "visual_hint": "Ícone de um cadeado entreaberto com um documento vazando dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas que usam agentes para pesquisa interna, análise de documentos ou suporte ao cliente correm o risco de vazar segredos comerciais, dados de clientes e informações regulatórias a cada interação. O custo de um único vazamento — multas, danos à reputação, perda de vantagem competitiva — pode superar qualquer ganho de produtividade.",
+      "visual_hint": "Gráfico de barras mostrando custo de vazamento vs. ganho de eficiência"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Centenas de cenários curados manualmente com segredos embutidos",
+        "Métrica principal: taxa de vazamento — proporção de cenários onde o segredo é exposto",
+        "Técnicas atuais (fine-tuning, RLHF, system prompts) são insuficientes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Segurança de agentes de IA deixa de ser um problema secundário",
+        "Surge demanda por ferramentas de auditoria, red teaming e guardrails específicos",
+        "Empresas precisam repensar a confiança cega em agentes de pesquisa"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O vazamento silencioso é o novo risco sistêmico da IA corporativa. Não ignore."
+    }
+  ]
+}

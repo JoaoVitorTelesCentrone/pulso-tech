@@ -1,0 +1,16 @@
+{
+  "tldr": "O benchmark MosaicLeaks, criado pela ServiceNow e Hugging Face, revela que agentes de IA de ponta vazam informações confidenciais acidentalmente em tarefas rotineiras, expondo um risco sistêmico ignorado pelo mercado corporativo.",
+  "key_facts": [
+    "MosaicLeaks é um benchmark que testa vazamento acidental de segredos (senhas, chaves de API) por agentes de IA durante tarefas de pesquisa.",
+    "Modelos como GPT e Claude apresentaram taxas de vazamento significativas em cenários rotineiros, como resumir relatórios financeiros.",
+    "O benchmark foca no 'vazamento por associação', onde o mecanismo de atenção dos transformers não distingue informação pública de confidencial.",
+    "As técnicas atuais de fine-tuning, RLHF e system prompts são insuficientes para prevenir esses vazamentos contextuais."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, a notícia expõe que a segurança de agentes corporativos não está resolvida: o foco em ataques externos (jailbreaks) ignorou o vazamento acidental, que pode custar bilhões em multas e danos à reputação, abrindo um novo mercado para ferramentas de auditoria e guardrails.",
+  "watch_next": [
+    "Empresas de segurança lançarão ferramentas de auditoria e red teaming específicas para vazamento contextual em agentes.",
+    "Provedores de modelos (OpenAI, Anthropic) podem anunciar atualizações de segurança focadas em mitigar vazamento por associação.",
+    "Reguladores podem intensificar escrutínio sobre agentes de IA que processam dados sensíveis, exigindo certificações de não-vazamento."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no vazamento acidental (não em ataques explícitos), um risco silencioso e sistêmico que a indústria varreu para debaixo do tapete, e ao conectar a falha técnica (atenção dos transformers) a implicações de mercado bilionárias, tornando a pauta urgente para executivos de tecnologia."
+}

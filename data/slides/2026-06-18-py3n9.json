@@ -1,0 +1,53 @@
+{
+  "title": "Small Initialization: O Paper do arXiv Que Pode Redefinir a Economia do Treinamento de LLMs",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Small Initialization: O Gesto Que Pode Economizar Bilhões em LLMs",
+      "subtext": "Um detalhe técnico no arXiv que desafia décadas de prática e promete redefinir o custo do treinamento de IA.",
+      "image_prompt": "A futuristic digital brain emerging from a tiny glowing seed, with neural networks branching out, dark tech background with blue and purple neon lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Treinar um modelo como GPT-4 custa centenas de milhões de dólares. A indústria busca desesperadamente eficiência — e um novo paper do arXiv sugere que a resposta pode estar no ponto de partida: a inicialização dos parâmetros.",
+      "highlight": "Custo de treinamento de fronteira: US$ 100M+"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Small Initialization Matters for Large Language Models' mostra que usar pesos iniciais muito menores que o padrão permite que LLMs descubram representações internas mais ricas, acelerando a convergência e reduzindo a necessidade de dados e compute.",
+      "visual_hint": "Ícone de uma semente minúscula se transformando em uma árvore gigante de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se confirmado, o método pode cortar custos de treinamento em 10-20% ou mais, sem perder qualidade. Isso significa modelos menores com desempenho de gigantes, viabilizando edge computing e democratizando o acesso à IA de ponta.",
+      "visual_hint": "Gráfico de barras mostrando custo de treinamento caindo drasticamente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo estimado de treinamento do GPT-4: US$ 100-200 milhões",
+        "Redução potencial com small initialization: 10-20%+",
+        "Economia possível por modelo: dezenas de milhões de dólares"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Econômico: CAPEX de treinamento cai, vantagem competitiva para quem adotar primeiro",
+        "Técnico: Modelos menores atingem performance de modelos maiores, inferência mais barata",
+        "Científico: Nova fronteira de pesquisa sobre como a inteligência emerge em redes neurais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Small initialization pode ser o maior 'pequeno' avanço em treinamento de LLMs. Não perca os próximos capítulos."
+    }
+  ]
+}

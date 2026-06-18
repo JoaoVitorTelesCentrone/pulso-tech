@@ -1,0 +1,53 @@
+{
+  "title": "O Controle de Gastos do ChatGPT Enterprise: A Crise Silenciosa de ROI que a OpenAI Decidiu Enfrentar de Frente",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Crise Silenciosa do ROI em IA",
+      "subtext": "OpenAI lança controle de gastos: a ferramenta que ninguém queria, mas todos precisavam.",
+      "image_prompt": "A futuristic dark control panel with glowing red and blue financial graphs, a subtle AI brain icon in the center, and a sense of urgency and high stakes."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Empresas correram para adotar IA generativa, mas o custo variável da inferência virou um pesadelo de orçamento. Cada chamada de API queima dinheiro em tempo real, sem visibilidade ou controle.",
+      "highlight": "Custo por token: imprevisível, variável e fora de controle."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI anunciou novos controles de gastos e analytics de uso para o ChatGPT Enterprise. Pela primeira vez, organizações poderão gerenciar custos e escalar o uso de IA com confiança — e prestação de contas.",
+      "visual_hint": "Ícone de painel de controle financeiro com gráficos de pizza e barras, sobreposto a um cérebro digital."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Departamentos de TI e finanças recebiam contas que não conseguiam explicar. A falta de visibilidade sobre o uso individual era o principal ponto de atrito. Agora, a OpenAI entrega a pá para as empresas começarem a cavar.",
+      "visual_hint": "Ilustração de um funil invertido com dinheiro saindo por vários canais, sem controle."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Cada query de funcionário ao ChatGPT queima tokens em tempo real.",
+        "Uma análise de contrato de 50 páginas pode consumir dezenas de milhares de tokens.",
+        "O custo varia conforme modelo, contexto e complexidade da tarefa."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim da era do 'gasto cego' em IA corporativa.",
+        "FinOps de IA se torna prioridade: monitorar, otimizar e justificar cada token.",
+        "Pressão por ROI mensurável em projetos de IA generativa."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da IA está amadurecendo. Quem não controla os custos, não escala."
+    }
+  ]
+}

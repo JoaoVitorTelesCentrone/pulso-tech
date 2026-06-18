@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Invisível da Avaliação de LLMs: Por Que o Custo de Inferência Está se Tornando o Novo Campo de Batalha da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível da Avaliação de LLMs",
+      "subtext": "Por que o custo de inferência está se tornando o novo campo de batalha da IA",
+      "image_prompt": "A futuristic digital landscape with a glowing bottleneck symbol in the center, surrounded by data streams and AI nodes, dark blue and neon orange color palette, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Por anos, o treinamento de modelos era o custo dominante na IA. Agora, um novo paper do arXiv revela que o verdadeiro teste está na capacidade de usar ferramentas e resolver problemas iterativamente — e isso está reescrevendo as regras da economia de inferência.",
+      "highlight": "A inferência está se tornando o novo gargalo da corrida de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Avaliações de IA estão migrando de tarefas estáticas para problemas complexos que exigem trajetórias longas, uso de ferramentas e iteração. O desempenho em tarefas de fronteira depende cada vez mais da quantidade de poder computacional disponível durante o teste, não apenas no treinamento.",
+      "visual_hint": "Ícone de engrenagem com setas circulares representando iteração e complexidade"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Modelos que gastam mais tokens pensando superam modelos que 'respondem rápido', mesmo com mais dados de treino. O custo total de propriedade da tarefa — número de chamadas, tokens de saída e latência — se torna a métrica decisiva para empresas e desenvolvedores.",
+      "visual_hint": "Balança pesando 'custo por token' vs 'custo total da tarefa'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelo barato (US$ 0,01/chamada) pode exigir 50 chamadas iterativas para resolver um problema",
+        "Modelo caro (US$ 0,10/chamada) resolve na primeira tentativa — custo total menor",
+        "Desempenho em tarefas complexas melhora significativamente com mais compute em tempo de teste"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Competição deixa de ser 'qual modelo é mais inteligente' para 'qual é mais eficiente em transformar compute em solução'",
+        "Escolha de provedor de API não pode mais ser baseada apenas no preço por token",
+        "Arquitetura do modelo, estratégia de prompting e infraestrutura de inferência se tornam diferenciais críticos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O custo de inferência é o novo campo de batalha — e você precisa estar preparado."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Openai Contrata o Pai do Transformer e um Ex-Assessor de Trump: O Sinal Mais Forte de que o IPO Vai Mudar as Regras do Jogo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "OpenAI Contrata o Pai do Transformer e um Ex-Assessor de Trump",
+      "subtext": "O sinal mais forte de que o IPO vai mudar as regras do jogo",
+      "image_prompt": "Futuristic dark tech boardroom with two silhouettes facing a glowing AI brain and a US Capitol dome in the background, neon blue and red lights, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na semana que antecede seu aguardado IPO, a OpenAI fez duas contratações que contam mais sobre sua estratégia do que qualquer prospecto financeiro. O mercado de IA está em chamas, mas a conta de carbono, a regulação e a guerra de talentos estão esquentando.",
+      "highlight": "Duas contratações que valem mais que qualquer prospecto financeiro"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Noam Shazeer, co-inventor da arquitetura Transformer (o 'T' de GPT), deixou o Google DeepMind para se juntar à OpenAI. Dean Ball, ex-assessor de política de IA do governo Trump, também foi contratado. Juntos, eles representam poder técnico e político.",
+      "visual_hint": "Ícone de cérebro com engrenagens ao lado de um prédio do Capitólio"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A maioria das empresas faz contratações de 'relações públicas' antes de um IPO. A OpenAI está fazendo contratações de poder real. Shazeer controla a próxima geração de arquiteturas; Ball reduz o prêmio de risco regulatório. Isso muda tudo para investidores, desenvolvedores e concorrentes.",
+      "visual_hint": "Gráfico de seta dupla apontando para cima: uma seta técnica, outra política"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Shazeer é co-inventor do Transformer, base de todos os LLMs modernos",
+        "Ball esteve na sala onde as decisões de regulação de IA foram tomadas",
+        "IPO da OpenAI ocorre em meio a euforia de mercado e escrutínio regulatório global"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Avanços em eficiência de treinamento e modelos esparsos (MoE) com Shazeer",
+        "Navegação estratégica em Washington e capitais globais com Ball",
+        "Pressão sobre concorrentes que não dominam as frentes técnica e política"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Enquanto o mercado especula sobre valuation, a OpenAI está montando o time que pode definir o futuro da regulação e da arquitetura de IA."
+    }
+  ]
+}

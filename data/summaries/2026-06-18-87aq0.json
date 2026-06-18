@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI lança painel de controle de gastos e analytics para ChatGPT Enterprise, revelando a crescente pressão de clientes corporativos por visibilidade e governança sobre os custos imprevisíveis de inferência de IA.",
+  "key_facts": [
+    "OpenAI anunciou novos controles de gastos e analytics de uso para o ChatGPT Enterprise em 18 de junho de 2026.",
+    "A atualização permite que organizações gerenciem custos e escalem o uso de IA com mais confiança.",
+    "O custo variável da inferência (por token) tem sido um desafio de orçamento para empresas que adotaram IA generativa em massa.",
+    "A falta de visibilidade sobre o uso individual foi o principal ponto de atrito na adoção do ChatGPT Enterprise, segundo fontes internas."
+  ],
+  "why_it_matters": "A notícia sinaliza o amadurecimento do mercado de IA corporativa, que entra na fase de prestação de contas (FinOps para IA). A imprevisibilidade dos custos de inferência é um problema estrutural que afeta o ROI de qualquer empresa que integre LLMs, e a resposta da OpenAI indica que a governança financeira se torna um diferencial competitivo crítico.",
+  "watch_next": [
+    "Concorrentes (Google, Anthropic, Microsoft) devem anunciar ferramentas similares de controle de gastos para seus produtos enterprise.",
+    "Surgimento de startups especializadas em FinOps para IA, oferecendo camadas de otimização e auditoria sobre APIs de LLMs.",
+    "Possível mudança no modelo de precificação da OpenAI, com opções de custo fixo ou limites de tokens por assento."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o anúncio não como uma simples atualização de features, mas como um sintoma de uma crise silenciosa de ROI na adoção de IA corporativa. A análise foca no problema estrutural de custos variáveis e descentralizados, contrastando com a euforia do mercado, e posiciona a OpenAI como reativa à pressão dos clientes, não como líder proativa."
+}
