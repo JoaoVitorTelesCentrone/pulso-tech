@@ -1,0 +1,54 @@
+{
+  "title": "O Diagnóstico de Doenças Raras por IA: O Novo Benchmark de Raciocínio Clínico que Pode Redefinir o Mercado de Genômica",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IA Descobre 18 Diagnósticos que Médicos Não Viram",
+      "subtext": "O gargalo da medicina genômica não são os dados — é o raciocínio integrado em larga escala.",
+      "image_prompt": "Futuristic medical lab with holographic DNA helix and AI neural network overlays, dark blue and neon cyan tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores da OpenAI, em parceria com instituições médicas, usaram um modelo de raciocínio para analisar casos de doenças genéticas raras em crianças. O resultado: 18 diagnósticos inéditos em casos que já haviam sido considerados 'não resolvidos' por especialistas humanos.",
+      "highlight": "18 novos diagnósticos em casos previamente fechados"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O modelo não apenas processou dados genômicos — ele executou um raciocínio em múltiplas etapas: filtrou variantes, avaliou causalidade, penetrância e correlação fenotípica. A taxa de diagnóstico incremental foi de 10 a 15% sobre casos já exaustivamente analisados por geneticistas.",
+      "visual_hint": "Ícone de engrenagem com camadas sobrepostas representando etapas de raciocínio"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada diagnóstico evitado representa economia de US$ 10 mil a US$ 50 mil em exames desnecessários. Para as famílias, significa anos a menos de incerteza. Para o mercado, uma oportunidade de US$ 30 a 50 bilhões anuais — já que apenas 30-40% dos 300 milhões de pacientes globais recebem diagnóstico.",
+      "visual_hint": "Gráfico de barras comparando custo com e sem IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "300 milhões de pessoas afetadas por doenças raras no mundo",
+        "5 a 7 anos é o tempo médio para um diagnóstico correto",
+        "8 a 12 especialistas consultados antes do diagnóstico",
+        "US$ 30-50 bilhões é o mercado endereçável anual para IA diagnóstica"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Modelos de raciocínio se tornam novo padrão em diagnósticos complexos",
+        "Redução drástica do tempo e custo do diagnóstico de doenças raras",
+        "Pressão para integração de IA em fluxos clínicos e planos de saúde"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O raciocínio estruturado em larga escala está redefinindo a medicina genômica — e isso é só o começo."
+    }
+  ]
+}

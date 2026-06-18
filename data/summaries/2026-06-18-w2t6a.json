@@ -1,0 +1,14 @@
+{
+  "tldr": "Um novo paper do arXiv propõe quantificar interações sociais entre pedestres com restrições explícitas, melhorando a previsão de trajetórias para robótica social e direção autônoma.",
+  "key_facts": [
+    "Paper intitulado 'Learn to Quantify Social Interaction with Constraints for Pedestrian Walking' foi publicado no arXiv.",
+    "O método usa aprendizado por reforço com restrições e campos de energia social para modelar intenções de pedestres.",
+    "Supera baselines como Social LSTM e Trajectron++ em métricas de erro de deslocamento (FDE e ADE) em multidões densas."
+  ],
+  "why_it_matters": "A previsão de trajetórias humanas é o gargalo crítico para carros autônomos e robôs sociais em espaços públicos; este paper transforma interação social de ruído estatístico em variável quantificável, reduzindo custos de treinamento, aumentando segurança e desbloqueando novos mercados para robôs em multidões reais.",
+  "watch_next": [
+    "Empresas de robótica e direção autônoma podem adotar o método em seus sistemas de planejamento de rotas.",
+    "O arcabouço pode ser estendido para outros cenários de interação social, como aglomerações em eventos ou evacuações."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar em um problema técnico específico e negligenciado pela mídia mainstream (previsão de trajetórias), destacando seu impacto econômico silencioso na robótica e direção autônoma, em vez de seguir o hype de LLMs e agentes de código."
+}

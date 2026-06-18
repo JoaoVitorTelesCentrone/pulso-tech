@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores publicaram o PreAct, um mecanismo de memória procedural que permite agentes de IA 'pular' etapas em tarefas repetitivas, cortando custos de inferência em até 62% e acelerando a execução em até 4.7x.",
+  "key_facts": [
+    "Paper PreAct (arXiv:2606.17929) propõe cache de ações bem-sucedidas indexado por contexto visual e semântico.",
+    "Ganhos reportados de 2.3x a 4.7x em velocidade e até 62% de redução no consumo de tokens em benchmarks como WebArena e OSWorld.",
+    "Taxa de sucesso não caiu e apresentou leve melhora, com menos erros de navegação.",
+    "Mercado de agentes de IA para automação empresarial deve atingir US$ 28 bilhões até 2028, com custo marginal constante como principal gargalo."
+  ],
+  "why_it_matters": "O PreAct resolve o paradoxo econômico dos agentes de IA: quanto mais úteis, mais caros. Ao introduzir economia de escala nas execuções repetitivas, ele pode viabilizar a adoção em larga escala na automação empresarial, reduzindo o TCO e forçando uma repensada nas métricas de eficiência de agentes.",
+  "watch_next": [
+    "Adoção do PreAct por plataformas de automação empresarial (ex: UiPath, Automation Anywhere) como feature nativa.",
+    "Comparação com abordagens concorrentes de fine-tuning ou distillation para tarefas repetitivas.",
+    "Impacto no mercado de LLMs: se a eficiência sobe, a demanda por tokens pode cair, afetando preços de API."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo estrutural ignorado pela indústria — o custo marginal constante — e não apenas na aceleração técnica. Ele conecta o paper acadêmico a um problema real de negócio (TCO), tornando a notícia relevante tanto para desenvolvedores quanto para gestores de tecnologia."
+}

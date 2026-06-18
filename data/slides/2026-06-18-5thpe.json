@@ -1,0 +1,53 @@
+{
+  "title": "MathVis-Fine: A Nova Fronteira do Raciocínio Visual em IA que Pode Redefinir o Mercado de Modelos Multimodais",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "MathVis-Fine: O Fim do Tratamento Homogêneo de Imagens",
+      "subtext": "Como ensinar modelos multimodais a enxergar apenas o essencial — e por que isso pode redefinir o mercado de IA.",
+      "image_prompt": "A futuristic digital brain with geometric shapes and mathematical symbols floating around, glowing neon blue and purple on a dark background, high contrast, tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos como GPT-4V, Gemini e Claude falham em problemas que exigem raciocínio visual fino — como gráficos, diagramas e equações manuscritas. O motivo? Tratam todas as regiões da imagem com a mesma importância, gerando ruído e erros.",
+      "highlight": "Modelos multimodais tratam imagens como sinais homogêneos — e isso é um gargalo crítico."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper MathVis-Fine propõe um treinamento guiado por dependência progressiva: o modelo aprende a alinhar a supervisão visual apenas onde ela é estritamente necessária para o raciocínio em cadeia. Em vez de 'ler' a imagem inteira, ele pergunta: 'O que na imagem é necessário agora?'",
+      "visual_hint": "Ícone de lupa focando em uma parte específica de um gráfico, com áreas borradas ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Isso reduz custos de inferência, melhora a precisão em tarefas matemáticas e técnicas, e cria um novo padrão de avaliação. Educação, engenharia e pesquisa científica seriam diretamente beneficiados. Em um mercado onde a diferenciação entre modelos é sutil, essa abordagem pode ser uma vantagem competitiva real.",
+      "visual_hint": "Ícone de gráfico de barras subindo, com um cérebro estilizado ao lado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos atuais falham em até 40% das tarefas de raciocínio visual fino",
+        "MathVis-Fine reduz tokens de imagem irrelevantes em até 60%",
+        "Precisão em geometria e gráficos complexos pode aumentar em 25%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Benchmarks futuros testarão não apenas se o modelo 'vê', mas se ele 'sabe o que ver'",
+        "Empresas que implementarem primeiro ganham vantagem competitiva real",
+        "Custos de inferência caem, viabilizando aplicações em larga escala na educação e engenharia"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O raciocínio visual em IA está mudando. E você pode estar na frente."
+    }
+  ]
+}

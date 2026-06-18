@@ -1,0 +1,53 @@
+{
+  "title": "Previsão de Multidões por IA: O Paper do arXiv que Pode Redefinir a Economia da Robótica Social e da Direção Autônoma",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Previsão de Multidões por IA: O Gargalo Silencioso da Mobilidade Autônoma",
+      "subtext": "Um novo paper do arXiv transforma interação social em variável quantificável — e pode desbloquear mercados bilionários.",
+      "image_prompt": "Futuristic city street with autonomous vehicles and delivery robots navigating through a dense crowd of pedestrians, neon lights, holographic trajectory lines, cinematic lighting, cyberpunk aesthetic, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em LLMs e agentes de código, um novo paper no arXiv ataca o calcanhar de Aquiles da mobilidade autônoma: prever o movimento humano em multidões com restrições sociais quantificáveis.",
+      "highlight": "O impacto econômico pode ser silencioso, mas profundo."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Learn to Quantify Social Interaction with Constraints for Pedestrian Walking' propõe um método para quantificar a interação social entre pedestres usando restrições explícitas — um avanço em relação aos modelos de caixa-preta baseados em atenção ou grafos.",
+      "visual_hint": "Ícone de engrenagem com linhas de trajetória se entrelaçando, representando interação social modelada matematicamente."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Carros autônomos e robôs sociais falham não por não enxergarem obstáculos, mas por não anteciparem o comportamento humano com precisão. Este paper transforma a interação social em uma variável quantificável com restrições, reduzindo custos de treinamento e aumentando a segurança.",
+      "visual_hint": "Gráfico de barras comparando erro de previsão (FDE/ADE) entre métodos tradicionais e o novo modelo, com destaque para a redução em multidões densas."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Supera baselines como Social LSTM e Trajectron++ em erro de deslocamento final (FDE) e médio (ADE).",
+        "Modelos com restrições explícitas exigem menos dados para generalizar — reduzindo custo de treinamento.",
+        "Previsão de trajetória com horizonte de vários segundos, suficiente para decisões seguras em tempo real."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Robôs sociais (entrega, limpeza, segurança) poderão operar em multidões reais, não apenas em ambientes controlados.",
+        "Sistemas autônomos ganham auditabilidade e limites de segurança mais rígidos com restrições quantificáveis.",
+        "Novos mercados bilionários em robótica móvel e direção autônoma se tornam viáveis."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da mobilidade autônoma está sendo reescrito — e ele começa com a previsão de multidões."
+    }
+  ]
+}

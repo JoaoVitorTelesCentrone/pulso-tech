@@ -1,0 +1,53 @@
+{
+  "title": "O Engenheiro Contra a Máquina: Quando Funcionários da Amazon Enfrentam a Maior Economia de Data Center do Mundo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Engenheiro Contra a Máquina",
+      "subtext": "Quando funcionários da Amazon enfrentam a maior economia de data center do mundo",
+      "image_prompt": "A lone engineer standing in front of a massive, glowing data center at night, dramatic lighting, cinematic, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Três engenheiros de software da Amazon testemunharam contra a expansão agressiva de data centers em Seattle. Agora, acusam a empresa de retaliação por exercerem seu direito ao discurso político.",
+      "highlight": "Primeiro grande teste do direito de um trabalhador de big tech questionar publicamente a estratégia da própria empresa."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Os engenheiros usaram uma lei municipal de Seattle que protege funcionários de retaliação por discurso político. A Amazon respondeu com ações disciplinares, ameaçando demissão por métricas subjetivas como 'falta de alinhamento cultural'.",
+      "visual_hint": "Ícone de balança da justiça sobreposta a um chip de processador"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este caso não é sobre política partidária. É sobre a economia real do setor de tecnologia. Se engenheiros se sentirem seguros para questionar a alocação de capital, o custo de fazer negócios em big tech pode mudar para sempre.",
+      "visual_hint": "Gráfico de linha mostrando o custo de conformidade regulatória subindo ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Salário médio de engenheiro sênior na Amazon Seattle: US$ 300k-500k anuais",
+        "Capex da Amazon em IA: US$ 100 bilhões+",
+        "Cada novo cluster de GPU consome energia equivalente a uma cidade de médio porte"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Conselho municipal de Seattle pode se tornar um fórum de governança corporativa não oficial",
+        "Funcionários de big tech ganham precedente legal para criticar estratégias de negócios",
+        "O 'direito de construir' — mantra do crescimento a qualquer custo — é desafiado de dentro para fora"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O valor de mercado da Amazon depende de quanto tempo ela consegue manter essa dissidência interna sob controle."
+    }
+  ]
+}
