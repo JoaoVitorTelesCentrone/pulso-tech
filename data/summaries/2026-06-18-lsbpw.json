@@ -1,0 +1,16 @@
+{
+  "tldr": "O novo método DRIFT propõe uma abordagem on-policy para refinar datasets de instrução em fine-tuning de LLMs, medindo a contribuição real de cada exemplo durante o treinamento para reduzir custos e melhorar a qualidade do modelo.",
+  "key_facts": [
+    "Paper DRIFT (arXiv 2606.18307) propõe atribuição on-policy para refinar dados de instrução em SFT.",
+    "Método mede a contribuição real de cada exemplo durante o fine-tuning, não de forma estática.",
+    "Promete reduzir tamanho do dataset, acelerar convergência e eliminar dados ruidosos.",
+    "Ataca o gargalo de qualidade dos dados, não o custo computacional do treinamento."
+  ],
+  "why_it_matters": "Para empresas que investem milhões em fine-tuning de LLMs, o DRIFT oferece uma forma de otimizar o ROI ao reduzir desperdícios com dados de baixa qualidade, acelerar ciclos de treinamento e melhorar a performance final dos modelos, impactando diretamente custos operacionais e competitividade.",
+  "watch_next": [
+    "Comparações empíricas do DRIFT com métodos tradicionais de curadoria (filtragem heurística, RLHF) em benchmarks públicos.",
+    "Adoção do DRIFT por plataformas de fine-tuning como serviço (ex.: Hugging Face, AWS SageMaker) para atrair clientes corporativos.",
+    "Possível integração com técnicas de otimização de hiperparâmetros e busca de arquitetura neural."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar no gargalo menos glamouroso mas crítico da engenharia de IA — a qualidade dos dados de instrução — e apresentar uma solução técnica inovadora (atribuição on-policy) com potencial de impacto financeiro direto, em vez de apenas mais um aumento de escala."
+}

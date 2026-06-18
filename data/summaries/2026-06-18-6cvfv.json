@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo paper do arXiv propõe uma teoria econômica para modelar o comportamento de LLMs como consumidores autônomos, preenchendo uma lacuna crítica à medida que agentes de IA começam a tomar decisões financeiras reais.",
+  "key_facts": [
+    "Paper intitulado 'LLM Consumer Behavior Theory' foi publicado no arXiv.",
+    "Propõe aplicar teoria clássica do consumidor a LLMs que atuam como agentes autônomos.",
+    "Identifica três componentes: preferências delegadas vs. emergentes, restrições orçamentárias multi-dimensionais e riscos de comportamento disfuncional."
+  ],
+  "why_it_matters": "Com o crescimento explosivo de agentes autônomos que compram, contratam e alocam recursos, a falta de uma teoria econômica para modelar suas decisões representa um risco financeiro e regulatório imenso. Este artigo é o primeiro passo para entender, otimizar e regular esse novo tipo de ator econômico.",
+  "watch_next": [
+    "Empresas como OpenAI e Anthropic podem adotar frameworks baseados nessa teoria para calibrar agentes.",
+    "Surgimento de startups focadas em 'auditoria econômica de agentes' para evitar gastos catastróficos.",
+    "Debates regulatórios sobre responsabilidade civil quando um agente de IA toma decisões de consumo disfuncionais."
+  ],
+  "editorial_angle": "Diferencia-se por não ser apenas mais um artigo sobre capacidades técnicas de LLMs, mas sim uma abordagem interdisciplinar que conecta economia comportamental e IA, antecipando um problema prático iminente: como garantir que agentes autônomos não tomem decisões financeiras irracionais ou prejudiciais."
+}

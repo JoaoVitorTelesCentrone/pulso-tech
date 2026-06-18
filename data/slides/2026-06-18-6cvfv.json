@@ -1,0 +1,53 @@
+{
+  "title": "LLMs como Consumidores Autônomos: A Nova Teoria Econômica que Pode Redefinir o Mercado de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "LLMs como Consumidores Autônomos",
+      "subtext": "A nova teoria econômica que pode redefinir o mercado de agentes de IA",
+      "image_prompt": "A futuristic digital brain made of glowing circuit boards, with currency symbols and data streams flowing through neural pathways, dark background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um paper do arXiv propõe aplicar a teoria clássica do consumidor — usada para modelar decisões humanas — aos grandes modelos de linguagem (LLMs) que operam como agentes autônomos. O problema? A economia tradicional não tem ferramentas para modelar esse comportamento.",
+      "highlight": "LLMs estão tomando decisões de consumo em seu nome — e ninguém sabe como modelar isso."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "LLMs estão sendo implantados como agentes que escolhem APIs, contratam serviços de nuvem, compram produtos e gerenciam assinaturas. O paper propõe uma estrutura teórica para analisar como esses agentes processam 'preferências', lidam com restrições orçamentárias e tomam decisões de consumo autônomas.",
+      "visual_hint": "Ícone de um cérebro digital com engrenagens e cifrões"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem uma teoria de como esses agentes tomam decisões, estamos voando cegos. O risco de 'comportamento disfuncional' é real: agentes podem gastar orçamentos inteiros em APIs desnecessárias ou contratar serviços que violam compliance. A economia da IA está mudando de 'ferramenta' para 'decisor'.",
+      "visual_hint": "Gráfico de linha ascendente com um ponto de inflexão crítico"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes autônomos está explodindo com empresas como OpenAI, Anthropic e Google",
+        "LLMs lidam com múltiplas restrições: tokens, latência, custo financeiro e 'custo cognitivo'",
+        "Preferências emergentes do treinamento podem criar viés de consumo inexistente em humanos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Precisaremos de novas métricas para auditar decisões de agentes de IA",
+        "Reguladores terão que criar frameworks para consumo autônomo",
+        "Empresas vão otimizar agentes não só por performance, mas por 'saúde econômica'"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia dos agentes autônomos está apenas começando — e você precisa entender isso agora."
+    }
+  ]
+}

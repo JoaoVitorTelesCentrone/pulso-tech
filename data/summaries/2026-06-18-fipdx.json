@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe poda estrutural guiada por atribuição e maximização de cobertura para comprimir modelos MoE, reduzindo custo de inferência sem degradar qualidade.",
+  "key_facts": [
+    "Método ataca a ineficiência de memória dos modelos MoE, que exigem carregar todos os especialistas mesmo usando apenas alguns.",
+    "Poda é feita em nível granular (neurônios/sub-estruturas) dentro de cada especialista, não removendo especialistas inteiros.",
+    "Algoritmo combina Attribution-Guided (identifica componentes menos importantes) e Coverage-Maximized (evita pontos cegos no conhecimento).",
+    "Resultado é compressão estrutural que reduz parâmetros ativos e tamanho total do modelo sem perda de precisão em benchmarks."
+  ],
+  "why_it_matters": "A corrida por modelos maiores tornou a implantação proibitivamente cara para empresas fora das Big Techs. Este método oferece um caminho para reduzir custos de inferência em modelos MoE já treinados, democratizando o acesso a IA de alto desempenho e viabilizando economicamente o deploy em larga escala.",
+  "watch_next": [
+    "Adoção do método por frameworks de inferência open-source (ex.: vLLM, TensorRT-LLM) para compressão prática.",
+    "Aplicação da técnica em modelos MoE proprietários (GPT-4, Gemini) para redução de custos operacionais.",
+    "Surgimento de benchmarks específicos para avaliar trade-off entre compressão e cobertura de conhecimento em MoE."
+  ],
+  "editorial_angle": "Diferencia-se ao focar no gargalo econômico do deploy de MoE, não apenas na métrica de compressão. O artigo conecta inovação técnica (poda granular) a um problema de mercado real (custo de inferência), tornando a notícia relevante tanto para engenheiros quanto para tomadores de decisão em empresas de IA."
+}

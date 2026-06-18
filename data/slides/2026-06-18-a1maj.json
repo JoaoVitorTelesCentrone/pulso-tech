@@ -1,0 +1,53 @@
+{
+  "title": "MoCo-AIS: A Nova Fronteira do Aprendizado por Contraste que Pode Redefinir a Economia da Mobilidade Marítima",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "MoCo-AIS: A Nova Fronteira do Aprendizado por Contraste que Pode Redefinir a Economia da Mobilidade Marítima",
+      "subtext": "Enquanto o mercado foca em LLMs, um paper do arXiv revela uma abordagem que pode economizar bilhões em logística global ao resolver o gargalo mais básico — e caro — da análise de trajetórias.",
+      "image_prompt": "A futuristic digital map of global shipping routes with glowing vessel trajectories and data nodes, dark blue and neon cyan tones, high-tech maritime analytics visualization"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Sistema de Identificação Automática (AIS) gera volumes imensos de dados de posicionamento de embarcações. A tarefa fundamental de comparar trajetórias — essencial para extração de rotas, previsão de movimentação e detecção de anomalias — sempre foi feita com métodos tradicionais baseados em distância (como DTW, Hausdorff, Fréchet), que são computacionalmente caros e não escalam bem.",
+      "highlight": "US$ 14 trilhões em comércio global anualmente movimentados pela indústria marítima"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O MoCo-AIS (Momentum Contrast for AIS) introduz um framework de aprendizado por contraste que aprende representações vetoriais (embeddings) das trajetórias. Em vez de calcular distâncias ponto a ponto, o modelo mapeia trajetórias similares para pontos próximos em um espaço latente, permitindo buscas e comparações quase instantâneas.",
+      "visual_hint": "Ícone de rede neural com setas conectando pontos de trajetória em um espaço 3D"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada navio cargueiro que desvia de rota, cada atraso em porto, cada anomalia não detectada representa custos bilionários. O MoCo-AIS oferece uma alternativa que transforma a comparação de trajetórias em uma simples operação de similaridade por cosseno — O(1) para cada par — viabilizando aplicações em tempo real antes inviáveis.",
+      "visual_hint": "Gráfico comparativo mostrando a redução de complexidade computacional de O(n²) para O(1)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 14 trilhões: valor do comércio global movimentado pela indústria marítima",
+        "Milhões de pontos de dados AIS processados por segundo em sistemas de monitoramento",
+        "Complexidade O(n²) dos métodos tradicionais vs. O(1) do MoCo-AIS para cada par de trajetórias"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Detecção instantânea de pirataria e anomalias em tempo real",
+        "Otimização dinâmica de rotas para redução de combustível e emissões",
+        "Previsão de congestionamento portuário com alta precisão"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A nova fronteira do aprendizado por contraste está redefinindo a economia da mobilidade marítima — e isso é só o começo."
+    }
+  ]
+}

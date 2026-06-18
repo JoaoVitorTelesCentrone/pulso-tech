@@ -1,0 +1,53 @@
+{
+  "title": "LegalHalluLens: A Auditoria de Alucinações que Pode Salvar o Mercado de US$ 10 Bi da Legal Tech",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "52% das respostas de IA jurídicas contêm erros. E agora?",
+      "subtext": "LegalHalluLens: o framework que transforma o maior gargalo de confiança da Legal Tech em vantagem competitiva auditável.",
+      "image_prompt": "A futuristic courtroom with holographic legal documents and AI agents debating, glowing blue and red error markers on a dark background, high-tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado global de Legal Tech movimenta US$ 30 bilhões anuais, com a fatia de IA jurídica crescendo 25% ao ano. Mas a confiança dos advogados — naturalmente avessos a riscos — é o elefante na sala: contratos mal redigidos ou citações falsas podem custar milhões.",
+      "highlight": "US$ 30 bi anuais em Legal Tech, mas 52% de alucinação média nas IAs jurídicas."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores do arXiv publicaram o LegalHalluLens, um sistema duplo: (1) auditoria de alucinações tipificadas, classificando erros por tipo e gravidade, e (2) debate multi-agente calibrado, onde múltiplos modelos de IA discutem entre si para validar alegações jurídicas antes de chegar ao usuário.",
+      "visual_hint": "Ícone de lupa sobre documento jurídico com marcadores coloridos de erro (vermelho, amarelo, verde) e dois robôs dialogando."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Advogados e compliance officers agora podem decidir onde confiar na IA e onde exigir supervisão humana. O risco se torna gerenciável e auditável — abrindo portas para seguros de responsabilidade profissional (E&O) com prêmios diferenciados para quem adota o framework.",
+      "visual_hint": "Gráfico de risco vs. confiança, com uma seta indicando 'de opaco a auditável'."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "52%: taxa média de alucinação agregada em IAs jurídicas analisadas",
+        "3 tipos de erro mapeados: citação (inventa jurisprudência), interpretação (conclusão lógica errada) e jurisdição (contexto legal incorreto)",
+        "25% ao ano: crescimento da fatia de IA no mercado jurídico, travado pela falta de confiança"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Escritórios e departamentos jurídicos poderão auditar riscos com precisão cirúrgica",
+        "Seguradoras de responsabilidade profissional passarão a precificar o uso de IA com base em frameworks como o LegalHalluLens",
+        "A adoção de IA jurídica pode acelerar — ou estagnar — dependendo de quem adotar a auditoria primeiro"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da advocacia não é sem erros — é com erros que a gente sabe medir."
+    }
+  ]
+}

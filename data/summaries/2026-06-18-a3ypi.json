@@ -1,0 +1,14 @@
+{
+  "tldr": "Paper do arXiv revela que 52% das respostas de IAs jurídicas contêm erros e propõe um sistema de auditoria e debate multi-agente para tornar o risco gerenciável e auditável.",
+  "key_facts": [
+    "Taxa média de alucinação em IAs jurídicas é de ~52%.",
+    "LegalHalluLens classifica erros em tipos como citação, interpretação e jurisdição.",
+    "Framework combina auditoria tipificada com debate multi-agente calibrado para validação de alegações."
+  ],
+  "why_it_matters": "A confiança é o maior gargalo para a adoção de IA no setor jurídico, um mercado de US$ 30 bilhões. Este framework oferece um padrão de due diligence que pode desbloquear seguros, compliance e adoção em larga escala.",
+  "watch_next": [
+    "Integração do LegalHalluLens em plataformas de legal tech como contratos inteligentes e due diligence automatizada.",
+    "Adoção por seguradoras de responsabilidade profissional como critério para precificação de apólices."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não na média alarmante de erros, mas na descoberta de que os erros são tipificáveis e gerenciáveis, transformando um problema técnico em uma vantagem competitiva mensurável para quem adotar o framework."
+}

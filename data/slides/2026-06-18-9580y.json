@@ -1,0 +1,53 @@
+{
+  "title": "CODEBLOCK: A Revolução na Granularidade do Fine-Tuning que Pode Economizar Bilhões em Treinamento de LLMs de Código",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "CODEBLOCK: A Revolução na Granularidade do Fine-Tuning",
+      "subtext": "Economize bilhões em treinamento de LLMs de código — sem perder performance.",
+      "image_prompt": "A futuristic digital brain made of glowing code blocks, connected by neural networks, dark background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Treinar LLMs de código custa dezenas de milhões de dólares por rodada. Modelos como CodeLlama e StarCoder consomem clusters de GPU por semanas. E o pior: o fine-tuning tradicional trata todos os tokens como iguais — desperdiçando recursos com tokens irrelevantes.",
+      "highlight": "Até 40% do custo de treinamento pode ser desperdiçado com supervisão uniforme."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores do arXiv propõem o CODEBLOCK: um método que identifica blocos semânticos de código (como if, for, funções) e ajusta o peso da loss para cada bloco, focando o aprendizado onde realmente importa. Adeus à entropia cruzada uniforme.",
+      "visual_hint": "Ícone de árvore sintática abstrata (AST) com blocos coloridos e pesos variáveis"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para startups de IA que competem com gigantes, isso pode ser a diferença entre lançar um modelo competitivo ou ficar para trás. Menos dados, menos épocas, mesma performance. Uma mudança de paradigma: de 'mais compute' para 'compute mais inteligente'.",
+      "visual_hint": "Gráfico de barras comparando custo tradicional vs. CODEBLOCK, com seta de economia"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Economia de até 40% nos custos de treinamento de LLMs de código",
+        "Redução de tokens desnecessários: foco em blocos semânticos críticos",
+        "Modelos como CodeLlama e StarCoder podem ser treinados com menos recursos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fine-tuning mais eficiente: dados mais inteligentes, compute mais direcionado",
+        "Startups podem competir com gigantes usando menos infraestrutura",
+        "Nova linha de pesquisa: supervisão baseada em estrutura de código, não em estatísticas de tokens"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do fine-tuning não é mais dados — é granularidade inteligente."
+    }
+  ]
+}
