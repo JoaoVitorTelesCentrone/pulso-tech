@@ -1,0 +1,14 @@
+{
+  "tldr": "Paper VISUALSKILL expõe que agentes de IA para automação de desktop falham em tarefas longas e softwares novos, propondo bibliotecas multimodais que combinam visão e texto para maior robustez.",
+  "key_facts": [
+    "CUAs atuais atingem performance humana em benchmarks, mas colapsam em tarefas com mais de 10 ações e interfaces nunca vistas.",
+    "VISUALSKILL representa habilidades como artefatos multimodais (visão + texto), em vez de sequências textuais fixas.",
+    "O paper vem de colaboração acadêmica/open source, sem big techs, sugerindo inovação fora do mainstream."
+  ],
+  "why_it_matters": "A falha em generalizar para novos softwares e tarefas longas é o principal gargalo para a adoção empresarial de agentes de automação; o VISUALSKILL aponta um caminho para superar isso, potencialmente redefinindo o mercado de RPA e agentes de desktop.",
+  "watch_next": [
+    "Se a abordagem multimodal for validada em larga escala, pode pressionar empresas como Anthropic e OpenAI a incorporar técnicas similares.",
+    "Possível surgimento de bibliotecas open source de habilidades multimodais, acelerando a customização de agentes para softwares legados."
+  ],
+  "editorial_angle": "O artigo se diferencia ao ir além do hype dos agentes de IA, expondo uma limitação técnica crítica (falha em tarefas longas e softwares novos) e apresentando uma solução inovadora vinda da academia, o que oferece uma perspectiva mais realista e aprofundada para leitores técnicos."
+}

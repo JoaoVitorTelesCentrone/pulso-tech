@@ -1,0 +1,53 @@
+{
+  "title": "CoreMem: A Revolução Riemanniana que Pode Levar Memória de Longo Prazo para o Bolso (e Redefinir o Mercado de Agentes Pessoais de IA)",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "CoreMem: Memória de Longo Prazo no Seu Bolso",
+      "subtext": "A geometria Riemanniana que promete enterrar os chatbots que esquecem quem você é.",
+      "image_prompt": "Futuristic glowing brain with curved geometric lines and memory nodes, dark blue and neon purple tech background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA pessoais enfrentam um dilema: memória na nuvem é cara e levanta bandeiras vermelhas de privacidade; memória local é frágil e amnésica. O sonho do assistente que realmente te conhece sempre esbarrou nesse gargalo.",
+      "highlight": "O calcanhar de aquiles da IA personalizada: rodar memória persistente em hardware de consumo."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o CoreMem, um framework que combina recuperação Riemanniana e destilação guiada por Fisher. Ele trata embeddings de memória como superfícies curvas, permitindo busca precisa e eficiente mesmo com apenas 8 GB de VRAM.",
+      "visual_hint": "Ícone de chip de IA com curvas geométricas e pontos de luz representando memórias"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, um agente local pode ter memória de longo prazo real. Isso derruba custos de inferência para o provedor, transforma privacidade em vantagem competitiva e desbloqueia mercados inteiros (saúde, finanças, jurídico) que rejeitam IA na nuvem.",
+      "visual_hint": "Ilustração de um smartphone com escudo de privacidade e engrenagens de IA internas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "8 GB de VRAM: o novo limite viável para memória de longo prazo em dispositivos de consumo",
+        "Custo de inferência cai a zero para o provedor: tudo roda no dispositivo do usuário",
+        "Mercados regulados (LGPD, GDPR, HIPAA) agora podem adotar IA pessoal sem riscos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes pessoais que realmente lembram de você — preferências, histórico, o nome do seu cachorro",
+        "Privacidade vira feature de produto, não obstáculo regulatório",
+        "Retenção de usuário explode: um assistente que nunca esquece quem você é"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "CoreMem pode redefinir o mercado de agentes pessoais de IA. Fique de olho."
+    }
+  ]
+}

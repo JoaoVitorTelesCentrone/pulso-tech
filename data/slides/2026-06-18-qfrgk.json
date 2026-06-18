@@ -1,0 +1,53 @@
+{
+  "title": "Artemis: A Dissecção da Neuroimagem Multimodal que Pode Redefinir o Mercado de Diagnóstico por IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Artemis: A Revolução Silenciosa na Neuroimagem",
+      "subtext": "O viés demográfico que a IA em saúde ignorou — e que pode custar bilhões",
+      "image_prompt": "A futuristic digital brain scan with glowing neural networks, dark background, high contrast, cinematic lighting, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper no arXiv expõe um problema crítico: modelos de neuroimagem multimodal (fMRI + DTI) são distorcidos por vieses de idade e sexo. O framework Artemis propõe uma cirurgia de precisão para eliminar esses confundidores.",
+      "highlight": "Viés demográfico: o calcanhar de Aquiles da IA em saúde"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Artemis segmenta o cérebro em regiões de interesse e remove a influência de idade e sexo em cada uma individualmente. Diferente das correções globais, essa abordagem evita mascarar distorções regionais críticas para diagnósticos como Alzheimer e esquizofrenia.",
+      "visual_hint": "Ícone de cérebro com zonas coloridas e setas de intervenção"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Modelos que 'diagnosticam' Alzheimer podem estar apenas aprendendo a correlacionar idade com alterações normais do envelhecimento. Isso não é só precisão — é validade clínica e responsabilidade legal. Startups e big techs correm o risco de construir castelos de areia regulatória.",
+      "visual_hint": "Gráfico de barras comparando acurácia real vs. inflada por viés"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de diagnóstico por imagem assistido por IA: US$ 2,5 bi (2025) → US$ 14 bi (2032)",
+        "Neuroimagem multimodal (fMRI + DTI) é uma das fronteiras mais promissoras",
+        "Modelos sem intervenção do Artemis apresentam correlação espúria com idade"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Validação clínica se torna o novo padrão-ouro, acima da acurácia em benchmarks",
+        "Investidores e reguladores exigirão transparência sobre controle de confundidores",
+        "Startups que ignorarem o viés demográfico podem enfrentar barreiras legais e de mercado"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A corrida por IA em saúde está só começando — e o viés é o próximo grande desafio."
+    }
+  ]
+}

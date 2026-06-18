@@ -1,0 +1,15 @@
+{
+  "tldr": "O framework Artemis expõe e corrige vieses demográficos (idade e sexo) em modelos de neuroimagem multimodal, revelando que o desempenho inflado em benchmarks pode mascarar fragilidades clínicas e regulatórias no mercado de diagnóstico por IA.",
+  "key_facts": [
+    "Paper Artemis (arXiv, 18/06/2026) propõe intervenção anatômica para eliminar confundidores demográficos em GNNs aplicadas a fMRI e DTI.",
+    "Técnicas tradicionais de correção de viés tratam fatores como homogêneos; Artemis corrige por região de interesse (ROI), reconhecendo efeitos regionais distintos do envelhecimento.",
+    "Mercado global de diagnóstico por imagem assistido por IA foi de US$ 2,5 bi em 2025, com projeção de US$ 14 bi até 2032."
+  ],
+  "why_it_matters": "Para profissionais de IA em saúde, o artigo alerta que a acurácia em benchmarks pode ser artificialmente inflada por vieses demográficos, comprometendo a validade clínica, a responsabilidade legal e a confiança em soluções de diagnóstico por neuroimagem.",
+  "watch_next": [
+    "Pressão regulatória (FDA, ANVISA) para exigir validação de viés demográfico em modelos de neuroimagem.",
+    "Adoção do Artemis ou frameworks similares por startups e big techs como diferencial competitivo e compliance.",
+    "Revisão de benchmarks públicos de neuroimagem para incluir métricas de equidade demográfica."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico denso (intervenção por ROI) com um alerta de mercado e regulatório, expondo o 'calcanhar de Aquiles' da IA em saúde: a fragilidade dos dados de treinamento frente a vieses sistemáticos ignorados pela corrida por acurácia."
+}

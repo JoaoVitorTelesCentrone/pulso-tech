@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Invisível da IA: Como o Fim dos Problemas Fáceis Está Criando uma Crise de Escassez no Treinamento de Agentes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível da IA",
+      "subtext": "O fim dos problemas fáceis está criando uma crise de escassez no treinamento de agentes",
+      "image_prompt": "A futuristic digital landscape with a massive, glowing bottleneck in the center, surrounded by complex neural network nodes and fading task icons, dark tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em modelos maiores e inferência mais barata, um novo paper do arXiv expõe o verdadeiro gargalo que pode travar a evolução dos agentes de IA: a falta de problemas difíceis o suficiente para treiná-los.",
+      "highlight": "O recurso mais escasso não é mais poder computacional, dados ou arquitetura — é o suprimento de tarefas de fronteira."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo artigo propõe treinar geradores de tarefas que operem na 'fronteira aprendível' — o ponto exato onde as tarefas são simultaneamente válidas e desafiadoras para o agente em treinamento, maximizando o progresso do aprendizado.",
+      "visual_hint": "Ícone de um gerador de problemas conectado a um agente, com uma seta indicando 'zona de desenvolvimento proximal'"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para agentes de IA que precisam aprender a navegar na web, controlar softwares ou operar em ambientes simulados, o RL depende de um fluxo constante de tarefas na zona de desenvolvimento proximal. Sem isso, o aprendizado estagna — e a inovação desacelera.",
+      "visual_hint": "Gráfico de aprendizado estagnado com uma linha plana após um pico inicial"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Distribuições fixas de tarefas se tornam obsoletas rapidamente conforme modelos melhoram",
+        "O custo de gerar novas tarefas na fronteira cresce exponencialmente",
+        "A indústria caminha para um colapso de oferta de tarefas de treinamento"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "O gargalo desloca-se do solucionador (modelo) para o gerador de problemas",
+        "Novo paradigma: treinar geradores de tarefas que maximizem o progresso do aprendizado",
+        "A qualidade e dinâmica do processo de treinamento tornam-se o quarto eixo crítico da indústria"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA depende de como resolveremos essa crise invisível. Fique por dentro."
+    }
+  ]
+}

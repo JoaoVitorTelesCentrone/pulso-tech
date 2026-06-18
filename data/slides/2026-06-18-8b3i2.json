@@ -1,0 +1,53 @@
+{
+  "title": "FinAcumen: O Novo Framework de Raciocínio Financeiro Multimodal que Pode Redefinir o Mercado de Análise de Investimentos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "FinAcumen: A Memória que Aprende",
+      "subtext": "O fim dos agentes financeiros limitados — e o início de uma nova era na análise de investimentos",
+      "image_prompt": "Futuristic financial data center with glowing neural networks and stock charts floating in a dark digital space, cyberpunk style, high contrast, blue and gold accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA para finanças sempre falharam em coordenar números, gráficos, textos e dados temporais de forma confiável. O mercado de análise de investimentos de US$ 40 bilhões aguarda uma solução que integre múltiplas fontes de evidência sem perder coerência.",
+      "highlight": "US$ 40 bilhões — o tamanho do mercado que o FinAcumen pode transformar"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o FinAcumen, um framework inédito que usa memória de experiência auto-evolutiva. Em vez de prompts estáticos, o agente armazena, refina e reutiliza experiências passadas de raciocínio — criando um ciclo de aprendizado contínuo que melhora a precisão a cada consulta financeira.",
+      "visual_hint": "Ícone de cérebro digital com setas de feedback em loop"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Um analista humano cruza balanços, gráficos e notícias. Até hoje, agentes de IA faziam isso de forma frágil — com erros de alinhamento temporal e inconsistências. O FinAcumen aprende com seus próprios erros, tornando-se progressivamente mais competente, como um analista sênior que acumula expertise ao longo dos anos.",
+      "visual_hint": "Gráfico de linha ascendente com pontos de aprendizado marcados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de análise financeira assistida por IA: US$ 40 bilhões",
+        "Agentes tradicionais falham em coordenar 4+ modalidades (números, textos, gráficos, séries temporais)",
+        "FinAcumen melhora precisão a cada novo episódio de raciocínio"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Assistentes financeiros que evoluem sem re-treinamento manual",
+        "Análises multimodais confiáveis — do relatório ao gráfico de candlestick",
+        "Vantagem competitiva para quem adotar o framework primeiro"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O FinAcumen pode redefinir como investimos. Fique à frente da curva."
+    }
+  ]
+}

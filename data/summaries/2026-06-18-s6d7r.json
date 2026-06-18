@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe agentes web que reutilizam padrões de interação entre domínios, reduzindo custos e aumentando a escalabilidade da automação.",
+  "key_facts": [
+    "Paper 'Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns' foi publicado no arXiv.",
+    "Abordagem identifica padrões de interação transferíveis entre sites diferentes, como preencher formulários ou navegar em resultados de busca.",
+    "Reduz número de passos e melhora taxa de sucesso em ambientes não vistos durante o treinamento.",
+    "Ataca o gargalo econômico da automação web: custo alto de integração manual para cada novo site."
+  ],
+  "why_it_matters": "Se confirmada, a técnica pode tornar obsoletas ferramentas tradicionais de RPA (como UiPath) e permitir que um único agente opere em milhares de sites sem customização, revolucionando a economia da automação.",
+  "watch_next": [
+    "Validação independente dos resultados do paper por outros grupos de pesquisa.",
+    "Lançamento de produtos ou startups baseados na abordagem de transferência de padrões.",
+    "Reação do mercado de RPA e possíveis aquisições ou pivôs das grandes empresas do setor."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no impacto econômico e de mercado da inovação técnica, em vez de apenas descrever o paper, conectando a pesquisa a um problema real de escalabilidade e custo na automação web."
+}

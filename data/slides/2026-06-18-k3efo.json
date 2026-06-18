@@ -1,0 +1,53 @@
+{
+  "title": "FllumaOne: O Novo Dataset que Pode Desbloquear o Mercado de US$ 10 Bi em CAD Generativo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "FllumaOne: O Dataset que Vai Ensinar IA a Projetar como um Engenheiro",
+      "subtext": "Programas executáveis e históricos validados abrem caminho para um mercado de US$ 10 bilhões em CAD generativo.",
+      "image_prompt": "Futuristic engineering workspace with holographic 3D CAD models and flowing data streams, dark blue and neon orange tones, high-tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a IA domina chatbots e imagens, o design de engenharia ainda depende de processos manuais complexos. O mercado de CAD, avaliado em US$ 10-12 bilhões anuais, carece de datasets que capturem o raciocínio por trás de um projeto.",
+      "highlight": "Mercado de CAD: US$ 10-12 Bi anuais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o FllumaOne, um dataset multimodal code-native para CAD paramétrico. Ele registra não apenas a geometria final, mas o histórico completo de operações, parâmetros e dependências — tudo verificado por kernel de modelagem.",
+      "visual_hint": "Ícone de engrenagem com linhas de código e uma árvore de operações 3D"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, modelos de IA podem aprender a lógica construtiva do design, não apenas a forma final. Isso permite gerar peças editáveis, automatizar tarefas repetitivas e reconstruir processos a partir de geometrias existentes.",
+      "visual_hint": "Diagrama mostrando 'forma final' vs 'processo de design' com setas e engrenagens"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Dataset com programas executáveis e históricos kernel-validated",
+        "Supera limitações de datasets anteriores (ABC Dataset, Fusion 360 Gallery)",
+        "Abre caminho para IA generativa em design paramétrico editável"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Design generativo que produz sequências de operações editáveis por engenheiros",
+        "Automação de tarefas repetitivas em softwares CAD",
+        "Reengenharia assistida: IA que infere o processo de design a partir de geometrias"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do design de engenharia está sendo escrito agora — com código, kernel e IA."
+    }
+  ]
+}

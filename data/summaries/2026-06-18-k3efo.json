@@ -1,0 +1,16 @@
+{
+  "tldr": "O dataset FllumaOne, com programas executáveis e históricos de features validados por kernel, pode revolucionar o CAD generativo ao ensinar IA a raciocinar sobre o processo de design, não apenas a forma final.",
+  "key_facts": [
+    "FllumaOne é um dataset multimodal code-native para CAD paramétrico, publicado no arXiv.",
+    "Ele contém programas executáveis que registram o histórico ordenado de construção, com parâmetros e dependências entre features.",
+    "Cada histórico foi verificado pelo kernel de modelagem geométrica (kernel-validated), garantindo correção e reprodutibilidade.",
+    "O mercado de software CAD é estimado em US$ 10-12 bilhões anuais."
+  ],
+  "why_it_matters": "Porque resolve o gargalo central da IA em engenharia: gerar designs editáveis e com lógica construtiva, em vez de formas livres não utilizáveis em CAD real. Isso pode automatizar tarefas repetitivas, permitir design generativo editável e viabilizar reengenharia assistida, abrindo um mercado bilionário para soluções de IA.",
+  "watch_next": [
+    "Empresas como Autodesk, Dassault e Siemens podem anunciar parcerias ou datasets concorrentes.",
+    "Surgimento de modelos de linguagem especializados em CAD que usam FllumaOne como base de treinamento.",
+    "Primeiros produtos de design generativo editável chegando ao mercado, integrando IA a softwares CAD existentes."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar no aspecto processual do design (histórico de features) em vez de apenas geometria final, destacando a validação por kernel como diferencial técnico. Foi escolhido por abordar um nicho de alto impacto (engenharia e CAD) que está fora do radar mainstream de IA, mas com potencial de mercado bilionário."
+}
