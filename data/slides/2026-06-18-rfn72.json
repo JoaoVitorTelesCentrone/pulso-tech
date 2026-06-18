@@ -1,0 +1,53 @@
+{
+  "title": "O Projetista Oculto: Como um Workflow Orquestrado por Modelo de Fundação Está Redefinindo a Economia da Segurança Veicular",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Projetista Oculto",
+      "subtext": "Como um workflow orquestrado por IA está redefinindo a economia da segurança veicular — e transformando P&D em vantagem competitiva.",
+      "image_prompt": "A futuristic car crash simulation with glowing neural network lines overlaying the vehicle structure, dark background with blue and orange neon accents, digital engineering aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria automotiva gasta dezenas de bilhões de dólares por ano em testes de crash e simulações. Cada novo modelo exige milhares de simulações de impacto para atender regulamentações globais como Euro NCAP. O gargalo não é criatividade — é custo computacional e tempo de ciclo.",
+      "highlight": "US$ 10 bilhões+ por ano em testes de crash globalmente"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo artigo propõe um workflow orquestrado por modelo de fundação (LLM multimodal) que coordena a exploração do espaço de design, execução de simulações e otimização — substituindo a tentativa e erro manual por um loop fechado de IA. O modelo de fundação age como o 'cérebro' do pipeline de design de proteção de pedestres.",
+      "visual_hint": "Diagrama de fluxo: modelo de fundação → geração de propostas → modelo substituto → seleção → simulação FEA → feedback"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Reduzir o ciclo de design em 10x ou 20x não é melhoria incremental: é uma vantagem competitiva que pode economizar centenas de milhões de dólares por montadora por ano. Com SUVs e elétricos mais pesados, a pressão para projetar estruturas que minimizem lesões em atropelamentos cresce exponencialmente.",
+      "visual_hint": "Ícone de gráfico de barras com seta para baixo indicando redução de custos e tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Dezenas de bilhões de dólares gastos anualmente em testes de crash e simulações",
+        "Milhares de simulações de impacto por novo modelo veicular",
+        "Redução potencial de 10x a 20x no ciclo de design com workflow orquestrado por IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Primeiro exemplo concreto de sistema de design autônomo para engenharia do mundo real",
+        "Economia de centenas de milhões de dólares por montadora por ano em P&D",
+        "Aceleração do time-to-market e vantagem competitiva direta para quem adotar primeiro"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O projetista oculto já está redesenhando o futuro da segurança veicular. Você está pronto para dirigir essa mudança?"
+    }
+  ]
+}

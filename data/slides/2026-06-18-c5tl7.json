@@ -1,0 +1,53 @@
+{
+  "title": "EComAgentBench: O Benchmark Que Expõe a Fragilidade dos Agentes de Compra e Redefine o Mercado de E-commerce por IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Agentes de Compra Estão Cegos?",
+      "subtext": "Novo benchmark revela que a IA de e-commerce falha em entender o que você realmente quer — e isso pode custar bilhões.",
+      "image_prompt": "A dark, futuristic e-commerce interface with a glowing shopping cart icon, fragmented and partially obscured by digital glitch effects, symbolizing hidden intentions and broken AI understanding."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Shopify, Amazon e Mercado Livre investem pesado em assistentes de compra automatizados. A promessa: reduzir atrito e personalizar em escala. Mas um novo benchmark do arXiv mostra que esses agentes falham em captar intenções reais dos clientes.",
+      "highlight": "Benchmarks tradicionais expõem todas as intenções de uma vez — algo que nunca acontece no mundo real."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores lançaram o EComAgentBench, um benchmark que testa agentes de compra em tarefas de longo horizonte com intenções ocultas distribuídas em três camadas: explícita, perfil do usuário e informações reveláveis apenas durante a interação.",
+      "visual_hint": "Ícone de um iceberg com a ponta visível (intenção explícita) e uma grande massa submersa (intenções ocultas)."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se o agente não descobre o que o usuário realmente quer, ele não entrega valor — gera frustração. Para desenvolvedores, é um novo padrão de teste. Para gestores, um alerta: soluções que brilham em demonstrações podem falhar em produção.",
+      "visual_hint": "Gráfico de linha mostrando uma curva de expectativa do usuário (alta) vs. satisfação real (baixa) ao usar agentes atuais."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "3 camadas de intenção: explícita, perfil e oculta revelável",
+        "Tarefas de longo horizonte com múltiplas etapas de decisão",
+        "Agentes falham em manter contexto por dezenas de interações"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Startups que resolverem a 'intenção oculta' terão vantagem competitiva real",
+        "Benchmark vira novo padrão de teste para agentes de e-commerce",
+        "Pressão para LLMs melhorarem em contexto distribuído e perguntas ativas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A corrida por agentes de compra inteligentes está só começando — e quem entender as intenções ocultas vai liderar."
+    }
+  ]
+}

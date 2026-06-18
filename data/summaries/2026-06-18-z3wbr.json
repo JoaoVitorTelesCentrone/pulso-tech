@@ -1,0 +1,15 @@
+{
+  "tldr": "Dois papers da Microsoft e IEEE mostram que a IA está evoluindo para processar áudio e emoções humanas sem depender de texto intermediário, abrindo caminho para assistentes de voz emocionalmente inteligentes e robôs colaborativos mais seguros.",
+  "key_facts": [
+    "Microsoft publicou paper 'Continuous Audio Thinking for Large Audio Language Models' (arXiv:2606.18273) que permite que modelos de áudio 'pensem' diretamente no domínio do áudio, eliminando a conversão para texto.",
+    "IEEE Spectrum publicou pesquisa 'Visual Language Models Train Robots to Read Human Emotions', treinando robôs para interpretar expressões faciais e linguagem corporal em tempo real.",
+    "O pipeline atual de assistentes de voz (áudio → texto → LLM → texto → áudio) perde informações e adiciona latência; o novo framework elimina dois estágios desse processo."
+  ],
+  "why_it_matters": "A dependência do texto como intermediário é o principal gargalo para assistentes de voz e robôs colaborativos. Esses avanços prometem reduzir latência, preservar nuances emocionais e tornar a interação humano-máquina mais natural, impactando mercados de atendimento ao cliente (US$ 400 bi), robótica industrial e acessibilidade.",
+  "watch_next": [
+    "Lançamento de produtos comerciais baseados em 'Continuous Audio Thinking' por grandes players (Microsoft, Google, Amazon) nos próximos 12 meses.",
+    "Regulamentação de robôs emocionalmente inteligentes em ambientes de trabalho, especialmente em saúde e manufatura.",
+    "Corrida por benchmarks e datasets que avaliem a compreensão emocional em áudio, similar ao que ocorreu com NLP."
+  ],
+  "editorial_angle": "O artigo conecta dois avanços técnicos aparentemente distintos (áudio contínuo e leitura de emoções) sob uma tese unificadora: a próxima fronteira da IA é a eliminação do texto como intermediário. Isso diferencia a cobertura de meros resumos de papers, oferecendo uma visão estratégica do impacto econômico e de produto."
+}

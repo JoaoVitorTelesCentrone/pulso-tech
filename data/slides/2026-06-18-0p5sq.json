@@ -1,0 +1,53 @@
+{
+  "title": "O Ciclo de Vida Interno do Raciocínio em Código: Como os LLMs 'Preparam a Resposta' Antes de Falar e o Que Isso Significa para a Engenharia de Software",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "LLMs: Eles 'Preparam a Resposta' Antes de Falar",
+      "subtext": "O que o ciclo interno de raciocínio revela sobre a fragilidade oculta da IA na engenharia de software",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways, code streams flowing through translucent layers, dark background with blue and purple neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores do arXiv dissecaram o ciclo de vida interno do raciocínio em código em LLMs. Descobriram que os modelos 'preparam' a resposta em camadas intermediárias — mas esse processo falha em variações estruturais, mesmo quando a saída final parece correta.",
+      "highlight": "Métricas de acurácia padrão escondem uma fragilidade estrutural no raciocínio de LLMs"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O estudo revela o fenômeno 'brewing' (preparação): o modelo já 'sabe' a resposta correta em camadas intermediárias (40-60% do caminho) para rastreamento linear de variáveis. Mas para loops semanticamente equivalentes, essa representação interna nunca se estabiliza — o modelo 'adivinha' na saída sem compreensão real.",
+      "visual_hint": "Diagrama de camadas de rede neural com uma seta mostrando o ponto de 'brewing' e outra mostrando falha em loops"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para engenheiros e empresas, confiar cegamente em benchmarks de acurácia é um erro estratégico. Um modelo pode acertar um problema não porque 'entendeu' a lógica, mas por um atalho estatístico. Isso cria risco de falhas silenciosas em sistemas críticos onde a correção lógica é inegociável.",
+      "visual_hint": "Ícone de alerta ou gráfico de benchmark vs. desempenho real"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos 'preparam' a resposta em 40-60% das camadas para rastreamento de variáveis",
+        "Para loops equivalentes, a representação interna nunca se estabiliza",
+        "Acurácia superficial pode mascarar falhas estruturais profundas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Avaliação de LLMs precisa ir além de métricas de acurácia — rastreamento interno é essencial",
+        "Engenharia de software deve tratar modelos de código como ferramentas frágeis, não confiáveis cegamente",
+        "Sistemas críticos exigem validação lógica independente, não apenas testes de saída"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA na programação depende de entendermos o que acontece 'por baixo dos panos' — e você está no centro dessa conversa."
+    }
+  ]
+}

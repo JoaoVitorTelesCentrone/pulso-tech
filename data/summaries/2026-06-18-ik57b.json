@@ -1,0 +1,15 @@
+{
+  "tldr": "LongWebBench é um novo benchmark que expõe a incapacidade dos VLMs atuais de gerar páginas web longas e complexas, revelando uma lacuna crítica entre demonstrações de laboratório e produtos reais.",
+  "key_facts": [
+    "LongWebBench avalia VLMs na geração de páginas web completas com múltiplas seções, rolagem e interatividade.",
+    "Benchmarks anteriores focavam em páginas curtas e estáticas, ignorando a consistência estrutural de longo prazo.",
+    "Modelos como GPT-4V e Gemini Pro Vision têm quedas de 40% a 60% em desempenho quando a página ultrapassa 3 viewports.",
+    "O principal gargalo identificado é a atenção de longo alcance, onde o modelo perde o contexto visual de seções anteriores."
+  ],
+  "why_it_matters": "Para desenvolvedores e empresas de tecnologia, o artigo revela que confiar em VLMs para gerar páginas web completas em produção é arriscado, impactando diretamente o mercado de US$ 4,2 bilhões em geração de conteúdo web assistido por IA.",
+  "watch_next": [
+    "Empresas como Wix e Shopify podem precisar recalibrar suas promessas de automação de landing pages.",
+    "Pesquisas em mecanismos de atenção de longo alcance para VLMs devem se intensificar para superar as limitações expostas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao ir além do anúncio técnico do benchmark, conectando-o diretamente ao mercado bilionário de geração de sites e expondo o 'vaporware' de soluções que ainda não funcionam na prática."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Um workflow orquestrado por modelo de fundação acelera em 10x-20x o design de proteção de pedestres em veículos, substituindo a otimização manual por um loop fechado de IA que usa modelos substitutos para prever simulações de crash, reduzindo custos de P&D em centenas de milhões de dólares por montadora.",
+  "key_facts": [
+    "O artigo propõe um workflow orquestrado por modelo de fundação para projeto de proteção de pedestres, um dos problemas mais complexos da engenharia de segurança veicular.",
+    "O workflow usa um modelo substituto (surrogate) para acelerar simulações de elementos finitos que levariam dias ou semanas em clusters de HPC.",
+    "A indústria automotiva gasta dezenas de bilhões de dólares anualmente em testes de crash e simulações, e a abordagem pode reduzir o ciclo de design em 10x a 20x.",
+    "O foco em proteção de pedestres é impulsionado pelo aumento de SUVs e veículos elétricos, que são mais pesados e têm geometrias frontais mais agressivas."
+  ],
+  "why_it_matters": "Esta notícia importa porque demonstra a primeira aplicação concreta de um sistema de design autônomo baseado em IA para um problema de engenharia do mundo real, com impacto direto em custos de P&D e time-to-market na indústria automotiva, indo além de chatbots e mostrando o valor econômico de workflows orquestrados por modelos de fundação.",
+  "watch_next": [
+    "Montadoras como Toyota, VW ou Tesla podem anunciar parcerias ou adoção de workflows similares para outros componentes de segurança (como estruturas de bateria em EVs).",
+    "Publicação de benchmarks abertos comparando o desempenho do workflow orquestrado com métodos tradicionais de otimização em problemas de crashworthiness.",
+    "Surgimento de startups focadas em 'engenharia autônoma' que oferecem plataformas de design orquestradas por IA para outros setores (aeroespacial, defesa, eletrônicos)."
+  ],
+  "editorial_angle": "O artigo se diferencia por não focar em um novo modelo de IA, mas sim em uma arquitetura de workflow que integra modelos existentes (LLMs, modelos substitutos) para resolver um problema de engenharia real e caro. Foi escolhido porque representa a maturação da IA aplicada à engenharia, saindo do hype de chatbots para entregar valor mensurável em P&D industrial, com implicações claras de economia de bilhões."
+}

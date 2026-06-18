@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo benchmark revela que LLMs falham em preservar a incerteza diagnóstica em textos clínicos, transformando linguagem probabilística em afirmações categóricas, o que pode gerar riscos médicos e bilhões em custos.",
+  "key_facts": [
+    "Paper arXiv (2606.18471) propõe benchmark para avaliar preservação de incerteza diagnóstica em LLMs.",
+    "Modelos como GPT, Claude e open-source tendem a 'engessar' incerteza, convertendo 'possível pneumonia' em 'pneumonia'.",
+    "Viés chamado de 'certainty bias' foi observado em tarefas de sumarização, revisão e geração de diagnóstico diferencial.",
+    "Mercado global de IA em saúde deve ultrapassar US$ 200 bilhões até 2030, com adoção acelerada de LLMs."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o artigo expõe um risco sistêmico e pouco discutido na implementação de LLMs na saúde: a perda de nuances clínicas pode gerar erros graves, passivos legais e custos bilionários, além de levantar questões regulatórias urgentes sobre o uso de IA em contextos de alta responsabilidade.",
+  "watch_next": [
+    "Reguladores (FDA, ANVISA) devem criar diretrizes específicas para avaliação de incerteza em LLMs clínicos.",
+    "Pesquisadores podem desenvolver fine-tuning ou prompts específicos para mitigar o certainty bias.",
+    "Hospitais e seguradoras podem revisar contratos e seguros de responsabilidade civil para cobrir riscos de IA diagnóstica."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar em um aspecto negligenciado da IA na saúde — a preservação da incerteza — em vez de apenas acurácia diagnóstica. Ele conecta um achado técnico de benchmark a implicações financeiras e regulatórias concretas, tornando a pauta relevante tanto para profissionais de tecnologia quanto para gestores de saúde."
+}

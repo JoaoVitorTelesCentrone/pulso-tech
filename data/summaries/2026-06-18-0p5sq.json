@@ -1,0 +1,16 @@
+{
+  "tldr": "Estudo do arXiv revela que LLMs passam por um ciclo interno de 'preparação' (brewing) ao raciocinar sobre código, mas esse processo é frágil e falha em variações estruturais como loops, expondo que métricas de acurácia escondem fragilidades lógicas.",
+  "key_facts": [
+    "Pesquisadores publicaram o paper 'From Brewing to Resolution: Tracing the Internal Lifecycle of Code Reasoning in LLMs' (arXiv:2606.17648).",
+    "LLMs desenvolvem uma representação internamente estável da resposta correta em camadas intermediárias (40-60% do processamento) para rastreamento de variáveis.",
+    "Para loops semanticamente equivalentes, o processo de 'brewing' falha e o modelo nunca atinge uma representação internamente estável, mesmo que a resposta final pareça correta.",
+    "A metodologia usa classificadores lineares para decodificar ativações intermediárias e verificar quando o modelo 'sabe' a resposta."
+  ],
+  "why_it_matters": "A descoberta expõe que benchmarks de acurácia em código são enganosos: um modelo pode acertar sem entender a lógica, usando atalhos estatísticos. Isso representa um risco de falhas silenciosas em sistemas críticos de software, exigindo novas formas de avaliação e confiança em LLMs para engenharia.",
+  "watch_next": [
+    "Desenvolvimento de novos benchmarks que testem a estabilidade interna do raciocínio, não apenas a saída final.",
+    "Adoção de técnicas de interpretabilidade (como rastreamento de ciclo de vida) na avaliação de modelos de código em produção.",
+    "Possível impacto na regulamentação de IA para software crítico, exigindo validação interna além de métricas superficiais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na fragilidade oculta do raciocínio interno dos LLMs, em vez de apenas reportar um novo paper. Ele conecta a descoberta acadêmica a um alerta prático para engenheiros e gestores, destacando o risco de confiar em métricas tradicionais e a necessidade de repensar a avaliação de modelos de código."
+}

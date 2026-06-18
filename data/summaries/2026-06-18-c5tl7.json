@@ -1,0 +1,15 @@
+{
+  "tldr": "Pesquisadores lançam o EComAgentBench, um benchmark que expõe a fragilidade dos agentes de compra baseados em LLMs ao testar sua capacidade de lidar com intenções ocultas e tarefas de longo horizonte, revelando uma lacuna crítica entre demonstrações controladas e o comportamento real de compradores.",
+  "key_facts": [
+    "O EComAgentBench é um novo benchmark para avaliar agentes de compra baseados em LLMs em tarefas de múltiplas etapas com intenções distribuídas em três camadas: explícita, perfil do usuário e oculta revelável.",
+    "Benchmarks tradicionais expõem todas as intenções de uma vez, enquanto o EComAgentBench simula cenários reais onde o agente precisa descobrir o que o usuário realmente quer durante a interação.",
+    "O estudo ataca a assimetria entre como LLMs são treinados (instruções claras) e como compradores reais se comportam (intenções implícitas e parciais)."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, a notícia importa porque expõe que a corrida do mercado de e-commerce por agentes de compra automatizados pode estar gerando soluções que falham em produção, custando bilhões em frustração do usuário e baixa conversão. Startups que resolverem o problema da 'intenção oculta' terão vantagem competitiva real.",
+  "watch_next": [
+    "Empresas como Shopify, Amazon e Mercado Livre podem adotar o EComAgentBench como novo padrão de teste para seus agentes de compra.",
+    "Surgimento de startups focadas em resolver o problema de intenção oculta em agentes de IA para e-commerce.",
+    "Possível evolução dos LLMs para melhor manter contexto em tarefas de longo horizonte com objetivos implícitos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao ir além do anúncio de um novo benchmark, conectando-o diretamente a um gargalo de mercado bilionário e oferecendo uma análise profunda sobre a assimetria entre treinamento de LLMs e comportamento real de compradores, com implicações claras para desenvolvedores, gestores de produto e investidores."
+}

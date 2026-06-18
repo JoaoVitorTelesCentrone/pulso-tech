@@ -1,0 +1,53 @@
+{
+  "title": "TRIDENT: O Algoritmo que Quebra o Acoplamento Mortal entre Segurança e Física em Sistemas Multi-Agente",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "TRIDENT: A Revolução Silenciosa na Coordenação Segura de Sistemas Físicos Multi-Agente",
+      "subtext": "O algoritmo que quebra o acoplamento mortal entre segurança e física — e pode desbloquear um mercado de US$ 50 bilhões.",
+      "image_prompt": "A futuristic digital network of autonomous drones and robots coordinating in a dark, high-tech environment, with glowing blue and orange lines connecting them, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O campo de Multi-Agent Reinforcement Learning (MARL) para sistemas físicos sempre teve um problema de credibilidade: os melhores resultados acontecem em simulação, onde colisões são apenas pixels resetados. No mundo real, cada 'tentativa e erro' custa hardware, vidas ou capital — criando um abismo entre a pesquisa acadêmica e a aplicação industrial.",
+      "highlight": "US$ 50 bilhões em mercado potencial travado pelo custo de falha no treinamento"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o paper 'TRIDENT: Breaking the Hybrid-Safety-Physics Coupling for Provably Safe Multi-Agent Reinforcement Learning'. O algoritmo ataca o problema central: o acoplamento indissolúvel entre ações híbridas, restrições rígidas de segurança e dinâmicas físicas. TRIDENT quebra esse acoplamento com uma arquitetura matemática inovadora que garante segurança provada formalmente durante todo o treinamento.",
+      "visual_hint": "Ícone de três pontas de um tridente se conectando a engrenagens, escudos e ondas físicas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se a promessa de segurança provada se mantiver em implementações reais, o impacto econômico é imediato: redução drástica no tempo de validação e certificação de sistemas autônomos, possibilidade de treinar agentes diretamente em ambientes reais sem simulação, e aceleração de ciclos de P&D em robótica colaborativa, veículos autônomos nível 4/5 e drones de infraestrutura.",
+      "visual_hint": "Gráfico de curva exponencial mostrando redução de custos de treinamento ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: mercado potencial desbloqueado por treinamento seguro",
+        "3 características anulavam-se mutuamente: ações híbridas, segurança rígida, dinâmica física",
+        "1 arquitetura matemática inovadora: TRIDENT quebra o acoplamento com segurança formalmente provada"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas de robótica poderão treinar agentes diretamente em ambientes reais, sem simulação",
+        "Redução drástica no tempo de validação e certificação de sistemas autônomos",
+        "Aceleração de ciclos de P&D em robótica colaborativa, veículos autônomos nível 4/5 e drones"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "TRIDENT não é apenas mais um algoritmo — é a chave para destravar a próxima geração de sistemas multi-agente seguros e reais."
+    }
+  ]
+}

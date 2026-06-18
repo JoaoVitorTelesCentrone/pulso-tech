@@ -1,0 +1,53 @@
+{
+  "title": "O Pensamento Contínuo em Áudio: Como o Novo Framework da Microsoft Pode Redefinir a Economia dos Assistentes de Voz e da Interação Humano-Robô",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IA que pensa em áudio: o fim da tradução para texto",
+      "subtext": "Microsoft revela framework que elimina o gargalo dos assistentes de voz — e robôs que leem emoções humanas em tempo real.",
+      "image_prompt": "Futuristic digital brain made of sound waves and audio waveforms, glowing blue on dark background, abstract technology concept"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Dois papers publicados hoje (18/06/2026) no arXiv e no IEEE Spectrum apontam para a mesma direção: a próxima fronteira da IA não está em gerar texto mais rápido, mas em processar estímulos não-verbais com profundidade inédita. O primeiro, da Microsoft, propõe o 'Continuous Audio Thinking'; o segundo treina robôs a ler emoções humanas.",
+      "highlight": "Assistentes de voz atuais perdem informação e adicionam latência ao converter áudio em texto e vice-versa."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O novo framework da Microsoft permite que a IA 'pense' diretamente no domínio do áudio, preservando nuances como tom de voz, pausas, ritmo e emoção. Em paralelo, robôs equipados com modelos de linguagem visual (VLMs) aprendem a interpretar expressões faciais e linguagem corporal em tempo real, ajustando seu comportamento ao estado emocional humano.",
+      "visual_hint": "Ícone de onda sonora contínua vs. pipeline quebrado de texto, com setas indicando eliminação de etapas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A economia da IA de áudio está prestes a explodir. Eliminar a dependência do texto como intermediário reduz latência, preserva informação emocional e abre caminho para assistentes com resposta emocional real. Para robôs colaborativos, a capacidade de ler emoções humanas endereça o maior obstáculo à adoção: a sensação de insegurança.",
+      "visual_hint": "Gráfico de crescimento exponencial com ícone de call center e robô colaborativo ao lado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 400 bilhões: mercado global de atendimento ao cliente que pode ser redefinido por assistentes com detecção emocional",
+        "3 estágios eliminados: pipeline atual (áudio → texto → LLM → texto → áudio) reduzido para raciocínio direto em áudio",
+        "2 papers publicados hoje: um no arXiv (Microsoft) e um no IEEE Spectrum (robôs que leem emoções)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Assistentes de voz com resposta emocional real em call centers, saúde e educação",
+        "Robôs colaborativos que recuam ou desaceleram ao perceber desconforto humano",
+        "Novos mercados de acessibilidade para pessoas com deficiência visual ou motora, com interfaces puramente auditivas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O áudio é a nova fronteira da IA — e a Microsoft acaba de abrir a porta."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "LongWebBench: O Novo Padrão Que Vai Expor Quem Realmente Sabe Gerar Webpages com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "LongWebBench: O Fim dos Truques na Geração de Webpages por IA",
+      "subtext": "Um novo benchmark expõe quem realmente entrega páginas completas — e quem só faz demonstração.",
+      "image_prompt": "A futuristic digital landscape with glowing web page fragments floating in a dark void, connected by thin lines of light, symbolizing AI generation and long-horizon structure."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram o LongWebBench, um benchmark que testa VLMs na geração de páginas web longas e interativas. Diferente de testes anteriores, ele avalia consistência estrutural, funcionalidade cross-seção e responsividade em múltiplas viewports.",
+      "highlight": "Benchmarks antigos testavam snippets. LongWebBench testa páginas reais."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "VLMs como GPT-4V e Claude 3 geram HTML/CSS impressionantes em telas únicas, mas falham quando a página exige rolagem, múltiplas seções e interatividade. O LongWebBench quantifica essa lacuna: quedas de 40% a 60% após 3 viewports.",
+      "visual_hint": "Ícone de página web com setas de rolagem e um gráfico de linha descendente"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como Wix, Shopify e Webflow apostam em geração automatizada para reduzir custos de produção em até 70%. Mas confiar em VLMs hoje é uma aposta de alto risco — o mercado está vendendo uma solução que ainda não existe para páginas completas.",
+      "visual_hint": "Ícone de cifrão com um ponto de interrogação ao lado, sobre um fundo de código"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de geração web assistida por IA: US$ 4,2 bi em 2025, projeção de US$ 12,8 bi até 2030",
+        "Geração de páginas completas representa 35% desse valor (US$ 1,5 bi a US$ 4,5 bi)",
+        "VLMs perdem 40% a 60% de desempenho em páginas com mais de 3 viewports"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas terão que provar geração real, não apenas templates pré-definidos",
+        "Pesquisa em atenção de longo alcance se torna prioridade para VLMs",
+        "Desenvolvedores devem evitar VLMs para produção de páginas completas no curto prazo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O LongWebBench é o divisor de águas. Quem vai conseguir gerar páginas completas de verdade?"
+    }
+  ]
+}

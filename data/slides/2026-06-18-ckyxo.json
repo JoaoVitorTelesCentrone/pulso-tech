@@ -1,0 +1,53 @@
+{
+  "title": "O Dilema Silencioso da Medicina: Como os LLMs Estão Falhando em Preservar a Incerteza Diagnóstica e Por Que Isso Pode Custar Bilhões ao Setor de Saúde",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Dilema Silencioso da Medicina",
+      "subtext": "LLMs estão transformando 'possível' em 'definitivo' — e isso pode custar bilhões ao setor de saúde",
+      "image_prompt": "A futuristic hospital room with a glowing AI interface showing medical text, but with a subtle crack or distortion in the screen, symbolizing hidden errors in diagnostic uncertainty"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Hospitais nos EUA e Europa já usam LLMs para resumir prontuários e auxiliar diagnósticos. Mas um novo benchmark revela que esses modelos falham em preservar a incerteza clínica — transformando 'suspeita de neoplasia' em 'neoplasia confirmada'.",
+      "highlight": "Mercado global de IA em saúde deve ultrapassar US$ 200 bilhões até 2030"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Possible or Definite?' expõe um viés estrutural: LLMs tendem a 'resolver' a incerteza, convertendo linguagem probabilística em afirmações categóricas. Em tarefas de sumarização, 'sintomas sugestivos de apendicite' viram 'o paciente tem apendicite'.",
+      "visual_hint": "Ícone de balança desequilibrada entre 'possível' e 'definitivo'"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A diferença entre 'possível pneumonia' e 'pneumonia' guia decisões de tratamento, exames e segurança do paciente. Um erro de gradação pode gerar ansiedade desnecessária, procedimentos invasivos injustificados e passivos legais milionários.",
+      "visual_hint": "Ilustração de um paciente com múltiplos caminhos de tratamento, alguns errados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "LLMs falham consistentemente em preservar marcadores de incerteza como 'possível', 'provável' e 'sugestivo de'",
+        "Modelos de última geração (GPT, Claude, open-source) apresentam 'certainty bias' em tarefas de sumarização e revisão",
+        "Erro pode impactar milhões de diagnósticos automatizados em hospitais que já adotam a tecnologia"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Reguladores devem exigir validação de incerteza em sistemas de IA clínica",
+        "Hospitais precisarão de auditoria contínua dos resumos gerados por LLMs",
+        "Desenvolvedores terão que treinar modelos para entender contexto probabilístico"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A incerteza não é um bug — é um recurso. E a IA ainda não aprendeu a usá-lo."
+    }
+  ]
+}
