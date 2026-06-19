@@ -1,0 +1,53 @@
+{
+  "title": "A Nova Fronteira da Colaboração Humano-IA: O Paper do arXiv que Pode Redefinir a Economia dos Agentes Compartilhados",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Nova Fronteira da Colaboração Humano-IA",
+      "subtext": "O paper do arXiv que pode redefinir a economia dos agentes compartilhados",
+      "image_prompt": "A futuristic digital workspace where a human hand and a robotic hand are reaching toward each other to touch fingertips, surrounded by glowing data streams and neural network patterns, dark blue and purple color palette, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em agentes autônomos que 'fazem tudo sozinhos', a realidade operacional em empresas, hospitais e laboratórios é muito mais complexa. Um novo estudo do arXiv expõe o gargalo mais valioso: a coordenação entre humanos e máquinas em espaços de trabalho compartilhados.",
+      "highlight": "O custo da coordenação é o novo gargalo da economia dos agentes de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Searching for Synergy in Shared Workspace Human-AI Collaboration' (arXiv: 2606.18413) propõe um modelo de espaço de trabalho compartilhado, onde agentes de IA e humanos precisam coordenar responsabilidades em tempo real. Em vez de substituição total, o foco é na sinergia dinâmica entre as partes.",
+      "visual_hint": "Ícone de dois círculos se sobrepondo parcialmente, com setas de sincronização entre eles"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A maioria das tarefas de alto valor ainda exige julgamento humano e expertise contextual que a IA não replica. Empresas que implantam agentes em larga escala esbarram no problema de coordenação: quem faz o quê? Como evitar retrabalho? O estudo propõe métricas como eficiência de transferência de tarefas e coeficiente de sinergia para medir o ROI da colaboração.",
+      "visual_hint": "Gráfico de barras comparando 'Automação pura' vs 'Colaboração humano-IA' com a segunda mostrando maior valor entregue"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA deve ultrapassar US$ 50 bilhões até 2028",
+        "Mais de 70% das empresas relatam gargalos de coordenação humano-agente",
+        "Tarefas com supervisão humana têm 40% menos erros críticos que automação total"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "ROI de agentes será medido por sinergia, não por automação pura",
+        "Startups que projetam agentes para colaboração terão vantagem competitiva",
+        "Arquiteturas de agentes precisarão incorporar awareness do contexto humano"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A sinergia não se encontra — ela se constrói."
+    }
+  ]
+}

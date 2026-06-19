@@ -1,0 +1,15 @@
+{
+  "tldr": "O novo benchmark CEO-Bench expõe a fragilidade dos LLMs em tarefas de planejamento estratégico de longo prazo, desafiando a promessa de agentes autônomos corporativos e criando um novo critério de valuation para startups de IA.",
+  "key_facts": [
+    "Paper CEO-Bench (arXiv:2606.18543) foi publicado em 18/06/2026.",
+    "Benchmark testa agentes em cenários que exigem planejamento estratégico, memória de longo prazo e tomada de decisão sequencial.",
+    "LLMs atuais falham em manter coerência estratégica ao longo de múltiplas etapas, um gargalo crítico para aplicações corporativas.",
+    "Métrica principal do benchmark é eficiência na condução do 'jogo longo', não acurácia em tarefas isoladas."
+  ],
+  "why_it_matters": "A notícia importa porque expõe um risco econômico direto para empresas que investem milhões em agentes de IA para automação de processos complexos, ao mesmo tempo que oferece um novo vocabulário técnico para avaliar fornecedores e redefinir valuations de startups de agentes.",
+  "watch_next": [
+    "Startups de agentes de IA podem ter seus valuations reavaliados com base no desempenho no CEO-Bench.",
+    "Pesquisas em IA devem focar em resiliência temporal e planejamento estratégico como próximo salto tecnológico."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um benchmark acadêmico diretamente com implicações de mercado e investimento, transformando um problema técnico (incapacidade de manter coerência estratégica) em um critério prático de valuation e risco corporativo."
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo paper do arXiv prova matematicamente que agentes de IA generalistas exigem memória infinita para serem ótimos, expondo um gargalo teórico que inviabiliza a promessa de um único modelo universal para automação corporativa.",
+  "key_facts": [
+    "Paper 'What Must Generalist Agents Remember?' (arXiv:2606.18746) demonstra que agentes 'faz-tudo' precisam de memória que escala com a diversidade de tarefas, não com a eficiência do modelo.",
+    "O gargalo surge de 'bottlenecks observacionais': inputs idênticos exigem ações diferentes dependendo do contexto, forçando o agente a armazenar informações específicas de cada tarefa.",
+    "A conclusão é que não existe atalho universal para agentes generalistas — a capacidade de memória necessária cresce matematicamente com a variedade de domínios."
+  ],
+  "why_it_matters": "A notícia atinge o ponto cego mais caro da indústria: a visão de agentes universais vendida por OpenAI, Anthropic, Google e Microsoft. O paper mostra que essa abordagem tem um limite teórico de memória, o que pode explodir custos de infraestrutura e dar vantagem competitiva a empresas focadas em agentes especializados.",
+  "watch_next": [
+    "Reações das big techs (OpenAI, Google) e possíveis ajustes em suas estratégias de agentes generalistas.",
+    "Movimento de startups de automação corporativa para se posicionarem como 'especialistas' vs 'generalistas' com base nesse fundamento teórico.",
+    "Novos papers ou debates no arXiv que explorem soluções de compromisso entre memória e generalização."
+  ],
+  "editorial_angle": "O artigo se diferencia por traduzir um resultado matemático árido (teoria da informação e decisões sequenciais) em um alerta prático e econômico para gestores e investidores, conectando diretamente o gargalo teórico ao custo real de infraestrutura e à viabilidade de mercado dos agentes de IA."
+}

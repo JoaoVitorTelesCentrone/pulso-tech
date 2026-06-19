@@ -1,0 +1,53 @@
+{
+  "title": "A Loteria Geológica da IA: Como a Incerteza na Produção de Lítio Pode se Tornar o Gargalo Oculto de US$ 1 Trilhão na Economia dos Chips",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Loteria Geológica da IA",
+      "subtext": "O gargalo oculto de US$ 1 trilhão que ninguém está monitorando",
+      "image_prompt": "Futuristic data center with glowing server racks, lithium mine tunnels underneath, digital grid lines connecting both, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em Nvidia e TSMC, um problema silencioso fermenta no subsolo. A produção de lítio — mineral crítico para baterias de data centers e veículos — está presa em um dilema de decisão que nem a IA mais avançada resolve sozinha.",
+      "highlight": "US$ 1 trilhão em risco na cadeia de suprimentos da IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe usar um Processo de Decisão de Markov Parcialmente Observável (POMDP) para decidir quando e quais minas de lítio abrir. O problema: a geologia é incerta, o preço do lítio variou de US$ 7.000/t a US$ 80.000/t nos últimos 5 anos, e a demanda futura por IA é uma aposta.",
+      "visual_hint": "Ícone de mina com ponto de interrogação sobreposto, engrenagens e gráfico de volatilidade"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Data centers modernos dependem de armazenamento em baterias em escala de megawatts para gerenciar picos de demanda e integrar fontes renováveis. Sem lítio, não há baterias. Sem baterias, não há data centers verdes. Sem data centers, não há inferência de IA a baixo custo. O lítio é o ponto cego da economia dos chips.",
+      "visual_hint": "Cadeia de suprimentos quebrada: chip → data center → bateria → lítio → mina (com elo faltando)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Preço do lítio variou de US$ 7.000/t a US$ 80.000/t nos últimos 5 anos",
+        "Incerteza geológica: você só sabe o teor exato de lítio depois de minerar",
+        "Demanda futura por IA e veículos elétricos é uma aposta de 5 a 10 anos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Se a produção de lítio não escalar no ritmo da demanda por IA, o custo das baterias dispara",
+        "O custo da energia para data centers sobe, deteriorando o ROI de novos clusters de GPU",
+        "Investidores de tech e venture capital precisam monitorar o risco de cadeia de suprimentos de lítio"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O subsolo pode definir o futuro da inteligência artificial — e ninguém está olhando para baixo."
+    }
+  ]
+}

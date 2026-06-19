@@ -1,0 +1,53 @@
+{
+  "title": "O Dilema da Memória Universal: Por Que o Novo Paper do arXiv Expõe o Gargalo Oculto dos Agentes Generalistas de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Dilema da Memória Universal",
+      "subtext": "Por que agentes de IA 'faz-tudo' precisam de memória infinita — e o que isso significa para o futuro da automação",
+      "image_prompt": "A futuristic AI brain with infinite memory circuits glowing in neon blue, surrounded by fragmented data streams, dark tech background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper no arXiv (2606.18746) prova matematicamente que agentes de IA generalistas exigem memória infinita para agir de forma quase ótima. A promessa de um único modelo universal para todas as tarefas corporativas esbarra em um limite teórico intransponível.",
+      "highlight": "arXiv:2606.18746 — 'What Must Generalist Agents Remember?'"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Quando dois domínios compartilham inputs visuais ou sensoriais semelhantes, mas exigem ações diferentes, o agente precisa armazenar informações específicas de cada contexto. Não existe atalho universal: a memória escala com a diversidade de tarefas, não com a eficiência do modelo.",
+      "visual_hint": "Ícone de dois caminhos divergindo a partir de um mesmo ponto de entrada visual"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como OpenAI, Anthropic, Google e Microsoft vendem a visão de 'agentes universais' que gerenciam e-mails, código, planilhas e CRM com um único cérebro. O paper mostra que essa conta de infraestrutura pode explodir — e que agentes especializados podem ter vantagem competitiva real.",
+      "visual_hint": "Gráfico de barras mostrando custo de memória crescendo exponencialmente com o número de tarefas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Memória necessária escala com a diversidade de tarefas, não com o tamanho do modelo",
+        "Custo de armazenamento e recuperação de contexto cresce sem limite teórico",
+        "Agentes especializados podem ter vantagem competitiva baseada em fundamentos matemáticos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas que apostam em agentes especializados ganham vantagem competitiva real",
+        "Infraestrutura para agentes 'generalistas' pode custar muito mais do que o esperado",
+        "Investidores devem reavaliar startups que prometem o 'canivete suíço' da IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo oculto da memória universal está redefinindo o mercado de automação corporativa. Não fique para trás."
+    }
+  ]
+}

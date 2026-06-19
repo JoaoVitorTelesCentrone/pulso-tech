@@ -1,0 +1,53 @@
+{
+  "title": "O Abismo Lógico dos LLMs: Por Que o DeFAb Benchmark Expõe uma Fragilidade de US$ 1 Trilhão na Inferência de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Abismo Lógico dos LLMs",
+      "subtext": "Benchmark DeFAb expõe uma fragilidade de US$ 1 trilhão na inferência de IA",
+      "image_prompt": "A futuristic digital abyss with glowing logic gates collapsing into a dark void, surrounded by floating dollar signs and neural network fragments, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram o DeFAb, um benchmark de raciocínio abdutivo derrotável. Um resolvedor lógico simples atinge 100% de acurácia em 50 microssegundos. O melhor LLM de fronteira? Apenas 65% — e cai para 23,5% sob avaliação robusta.",
+      "highlight": "50 µs vs. 65%: a diferença entre certeza e fragilidade"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O DeFAb testa abdução derrotável — o raciocínio usado por médicos, advogados e engenheiros. LLMs falham miseravelmente quando a superfície textual muda, mesmo com a lógica idêntica. É como um médico que erra o diagnóstico se o paciente reordenar os sintomas.",
+      "visual_hint": "Ícone de cérebro partido ao meio, com engrenagens lógicas de um lado e névoa do outro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas estão apostando bilhões em agentes de IA para diagnóstico médico, análise jurídica e decisão corporativa. Se a acurácia cai de 65% para 23,5% só com a redação da pergunta, o que acontece em cenários reais, onde a formulação varia infinitamente?",
+      "visual_hint": "Gráfico de linha caindo em queda livre, com ícones de dinheiro e estetoscópio ao fundo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Resolvedor lógico: 100% de acurácia em 50 microssegundos",
+        "Melhor LLM: 65% de acerto — e 23,5% no pior caso robusto",
+        "Custo de inferência: LLMs custam ordens de magnitude mais que a solução simples"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mercado de agentes de IA para decisão crítica precisa repensar confiabilidade",
+        "Soluções híbridas (regras + LLMs) podem ser o novo padrão",
+        "Investidores devem questionar o valor real da inferência 'inteligente'"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O abismo lógico é real — e o custo da ignorância é de US$ 1 trilhão"
+    }
+  ]
+}

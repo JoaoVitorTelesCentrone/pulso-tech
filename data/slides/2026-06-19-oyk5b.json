@@ -1,0 +1,53 @@
+{
+  "title": "CEO-Bench: O Teste de Fogo que Vai Separar Agentes de IA de Brinquedos de Ferramentas Corporativas",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "CEO-Bench: O Teste de Fogo que Vai Separar Agentes de IA de Brinquedos de Ferramentas Corporativas",
+      "subtext": "Agentes de IA falham no jogo longo — e isso pode custar bilhões às empresas",
+      "image_prompt": "A futuristic boardroom with a holographic AI CEO figure, glowing data streams, and a countdown timer, dark tech aesthetic, cinematic lighting, 4k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O arXiv publicou o paper 'CEO-Bench: Can Agents Play the Long Game?', propondo um benchmark que testa agentes de IA em cenários de planejamento estratégico, memória de longo prazo e decisões sequenciais — não em tarefas curtas e isoladas.",
+      "highlight": "LLMs já dominam sprints de 15 minutos. O mundo real não funciona assim."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O CEO-Bench simula ambientes corporativos complexos onde o agente precisa gerenciar recursos, priorizar tarefas concorrentes e ajustar estratégias com feedback tardio — exatamente o que um CEO faz. O resultado expõe a fragilidade dos LLMs em manter coerência ao longo de múltiplas etapas.",
+      "visual_hint": "Ícone de tabuleiro de xadrez com peças representando decisões encadeadas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Startups e empresas estão investindo milhões em agentes autônomos para automação de processos complexos. Se esses agentes não passam no teste do 'jogo longo', o risco econômico é direto: promessas não sustentadas, valuation inflado e falhas operacionais.",
+      "visual_hint": "Gráfico de linha mostrando investimento crescente em agentes de IA versus desempenho decrescente em tarefas longas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "CEO-Bench testa agentes em múltiplos turnos de decisão, não em tarefas isoladas",
+        "Recompensas podem levar até 15 turnos para aparecer — testando paciência estratégica",
+        "Métrica principal: eficiência na conclusão de objetivos de longo prazo, não acurácia"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novo critério de valuation para startups de agentes: quem passa no CEO-Bench vale mais",
+        "Pesquisa em IA foca em resiliência temporal e planejamento estratégico, não só raciocínio",
+        "Empresas passam a exigir benchmarks de longo prazo antes de contratar agentes corporativos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo salto da IA não será em velocidade — será em resistência."
+    }
+  ]
+}

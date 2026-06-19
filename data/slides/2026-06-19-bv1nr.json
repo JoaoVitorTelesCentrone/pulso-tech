@@ -1,0 +1,53 @@
+{
+  "title": "ForecastBench-Sim: O Simulador de Futuros que Pode Redefinir o Mercado de Previsão de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Futuro Agora se Testa em Simulação",
+      "subtext": "Como um novo benchmark baseado em mundos simulados está resolvendo o gargalo de dados raros e criando um novo padrão de avaliação para sistemas de previsão de IA",
+      "image_prompt": "A futuristic digital landscape with glowing data streams and a central globe made of code, representing simulated worlds and AI forecasting, dark blue and neon cyan tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram no arXiv o ForecastBench-Sim, um benchmark de previsão baseado em mundos simulados. O problema que ele ataca é estrutural: benchmarks de previsão para sistemas de IA de propósito geral herdaram as limitações do mundo real — resultados que demoram para se resolver, eventos de cauda raros e perguntas contrafactuais que são difíceis de pontuar.",
+      "highlight": "Eventos de cauda podem ser gerados sob demanda"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O ForecastBench-Sim cria ambientes simulados onde os resultados se resolvem rapidamente, eliminando o atraso temporal de semanas ou meses. Ele permite testar sistemas de IA em cenários extremos que seriam estatisticamente improváveis no mundo real e pontuar perguntas contrafactuais com precisão, 'rebobinando' o simulador.",
+      "visual_hint": "Ícone de um relógio acelerado ou um loop temporal digital"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se não conseguimos avaliar adequadamente a capacidade de previsão de sistemas de IA, não podemos confiar neles para decisões de alto impacto — desde previsões econômicas até planejamento logístico e estratégia de mercado. O ForecastBench-Sim força o sistema a demonstrar compreensão causal, não apenas correlações espúrias.",
+      "visual_hint": "Ícone de um cérebro ou engrenagens conectadas a um gráfico de previsão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de previsão e forecasting movimenta dezenas de bilhões de dólares anualmente",
+        "Polymarket processou bilhões em eleições",
+        "Erro de previsão de demanda de 5% pode custar US$ 50 milhões para uma empresa de varejo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Criação de um campo de provas rigoroso para separar sistemas que entendem padrões dos que decoram correlações",
+        "Aceleração da confiança em IA para decisões de alto impacto em cadeias de suprimentos e economia",
+        "Novo padrão de avaliação que pode redefinir o mercado de previsão de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da previsão está sendo simulado agora — e você pode entender como."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo paper do arXiv propõe um modelo de espaço de trabalho compartilhado para colaboração humano-IA, desafiando a corrida por agentes autônomos e destacando o custo de coordenação como o verdadeiro gargalo econômico.",
+  "key_facts": [
+    "Paper publicado no arXiv (ID: 2606.18413) em 18 de junho de 2026, intitulado 'Searching for Synergy in Shared Workspace Human-AI Collaboration'.",
+    "O estudo foca em tarefas que exigem julgamento humano e expertise contextual, propondo um modelo de espaço de trabalho compartilhado com coordenação em tempo real.",
+    "O artigo critica a ênfase do mercado em autonomia total, apontando que a maioria das tarefas de alto valor ainda requer supervisão e intuição humana."
+  ],
+  "why_it_matters": "A notícia importa porque redefine a métrica de ROI da implantação de agentes de IA: de 'quantas tarefas automatizou?' para 'quanto a colaboração humano-agente melhorou a qualidade e velocidade?'. Isso impacta diretamente o valuation de startups de agentes e a estratégia de empresas que implantam IA em larga escala.",
+  "watch_next": [
+    "Publicação de papers complementares ou datasets que quantifiquem o 'synergy coefficient' e a 'task handoff efficiency'.",
+    "Movimento de grandes players (Anthropic, OpenAI) para redesenhar agentes com foco em colaboração, não apenas autonomia.",
+    "Surgimento de startups especializadas em middleware de coordenação humano-agente para ambientes corporativos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao ir contra o hype dominante de agentes autônomos, expondo um gargalo operacional e econômico real que a indústria ignora. A escolha editorial se justifica por oferecer uma perspectiva crítica e de alto valor estratégico para leitores que tomam decisões de investimento e implantação em IA."
+}

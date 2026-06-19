@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo paper propõe o uso de POMDP para otimizar decisões de abertura de minas de lítio sob incerteza geológica, de demanda e de preços, expondo um gargalo oculto de US$ 1 trilhão na cadeia de suprimentos da IA.",
+  "key_facts": [
+    "Paper do arXiv (18/06/2026) usa POMDP para modelar decisões de abertura de minas de lítio sob incerteza profunda.",
+    "Preço do lítio variou de US$ 7.000/t a US$ 80.000/t nos últimos 5 anos, com demanda futura por IA e VEs incerta.",
+    "Data centers dependem de baterias de lítio para armazenamento de energia renovável e gerenciamento de picos de demanda."
+  ],
+  "why_it_matters": "A economia da IA depende de energia barata e abundante, que por sua vez depende de lítio para baterias. Se a produção de lítio não escalar, o custo de data centers dispara, comprometendo o ROI de clusters de GPU e a viabilidade de inferência de IA a baixo custo.",
+  "watch_next": [
+    "Empresas de mineração e tech podem adotar o framework POMDP para decisões de investimento em lítio.",
+    "Aumento da pressão sobre governos para mapeamento geológico e subsídios à exploração de lítio.",
+    "Possível movimento de grandes techs (Tesla, Nvidia) para verticalizar a cadeia de lítio, similar ao que fizeram com chips."
+  ],
+  "editorial_angle": "O artigo conecta um paper de pesquisa operacional de nicho diretamente ao risco econômico da cadeia de suprimentos de IA, revelando um ponto cego ignorado pelo mercado (foco em chips e energia, mas não no mineral crítico para armazenamento)."
+}

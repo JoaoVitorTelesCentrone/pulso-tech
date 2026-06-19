@@ -1,0 +1,14 @@
+{
+  "tldr": "Pesquisadores lançaram o ForecastBench-Sim, um benchmark que usa mundos simulados para testar a capacidade de previsão de IA, resolvendo gargalos de dados raros e atrasos temporais do mundo real.",
+  "key_facts": [
+    "O ForecastBench-Sim cria ambientes simulados onde resultados se resolvem rapidamente, eliminando atrasos de semanas ou meses.",
+    "Eventos de cauda podem ser gerados sob demanda, permitindo testar IA em cenários extremos improváveis no mundo real.",
+    "O sistema permite perguntas contrafactuais pontuáveis, testando compreensão causal em vez de correlações espúrias."
+  ],
+  "why_it_matters": "O mercado de previsão movimenta dezenas de bilhões de dólares anualmente, e a falta de benchmarks confiáveis limita o uso de IA em decisões de alto impacto, como cadeias de suprimentos e estratégia de mercado.",
+  "watch_next": [
+    "Adoção do ForecastBench-Sim por grandes players como Polymarket e corporações de logística.",
+    "Possível corrida entre laboratórios de IA para criar modelos que se destaquem nesse novo benchmark."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico (benchmark simulado) a um problema econômico concreto (custos de erros de previsão), mostrando como a inovação pode destravar um mercado de centenas de bilhões."
+}

@@ -1,0 +1,14 @@
+{
+  "tldr": "Pesquisadores demonstraram em órbita o primeiro satélite com um modelo de visão-linguagem zero-shot, capaz de identificar e priorizar eventos de interesse autonomamente, resolvendo o gargalo de downlink na observação da Terra.",
+  "key_facts": [
+    "O paper NAVI-Orbital (arXiv:2606.18271) descreve a primeira demonstração em órbita de um VLM zero-shot para observação autônoma da Terra.",
+    "O sistema foi implantado em um CubeSat e opera sem fine-tuning para a missão específica, identificando desastres, embarcações e mudanças agrícolas.",
+    "O satélite decide autonomamente quais imagens priorizar para transmissão, reduzindo o tempo entre coleta e ação de dias para minutos."
+  ],
+  "why_it_matters": "Esta notícia importa porque demonstra uma virada na economia da observação da Terra: ao processar dados no espaço com IA zero-shot, o satélite se torna um agente inteligente que filtra o relevante em tempo real, acelerando respostas a desastres, otimizando operações de defesa e inteligência, e potencialmente desbloqueando um mercado de US$ 5 bilhões que cresce a dois dígitos ao ano.",
+  "watch_next": [
+    "Adoção da tecnologia por agências de defesa e inteligência para reconhecimento autônomo, reacendendo debates éticos sobre controle humano.",
+    "Expansão do conceito para constelações de satélites, criando uma rede distribuída de sensores inteligentes que se comunicam entre si."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um avanço técnico de ponta (VLM zero-shot em órbita) a um gargalo econômico real da indústria espacial, mostrando como a IA pode redefinir a arquitetura de sistemas de observação da Terra, com implicações diretas para defesa, resposta a desastres e mercados bilionários."
+}
