@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe framework 'Deontic Policies' para governança em tempo real de agentes de IA, visando resolver o gargalo de confiança e compliance que pode travar a adoção empresarial e criar um mercado de US$ 50 bilhões.",
+  "key_facts": [
+    "Paper arXiv (ID: 2606.19464) intitulado 'Deontic Policies for Runtime Governance of Agentic AI Systems' propõe governança em tempo real para agentes autônomos.",
+    "Framework usa lógica deôntica (permissões, obrigações, proibições) para avaliar ações de agentes antes da execução, em três camadas: especificação de políticas, monitoramento em tempo real e mecanismos de exceção.",
+    "Mercado de agentes de IA deve crescer de US$ 5 bi (2025) para US$ 50 bi (2030), mas depende de soluções de confiança e compliance para tarefas sensíveis.",
+    "Empresas como BBVA, Oracle e Amazon já integram agentes em operações críticas, mas sem governança em tempo real cada ação carrega risco jurídico e operacional."
+  ],
+  "why_it_matters": "O artigo expõe o gargalo crítico para a escalabilidade dos agentes de IA: a falta de mecanismos de controle durante a execução. Para leitores de IA/Tech, isso sinaliza que o próximo campo de batalha não será a capacidade dos modelos, mas a governança e conformidade — abrindo oportunidades de mercado para quem resolver o problema de confiança em tempo real.",
+  "watch_next": [
+    "Possível surgimento de startups ou produtos comerciais baseados no framework 'Deontic Policies' para compliance de agentes.",
+    "Reação de reguladores (ex.: EU AI Act, SEC) ao paper, potencialmente influenciando novas exigências de governança em tempo real para sistemas autônomos.",
+    "Adoção do framework por grandes players (BBVA, Oracle, Amazon) como diferencial competitivo em operações sensíveis."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um paper acadêmico do arXiv diretamente a uma oportunidade de mercado de US$ 50 bilhões, tratando a governança de agentes não como um problema técnico secundário, mas como o principal entrave para a adoção empresarial em larga escala. A escolha editorial reflete o timing: enquanto a indústria celebra agentes autônomos, o artigo expõe o 'calcanhar de Aquiles' que pode frear o hype."
+}

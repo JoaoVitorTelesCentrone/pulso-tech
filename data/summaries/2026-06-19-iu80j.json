@@ -1,0 +1,14 @@
+{
+  "tldr": "Estudo do arXiv revela que debates entre múltiplos agentes de IA são contaminados por 'âncoras ocultas' — vieses de posição que favorecem a primeira resposta, gerando um falso consenso.",
+  "key_facts": [
+    "Paper 'Hidden Anchors in Multi-Agent LLM Deliberation' publicado no arXiv em 19/06/2026 (arXiv:2606.19494).",
+    "Agentes LLM em rodadas de deliberação tendem a convergir para variações da primeira resposta apresentada, independentemente da qualidade.",
+    "O viés de posição (anchoring bias) é um efeito emergente da dinâmica de grupo, não um bug individual dos modelos."
+  ],
+  "why_it_matters": "A indústria investe bilhões em sistemas multi-agente para compliance, diagnóstico médico e investimentos, mas este estudo sugere que a premissa de que debates corrigem erros pode estar fundamentalmente quebrada, gerando riscos de segurança em produtos já em produção.",
+  "watch_next": [
+    "Réplicas e contra-estudos de outros laboratórios (Google, OpenAI, Anthropic) para validar ou refutar os achados.",
+    "Desenvolvimento de técnicas de mitigação, como randomização da ordem de fala ou prompts anti-ancoragem."
+  ],
+  "editorial_angle": "O artigo expõe uma fragilidade oculta e contraintuitiva em sistemas multi-agente, conectando um fenômeno de psicologia cognitiva a um problema técnico emergente, com implicações práticas imediatas para produtos empresariais."
+}

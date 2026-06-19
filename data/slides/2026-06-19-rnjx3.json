@@ -1,0 +1,53 @@
+{
+  "title": "DeXposure-Claw: O Agente de IA que Pode Redefinir a Supervisão de Riscos no Mercado Cripto de US$ 2 Trilhões",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "DeXposure-Claw: O Agente de IA que Pode Redefinir a Supervisão de Riscos no Mercado Cripto de US$ 2 Trilhões",
+      "subtext": "Enquanto LLMs genéricos alucinam riscos, um novo sistema multiagente promete trazer racionalidade cirúrgica para a supervisão de crédito descentralizado.",
+      "image_prompt": "A futuristic, dark-tech control room with multiple holographic screens displaying blockchain networks, risk metrics, and AI agents collaborating, glowing blue and orange neon lights, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado DeFi já movimentou mais de US$ 2 trilhões em valor total bloqueado, mas opera em um ambiente de supervisão fragmentada. Reguladores como SEC, BCE e FMI lutam para criar frameworks de monitoramento em tempo real.",
+      "highlight": "Mercado DeFi de US$ 2 trilhões"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper propõe o DeXposure-Claw, uma arquitetura de agentes de IA especializados para supervisionar riscos de crédito interconectados em DeFi. Em vez de um único LLM, o sistema divide a supervisão em módulos: análise de exposição, detecção de correlações ocultas e simulação de contágio.",
+      "visual_hint": "Ícone de engrenagens interligadas com circuitos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "LLMs genéricos 'superleem' evidências fracas e recomendam intervenções catastróficas. O DeXposure-Claw prioriza evidência forte sobre inferência criativa, reduzindo drasticamente falsos positivos. Isso pode levar a supervisão de DeFi de auditorias trimestrais para monitoramento contínuo em tempo real.",
+      "visual_hint": "Gráfico de linha mostrando redução de falsos positivos"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 2 trilhões: valor total bloqueado no pico de 2024",
+        "US$ 50 bilhões: mercado global de compliance e supervisão financeira",
+        "US$ 5 bilhões: potencial novo nicho para sistemas como DeXposure-Claw"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Supervisão contínua e em tempo real substitui auditorias trimestrais manuais",
+        "Redução drástica de custos de compliance no setor DeFi",
+        "Criação de um novo mercado de US$ 5 bilhões para agentes de IA especializados"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da supervisão financeira não será escrito por humanos ou LLMs genéricos — será orquestrado por agentes especializados."
+    }
+  ]
+}

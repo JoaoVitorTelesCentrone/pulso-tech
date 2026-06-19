@@ -1,0 +1,53 @@
+{
+  "title": "A Governança em Tempo Real de Agentes de IA: O Paper do arXiv que Pode Criar um Mercado de Compliance de US$ 50 Bilhões",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Calcanhar de Aquiles dos Agentes de IA",
+      "subtext": "Como um paper do arXiv pode desbloquear um mercado de compliance de US$ 50 bilhões",
+      "image_prompt": "A futuristic digital brain with chains and locks representing control and governance, glowing blue and red neon lights, dark background, high tech"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA autônomos estão sendo integrados em operações críticas — transações financeiras, manipulação de dados, automação de infraestrutura. Mas a ausência de governança em tempo real ameaça travar a adoção empresarial.",
+      "highlight": "Mercado de agentes de IA projetado para crescer de US$ 5 bi (2025) para US$ 50 bi (2030)"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Deontic Policies for Runtime Governance of Agentic AI Systems' propõe um framework inédito para governar agentes de IA em tempo real, usando lógica de permissões, obrigações e proibições — antes de cada ação ser executada.",
+      "visual_hint": "Ícone de um escudo com um cérebro digital dentro, linhas de código ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem governança em tempo real, cada ação de um agente carrega risco jurídico e operacional. Empresas como BBVA, Oracle e Amazon já integram agentes, mas a confiança em escala só virá com controle e conformidade.",
+      "visual_hint": "Gráfico de adoção empresarial vs. risco regulatório, com uma linha de confiança crescendo após a implementação de políticas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: valor potencial do mercado de compliance para agentes de IA até 2030",
+        "3 camadas: especificação de políticas, monitoramento em tempo real e mecanismos de exceção",
+        "0 frameworks comerciais existentes para governança runtime de agentes autônomos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A próxima batalha da IA será sobre controle e conformidade, não capacidade dos modelos",
+        "Quem resolver a governança runtime primeiro capturará fatia significativa do valor dos agentes",
+        "Políticas deônticas podem se tornar commodity regulatória — um novo padrão de mercado"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é só inteligência — é confiança em tempo real."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "DeepSeek lança modelos MoE de até 1,6 trilhões de parâmetros com suporte nativo a 1 milhão de tokens e custo de inferência 30-50% menor, redefinindo a economia de contexto longo.",
+  "key_facts": [
+    "DeepSeek-V4-Pro tem 1,6T parâmetros totais (49B ativados por token) e DeepSeek-V4-Flash tem 284B (13B ativados).",
+    "Ambos os modelos suportam nativamente contexto de até 1 milhão de tokens.",
+    "Custo de inferência estimado em 30-50% menor por token em contexto longo comparado a modelos fechados líderes.",
+    "Arquitetura MoE de 3ª geração com roteamento hierárquico e especialização dinâmica reduz desperdício computacional em até 40%."
+  ],
+  "why_it_matters": "A DeepSeek ataca o principal gargalo da IA empresarial em 2026 — custo e latência em contextos longos —, tornando viável para setores como análise jurídica, código monolítico e finanças processarem documentos completos sem degradação ou preços premium.",
+  "watch_next": [
+    "Reação de provedores como OpenAI e Anthropic, que podem ser forçados a reduzir preços de contexto estendido.",
+    "Adoção empresarial do DeepSeek-V4 em aplicações de análise de documentos longos e assistentes de pesquisa."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não apenas no tamanho recorde do modelo, mas na engenharia de eficiência que torna o contexto longo economicamente viável, posicionando a DeepSeek como disruptora do mercado de inferência."
+}

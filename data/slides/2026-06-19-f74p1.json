@@ -1,0 +1,53 @@
+{
+  "title": "DeepSeek-V4: O Modelo de 1,6 Trilhões de Parâmetros que Redefine a Economia da Inferência de Contexto Longo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "DeepSeek-V4: 1,6 Trilhões de Parâmetros. Um Milhão de Tokens. Custo 50% Menor.",
+      "subtext": "O modelo que torna o contexto longo economicamente viável para empresas.",
+      "image_prompt": "Futuristic digital brain with glowing neural pathways, deep blue and neon orange colors, abstract technology background, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de IA foca em custo por token, mas o verdadeiro gargalo empresarial é o contexto longo. Modelos como GPT-5.5 e Claude 4 cobram preços premium por contexto estendido, limitando aplicações em análise jurídica, código monolítico e finanças.",
+      "highlight": "Contexto de 1 milhão de tokens era possível, mas não economicamente viável."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A DeepSeek lançou o V4-Pro (1,6T parâmetros totais, 49B ativados) e o V4-Flash (284B totais, 13B ativados). Ambos suportam nativamente 1 milhão de tokens com uma arquitetura MoE de 3ª geração que reduz o desperdício computacional em até 40%.",
+      "visual_hint": "Ícone de engrenagem com circuitos e setas de eficiência"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores de tecnologia, isso significa que a guerra de preços na inferência de LLMs está longe de acabar. A DeepSeek está tornando o contexto longo commodity, abrindo portas para análise de contratos inteiros, processamento de bases de código completas e assistentes de pesquisa acadêmica sem custos proibitivos.",
+      "visual_hint": "Gráfico de barras comparando custo por token entre modelos, com DeepSeek-V4 significativamente mais baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "1,6 trilhões de parâmetros totais (49B ativados por token)",
+        "Taxa de ativação de ~3% — eficiência 30x maior que modelos densos",
+        "Custo de inferência 30-50% menor por token em contexto longo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Análise jurídica: contratos de 500 páginas processados em segundos, não horas",
+        "Desenvolvimento de software: codebases monolíticos inteiros como contexto único",
+        "Finanças: relatórios anuais completos analisados sem chunking ou perda de informação"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é só maior — é mais inteligente e mais barato. DeepSeek-V4 é o começo."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo framework do arXiv quantifica o desalinhamento entre currículos de computação e as demandas da indústria de IA, revelando uma oportunidade de mercado de US$ 5 bilhões para EdTech corporativa focada em gap analysis e alinhamento curricular.",
+  "key_facts": [
+    "O framework compara as diretrizes ACM/IEEE CS2013 e CS2023, medindo cobertura tópica, competências e profundidade cognitiva.",
+    "Apenas 34% dos programas analisados cobrem mais de 70% dos tópicos de machine learning.",
+    "62% dos tópicos de IA são ensinados apenas no nível de 'compreensão', enquanto o mercado exige 'aplicação' ou 'análise'.",
+    "Tópicos como deployment de modelos, monitoramento de drift e segurança de agentes estão ausentes na maioria dos currículos."
+  ],
+  "why_it_matters": "O gap de talentos em IA não é de quantidade, mas de alinhamento: empresas gastam bilhões em modelos, mas não encontram engenheiros prontos para produção. A métrica proposta cria um mercado para auditoria curricular, produtos EdTech e oportunidades de investimento em um segmento estimado em US$ 5 bilhões.",
+  "watch_next": [
+    "Surgimento de startups de 'gap analysis' curricular para universidades e bootcamps.",
+    "Pressão de grandes empresas de tecnologia para que currículos de CS incorporem competências práticas de IA.",
+    "Possível consolidação de plataformas de ensino corporativo que ofereçam certificações alinhadas ao framework."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um paper acadêmico do arXiv diretamente a uma oportunidade de mercado quantificada, transformando um problema técnico de currículo em uma tese de investimento clara para EdTech corporativa, com dados concretos e um tom de 'arbitragem silenciosa'."
+}

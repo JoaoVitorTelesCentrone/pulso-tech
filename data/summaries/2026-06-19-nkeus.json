@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores apresentam o Causal Attribution Pruning (CAP), um método de poda de LLMs que remove cabeças de atenção com baixo impacto causal, reduzindo custos de inferência em até 30% sem degradar o raciocínio multi-etapas.",
+  "key_facts": [
+    "O CAP mede o impacto causal de cada cabeça de atenção no resultado final, em vez de usar peso ou gradiente.",
+    "O método não requer fine-tuning ou acesso a dados de treinamento, funcionando em modelos pré-treinados com uma única passagem de inferência.",
+    "É possível remover até 30% das cabeças de atenção sem perda significativa de desempenho em benchmarks como GSM8K, MATH e ARC.",
+    "A inferência representa entre 60% e 80% do custo total de operação de modelos em larga escala."
+  ],
+  "why_it_matters": "O CAP oferece uma solução prática e imediata para reduzir o custo de inferência de LLMs, um dos maiores gargalos financeiros para provedores de API e empresas que rodam modelos em produção, sem exigir hardware novo ou retreinamento caro.",
+  "watch_next": [
+    "Adoção do CAP por grandes provedores de API (OpenAI, Anthropic, Google) para reduzir custos operacionais.",
+    "Desenvolvimento de métodos similares que combinem poda causal com outras técnicas de compressão (quantização, destilação).",
+    "Impacto no mercado de chips de IA, com possível redução na demanda por hardware de inferência de alto custo."
+  ],
+  "editorial_angle": "O artigo se destaca por apresentar uma abordagem inovadora de poda baseada em causalidade, que resolve um problema crítico de custo sem sacrificar a qualidade de raciocínio, e por ser aplicável imediatamente em modelos já implantados, o que o torna relevante tanto para engenheiros quanto para gestores e investidores."
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "Paper propõe sistema multiagente de IA para supervisão de riscos em DeFi, superando limitações de LLMs genéricos ao usar agentes especializados que priorizam evidências on-chain e reduzem falsos positivos.",
+  "key_facts": [
+    "O sistema DeXposure-Claw usa três agentes especializados: análise de exposição creditícia, detecção de correlações ocultas e simulação de contágio.",
+    "LLMs genéricos (GPT-4, Claude, Gemini) são considerados inadequados para supervisão de risco em DeFi por 'alucinarem' ameaças e recomendarem intervenções catastróficas.",
+    "O mercado DeFi já movimentou mais de US$ 2 trilhões em TVL no pico de 2024, e o mercado global de compliance financeiro é estimado em US$ 50 bilhões anuais."
+  ],
+  "why_it_matters": "A notícia importa porque expõe uma fragilidade crítica dos LLMs atuais — sua incapacidade de serem conservadores em supervisão de risco — e apresenta uma arquitetura alternativa que pode viabilizar o monitoramento contínuo e em tempo real de um mercado de US$ 2 trilhões, criando um novo nicho de compliance de bilhões de dólares.",
+  "watch_next": [
+    "Adoção do DeXposure-Claw por protocolos DeFi de grande porte ou reguladores como SEC e BCE.",
+    "Surgimento de startups focadas em agentes de IA especializados para supervisão financeira, disputando o mercado de US$ 5-10 bilhões.",
+    "Debate regulatório sobre se sistemas multiagente como este devem ser obrigatórios para operações DeFi."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas reportar um paper acadêmico, mas por contextualizá-lo como uma solução prática para um problema real e urgente — a ineficácia dos LLMs generalistas na supervisão de risco —, conectando-o a um mercado bilionário e a um debate regulatório em andamento. Foi escolhido por oferecer uma visão original e tecnicamente fundamentada sobre um tema quente (IA + DeFi + regulação)."
+}

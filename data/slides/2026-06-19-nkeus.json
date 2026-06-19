@@ -1,0 +1,53 @@
+{
+  "title": "Causal Attribution Pruning: O Método que Corta o Custo de Inferência Sem Quebrar o Raciocínio dos LLMs",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Causal Attribution Pruning: O Método que Corta o Custo de Inferência Sem Quebrar o Raciocínio dos LLMs",
+      "subtext": "Enquanto a indústria corre atrás de modelos maiores, um paper do arXiv mostra que o caminho mais barato pode ser podar cabeças de atenção específicas — sem perder a capacidade de raciocínio multi-etapas. O impacto potencial na conta de inferência das big techs é bilionário.",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways being pruned by a pair of robotic scissors, dark tech background with blue and purple neon lights, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos como GPT-4, Claude e Llama executam inferência com centenas de bilhões de parâmetros, e o custo computacional escala de forma quase linear com o número de cabeças de atenção ativas. Métodos tradicionais de poda frequentemente degradam a capacidade de raciocínio lógico — justamente o diferencial mais valorizado em aplicações empresariais e científicas.",
+      "highlight": "A inferência representa entre 60% e 80% do custo total de operação de um modelo em larga escala."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores introduziram o Causal Attribution Pruning (CAP), um método de poda que não requer treinamento adicional e que identifica, com base em impacto causal, quais cabeças de atenção em um LLM são realmente críticas para tarefas de raciocínio multi-etapas. Cabeças com baixo impacto causal são removidas; as demais são mantidas.",
+      "visual_hint": "Ícone de tesoura cortando um circuito neural, com destaque para as conexões que permanecem intactas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O CAP não exige fine-tuning nem acesso a dados de treinamento. Funciona em modelos pré-treinados com uma única passagem de inferência. Qualquer equipe de engenharia pode aplicar o método em modelos já implantados e obter redução de custo imediata. Para investidores, sinaliza que a corrida por eficiência está migrando de 'mais hardware' para 'software mais inteligente'.",
+      "visual_hint": "Gráfico de barras comparando custo de inferência antes e depois da poda, com uma seta verde apontando para baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "É possível remover até 30% das cabeças de atenção sem perda de desempenho em raciocínio",
+        "Benchmarks mantidos: GSM8K, MATH e ARC com desempenho competitivo",
+        "Apenas 500 amostras do GSM8K são necessárias para calcular as atribuições causais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução imediata de custos de inferência para provedores de API como OpenAI, Anthropic e Google",
+        "Empresas que rodam LLMs em produção podem otimizar sem depender de hardware novo",
+        "Pressão nas margens de fabricantes de chips como Nvidia, à medida que a eficiência de software avança"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é só sobre modelos maiores — é sobre ser mais inteligente com o que já temos."
+    }
+  ]
+}
