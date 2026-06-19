@@ -2,7 +2,9 @@ name: AI Article Generator
 
 on:
   schedule:
-    - cron: '*/5 * * * *' # Teste: a cada 5 minutos
+    - cron: '0 9 * * *'  # 06h BRT
+    - cron: '0 14 * * *' # 11h BRT
+    - cron: '0 19 * * *' # 16h BRT
   workflow_dispatch:
 
 permissions:
