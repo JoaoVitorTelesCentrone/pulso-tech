@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo da Escala: Por Que a Fragmentação de Dados de Língua de Sinais Pode Frear um Mercado de Acessibilidade de US$ 20 Bilhões",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo da Escala: Dados Fragmentados de Língua de Sinais vs. Mercado de US$ 20 Bilhões",
+      "subtext": "Enquanto a IA avança, a falta de datasets padronizados pode travar a próxima fronteira da acessibilidade digital.",
+      "image_prompt": "A futuristic digital landscape with fragmented puzzle pieces of sign language hands and data streams, dark blue and neon green tones, abstract tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo survey do arXiv revela que os datasets de língua de sinais são severamente fragmentados, com padrões de anotação isolados e vocabulário limitado. Enquanto modelos de linguagem e visão avançam exponencialmente, essa área crucial da IA multimodal permanece subfinanciada.",
+      "highlight": "Falta de datasets padronizados e em escala para línguas de sinais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores mapearam dezenas de datasets isolados, cada um com seus próprios padrões de anotação, baixa cobertura de variações regionais e vocabulário restrito. O maior dataset, How2Sign (ASL), tem apenas 80 horas de vídeo — insuficiente para treinar modelos robustos.",
+      "visual_hint": "Ícone de quebra-cabeça com peças desconectadas representando datasets fragmentados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado global de tecnologias assistivas para surdos é estimado em mais de US$ 20 bilhões, com crescimento acelerado. Sem dados grandes e padronizados, modelos de tradução em tempo real e avatares geradores de sinais permanecem experimentais. Quem resolver a infraestrutura de dados pode capturar um mercado sem dominante claro.",
+      "visual_hint": "Gráfico de crescimento exponencial com um gargalo representado por um nó crítico"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 20 bilhões: mercado global de tecnologias assistivas para surdos",
+        "80 horas: maior dataset de língua de sinais (How2Sign, ASL)",
+        "Trilhões de tokens vs. dezenas de milhares de exemplos: abismo de escala entre LLMs e datasets de sinais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fragmentação de padrões de anotação impede a criação de modelos generalizáveis",
+        "Viés geográfico: ASL, CSL e DGS dominam; LIBRAS e outras são sub-representadas",
+        "Oportunidade bilionária para quem criar um padrão aberto ou dataset proprietário em escala"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A próxima fronteira da acessibilidade digital depende de dados. Não fique de fora."
+    }
+  ]
+}

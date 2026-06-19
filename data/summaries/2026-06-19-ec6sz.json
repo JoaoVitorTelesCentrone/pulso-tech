@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo paper do arXiv propõe framework matemático para agentes de LLM decomporem sua incerteza e decidirem quando pedir esclarecimentos humanos, reduzindo erros catastróficos em cenários ambíguos.",
+  "key_facts": [
+    "Paper 'Uncertainty Decomposition for Clarification Seeking in LLM Agents' (2606.19559) foi publicado no arXiv.",
+    "Framework decompõe incerteza em componentes mensuráveis e comunicáveis, indo além da divisão clássica entre aleatória e epistêmica.",
+    "Mercado de agentes de IA corporativos deve ultrapassar US$ 50 bilhões até 2028.",
+    "Pesquisadores são ligados a instituições acadêmicas de ponta."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o artigo aborda o gargalo crítico de confiabilidade em agentes autônomos: a incapacidade de reconhecer ambiguidade. A solução matemática proposta pode reduzir erros milionários em finanças, saúde e jurídico, além de melhorar eficiência operacional e atender a exigências regulatórias de auditabilidade.",
+  "watch_next": [
+    "Implementação prática do framework por empresas como OpenAI, Anthropic ou Google em seus agentes.",
+    "Publicação de benchmarks comparando agentes com e sem o framework em cenários de alta ambiguidade.",
+    "Reação de reguladores e surgimento de padrões de auditabilidade baseados em decomposição de incerteza."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma inovação acadêmica (decomposição de incerteza) diretamente a um problema econômico urgente (risco de US$ 1 trilhão em agentes que não sabem pedir ajuda), oferecendo análise prática para profissionais de implantação de LLMs, em vez de apenas resumir o paper."
+}

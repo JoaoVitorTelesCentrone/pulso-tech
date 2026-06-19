@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Invisível da Informação Clínica: Como o Agentic RAG Está Expondo a Fragilidade de US$ 100 Bilhões na Saúde com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível da Informação Clínica",
+      "subtext": "Como o Agentic RAG está expondo a fragilidade de US$ 100 bilhões na saúde com IA",
+      "image_prompt": "A futuristic medical data stream with broken metadata fragments floating in a dark digital void, glowing red warning signals, abstract clinical documents dissolving into pixels"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo estudo do arXiv revela que o RAG tradicional — a espinha dorsal da IA na saúde — quebra diante de milhares de documentos clínicos com metadados ausentes ou caóticos. A promessa de US$ 100 bilhões em HealthTech depende de um gargalo de dados que ninguém quer encarar.",
+      "highlight": "RAG padrão falha em cenários clínicos reais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores descobriram que o RAG tradicional colapsa em três pontos críticos: ausência de metadados estruturados, documentos heterogêneos e contexto clínico fragmentado. A solução? Agentic RAG — agentes de IA que navegam, interpretam e extraem informações mesmo em meio ao caos documental.",
+      "visual_hint": "Ícone de engrenagem quebrada com um agente digital reparando-a"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem dados confiáveis, a IA na saúde não passa de uma miragem. Startups que vendem RAG ingênuo podem estar entregando soluções que não escalam. Hospitais que tentam implementar IA correm o risco de erros fatais. O Agentic RAG abre uma nova fronteira — mas com custos e complexidades regulatórias muito maiores.",
+      "visual_hint": "Gráfico de iceberg com a ponta visível (promessa) e a base submersa (fragilidade dos dados)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: mercado de IA na saúde projetado até 2030",
+        "US$ 20 bilhões: custo anual de erros médicos nos EUA",
+        "US$ 150 bilhões: economia potencial com eficiência operacional"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentic RAG se torna o novo padrão ouro para recuperação de informação clínica",
+        "Startups de HealthTech precisam repensar suas arquiteturas de dados",
+        "Reguladores exigirão validação mais rigorosa para agentes de IA na saúde"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo invisível está exposto. A corrida pela IA confiável na saúde começa agora."
+    }
+  ]
+}

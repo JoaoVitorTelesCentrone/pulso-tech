@@ -1,0 +1,16 @@
+{
+  "tldr": "Estudo do arXiv revela que LLMs aplicados a dados clínicos estruturados sofrem de 'pontos cegos epistêmicos' — erros que os próprios modelos não conseguem detectar —, criando riscos regulatórios e financeiros bilionários para o setor de saúde.",
+  "key_facts": [
+    "Pesquisadores publicaram no arXiv o paper 'LLM Doesn't Know What It Doesn't Know', que introduz a métrica Cross-Model Attribution Divergence (CMAD) para detectar pontos cegos epistêmicos em LLMs.",
+    "A CMAD compara como diferentes LLMs atribuem importância a variáveis clínicas; divergências altas indicam regiões onde o modelo não tem consciência de seu próprio erro.",
+    "O mercado global de IA na saúde deve ultrapassar US$ 100 bilhões até 2028, mas a adoção cega de LLMs pode gerar passivos regulatórios e riscos de responsabilidade civil.",
+    "O estudo é conduzido por pesquisadores acadêmicos sem vínculo com big techs, aumentando sua relevância para o ecossistema de IA aberta e regulatória."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, a notícia expõe que o gargalo crítico dos LLMs na saúde não é a acurácia, mas a incapacidade de sinalizar incerteza — um problema epistemológico que pode inviabilizar a adoção em larga escala e gerar crises de confiança, regulatórias e financeiras no setor.",
+  "watch_next": [
+    "Reguladores (como FDA e ANVISA) podem exigir auditorias baseadas em métricas como CMAD antes de aprovar LLMs para uso clínico.",
+    "Startups e big techs podem correr para desenvolver camadas de detecção de incerteza em tempo real, criando um novo nicho de mercado em IA confiável para saúde.",
+    "O paper pode provocar um movimento de 'epistemic auditing' em outras áreas críticas (finanças, direito, segurança), expandindo o impacto além da saúde."
+  ],
+  "editorial_angle": "O artigo se diferencia por ir além da crítica técnica usual sobre alucinações, conectando o fenômeno a riscos de mercado concretos (US$ 100 bilhões) e a uma nova métrica (CMAD) que pode se tornar padrão regulatório. A escolha editorial reflete a urgência de alertar gestores e investidores sobre um risco sistêmico pouco discutido."
+}

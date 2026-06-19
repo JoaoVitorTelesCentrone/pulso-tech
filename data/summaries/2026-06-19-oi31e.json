@@ -1,0 +1,16 @@
+{
+  "tldr": "Estudo do arXiv mostra que sistemas tradicionais de RAG falham em cenários clínicos reais devido a metadados ausentes ou caóticos, e propõe o Agentic RAG como solução, expondo uma fragilidade de US$ 100 bilhões no mercado de IA na saúde.",
+  "key_facts": [
+    "Paper do arXiv (ID: 2606.19602) analisa falhas do RAG padrão na recuperação de informação clínica.",
+    "Metadados de documentos clínicos estão frequentemente ausentes ou incompletos, quebrando a busca semântica.",
+    "Agentic RAG delega a um agente de IA a navegação e extração de informações mesmo com metadados caóticos.",
+    "Mercado de IA na saúde projetado para US$ 100 bilhões até 2030 depende de acesso confiável a dados clínicos."
+  ],
+  "why_it_matters": "A notícia expõe que a promessa de redução de erros médicos e eficiência operacional (economia de US$ 150 bilhões anuais) depende de uma premissa frágil — a qualidade dos metadados clínicos. Startups baseadas em RAG ingênuo podem estar vendendo soluções que não escalam, enquanto o Agentic RAG abre novas oportunidades e custos regulatórios.",
+  "watch_next": [
+    "Startups de HealthTech podem pivotar para arquiteturas Agentic RAG, gerando nova onda de investimento.",
+    "Reguladores (FDA, ANVISA) podem exigir validação específica para agentes de IA em contextos clínicos.",
+    "Gigantes como Google e Microsoft podem acelerar aquisições de startups com soluções de metadados clínicos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico profundo (metadados quebrados) a um impacto econômico concreto (US$ 100 bilhões em risco), oferecendo análise de mecanismo de ruptura e implicações de mercado, em vez de apenas reportar o paper."
+}

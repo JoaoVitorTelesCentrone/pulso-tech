@@ -1,0 +1,53 @@
+{
+  "title": "REVEAL++: O Mapeamento Fenotípico da Retina que Pode Redefinir o Mercado de Diagnóstico Precoce do Alzheimer",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Retina como Janela para o Cérebro",
+      "subtext": "Como o REVEAL++ está transformando a detecção precoce do Alzheimer com visão computacional e IA",
+      "image_prompt": "A futuristic digital illustration of a human eye with neural network patterns and brain scan overlays, glowing blue and purple on a dark background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Alzheimer é uma das doenças mais caras do século, com custos globais superiores a US$ 1 trilhão por ano. O maior gargalo não é o tratamento, mas o diagnóstico precoce — hoje feito com exames caros e invasivos como PET scan e punção lombar.",
+      "highlight": "US$ 1 trilhão em custos anuais globais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O REVEAL++ é um framework de alinhamento visão-linguagem que usa imagens de retina para identificar padrões estruturais sutis associados ao risco de Alzheimer. Ele agrupa pacientes por relevância clínica, não apenas por similaridade visual — um salto qualitativo em relação aos métodos tradicionais.",
+      "visual_hint": "Ícone de olho com linhas de código e redes neurais ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A retina é uma extensão do sistema nervoso central, oferecendo uma janela não invasiva para o cérebro. Com exames de fundo de olho custando entre US$ 50 e US$ 200 (contra US$ 3.000 a US$ 6.000 de um PET scan), o rastreio populacional se torna viável e acessível.",
+      "visual_hint": "Gráfico de barras comparando custos de exames"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado global de diagnóstico de Alzheimer: US$ 8,5 bi em 2025, projeção de US$ 15 bi até 2032",
+        "Custo de exame de fundo de olho: US$ 50 a US$ 200 vs. PET scan: US$ 3.000 a US$ 6.000",
+        "REVEAL++ identifica subpopulações de risco anos antes dos sintomas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Democratização do rastreio populacional com exames de retina de baixo custo",
+        "Identificação precoce de risco permite intervenções preventivas mais eficazes",
+        "Sistemas de saúde (SUS, NHS, Medicare) podem incorporar rastreio retiniano em check-ups anuais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O REVEAL++ pode redefinir o diagnóstico precoce do Alzheimer — e o mercado de US$ 15 bilhões está apenas começando."
+    }
+  ]
+}

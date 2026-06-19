@@ -1,0 +1,14 @@
+{
+  "tldr": "Um survey do arXiv revela que a fragmentação e a falta de escala dos datasets de língua de sinais são o principal gargalo para o avanço da IA em acessibilidade, travando um mercado de US$ 20 bilhões.",
+  "key_facts": [
+    "Pesquisadores publicaram no arXiv um survey abrangente sobre datasets de língua de sinais, identificando fragmentação severa de padrões de anotação.",
+    "Os maiores datasets de língua de sinais têm apenas dezenas de milhares de exemplos, enquanto LLMs usam trilhões de tokens.",
+    "Há forte viés geográfico: a maioria dos datasets cobre ASL, CSL e DGS, deixando línguas como LIBRAS e LSA sub-representadas."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, a notícia destaca que o próximo grande salto em acessibilidade digital depende de resolver um problema de infraestrutura de dados, e não apenas de modelos mais potentes. Quem criar um padrão aberto ou dataset proprietário em escala pode dominar um mercado bilionário ainda sem líder claro.",
+  "watch_next": [
+    "Possível anúncio de um consórcio ou iniciativa open-source para padronizar anotação de línguas de sinais.",
+    "Movimento de grandes players (Google, Meta) para investir em datasets multimodais de língua de sinais, visando capturar o mercado de acessibilidade."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um problema técnico árido (fragmentação de datasets) a uma oportunidade de mercado concreta e bilionária, oferecendo uma análise estrutural que vai além do relato superficial do survey, com insights para investidores, gestores de produto e engenheiros."
+}

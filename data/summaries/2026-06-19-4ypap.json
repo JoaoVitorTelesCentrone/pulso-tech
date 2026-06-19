@@ -1,0 +1,16 @@
+{
+  "tldr": "O framework REVEAL++ usa alinhamento visão-linguagem em imagens de retina para identificar subpopulações de risco de Alzheimer, oferecendo um biomarcador não invasivo e de baixo custo que pode transformar o diagnóstico precoce e o mercado de US$ 15 bilhões.",
+  "key_facts": [
+    "REVEAL++ é uma evolução do REVEAL original, introduzindo grouping fenotípico diferenciável para agrupar pacientes por relevância clínica ao Alzheimer.",
+    "O modelo utiliza imagens de fundo de olho (retina) pareadas com descrições textuais de fenótipos clínicos, explorando a retina como extensão do sistema nervoso central.",
+    "Um exame de fundo de olho custa entre US$ 50 e US$ 200, contra US$ 3.000 a US$ 6.000 de um PET scan, potencialmente democratizando o rastreio populacional.",
+    "O mercado global de diagnóstico de Alzheimer foi avaliado em US$ 8,5 bilhões em 2025, com projeção de US$ 15 bilhões até 2032."
+  ],
+  "why_it_matters": "Esta notícia importa porque propõe uma solução de IA de baixo custo e não invasiva para um dos maiores gargalos da saúde global: o diagnóstico precoce do Alzheimer. Para leitores de IA/Tech, destaca a aplicação prática de modelos multimodais (visão-linguagem) em um problema de alto impacto econômico e social, abrindo caminho para triagens populacionais em larga escala.",
+  "watch_next": [
+    "Validação clínica do REVEAL++ em ensaios prospectivos com populações diversas para confirmar a acurácia preditiva.",
+    "Parcerias com sistemas públicos de saúde (Medicare, SUS, NHS) para incorporar o rastreio retiniano em check-ups anuais.",
+    "Desenvolvimento de dispositivos portáteis de imagem retiniana integrados ao modelo, viabilizando triagem em atenção primária."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar inovação técnica em IA (grouping fenotípico diferenciável) a um mercado concreto e de alto valor (diagnóstico precoce de Alzheimer), com dados econômicos e de custo que tornam a proposta tangível. Foi escolhido por abordar um tema de saúde pública urgente com uma abordagem tecnológica disruptiva, indo além do sensacionalismo ao detalhar mecanismos e impactos mensuráveis."
+}

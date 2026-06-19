@@ -1,0 +1,53 @@
+{
+  "title": "Emergent Alignment: O Mecanismo de Autoconsciência Ética dos LLMs que Pode Redefinir o Mercado de Governança de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "E se a IA pudesse duvidar de si mesma?",
+      "subtext": "Emergent Alignment: o mecanismo que transforma LLMs em auditores éticos de si próprios — e pode redefinir o mercado de governança de IA.",
+      "image_prompt": "A futuristic digital brain with a glowing ethical compass inside, surrounded by neural network nodes and a subtle red 'self-check' loop, dark background with neon blue and purple tones."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O alinhamento de IA hoje é reativo: treina-se, testa-se, descobre-se falhas e ajusta-se. Um novo paper no arXiv (2606.19527) propõe uma mudança radical: um mecanismo interno de autocorreção ética que opera durante a inferência do modelo.",
+      "highlight": "Alinhamento proativo e auto-supervisionado — o fim da era do 'testa e reza'."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Emergent Alignment funciona como um loop de autoconsciência: o modelo gera uma resposta, um módulo interno revisa o raciocínio em busca de desvios éticos e, se necessário, corrige a saída antes de entregá-la. É como se o LLM aprendesse a ter um 'segundo pensamento' antes de falar.",
+      "visual_hint": "Diagrama de fluxo com três etapas: Geração → Consciência (módulo de revisão) → Correção condicional, com um ícone de 'check' ético."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas que usam LLMs em áreas críticas (saúde, finanças, direito, defesa) gastam fortunas em auditoria externa e red team. Um mecanismo interno de autocorreção pode reduzir esses custos em ordens de magnitude — ou, se mal implementado, criar uma falsa sensação de segurança.",
+      "visual_hint": "Ícone de cifrão sendo cortado por um escudo verde, com gráfico de barras mostrando custo de segurança caindo."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de 40-60% em outputs prejudiciais em testes de red team automatizados",
+        "Degradação inferior a 2% em benchmarks padrão (MMLU, GSM8K)",
+        "Capacidade de identificar e rejeitar consultas maliciosas que modelos tradicionais processariam sem hesitação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novo padrão-ouro para governança de IA: alinhamento auto-supervisionado vira requisito de compliance",
+        "Mercado de auditoria externa de IA pode encolher ou se transformar em certificação de mecanismos internos",
+        "Risco de 'falsa segurança' exige regulamentação mais rigorosa sobre transparência dos loops de autocorreção"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da governança de IA está se escrevendo agora — e ele começa com um modelo que aprende a duvidar de si mesmo."
+    }
+  ]
+}

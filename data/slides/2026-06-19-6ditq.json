@@ -1,0 +1,53 @@
+{
+  "title": "Argent Signaling: O Protocolo que Pode Salvar a Economia dos Sistemas Multi-Agente do Colapso Semântico",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Argent Signaling: O Protocolo que Pode Salvar a Economia dos Sistemas Multi-Agente do Colapso Semântico",
+      "subtext": "Quando falhas não são iguais, estratégias genéricas de retry queimam milhões em tokens e minam a confiança no mercado de agentes corporativos.",
+      "image_prompt": "A futuristic digital network of interconnected AI agents, with some nodes glowing red (error) and others green (success), data streams pulsing, dark background with neon blue and orange accents, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper no arXiv expõe uma fragilidade estrutural no coração dos sistemas multi-agente baseados em LLMs: nem todas as falhas de resposta são iguais, mas as estratégias atuais de recuperação tratam todas como se fossem. O protocolo Argent propõe uma distinção crítica entre respostas fundamentadas mas incompletas e respostas sem fundamento.",
+      "highlight": "Mercado de agentes de IA corporativos projetado para ultrapassar US$ 50 bilhões nos próximos anos."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Argent Signaling Protocol introduz um mecanismo de sinalização entre agentes que permite classificar falhas em tempo real e aplicar estratégias de recuperação específicas para cada tipo de erro. Respostas incompletas podem ser corrigidas com refinamento direcionado, enquanto respostas sem fundamento devem ser interrompidas imediatamente para evitar a propagação de alucinações.",
+      "visual_hint": "Diagrama de dois caminhos: um ramo com 'refinar' e outro com 'parar', com ícones de check e X"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo de inferência em sistemas multi-agente não é apenas o custo por token. É o custo da ineficiência — tentativas falhas, retries desnecessários, respostas incorretas que precisam ser detectadas e corrigidas manualmente. Argent promete reduzir esse custo ao eliminar o desperdício de tentativas cegas, salvando milhões em tokens e restaurando a confiança no mercado.",
+      "visual_hint": "Gráfico de barras comparando 'Retry Genérico' (alto custo) vs 'Argent Protocol' (baixo custo), com ícone de cifrão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA: > US$ 50 bilhões",
+        "4 tipos de erro: correto/completo, correto/incompleto, incorreto/fundamentado, incorreto/sem fundamento",
+        "Estratégias atuais tratam 3 tipos de erro como idênticos, gerando desperdício massivo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica do custo de inferência em sistemas multi-agente",
+        "Mitigação do semantic drift — a degradação progressiva da qualidade das respostas",
+        "Adoção de protocolos de sinalização como padrão em arquiteturas de agentes corporativos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA depende de confiabilidade. Não deixe o colapso semântico destruir sua economia."
+    }
+  ]
+}
