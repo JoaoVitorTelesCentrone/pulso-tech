@@ -1,0 +1,14 @@
+{
+  "tldr": "O Project Valkey automatizou o backporting de bugs com agentes de IA, eliminando um dos processos mais custosos da manutenção de software e transformando a economia do open source.",
+  "key_facts": [
+    "O Project Valkey, fork do Redis, lançou a versão 9.1 com backporting feito exclusivamente por agentes de IA.",
+    "Nos primeiros 30 dias, os agentes processaram mais de 200 correções entre versões 7.2, 8.0 e 9.0 com 94% de aprovação sem intervenção humana.",
+    "O processo automatizado inclui identificação, análise de dependências, adaptação de contexto, testes e revisão."
+  ],
+  "why_it_matters": "Mostra que agentes de IA já conseguem executar tarefas complexas de manutenção de software com compreensão contextual, reduzindo drasticamente o trabalho humano e abrindo caminho para automação similar em outros projetos críticos de infraestrutura.",
+  "watch_next": [
+    "Outros projetos open source de grande porte (como Linux, PostgreSQL ou Kubernetes) adotarem agentes de IA para backporting.",
+    "Surgimento de ferramentas especializadas de IA para manutenção de software, baseadas no modelo do Valkey."
+  ],
+  "editorial_angle": "O artigo se destaca por ir além do anúncio técnico, analisando o impacto econômico e estratégico da automação no open source, com dados concretos de desempenho e uma explicação detalhada do processo tradicional versus o novo."
+}

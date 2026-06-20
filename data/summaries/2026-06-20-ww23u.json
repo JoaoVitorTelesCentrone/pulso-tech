@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo estudo do arXiv revela que benchmarks de agentes de IA, que movimentam US$ 10 bilhões anuais, têm baixa validade preditiva para desempenho em produção, expondo a fragilidade dos rankings estáticos.",
+  "key_facts": [
+    "Paper 'Beyond Static Leaderboards' analisou 14 dimensões de avaliação em benchmark industrial baseado em MCP.",
+    "Nenhum benchmark atual cobre mais de 4 ou 5 das 14 dimensões que uma implantação real expõe.",
+    "Correlação entre desempenho em benchmarks e desempenho em produção é frágil ou inexistente.",
+    "Mercado de avaliação de LLMs ultrapassa US$ 10 bilhões anuais."
+  ],
+  "why_it_matters": "Para CTOs e investidores, o artigo mostra que confiar em leaderboards estáticos para escolher agentes de IA pode levar a decisões caras e equivocadas, pois os benchmarks não preveem desempenho real em produção, exigindo validação contínua e contextual.",
+  "watch_next": [
+    "Empresas de avaliação de IA podem ter que reformular seus benchmarks para incluir validade preditiva.",
+    "Startups de agentes corporativos podem perder investimentos se não conseguirem demonstrar desempenho em produção.",
+    "Surgimento de novas ferramentas de validação contínua e dimensionalmente completa."
+  ],
+  "editorial_angle": "O artigo se diferencia por aplicar o conceito de validade preditiva da psicometria aos benchmarks de IA, expondo uma fragilidade estrutural de um mercado bilionário, e não apenas criticar os benchmarks, mas propor um framework para medir sua relevância real."
+}

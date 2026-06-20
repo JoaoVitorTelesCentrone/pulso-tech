@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv revela que a escolha ineficiente de pares de comparação no pós-treinamento de LLMs gera retornos decrescentes e desperdício de milhões de dólares, propondo uma estratégia ótima de seleção de pares para maximizar o alinhamento com orçamento fixo.",
+  "key_facts": [
+    "O custo de anotação humana para alinhamento de LLMs escala com O(N²) e já chega a centenas de milhões de dólares anuais em big techs.",
+    "O paper formaliza a seleção de pares como um problema de otimização de aquisição de dados, onde pares de dificuldade intermediária são mais informativos.",
+    "Pares muito fáceis (excelente vs. terrível) ou muito difíceis (quase idênticos) geram pouco ganho de alinhamento ou introduzem ruído.",
+    "Uma estratégia otimizada pode reduzir o custo de alinhamento em 30-50% para o mesmo ganho de performance."
+  ],
+  "why_it_matters": "Para profissionais de IA e executivos de tech, este artigo expõe um gargalo financeiro e técnico oculto no pipeline de pós-treinamento, oferecendo uma alavanca direta para cortar custos e melhorar a eficiência de alinhamento sem aumentar orçamento de anotação.",
+  "watch_next": [
+    "Adoção da metodologia por empresas como OpenAI e Anthropic em seus pipelines de RLHF/DPO.",
+    "Surgimento de ferramentas de seleção automática de pares baseadas em métricas de informatividade.",
+    "Impacto no custo de fine-tuning de modelos menores e startups que dependem de anotação humana."
+  ],
+  "editorial_angle": "O artigo se diferencia ao transformar um problema técnico aparentemente menor (escolha de pares) em uma questão de eficiência econômica e estratégica, conectando diretamente a pesquisa acadêmica ao orçamento de bilhões da indústria de LLMs."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe a ITNet, uma transformada integral treinável que unifica CNNs, RNNs e Transformers em uma única operação matemática, com potencial de reduzir custos de P&D e simplificar hardware de IA.",
+  "key_facts": [
+    "Paper ITNet foi publicado no arXiv em 20 de junho de 2026.",
+    "A transformada integral aprendível pode expressar convolução, atenção e recorrência como casos especiais.",
+    "O kernel da transformada é parametrizado por uma rede neural e treinado por gradiente descendente.",
+    "Benchmarks em larga escala ainda não foram divulgados."
+  ],
+  "why_it_matters": "Se validada, a ITNet pode eliminar a necessidade de escolher arquiteturas específicas para cada tarefa, reduzir drasticamente custos de P&D em IA, simplificar o design de chips especializados e democratizar a pesquisa ao permitir que startups compitam com gigantes usando uma abordagem unificada.",
+  "watch_next": [
+    "Publicação de benchmarks completos em larga escala comparando ITNet com CNNs, RNNs e Transformers.",
+    "Anúncios de empresas de hardware (Nvidia, Google, startups) sobre adaptação de chips para a operação unificada.",
+    "Movimentação de grandes laboratórios (Meta, OpenAI, Google DeepMind) para testar e potencialmente adotar a arquitetura."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma inovação matemática teórica com implicações econômicas e de mercado concretas, indo além da mera descrição técnica para analisar como a unificação de arquiteturas pode redefinir a competição no setor de IA."
+}

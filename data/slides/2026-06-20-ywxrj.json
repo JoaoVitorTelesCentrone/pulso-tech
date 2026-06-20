@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Invisível da Racionalidade: Como o 'Narration Gap' em LLMs Está Criando uma Nova Classe de Risco em Sistemas Críticos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível da Racionalidade",
+      "subtext": "Como o 'Narration Gap' em LLMs está criando uma nova classe de risco em sistemas críticos",
+      "image_prompt": "A dark, futuristic control room with a glowing holographic globe showing a crack spreading from a central AI core, digital data streams in red and blue, cinematic lighting, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv expõe uma fratura silenciosa entre o que um LLM diz e o que um solver formal executa. Em pipelines de segurança e missão crítica, essa lacuna pode custar caro.",
+      "highlight": "LLMs + Solvers formais: o pior dos dois mundos?"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O 'Narration Gap' é a lacuna sistemática entre a descrição narrativa que o LLM produz do problema e a formulação lógica real que o solver recebe. O LLM conta uma história coerente, mas falha em traduzi-la fielmente para a linguagem formal.",
+      "visual_hint": "Ícone de uma ponte quebrada entre dois mundos: um balão de fala (LLM) e um cubo lógico (solver)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O solver não 'sabe' que a formulação está errada — ele apenas prova que a conclusão segue das premissas. Resultado: soluções logicamente válidas para o problema errado. Isso afeta aviação, diagnóstico médico, contratos financeiros e infraestrutura crítica.",
+      "visual_hint": "Ícone de um avião com um ponto de interrogação vermelho no cockpit"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Taxa de erro na 'ponte narrativa' LLM-solver é significativamente maior que no raciocínio puramente simbólico ou puramente neural",
+        "Erro é sistemático e correlacionado com a complexidade semântica do problema",
+        "Benchmarks em planejamento, verificação de software e sistemas ciberfísicos confirmam o padrão"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Engenheiros de software precisam auditar a camada de tradução neural, não apenas a saída formal",
+        "Gestores de risco devem tratar LLMs como 'tradutores não confiáveis' em pipelines críticos",
+        "Startups e gigantes de tech precisam repensar a arquitetura híbrida LLM-solver"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O 'Narration Gap' é o novo calcanhar de Aquiles da IA racional. Não ignore a fratura silenciosa."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Silencioso do Pós-Treinamento: Como a Escolha de Pares de Comparação Pode Estar Queimando Bilhões em Alinhamento de LLMs",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Silencioso do Pós-Treinamento",
+      "subtext": "Como a escolha de pares de comparação pode estar queimando bilhões em alinhamento de LLMs",
+      "image_prompt": "A futuristic data center with glowing blue server racks, dollar signs floating in the air, and a subtle graph showing diminishing returns, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O pós-treinamento de LLMs depende de anotadores humanos comparando pares de respostas para gerar dados de preferência. O custo escala com O(N²) e já atinge dezenas a centenas de milhões de dólares por ano nas big techs.",
+      "highlight": "Custo de anotação humana: US$ 10M+ por rodada de treinamento"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv (2606.19607) revela que a estratégia ingênua de comparar todos os pares possíveis ou pares aleatórios é profundamente ineficiente. Existe um ponto ótimo: pares de dificuldade intermediária maximizam o aprendizado de nuances sem introduzir ruído.",
+      "visual_hint": "Ícone de balança com setas indicando 'muito fácil' vs 'muito difícil' e um ponto verde no meio"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como OpenAI, Anthropic, Google e Meta estão queimando centenas de milhões de dólares em anotações subótimas. Com uma estratégia otimizada de seleção de pares, o mesmo ganho de alinhamento poderia custar 30-50% menos.",
+      "visual_hint": "Gráfico de barras comparando 'Custo atual' (alta) vs 'Custo otimizado' (menor)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de anotação por par: US$ 1-5 (dependendo da complexidade da resposta)",
+        "Orçamento típico de pós-treinamento: US$ 10-20 milhões por rodada",
+        "Ineficiência estimada: 30-50% do orçamento é desperdiçado em pares pouco informativos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas de LLM adotarão seleção inteligente de pares como prática padrão",
+        "Ferramentas de curadoria automatizada de dados de preferência se tornarão críticas",
+        "Redução de custos pode acelerar a democratização do alinhamento de modelos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Otimização de pares: o próximo passo para LLMs mais eficientes e baratos"
+    }
+  ]
+}

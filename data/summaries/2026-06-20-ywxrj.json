@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv revela que LLMs acoplados a solvers formais (SAT/SMT) sofrem de um 'Narration Gap' sistemático, onde a tradução do problema para linguagem lógica é semanticamente infiel, gerando soluções logicamente válidas para o problema errado.",
+  "key_facts": [
+    "O paper 'Analyzing the Narration Gap in LLM-Solver Loops' (arXiv:2606.19588) quantifica a lacuna entre a descrição narrativa do LLM e a formulação lógica real enviada ao solver.",
+    "O erro de tradução é sistemático e correlacionado com a complexidade semântica do problema, não aleatório.",
+    "A taxa de erro na 'ponte narrativa' é significativamente maior que a taxa de erro do raciocínio puramente simbólico ou puramente neural.",
+    "O estudo abrange domínios como planejamento, verificação de software e sistemas ciberfísicos."
+  ],
+  "why_it_matters": "A indústria está integrando LLMs em pipelines de decisão crítica (aviação, diagnóstico médico, contratos financeiros) sob a premissa de que solvers formais garantem correção. O Narration Gap mostra que essa arquitetura híbrida pode herdar o pior dos dois mundos: imprevisibilidade semântica dos LLMs e rigidez cega dos solvers, criando riscos de segurança mascarados pela aparência de formalismo.",
+  "watch_next": [
+    "Publicação de benchmarks públicos para medir o Narration Gap em diferentes famílias de LLMs e domínios.",
+    "Surgimento de técnicas de 'grounding' ou verificação cruzada entre múltiplas formulações do LLM para mitigar o gap.",
+    "Regulamentações ou padrões de auditoria específicos para sistemas híbridos LLM-solver em setores críticos."
+  ],
+  "editorial_angle": "Diferente de artigos que tratam de alucinações genéricas ou segurança de prompts, este artigo foca em um fenômeno técnico específico e mensurável — o Narration Gap — que expõe uma fragilidade estrutural em arquiteturas híbridas de raciocínio. A escolha se justifica pela relevância prática para engenheiros e gestores que estão implementando esses sistemas hoje, oferecendo uma análise que vai além do hype e aponta um risco concreto e pouco discutido."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Fim do Backporting Humano: Como o Project Valkey Está Automatizando a Correção de Bugs com Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim do Backporting Humano",
+      "subtext": "Como o Project Valkey está automatizando a correção de bugs com agentes de IA — e mudando a economia do open source para sempre",
+      "image_prompt": "A futuristic digital brain made of code and circuit boards, glowing blue and orange, merging with a database server rack, dark background with neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Project Valkey, fork do Redis que se tornou padrão de fato após a mudança de licenciamento da Redis Labs, acaba de lançar sua versão 9.1. A grande novidade não está nas funcionalidades, mas em como o projeto lida com correções de bugs: agora, o backporting é feito exclusivamente por agentes de IA.",
+      "highlight": "Backporting 100% automatizado por IA — um marco na manutenção de software"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Bots especializados analisam commits, identificam patches que precisam ser retroportados, aplicam mudanças com adaptações de contexto e submetem pull requests automaticamente. O que antes consumia horas de mantenedores humanos agora é executado em minutos.",
+      "visual_hint": "Ícone de robô com engrenagens e setas de fluxo de código"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O backporting sempre foi um gargalo invisível e doloroso: exige conhecimento profundo do código, adaptação a contextos diferentes entre versões e atenção a detalhes. Para o Valkey, espinha dorsal de infraestrutura de dados em memória para Amazon, Google e Uber, manter versões estáveis sem drenar mantenedores é vantagem competitiva direta.",
+      "visual_hint": "Ícone de corrente quebrada sendo substituída por engrenagem digital"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mais de 200 correções processadas nos primeiros 30 dias",
+        "94% de taxa de aprovação sem intervenção humana",
+        "Correções portadas entre as versões 7.2, 8.0 e 9.0"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de IA já executam tarefas de manutenção que exigem compreensão contextual profunda",
+        "Redução drástica do custo de manter múltiplas versões de software",
+        "Novo padrão para projetos open source que dependem de sustentabilidade a longo prazo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "O backporting humano chegou ao fim",
+      "subtext": "Acompanhe o blog para entender como essa revolução silenciosa vai transformar a manutenção de software — e o que ela significa para o futuro do open source."
+    }
+  ]
+}

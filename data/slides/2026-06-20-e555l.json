@@ -1,0 +1,53 @@
+{
+  "title": "Toten: O Tokenizador Ontológico que Pode Salvar a Engenharia Brasileira do Colapso Semântico da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A IA está cega para a engenharia brasileira",
+      "subtext": "Como a tokenização semântica pode salvar bilhões em precisão técnica",
+      "image_prompt": "A futuristic Brazilian engineering control room with holographic displays showing fragmented numbers and units like '37,8°C' breaking apart into glowing particles, dark blue and neon orange color scheme, digital art style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O algoritmo de tokenização mais usado do mundo, o Byte-Pair Encoding (BPE), é semanticamente cego para entidades técnicas. Expressões como '5,2 × 10³ N/m²' ou 'pH 7,4' são fragmentadas em subpalavras arbitrárias, perdendo significado crítico.",
+      "highlight": "BPE é estatisticamente eficiente, mas semanticamente cego"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv apresenta o Toten: um tokenizador ontológico que insere uma camada de conhecimento técnico — unidades SI, prefixos métricos, notação científica e formatação do português brasileiro — antes da tokenização estatística. O resultado: LLMs que realmente 'entendem' grandezas físicas.",
+      "visual_hint": "Diagrama de três camadas: Ontologia → Formatação Regional → Tokenização Híbrida"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para a indústria de óleo e gás, agronegócio, saúde e engenharia civil brasileira, isso não é acadêmico. A tokenização cega gera alucinações numéricas, perda de precisão em cálculos e milhões em fine-tuning desnecessário. O Toten pode reduzir custos operacionais e aumentar a confiabilidade da IA em setores críticos.",
+      "visual_hint": "Ícone de engrenagem quebrada sendo reparada por um chip de IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "2.500 entidades técnicas mapeadas no grafo ontológico do Toten",
+        "Setores como petróleo e gás movimentam centenas de bilhões de reais anualmente",
+        "Empresas gastam milhões em fine-tuning para 'reaprender' o que a tokenização deveria preservar"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim das alucinações numéricas em documentação técnica brasileira",
+        "Redução drástica de custos com fine-tuning para engenharia e ciência",
+        "Adoção segura de IA em setores críticos como saúde, construção e agronegócio"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Toten pode ser a chave para a soberania técnica da IA no Brasil. Não perca os próximos capítulos."
+    }
+  ]
+}

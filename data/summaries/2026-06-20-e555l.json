@@ -1,0 +1,15 @@
+{
+  "tldr": "Pesquisadores brasileiros propõem o Toten, um tokenizador ontológico que preserva a integridade semântica de grandezas físicas e notações técnicas em português brasileiro, resolvendo um gargalo crítico da tokenização BPE em aplicações de engenharia e indústria.",
+  "key_facts": [
+    "O Toten é um tokenizador ontológico que opera antes da tokenização estatística, usando um grafo de conhecimento com 2.500 entidades técnicas.",
+    "O problema central é que o BPE fragmenta expressões como '5,2 × 10³ N/m²' em tokens semanticamente arbitrários, causando alucinações numéricas e perda de precisão.",
+    "O artigo é a primeira tentativa sistemática de resolver esse problema específico para o português brasileiro, afetando setores como engenharia, petróleo e gás, agronegócio e saúde."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, este artigo expõe um problema técnico real e pouco discutido que impacta diretamente a adoção de LLMs em setores críticos da economia brasileira, mostrando que a tokenização cega não é apenas um detalhe acadêmico, mas um custo operacional que pode ser mitigado com abordagens ontológicas.",
+  "watch_next": [
+    "Testes práticos do Toten em aplicações industriais brasileiras, como leitura de sensores no agronegócio ou interpretação de normas técnicas na engenharia civil.",
+    "Possível adoção do Toten por empresas de LLM que atendem o mercado brasileiro, como adaptação de modelos GPT ou Llama para tokenização híbrida.",
+    "Publicação de benchmarks comparando a precisão de LLMs com e sem o Toten em tarefas técnicas de engenharia e ciência."
+  ],
+  "editorial_angle": "O artigo se diferencia por abordar um gargalo técnico específico do português brasileiro em IA, combinando uma crítica prática ao BPE com uma solução inovadora baseada em ontologias, e conectando isso a impactos econômicos reais no Brasil, em vez de ser mais um paper teórico sobre tokenização."
+}

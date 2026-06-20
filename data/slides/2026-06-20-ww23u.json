@@ -1,0 +1,54 @@
+{
+  "title": "O Fim dos Rankings de IA: Como a Validade Preditiva Está Expondo a Fragilidade de US$ 10 Bi em Benchmarks de Agentes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim dos Rankings de IA",
+      "subtext": "Como a validade preditiva está expondo a fragilidade de US$ 10 bilhões em benchmarks de agentes",
+      "image_prompt": "A futuristic digital landscape with shattered leaderboards and glowing data fragments floating in a dark void, cyberpunk style, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv revela que os benchmarks de agentes de IA podem estar medindo tudo, menos o que realmente importa em produção. A indústria gasta centenas de milhões tentando subir em leaderboards estáticos que não se correlacionam com o desempenho real.",
+      "highlight": "Nenhum benchmark atual toca em mais de 4 ou 5 das 14 dimensões que uma implantação real expõe."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O estudo 'Beyond Static Leaderboards' analisou 14 dimensões de avaliação em um benchmark industrial baseado em MCP. A conclusão: a correlação entre desempenho em benchmarks e desempenho em produção é frágil ou inexistente. O paper propõe um framework de validade preditiva para medir o quanto um benchmark realmente prevê o comportamento do agente no mundo real.",
+      "visual_hint": "Ícone de um termômetro quebrado ou gráfico de correlação com pontos dispersos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para CTOs avaliando agentes de IA e investidores analisando startups, este paper é um alerta sísmico. O mercado de avaliação de LLMs ultrapassa US$ 10 bilhões anuais, mas se os benchmarks não predizem desempenho real, esse dinheiro está sendo queimado em métricas que enganam. Empresas estão comprando agentes que brilham em laboratório e quebram em produção.",
+      "visual_hint": "Ilustração de uma pilha de dinheiro em chamas ou um gráfico de barras com uma seta para baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: valor anual do mercado de avaliação de LLMs",
+        "14 dimensões de avaliação analisadas no estudo",
+        "Apenas 4 a 5 dimensões cobertas pelos benchmarks atuais",
+        "Correlação frágil ou inexistente entre benchmark e produção"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Validação contínua e contextual substituirá leaderboards estáticos",
+        "Empresas exigirão métricas de validade preditiva para contratar modelos",
+        "Startups de agentes precisarão provar desempenho em produção, não em laboratório"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A era dos rankings cegos acabou. A próxima fronteira é a validade preditiva."
+    }
+  ]
+}

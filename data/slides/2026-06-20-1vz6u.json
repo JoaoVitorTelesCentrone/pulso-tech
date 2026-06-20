@@ -1,0 +1,53 @@
+{
+  "title": "ITNet: A Revolução Matemática que Pode Unificar o Deep Learning e Redefinir a Economia da Arquitetura de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "ITNet: A Revolução Matemática que Pode Unificar o Deep Learning",
+      "subtext": "Uma única operação para substituir CNNs, RNNs e Transformers — e redefinir a economia da IA",
+      "image_prompt": "Futuristic digital brain with glowing mathematical equations and neural network connections, dark background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 20 de junho de 2026, um paper no arXiv propôs a Transformada Integral Aprendível (ITNet), unificando as três grandes famílias de arquiteturas de deep learning em uma única operação matemática treinável.",
+      "highlight": "CNNs, RNNs e Transformers agora são casos especiais de uma mesma fórmula"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores demonstraram que convolução, atenção e recorrência podem ser expressas como variações de uma transformada integral parametrizada por uma rede neural. O kernel Kθ aprende qual viés indutivo aplicar — localidade, memória ou interação pareada — sem escolha prévia de arquitetura.",
+      "visual_hint": "Ícone de funil ou diagrama de Venn com três círculos se sobrepondo em um ponto central"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de IA está fragmentado em silos arquitetônicos. Empresas otimizam hardware e P&D para cada tipo de modelo. O ITNet promete reduzir custos de pesquisa, simplificar chips de IA e democratizar o acesso a modelos de fundação — startups podem competir com gigantes usando uma única abordagem.",
+      "visual_hint": "Gráfico de barras mostrando redução de custos ou ícone de chip de computador simplificado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "3 famílias de arquiteturas unificadas em 1 operação",
+        "1989: primeira CNN (LeCun) | 1986: primeiras RNNs | 2017: Transformers",
+        "Kernel treinável Kθ substitui escolha manual de viés indutivo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica de custos de P&D em arquiteturas de IA",
+        "Hardware simplificado: um kernel universal para GPUs, TPUs e NPUs",
+        "Democratização da pesquisa: startups competem com gigantes usando uma única abordagem"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O fim da era de 'escolher uma arquitetura' pode estar mais perto do que você imagina."
+    }
+  ]
+}
