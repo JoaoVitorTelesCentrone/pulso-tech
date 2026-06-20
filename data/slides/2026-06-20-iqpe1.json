@@ -1,0 +1,53 @@
+{
+  "title": "O Paradoxo do Controle de Exportação de IA: Por Que o Bloqueio ao Mythos da Anthropic Pode Ser a Repetição de um Erro de 30 Anos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Paradoxo do Controle de Exportação de IA",
+      "subtext": "Por que bloquear o Mythos da Anthropic pode ser a repetição de um erro de 30 anos",
+      "image_prompt": "A futuristic digital fortress with a glowing AI core, surrounded by fragmented code and a subtle red warning glow, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O governo dos EUA bloqueou a exportação do Mythos, modelo de segurança cibernética da Anthropic, sob alegação de ameaça à segurança nacional. A decisão ecoa um padrão de três décadas: tentar conter tecnologias sensíveis via controle de exportação.",
+      "highlight": "Do PGP ao Mythos: 30 anos de tentativas frustradas de conter o fluxo de software"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Mythos é um modelo de IA capaz de automatizar ataques e defesas cibernéticas. O governo dos EUA o bloqueou, mas o modelo já foi treinado — seus pesos podem ser copiados, destilados ou recriados por competidores globais.",
+      "visual_hint": "Ícone de cadeado quebrado com um símbolo de nuvem e setas de replicação ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se o PGP vazou para o mundo inteiro nos anos 1990, um modelo de IA replicável digitalmente é ainda mais difícil de conter. O bloqueio pode acelerar o desenvolvimento de concorrentes em outras jurisdições, fragmentando o mercado de segurança cibernética baseada em IA.",
+      "visual_hint": "Mapa-múndi com pontos de luz se espalhando a partir de um ponto central bloqueado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "1991: PGP é classificado como 'munição' pelo governo dos EUA",
+        "2010-2020: Pegasus e spyware israelenses vazam para governos autoritários mesmo com restrições",
+        "2026: Mythos é bloqueado, mas técnicas e pesos podem ser replicados com custo marginal zero"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Aceleração de modelos concorrentes em China, Europa e outros polos de IA",
+        "Fragmentação do mercado global de segurança cibernética baseada em IA",
+        "Criação de um mercado negro de pesos e técnicas de modelos de IA ofensivos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O controle de exportação de IA: uma estratégia ancorada em premissas que a própria internet tornou obsoletas."
+    }
+  ]
+}

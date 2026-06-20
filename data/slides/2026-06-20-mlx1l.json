@@ -1,0 +1,53 @@
+{
+  "title": "A Década Esquecida: Como a Engenharia de Sistemas Está se Tornando o Gargalo Oculto da Economia da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Década Esquecida: O Gargalo Oculto da Economia da IA",
+      "subtext": "Enquanto o mercado corre atrás de benchmarks, a engenharia de sistemas se torna o verdadeiro limite para o ROI da IA.",
+      "image_prompt": "A massive, intricate clockwork mechanism with glowing AI circuits intertwined, partially rusted and forgotten, dark tech atmosphere, cinematic lighting, 4k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um artigo do arXiv revisita um marco silencioso de 2020: a edição mais baixada do INCOSE INSIGHT sobre IA e Engenharia de Sistemas. O que parecia um tiro no escuro hoje revela a crise de confiança silenciosa da IA corporativa.",
+      "highlight": "Empresas gastam bilhões em IA, mas o ROI continua elusivo. O problema não são os modelos — é a integração."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A comunidade de engenharia de sistemas está redespertando. O workshop anual sobre IA e SE já atrai mais de 250 participantes. A tese é dupla: como a IA pode transformar a engenharia de sistemas (AI4SE) e como a engenharia de sistemas pode estruturar o desenvolvimento de IA confiável (SE4AI).",
+      "visual_hint": "Ícone de engrenagem dupla com um cérebro digital no centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem engenharia de sistemas, a IA corporativa permanece um conjunto de demos impressionantes que quebram na primeira mudança de requisito. A disciplina que projeta, integra e gerencia sistemas complexos ao longo do ciclo de vida é o elo perdido para escalar IA com previsibilidade e auditabilidade.",
+      "visual_hint": "Gráfico de linha mostrando investimento em IA subindo e ROI estagnado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Edição especial de 2020 do INCOSE INSIGHT se tornou a mais baixada da história da publicação.",
+        "Workshop anual da comunidade resultante atrai mais de 250 participantes — crescimento que reflete urgência.",
+        "Empresas gastam bilhões em inferência, fine-tuning e agentes, mas ROI corporativo continua elusivo."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Métodos tradicionais de integração precisam ser radicalmente repensados para sistemas que aprendem, alucinam e evoluem.",
+        "SE4AI se torna a disciplina crítica para confiabilidade em produção — não apenas para modelos, mas para sistemas completos.",
+        "A próxima década será definida por quem conseguir integrar IA de forma previsível, auditável e escalável."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A engenharia de sistemas não é um detalhe técnico — é o novo campo de batalha da economia da IA."
+    }
+  ]
+}

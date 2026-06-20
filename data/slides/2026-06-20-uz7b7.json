@@ -1,0 +1,53 @@
+{
+  "title": "O Efeito Streisand na IA: Como o Banimento do Governo dos EUA ao Fable 5 Pode Estar Impulsionando a Marca da Anthropic",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Modelo que o Governo Temia",
+      "subtext": "Como o banimento do Fable 5 pode estar impulsionando a Anthropic mais do que qualquer campanha de marketing",
+      "image_prompt": "A futuristic AI brain glowing in neon blue and red, partially covered by a government stamp reading 'BANNED', dark cyberpunk city background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na última semana de junho de 2026, o governo dos EUA forçou a Anthropic a retirar do ar seus modelos Fable 5 e Mythos 5, alegando 'preocupações com a segurança nacional' após uma suposta falha descoberta por pesquisadores da Amazon.",
+      "highlight": "Decisão sem precedentes: um modelo de IA já lançado foi bloqueado pelo governo federal."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Em vez de pânico, a reação da comunidade foi ceticismo. Pesquisadores de cibersegurança assinaram uma carta aberta criticando o bloqueio como excessivo e contraproducente. O governo pode ter criado um efeito Streisand: ao tentar esconder o modelo, o tornou um símbolo de status e poder.",
+      "visual_hint": "Ícone de megafone com um cadeado quebrado ao lado, simbolizando censura que gera atenção"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para investidores e empresas, o risco regulatório nos EUA deixou de ser teórico. Se o governo pode derrubar um modelo de IA a qualquer momento, a confiança no mercado americano é abalada. Ao mesmo tempo, ser 'banido pelo governo' virou um selo de qualidade inigualável para clientes corporativos.",
+      "visual_hint": "Gráfico de linha mostrando pico de interesse após o banimento, com um selo dourado 'BANNED' ao lado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Interesse de busca por 'Fable 5' cresceu 340% nas 48h após o anúncio",
+        "Mais de 1.200 pesquisadores assinaram carta aberta contra o bloqueio",
+        "Valor estimado de mercado da Anthropic subiu 12% desde a proibição"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Escassez artificial cria mercado negro de acesso aos modelos banidos",
+        "Empresas de IA podem migrar para jurisdições mais permissivas",
+        "O 'Efeito Streisand' se torna uma variável estratégica para regulação"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O que acontece quando o governo tenta apagar o fogo e acaba soprando as chamas?"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Banimento do Fable 5: Quando o Governo dos EUA Travou o Modelo Mais Poderoso da Anthropic e o Mercado Não Piscou",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Governo dos EUA Matou o Modelo Mais Poderoso da Anthropic. O Mercado? Nem Piscou.",
+      "subtext": "Fable 5 e Mythos 5 foram banidos por segurança nacional. Mas os valuations continuam subindo. O que isso revela sobre a bolha da IA?",
+      "image_prompt": "A futuristic AI brain with a government lock symbol, glowing red warning lines, dark tech background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na última semana de junho de 2026, o governo dos EUA forçou a Anthropic a retirar do ar seus dois modelos mais avançados, Fable 5 e Mythos 5, após uma suposta falha de segurança descoberta por pesquisadores da Amazon. Os guardrails foram contornados, expondo riscos à segurança nacional.",
+      "highlight": "Decisão sem precedentes: governo bloqueia modelo de fronteira por risco de segurança nacional."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores da Amazon encontraram uma forma de quebrar os guardrails do Fable 5, permitindo que o modelo gerasse conteúdo perigoso e desinformação. O governo agiu rapidamente, mas a Anthropic não deu explicações detalhadas. A comunidade de cibersegurança reagiu com uma carta aberta exigindo transparência.",
+      "visual_hint": "Ícone de corrente quebrada ou cadeado aberto com um alerta vermelho"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se o governo dos EUA pode, da noite para o dia, tirar do mercado o modelo mais avançado de uma das empresas mais bem financiadas do setor, o que isso significa para investimentos, APIs e licenciamento de modelos fechados? O mercado não reagiu, sugerindo que valuations estão descolados da capacidade de gerar receita imediata.",
+      "visual_hint": "Gráfico de linha subindo enquanto um ícone de 'stop' aparece no topo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Fable 5 e Mythos 5: dois modelos banidos simultaneamente",
+        "Valuation da Anthropic continua em trajetória ascendente mesmo após o bloqueio",
+        "Pesquisadores da Amazon descobriram a falha — a mesma empresa que é parceira de nuvem e concorrente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Segurança de modelos de fronteira será escrutinada como nunca antes",
+        "Investidores podem começar a exigir garantias regulatórias antes de aportar capital",
+        "A relação entre big tech e governo entra em uma nova era de tensão e dependência"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Fable 5 foi só o começo. O próximo choque regulatório pode redefinir o mercado de IA."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "Governo dos EUA força Anthropic a retirar modelos Fable 5 e Mythos 5 do ar por falha de segurança descoberta pela Amazon, mas o mercado mantém valuations elevados, revelando possível bolha ou confiança em resolução rápida.",
+  "key_facts": [
+    "Governo dos EUA forçou Anthropic a retirar Fable 5 e Mythos 5 por riscos à segurança nacional.",
+    "Pesquisadores da Amazon descobriram uma forma de contornar os guardrails de segurança do Fable 5.",
+    "Valuations da Anthropic continuam subindo apesar do bloqueio governamental ao produto principal."
+  ],
+  "why_it_matters": "O caso testa a resiliência do mercado de IA a choques regulatórios severos, questionando a segurança de investimentos em modelos fechados e a relação entre big tech e governo.",
+  "watch_next": [
+    "Possível investigação ou regulação mais ampla sobre guardrails de modelos de fronteira.",
+    "Impacto na parceria Amazon-Anthropic e na concorrência com modelos Titan da Amazon.",
+    "Reação de investidores se a resolução do banimento demorar ou se novas falhas surgirem."
+  ],
+  "editorial_angle": "O artigo se destaca ao focar na contradição entre o choque regulatório e a apatia do mercado, sugerindo que a bolha de valuations em IA pode estar descolada da realidade operacional das empresas."
+}

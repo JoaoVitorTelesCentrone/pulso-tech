@@ -1,0 +1,16 @@
+{
+  "tldr": "Um paper do arXiv revisita dez anos de interseção entre IA e engenharia de sistemas, revelando que a falta de integração confiável de IA em sistemas complexos é o verdadeiro gargalo para o ROI corporativo, não a qualidade dos modelos.",
+  "key_facts": [
+    "O artigo referencia a edição especial de março de 2020 do INCOSE INSIGHT sobre IA e Engenharia de Sistemas, que se tornou a mais baixada da história da publicação.",
+    "A comunidade de pesquisa resultante atrai mais de 250 inscritos em seu workshop anual.",
+    "O paper divide a interseção em duas vertentes: AI4SE (IA para automatizar engenharia de sistemas) e SE4AI (engenharia de sistemas para tornar IA confiável).",
+    "A tese central é que a IA corporativa falha não pelos modelos, mas pela incapacidade de integrá-los em sistemas previsíveis, auditáveis e escaláveis."
+  ],
+  "why_it_matters": "Enquanto o mercado foca em benchmarks e valuation, este artigo expõe o gargalo oculto da economia da IA: a engenharia de sistemas. Para leitores de IA/Tech, ele sinaliza que o próximo grande desafio — e oportunidade — não está em modelos maiores, mas em como projetar sistemas que integrem IA de forma confiável em produção, impactando diretamente o ROI corporativo.",
+  "watch_next": [
+    "Aumento de investimento em startups de SE4AI, focadas em ferramentas de rastreabilidade e verificação para sistemas de IA.",
+    "Grandes empresas de tecnologia começando a contratar engenheiros de sistemas tradicionais para equipes de IA, sinalizando uma mudança de prioridades.",
+    "Publicação de novos frameworks ou padrões da indústria para integração de IA em sistemas complexos, inspirados nos princípios do INCOSE."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um paper acadêmico aparentemente árido a uma crise de mercado real e silenciosa: a falta de ROI da IA corporativa. Em vez de focar em hype de modelos, ele oferece uma análise contraintuitiva e baseada em dados, posicionando a engenharia de sistemas como o elo perdido entre demos impressionantes e sistemas confiáveis em produção."
+}

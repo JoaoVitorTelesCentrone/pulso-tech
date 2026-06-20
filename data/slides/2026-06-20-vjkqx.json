@@ -1,0 +1,54 @@
+{
+  "title": "O Silêncio de Hollywood: Por Que o Filme de Sam Altman Caiu e o Que Isso Revela Sobre o Mercado de Narrativas de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Silêncio de Hollywood",
+      "subtext": "Por que o filme de Sam Altman foi cancelado — e o que isso revela sobre o mercado de narrativas de IA",
+      "image_prompt": "A dark, cinematic movie theater with a blank screen, neon lights flickering, a silhouette of a director's chair, moody blue and purple tones, tech noir atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Amazon MGM cancelou o filme 'Artificial', dirigido por Luca Guadagnino e estrelado por Andrew Garfield, que cobriria a demissão e reintegração de Sam Altman na OpenAI em novembro de 2023. O projeto estava em desenvolvimento há um ano com elenco de peso.",
+      "highlight": "US$ 80-120 milhões de orçamento estimado descartado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O cancelamento não é sobre qualidade de roteiro. É sobre timing estratégico: a OpenAI se prepara para um dos maiores IPOs da história da tecnologia. Uma narrativa cinematográfica revisitando os dias mais turbulentos da empresa não é o tipo de publicity que um prospecto de IPO pede.",
+      "visual_hint": "Ícone de claquete de cinema com cifrão e gráfico de IPO em queda"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A narrativa dominante sobre IA está mudando de 'celebração' para 'escrutínio'. Hollywood é um termômetro de percepção pública. Quando um estúdio do porte da Amazon MGM abandona um projeto sobre a figura central da indústria, o apetite por narrativas heroicas sobre líderes de tecnologia está diminuindo.",
+      "visual_hint": "Termômetro com indicador passando de 'herói' para 'controvérsia'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 80-120M: orçamento estimado do filme cancelado",
+        "5 dias: período caótico de novembro de 2023 retratado no roteiro",
+        "1 ano: tempo de desenvolvimento do projeto antes do cancelamento",
+        "IPO iminente: OpenAI se prepara para um dos maiores IPOs da história tech"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Vale do Silício perde controle sobre a narrativa pública de IA",
+        "Estúdios priorizarão timing estratégico sobre potencial artístico",
+        "Concorrência indireta (Amazon vs OpenAI) influencia decisões de conteúdo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O mercado de narrativas de IA está sendo reescrito — e o próximo capítulo pode surpreender você."
+    }
+  ]
+}

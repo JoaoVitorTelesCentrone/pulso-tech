@@ -1,0 +1,53 @@
+{
+  "title": "John Jumper na Anthropic: O Prêmio Nobel da IA Estrutural que Pode Redefinir a Economia da Descoberta de Medicamentos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Nobel que Troca o DeepMind pela Anthropic",
+      "subtext": "John Jumper levou o AlphaFold ao Prêmio Nobel. Agora, ele pode redefinir a descoberta de medicamentos.",
+      "image_prompt": "A futuristic DNA helix made of glowing blue light, merging with abstract neural network nodes, dark background, high tech, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "John Jumper, criador do AlphaFold e Prêmio Nobel de Química 2024, deixou o Google DeepMind para se juntar à Anthropic. A notícia viralizou em horas e pegou o mercado de biotech de surpresa.",
+      "highlight": "Custo de determinar estrutura de proteína caiu de centenas de milhares de dólares para perto de zero."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Jumper não é um engenheiro comum: é um dos poucos cientistas que mudou o curso de uma disciplina inteira. Sua ida para a Anthropic sinaliza que a empresa quer dominar a IA científica, não apenas modelos de linguagem.",
+      "visual_hint": "Ícone de um cérebro com uma estrutura molecular dentro, representando IA + biologia"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Anthropic ganha credibilidade científica institucional e acesso a um novo paradigma: a 'hipótese gerada por IA'. Isso pode acelerar em anos a descoberta de novos medicamentos e reposicionar a empresa como plataforma de IA para ciência.",
+      "visual_hint": "Gráfico de linha ascendente mostrando redução de tempo em P&D farmacêutico"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 2 trilhões: valor do mercado global de P&D farmacêutico",
+        "50 anos: tempo que o problema da previsão de estruturas de proteínas levou para ser resolvido",
+        "Centenas de milhões: estruturas de proteínas previstas pelo AlphaFold"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Anthropic deixa de ser só uma empresa de LLMs e vira concorrente direta do DeepMind e Isomorphic Labs",
+        "Mercado de talentos em IA atinge novo patamar: agora big techs disputam cientistas laureados com Nobel",
+        "Modelos de fundação confiáveis podem guiar experimentos laboratoriais, abrindo mercado de dezenas de bilhões"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A fusão entre IA e biologia estrutural está apenas começando. O próximo capítulo será escrito por quem entende o código da vida."
+    }
+  ]
+}
