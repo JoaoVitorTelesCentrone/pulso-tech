@@ -1,0 +1,17 @@
+{
+  "tldr": "Um paper do arXiv mostra que sistemas multi-agente de IA, onde modelos especializados deliberam entre si, podem revolucionar o setor jurídico ao oferecer raciocínio legal robusto e de baixo custo, criando um mercado de US$ 50 bilhões e ameaçando o modelo de cobrança por hora dos escritórios de advocacia.",
+  "key_facts": [
+    "Paper do arXiv investiga sistemas multi-agente (MAS) baseados em LLMs para aplicações jurídicas.",
+    "Agentes especializados (pesquisa, argumentação, verificação) deliberam entre si para chegar a conclusões legais.",
+    "Resultados iniciais mostram redução de alucinações e argumentos mais robustos que advogados juniores.",
+    "Mercado global de serviços jurídicos movimenta mais de US$ 800 bilhões anuais, mas acesso à justiça é restrito.",
+    "Custo de um advogado nos EUA pode chegar a US$ 1.000 por hora; 80% dos pobres não resolvem problemas legais básicos."
+  ],
+  "why_it_matters": "A notícia importa porque sinaliza a transição dos LLMs de ferramentas de busca para agentes de raciocínio autônomo, com potencial de democratizar o acesso à justiça e desestruturar o modelo de negócios de um dos maiores setores da economia global, levantando questões regulatórias e de responsabilidade civil inéditas.",
+  "watch_next": [
+    "Regulamentação de responsabilidade civil para erros cometidos por agentes de IA jurídicos.",
+    "Reação dos grandes escritórios de advocacia e associações de classe contra a adoção de MAS.",
+    "Surgimento de startups de legal-tech focadas em deliberação multi-agente para nichos específicos (trabalhista, consumidor)."
+  ],
+  "editorial_angle": "O artigo se diferencia por não tratar a IA jurídica como mera automação de tarefas, mas como um substituto do raciocínio jurídico humano em larga escala, apoiado em evidências técnicas de um paper acadêmico. Foi escolhido por conectar inovação em IA de ponta (multi-agente) a um impacto econômico e social concreto e imenso, indo além do hype de modelos de fronteira."
+}

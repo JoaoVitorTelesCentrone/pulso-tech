@@ -1,0 +1,53 @@
+{
+  "title": "Otimização de Prompts por Reflexão Contrastiva: O Novo Método que Pode Economizar Bilhões em Inferência de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Otimização de Prompts por Reflexão Contrastiva",
+      "subtext": "O método que pode economizar bilhões em inferência de agentes de IA — sem fine-tuning, sem engenheiros de prompt.",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways, contrasting reflections in a dark tech environment, blue and neon orange highlights, abstract AI visualization"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA estão se tornando centrais em sistemas de recuperação de informação, suporte ao cliente e automação. O gargalo invisível não está nos modelos, mas nos prompts que os controlam — e o custo de otimizá-los manualmente escala na casa dos bilhões.",
+      "highlight": "O gargalo invisível da economia dos agentes de IA não está nos modelos, mas nos prompts."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo artigo do arXiv propõe a Reflexão Contrastiva: um ciclo iterativo onde o agente compara suas saídas atuais com versões anteriores, identifica divergências e ajusta o prompt de forma autônoma. O código é open source e o método reduz drasticamente chamadas de API.",
+      "visual_hint": "Ícone de loop ou ciclo de feedback com setas contrastantes (antes/depois)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas gastam fortunas em engenheiros de prompt e iterações manuais. Cada tentativa de melhoria envolve múltiplas execuções e comparações. A Reflexão Contrastiva automatiza esse ciclo, cortando custos de inferência e aumentando a confiabilidade dos agentes — crucial em saúde, finanças e setores regulados.",
+      "visual_hint": "Gráfico de barras mostrando custo de otimização manual vs. automatizada"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de inferência é o maior gargalo econômico da indústria de agentes de IA",
+        "Otimização manual de prompts escala linearmente com o número de agentes e tarefas",
+        "Economia potencial de milhões de dólares por mês para empresas com milhares de agentes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de IA poderão se auto-otimizar durante a inferência, sem intervenção humana",
+        "Redução drástica de alucinações e inconsistências em setores críticos",
+        "Novo padrão de eficiência econômica para implantações em larga escala"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da otimização de prompts é autônomo. E ele já chegou."
+    }
+  ]
+}

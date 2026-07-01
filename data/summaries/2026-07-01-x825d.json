@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper apresenta HASTE, um framework multi-agente hierárquico que acumula conhecimento de competições de ML em três níveis (global, domínio, competição) para reduzir retrabalho e economizar até 40% do compute, atacando o desperdício de bilhões de dólares em engenharia de ML.",
+  "key_facts": [
+    "HASTE organiza conhecimento em três tiers hierárquicos: global, domínio e competição.",
+    "O sistema reduz em até 40% o número de tentativas para atingir score competitivo em benchmarks.",
+    "Custo anual global de treinamento e inferência de IA ultrapassa US$ 100 bilhões, com grande parte desperdiçada em retrabalho.",
+    "Mais de 500 competições de ML ativas por ano em plataformas como Kaggle e DrivenData."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o HASTE aborda um gargalo estrutural ignorado: a ausência de memória institucional entre projetos de ML. Se validado, pode redefinir a economia da engenharia de ML, transformando descobertas técnicas em ativos reutilizáveis e reduzindo drasticamente o custo de entrada para novos desafios.",
+  "watch_next": [
+    "Validação independente dos resultados do HASTE em competições reais e ambientes de produção.",
+    "Adoção do framework por grandes players (Google, OpenAI, Meta) ou surgimento de alternativas concorrentes.",
+    "Impacto no mercado de trabalho: engenheiros de ML podem precisar se especializar em curadoria de conhecimento hierárquico."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico aparentemente nichado (reaproveitamento de conhecimento em competições de ML) a um custo macroeconômico bilionário, oferecendo uma solução hierárquica elegante que ressoa com a busca da indústria por eficiência e sustentabilidade. Foi escolhido por abordar um tema quente (sistemas multi-agente) com um viés prático de economia de recursos."
+}

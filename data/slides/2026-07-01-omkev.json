@@ -1,0 +1,53 @@
+{
+  "title": "O Júri Silencioso: Como Agentes de IA Estão Redefinindo a Economia da Justiça e Criando um Mercado de US$ 50 Bilhões em Legal Tech",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Júri Silencioso",
+      "subtext": "Como agentes de IA estão redefinindo a economia da justiça e criando um mercado de US$ 50 bilhões em Legal Tech",
+      "image_prompt": "A futuristic courtroom with multiple holographic AI agents deliberating around a central digital gavel, dark blue and neon purple lighting, cinematic, high detail"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado debate o próximo modelo de fronteira, um paper do arXiv expõe o movimento mais silencioso e potencialmente mais disruptivo da IA: agentes autônomos deliberando sobre questões legais.",
+      "highlight": "US$ 50 bilhões em novo mercado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores propõem sistemas multi-agente (MAS) baseados em LLMs que deliberam entre si para resolver questões jurídicas. Cada agente tem um papel especializado: pesquisa, argumentação, verificação de fatos. Juntos, formam um 'júri de máquinas' que reduz alucinações e produz argumentos mais robustos que advogados juniores.",
+      "visual_hint": "Ícone de múltiplos robôs em círculo com balões de diálogo jurídico"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O setor legal movimenta US$ 800 bilhões anuais, mas o acesso à justiça é um privilégio. Agentes de IA podem oferecer aconselhamento jurídico de qualidade comparável a um advogado pleno a custo marginal próximo de zero, democratizando o acesso e desafiando o modelo de cobrança por hora dos escritórios.",
+      "visual_hint": "Gráfico de balança com um lado pesado de moedas e outro leve de pessoas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 800 bilhões: mercado global de serviços jurídicos",
+        "US$ 1.000/hora: custo médio de um advogado nos EUA",
+        "80%: pessoas de baixa renda sem acesso a soluções legais básicas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Substituição do raciocínio jurídico humano em larga escala",
+        "Criação de um novo mercado de US$ 50 bilhões em Legal Tech",
+        "Dilema regulatório: quem é responsável por erros de agentes de IA?"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O júri silencioso já está deliberando. E você, vai ficar de fora?"
+    }
+  ]
+}

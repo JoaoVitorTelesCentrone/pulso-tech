@@ -1,0 +1,53 @@
+{
+  "title": "O Fim do Email como Conhecemos: Notion Mata App de Email e a Economia dos Agentes de IA Engole Mais um Mercado",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Email Morreu. Os Agentes Assumiram.",
+      "subtext": "Notion encerra seu app de email e aposta tudo em IA que gerencia sua caixa de entrada por você",
+      "image_prompt": "A futuristic digital graveyard with old email icons fading into glowing AI agents, dark neon blue and purple tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 25 de junho de 2026, a Notion anunciou o fim do Notion Mail (antigo Skiff Mail). A justificativa: a maioria dos usuários prefere agentes de IA a gerenciar suas caixas de entrada. O movimento sinaliza uma transformação estrutural no mercado de produtividade.",
+      "highlight": "\"A maioria dos usuários prefere agentes de IA a gerenciar suas caixas de entrada\" — Notion"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Notion está eliminando o cliente de email tradicional e migrando usuários para uma experiência baseada em agentes de IA. A IA não apenas organiza — ela toma ações em nome do usuário, quebrando o loop humano de decisão que resistiu por décadas.",
+      "visual_hint": "Ícone de robô substituindo um envelope de carta"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O email é um dos últimos redutos da interação humano-computador. Se a Notion validar esse modelo, Google, Microsoft e Apple terão que responder — ou perder relevância em um dos principais pontos de contato com o usuário. O paradigma 'agente como interface' deixa de ser nicho.",
+      "visual_hint": "Três logos (Gmail, Outlook, Apple Mail) com um ponto de interrogação"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Notion avaliada em mais de US$ 10 bilhões aposta contra o modelo tradicional de email",
+        "Mercado de clientes de email vale dezenas de bilhões em receita de assinaturas e publicidade",
+        "Custo de operar agentes de IA é ordens de magnitude maior que servidores IMAP tradicionais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Usuários criam dependência do agente — migrar para outro app exige treinar um novo do zero",
+        "Dados de email viram combustível para fine-tuning de modelos proprietários da Notion",
+        "Google e Microsoft sob pressão para canibalizar seus próprios produtos de email"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do trabalho não será gerenciado por humanos — será delegado a agentes. Você está pronto?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Notion encerra seu app de email (Skiff Mail) para focar em agentes de IA que gerenciam caixas de entrada, sinalizando o fim do modelo tradicional de cliente de email.",
+  "key_facts": [
+    "Notion anunciou o encerramento do Notion Mail (antigo Skiff Mail) em 25 de junho de 2026.",
+    "A justificativa é que a maioria dos usuários prefere agentes de IA a gerenciar suas caixas de entrada.",
+    "Usuários serão migrados para uma experiência baseada em agentes que tomam ações em nome do usuário.",
+    "A Notion é avaliada em mais de US$ 10 bilhões."
+  ],
+  "why_it_matters": "A decisão da Notion valida o modelo de 'agente como interface' para o consumidor médio, ameaçando a receita de gigantes como Microsoft, Google e Apple no mercado de email, e sinaliza uma transformação estrutural na economia de produtividade, onde dados proprietários e dependência do agente criam novos fossos competitivos.",
+  "watch_next": [
+    "Google e Microsoft anunciarem respostas estratégicas, como integração mais profunda de agentes no Gmail e Outlook.",
+    "Outras startups de produtividade seguirem o movimento da Notion, canibalizando mercados de ferramentas tradicionais.",
+    "Debate regulatório sobre privacidade e posse de dados quando agentes de IA processam emails pessoais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na lógica econômica por trás da decisão (custo de inferência vs. engajamento e dados proprietários) e no timing estratégico, em vez de apenas relatar o encerramento do produto, oferecendo uma análise de mercado que conecta o movimento da Notion a tendências maiores de agentes de IA."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Paradoxo do Feedback: Por Que o Método de Melhoria de Agentes de IA Pode Estar Queimando Bilhões em Inferência",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Paradoxo do Feedback: Bilhões Queimados em Inferência?",
+      "subtext": "O método de melhoria de agentes de IA pode ser apenas ruído caro — e o mercado de US$ 40 bilhões pode estar pagando por uma ilusão de progresso.",
+      "image_prompt": "A futuristic AI agent network with glowing feedback loops, but with cracks and burning dollar signs, dark tech style, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo estudo do arXiv (2606.30774) expõe um gargalo silencioso: o feedback em linguagem natural, usado para melhorar agentes de IA, pode ser apenas ruído estatístico. A indústria celebra 'melhorias' que, na verdade, são fruto de múltiplas tentativas aleatórias.",
+      "highlight": "O que observamos como melhoria pode ser apenas o resultado de múltiplas tentativas aleatórias."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores descobriram que, em interações multi-turno, a melhoria atribuída ao feedback pode ser explicada pelo 'resampling' — a chance de acertar por sorte ao tentar de novo. O estudo isola o efeito real do feedback e sugere que grande parte do progresso é, na verdade, ruído.",
+      "visual_hint": "Ícone de um loop de feedback quebrado, com setas circulares e um ponto de interrogação"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como OpenAI, Anthropic, Google e Microsoft já incorporam loops de feedback como feature central. Se a premissa for frágil, todo o modelo de negócios de plataformas de agentes e ferramentas de fine-tuning por interação precisa ser repensado. O custo de inferência para cada rodada de feedback não é trivial.",
+      "visual_hint": "Gráfico de barras mostrando o custo por chamada de API (US$ 0,01 a US$ 0,10) e o volume de interações"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA: US$ 40 bilhões até 2028 (Gartner)",
+        "Custo por interação multi-turno com feedback: US$ 0,01 a US$ 0,10 por chamada de API",
+        "Desperdício potencial: centenas de milhões de dólares anuais em escala empresarial"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Sistemas de avaliação 'LLM-as-Judge' podem estar contaminados por métricas infladas",
+        "Decisões de produto e investimento baseadas em ilusões de progresso",
+        "Necessidade de repensar loops de feedback e métodos de fine-tuning por interação"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O feedback está queimando bilhões? Descubra como separar o ruído do verdadeiro progresso."
+    }
+  ]
+}

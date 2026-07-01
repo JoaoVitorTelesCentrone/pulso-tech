@@ -1,0 +1,53 @@
+{
+  "title": "Biomarcadores Digitais por Acelerometria: O Benchmark que Pode Redefinir a Economia da Medicina Preventiva com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Benchmark que Pode Redefinir a Economia da Medicina Preventiva com IA",
+      "subtext": "Dados de acelerometria populacional expõem fragilidades e desbloqueiam um mercado de US$ 30 bilhões",
+      "image_prompt": "Futuristic digital human heart with glowing data streams and wearable sensors, dark blue background, high tech, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado de IA em saúde foca em diagnósticos por imagem e processamento de linguagem natural, um novo benchmark silencioso — baseado em dados de acelerometria populacional — promete desbloquear um mercado de US$ 30 bilhões em medicina preventiva.",
+      "highlight": "US$ 30 bilhões em medicina preventiva até 2030"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o NHANES Accelerometry Cardiometabolic Benchmark, um conjunto de dados e métricas padronizados para avaliar modelos de machine learning na predição de risco cardiometabólico a partir de dados de acelerometria de smartwatches e smartphones.",
+      "visual_hint": "Ícone de acelerômetro com gráfico de batimento cardíaco"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Modelos de IA treinados em dados de ensaios clínicos controlados não se traduzem para populações reais com diversidade étnica, socioeconômica e etária. Este benchmark força modelos a lidar com dados reais e quantificar sua incerteza, criando um padrão ouro para uso clínico.",
+      "visual_hint": "Gráfico de barras comparando acurácia em populações controladas vs. reais"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de biomarcadores digitais projetado para US$ 30 bi até 2030",
+        "Benchmark usa dados do NHANES, programa de pesquisa populacional mais robusto dos EUA desde os anos 1960",
+        "Modelos podem cair de 95% para 60% de acurácia ao sair de dados controlados para populações reais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Generalização populacional: modelos validados em dados reais com diversidade étnica e etária",
+        "Incerteza calibrada: médicos poderão confiar em recomendações com níveis de confiança reportados",
+        "Justiça entre subgrupos: métricas separadas por idade, sexo, etnia e nível socioeconômico"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da medicina preventiva está nos dados que você já carrega no pulso."
+    }
+  ]
+}

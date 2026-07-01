@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo método de otimização de prompts, Reflexão Contrastiva, automatiza a correção de prompts durante a inferência, prometendo reduzir drasticamente os custos de chamadas de API para agentes de IA em escala industrial.",
+  "key_facts": [
+    "Artigo do arXiv propõe 'Reflexão Contrastiva' para otimização iterativa de prompts.",
+    "Método compara saídas atuais com versões anteriores para ajustar prompts autonomamente.",
+    "Foco em reduzir o número de chamadas de API e, consequentemente, o custo de inferência.",
+    "Código do método foi disponibilizado como open source."
+  ],
+  "why_it_matters": "O custo de inferência é o maior gargalo econômico para empresas que implantam agentes de IA em produção. Automatizar a otimização de prompts pode gerar economias de milhões de dólares por mês e aumentar a confiabilidade dos agentes, reduzindo riscos em setores críticos como saúde e finanças.",
+  "watch_next": [
+    "Adoção do método por plataformas de agentes de IA como LangChain ou AutoGPT.",
+    "Comparações de custo-benefício entre Reflexão Contrastiva e fine-tuning tradicional.",
+    "Impacto regulatório: como prompts otimizados automaticamente afetam a auditoria de decisões de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no custo de inferência como problema central, em vez de apenas performance. Ele conecta uma inovação técnica (otimização de prompts) a um impacto financeiro direto e escalável, tornando a notícia relevante tanto para CTOs quanto para investidores em IA."
+}

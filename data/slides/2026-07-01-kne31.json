@@ -1,0 +1,53 @@
+{
+  "title": "LearnStop: O Algoritmo que Pode Economizar Bilhões ao Ensinar Modelos de IA Quando Parar de Pensar",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A heresia lucrativa: saber quando parar de pensar",
+      "subtext": "LearnStop: o algoritmo que pode economizar bilhões ao ensinar modelos de IA a parar de pensar no momento certo",
+      "image_prompt": "A futuristic AI brain with a glowing stop sign in the center, digital circuits fading into darkness, neon blue and purple tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de IA estão cada vez maiores e mais profundos, gerando cadeias de raciocínio extensas mesmo para problemas triviais. Cada token extra custa energia, latência e dinheiro — e o mercado de inferência já ultrapassa US$ 100 bilhões anuais.",
+      "highlight": "US$ 100 bilhões anuais em inferência de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O LearnStop é um mecanismo de parada antecipada que aprende uma política de custo-benefício para interromper a computação. Diferente de limiares fixos, ele decide quando parar com base no custo real de cada token adicional gerado.",
+      "visual_hint": "Ícone de um cérebro com um cronômetro sendo pausado no momento exato"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para desenvolvedores e gestores de infraestrutura, a era do 'tokenmaxxing' — otimizar apenas para precisão ignorando custo — está com os dias contados. Eficiência computacional se torna um diferencial competitivo tão importante quanto acurácia.",
+      "visual_hint": "Gráfico de barras comparando custo vs. precisão, com uma seta indicando o ponto ótimo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "LearnStop reduz custo de inferência em 10-20% sem degradação proporcional de qualidade",
+        "Economia potencial de dezenas de bilhões de dólares anuais no mercado de IA",
+        "Método não precisa de acesso a estados ocultos do modelo — funciona via API"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Modelos de raciocínio serão projetados para serem 'conscientes do custo' de suas operações",
+        "A abordagem de 'pensar mais' será reservada apenas para os casos que realmente se beneficiam",
+        "Novas métricas de eficiência (custo por acerto) se tornarão padrão na indústria"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é pensar mais — é pensar melhor. E saber a hora de parar."
+    }
+  ]
+}

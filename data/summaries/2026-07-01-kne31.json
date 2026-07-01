@@ -1,0 +1,14 @@
+{
+  "tldr": "O paper do arXiv propõe o LearnStop, um algoritmo de parada antecipada que aprende quando interromper o raciocínio de modelos de IA, reduzindo custos de inferência sem perda proporcional de qualidade.",
+  "key_facts": [
+    "LearnStop é um mecanismo de early exit que não depende de estados ocultos do modelo, apenas dos tokens gerados.",
+    "O algoritmo aprende uma política de parada baseada no custo de cada token adicional, em vez de limiares fixos.",
+    "O estudo mostra que 'pensar mais' só é benéfico para uma fração dos casos, e o custo do excesso de raciocínio pode superar o ganho de precisão."
+  ],
+  "why_it_matters": "Com o mercado de inferência de IA projetado para ultrapassar US$ 100 bilhões anuais, cortes de 10-20% no custo por instância representam economias bilionárias. O LearnStop desafia o dogma de que mais raciocínio é sempre melhor, abrindo caminho para modelos conscientes do custo de suas operações.",
+  "watch_next": [
+    "Adoção do LearnStop por provedores de API de LLMs (OpenAI, Anthropic, Google) como otimização padrão.",
+    "Surgimento de benchmarks que avaliam modelos não só por precisão, mas também por eficiência computacional (custo por acerto)."
+  ],
+  "editorial_angle": "O artigo se destaca por abordar a crise silenciosa de eficiência na IA, indo além da corrida por modelos maiores e propondo uma heresia lucrativa: saber quando parar de pensar. A análise conecta um paper técnico do arXiv a um impacto econômico concreto e imediato para o mercado de tecnologia."
+}

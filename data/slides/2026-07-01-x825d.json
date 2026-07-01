@@ -1,0 +1,53 @@
+{
+  "title": "HASTE: A Hierarquia de Habilidades que Pode Economizar Bilhões em Engenharia de ML",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "HASTE: O Fim do Recomeço na Engenharia de ML",
+      "subtext": "Um framework hierárquico que promete economizar bilhões ao evitar que agentes de ML reinventem a roda a cada competição.",
+      "image_prompt": "Futuristic digital brain with layered neural networks and glowing hierarchical nodes, dark blue and neon green tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria de IA queima bilhões de dólares anualmente em retrabalho técnico. Agentes de ML começam cada competição do zero, repetindo tentativa e erro que já foram resolvidos antes.",
+      "highlight": "US$ 100 bilhões anuais em custos de treinamento e inferência — e uma fatia enorme é desperdiçada."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Why Solve It Twice?' apresenta o HASTE — um sistema multi-agente hierárquico que acumula conhecimento em três níveis: global, domínio e competição. Agentes aprendem a aprender, reutilizando habilidades como um engenheiro humano faria ao longo da carreira.",
+      "visual_hint": "Ícone de três camadas empilhadas (global, domínio, competição) com setas de transferência de conhecimento"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O HASTE elimina a 'cold start' em novos desafios de ML. Em vez de começar do zero, o sistema consulta primeiro os tiers superiores — reduzindo drasticamente o tempo e o custo para atingir resultados competitivos.",
+      "visual_hint": "Gráfico de barras comparando 'tentativas necessárias' entre abordagem tradicional e HASTE"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de até 40% no número de tentativas para atingir score competitivo",
+        "Custo típico de uma competição de ML: US$ 50 mil a US$ 500 mil em GPU time",
+        "Mais de 500 competições ativas por ano em plataformas como Kaggle e DrivenData"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas podem reutilizar conhecimento entre projetos, cortando custos de P&D",
+        "Agentes de ML se tornam mais autônomos e eficientes, acelerando inovação",
+        "A indústria ganha uma 'memória institucional' que evita retrabalho em escala"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O HASTE não é só mais um framework — é o começo de uma nova era de eficiência em engenharia de ML."
+    }
+  ]
+}

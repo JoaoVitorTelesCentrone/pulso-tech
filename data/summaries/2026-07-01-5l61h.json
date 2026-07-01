@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo benchmark de biomarcadores digitais por acelerometria, baseado no NHANES, padroniza a avaliação de modelos de IA para predição de risco cardiometabólico, exigindo quantificação de incerteza e generalização populacional, visando destravar um mercado de US$ 30 bilhões em medicina preventiva.",
+  "key_facts": [
+    "Pesquisadores publicaram o NHANES Accelerometry Cardiometabolic Benchmark no arXiv, usando dados populacionais complexos dos EUA.",
+    "O benchmark exige que modelos de ML reportem quantificação de incerteza (epistêmica e aleatória), além da acurácia.",
+    "O mercado de biomarcadores digitais está projetado para ultrapassar US$ 30 bilhões até 2030.",
+    "Modelos atuais falham em generalização populacional e calibração de incerteza, gargalos que o benchmark ataca diretamente."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, este artigo sinaliza a maturação do campo de IA em saúde, saindo de datasets limpos e controlados para desafios reais de validação clínica, justiça algorítmica e confiabilidade — temas críticos para a adoção em larga escala de wearables e medicina preventiva.",
+  "watch_next": [
+    "Empresas de healthtech e big techs (Apple, Google, Fitbit) podem adotar o benchmark como padrão interno, influenciando regulações da FDA e ANS.",
+    "Surgimento de startups focadas em quantificação de incerteza para modelos clínicos, como spin-offs de universidades.",
+    "Debate ético sobre o uso de dados populacionais (NHANES) e o risco de viés algorítmico em subgrupos minoritários."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico (benchmark com quantificação de incerteza) a um impacto econômico concreto (mercado de US$ 30 bi) e a um gargalo real da indústria (viés de validação clínica), indo além do hype de IA em saúde para expor fragilidades técnicas e oportunidades de mercado."
+}
