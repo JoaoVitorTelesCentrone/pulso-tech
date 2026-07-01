@@ -1,0 +1,53 @@
+{
+  "title": "O System Card do Claude Sonnet 5: Mais Que Benchmarks, um Mapa da Nova Economia da Confiança em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Claude Sonnet 5: O Mapa da Nova Economia da Confiança em IA",
+      "subtext": "Por trás dos números de desempenho, a Anthropic redefine a métrica mais valiosa da indústria: a previsibilidade do comportamento de modelos de fronteira.",
+      "image_prompt": "Futuristic digital landscape with glowing neural network nodes and a central AI brain, dark blue and purple tones, cinematic lighting, high tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 30 de junho de 2026, a Anthropic lançou o Claude Sonnet 5, acompanhado de um system card de 40 páginas. Diferente de releases anteriores, o foco não está nos benchmarks de codificação ou matemática, mas sim na confiabilidade e previsibilidade do modelo para operações de alto risco.",
+      "highlight": "40 páginas de um novo padrão de qualidade: previsibilidade acima de performance bruta"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O system card do Claude Sonnet 5 detalha como a Anthropic está abordando problemas críticos de confiabilidade em sistemas multi-agente, robustez contra ataques de jailbreak e alinhamento em cenários de uso não supervisionado. É um manual técnico e econômico para construir IA que pode ser confiada em operações críticas.",
+      "visual_hint": "Ícone de escudo com checkmark, representando segurança e confiança"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de IA está em uma encruzilhada: a corrida por benchmarks superiores está dando lugar à preocupação fundamental de como garantir que um modelo se comporte de maneira previsível em sistemas críticos. O custo de uma falha de IA em produção pode ser catastrófico, e empresas estão dispostas a pagar um prêmio por previsibilidade.",
+      "visual_hint": "Gráfico de risco vs. recompensa, com seta apontando para 'confiança'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Melhoria de 34% na taxa de conclusão bem-sucedida de tarefas com mais de 10 etapas em comparação com o Sonnet 4",
+        "Nova bateria de testes focada em tarefas multi-etapa com dependências e recuperação de erros",
+        "Robustez contra ataques de injeção indireta de prompt, vulnerabilidade crítica para agentes que processam conteúdo da web"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A confiabilidade se torna o novo padrão de qualidade, superando a corrida por benchmarks",
+        "Empresas pagarão prêmio por modelos previsíveis, reduzindo risco operacional",
+        "A Anthropic posiciona o Sonnet 5 como o modelo para adoção empresarial em larga escala: automação, contratos, suporte e agentes autônomos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O system card do Claude Sonnet 5 é mais que um documento técnico: é o mapa da nova economia da confiança em IA."
+    }
+  ]
+}

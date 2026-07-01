@@ -1,0 +1,53 @@
+{
+  "title": "Gemini Spark no Mac: A Jogada Silenciosa do Google para Dominar a Economia dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Gemini Spark no Mac: A Jogada Silenciosa do Google",
+      "subtext": "O assistente agêntico 24/7 invade o território mais sagrado da Apple. A guerra dos agentes de IA mudou de campo.",
+      "image_prompt": "A futuristic glowing Google logo emerging from a dark MacBook screen, with subtle AI circuit patterns and a deep blue-purple gradient background, cinematic lighting, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Google lançou o Gemini Spark para macOS, expandindo seu assistente agêntico para além do ecossistema Android e ChromeOS. O Spark opera 24/7 como um agente persistente, agora disponível como aplicativo nativo para Mac.",
+      "highlight": "Primeira vez que um agente de IA tão poderoso cruza a fronteira do ecossistema rival."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Gemini Spark não é um chatbot comum. Ele age de forma autônoma: rastreia tarefas em tempo real, gerencia notificações, interage com múltiplos apps e executa ações sem intervenção constante. Integra Notion, Slack, VS Code e Office 365.",
+      "visual_hint": "Ícone de um cérebro digital conectado a múltiplos aplicativos (Mac, Slack, Notion, VS Code) com linhas de fluxo pulsantes."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O Google está sinalizando que a batalha não é mais por hardware, mas por tempo de interação e dados. Um agente 24/7 no Mac coleta telemetria sobre hábitos de trabalho, alimentando publicidade contextual, assinaturas e APIs empresariais.",
+      "visual_hint": "Gráfico de pizza mostrando a divisão de receita do Google: anúncios, assinaturas e APIs, com destaque para a fatia de dados de usuário."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "24/7: O Spark opera ininterruptamente, mantendo contexto entre apps e sessões.",
+        "Integração com 5+ ferramentas de produtividade (Notion, Slack, VS Code, Office 365).",
+        "Potencial de desintermediar ferramentas como Raycast, Alfred e Spotlight da Apple."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Apple pode perder o controle sobre a experiência do usuário dentro do próprio macOS.",
+        "Desenvolvedores precisarão decidir se integram com o Spark ou com a Siri renovada.",
+        "A coleta de dados de uso em tempo real pode redefinir o modelo de negócios de assistentes de IA."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Gemini Spark é o começo de uma nova era. Até onde a Apple vai permitir que um concorrente opere dentro do seu sistema?"
+    }
+  ]
+}

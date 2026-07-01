@@ -1,0 +1,16 @@
+{
+  "tldr": "Ex-pesquisadores da DeepMind usaram IA de pôquer para criar a EquiLibre, um fundo quant de US$ 500M que modela estratégias de concorrentes em vez de apenas prever preços.",
+  "key_facts": [
+    "EquiLibre Technologies foi fundada por três ex-pesquisadores da DeepMind em Praga.",
+    "A empresa atingiu valuation de US$ 500 milhões com base em resultados reais, não hype.",
+    "Seus modelos usam counterfactual regret minimization (CFR) e redes neurais, adaptados do pôquer multiplayer.",
+    "A IA da EquiLibre modela o comportamento de outros players do mercado, não apenas séries temporais."
+  ],
+  "why_it_matters": "A notícia mostra que a fronteira entre IA de jogos e finanças se rompeu, indicando que a próxima geração de fundos quant será dominada por especialistas em teoria dos jogos e reinforcement learning, não por financistas tradicionais.",
+  "watch_next": [
+    "Possível aquisição da EquiLibre por grandes bancos ou gestoras de ativos.",
+    "Aumento de investimentos em startups que aplicam CFR e RL a mercados financeiros.",
+    "Reguladores podem começar a investigar o uso de IA adversarial em mercados de capitais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um marco acadêmico (IA campeã de pôquer) a uma aplicação financeira concreta e de alto valor, destacando a mudança de paradigma de previsão de preços para modelagem de estratégias adversariais."
+}

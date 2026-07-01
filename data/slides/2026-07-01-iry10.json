@@ -1,0 +1,53 @@
+{
+  "title": "O Pôquer que Virou Hedge: O Time da DeepMind que Está Reconfigurando a Economia dos Fundos Quânticos com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Pôquer que Virou Hedge",
+      "subtext": "Como ex-pesquisadores da DeepMind transformaram o blefe em uma máquina de US$ 500 milhões para Wall Street",
+      "image_prompt": "A futuristic poker table with holographic chips and glowing AI algorithms, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Fundos quantitativos sempre foram o ápice do sigilo e da competição em Wall Street. Agora, um trio de ex-pesquisadores da DeepMind está reescrevendo as regras — não com derivativos, mas com a lógica do pôquer multiplayer.",
+      "highlight": "A fronteira entre jogos de estratégia e mercados financeiros acabou de ruir."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Fundada em Praga, a EquiLibre Technologies é o novo unicórnio silencioso. Seus fundadores construíram uma IA que domina o pôquer multiplayer e agora aplicam o mesmo raciocínio adversarial para precificar ativos em mercados imperfeitos.",
+      "visual_hint": "Ícone de chip de pôquer com gráfico de ações subindo ao fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Enquanto fundos tradicionais preveem preços, a EquiLibre modela o comportamento de outros jogadores — fundos rivais, algoritmos, formadores de mercado. A vantagem não está mais no dado mais rápido, mas em quem entende o blefe do mercado.",
+      "visual_hint": "Silhuetas de jogadores em uma mesa de pôquer com linhas de código sobrepostas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Valuation de US$ 500 milhões — sem hype, com resultados reais",
+        "Tecnologia baseada em Counterfactual Regret Minimization (CFR) e DeepStack",
+        "Já operando capital de hedge funds institucionais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A próxima geração de fundos será dominada por PhDs em teoria dos jogos, não em finanças",
+        "Modelos de inferência estratégica substituirão correlações estatísticas",
+        "A economia da gestão de ativos será reconfigurada pela IA adversarial"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O blefe virou hedge. E isso é só o começo."
+    }
+  ]
+}

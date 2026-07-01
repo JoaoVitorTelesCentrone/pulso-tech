@@ -1,0 +1,16 @@
+{
+  "tldr": "Startup desenvolve técnica de 'injeção de ruído estruturado' para corrigir o viés de previsibilidade em LLMs, que pode estar distorcendo bilhões em decisões de IA.",
+  "key_facts": [
+    "LLMs tendem a escolher '7' quando solicitados a gerar um número aleatório entre 1 e 10, revelando um viés de ancoragem nos dados de treinamento.",
+    "Startup (não nomeada) trabalha com MIT e Stanford em arquitetura que força os modelos a explorar espaços de decisão ignorados.",
+    "Estima-se que US$ 400 bilhões em decisões de trading algorítmico já sejam influenciados por esse viés de não aleatoriedade.",
+    "O viés cria um ciclo de feedback negativo na geração de dados sintéticos e compromete sistemas multi-agente."
+  ],
+  "why_it_matters": "O artigo expõe um problema estrutural e pouco discutido dos LLMs — a falta de verdadeira aleatoriedade — que pode minar a confiabilidade de simulações financeiras, climáticas e de cadeias de suprimentos, além de amplificar vieses em cascata na próxima geração de modelos.",
+  "watch_next": [
+    "Anúncio oficial da startup e detalhes técnicos da arquitetura de injeção de ruído estruturado.",
+    "Reação do mercado financeiro e de empresas de trading algorítmico à descoberta do viés de '7'.",
+    "Possível regulação ou auditoria obrigatória de aleatoriedade em sistemas de IA para aplicações críticas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um fenômeno aparentemente lúdico (o viés do número 7) a um problema econômico e técnico de grande escala, com estimativas concretas de impacto financeiro e uma abordagem de solução inovadora (injeção de ruído estruturado), tornando o tema acessível sem perder profundidade."
+}

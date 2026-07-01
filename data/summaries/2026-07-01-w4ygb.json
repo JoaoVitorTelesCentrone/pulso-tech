@@ -1,0 +1,15 @@
+{
+  "tldr": "Anthropic lança Claude Sonnet 5 com performance de modelo premium a preço promocional, quebrando a dicotomia entre custo e capacidade e intensificando a guerra de preços na inferência de IA.",
+  "key_facts": [
+    "Anthropic lançou o Claude Sonnet 5 em 30 de junho de 2026, com performance comparável ao Opus 4.8 a um custo significativamente menor.",
+    "O modelo está disponível via API e será integrado ao Claude.ai e Claude Code nas próximas semanas.",
+    "A Anthropic oferece preços promocionais até agosto de 2026, em uma estratégia de 'land and expand' para capturar market share."
+  ],
+  "why_it_matters": "A notícia importa porque sinaliza o fim do trade-off entre preço e performance em modelos de IA, permitindo que empresas escalem casos de uso de inferência antes inviáveis economicamente, redefinindo o ROI da adoção corporativa de IA.",
+  "watch_next": [
+    "Definição do preço pós-promoção do Sonnet 5 e seu impacto na elasticidade de demanda.",
+    "Reação dos concorrentes (OpenAI, Google) com cortes de preço ou lançamentos de modelos equivalentes.",
+    "Adoção do Sonnet 5 em aplicações corporativas de alto volume, como agentes e automação de processos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o lançamento não como um mero update técnico, mas como um movimento tático de guerra de preços na camada de inferência, com análise econômica e estratégica que conecta a promoção a uma jogada de captura de market share e teste de elasticidade de demanda."
+}

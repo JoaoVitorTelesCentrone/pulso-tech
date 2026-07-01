@@ -1,0 +1,53 @@
+{
+  "title": "O Fim do Embargo? Trump Libera Mythos e Fable da Anthropic e o Mercado de IA Entra em Novo Terremoto Regulatório",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim do Embargo? Trump Libera Mythos e Fable da Anthropic",
+      "subtext": "O mercado de US$ 1 trilhão em IA agora depende de caprichos políticos, não de lógica técnica.",
+      "image_prompt": "A futuristic digital landscape with a shattered glass wall labeled 'EMBARGO' and two glowing AI models named Mythos and Fable emerging, dark tech aesthetic, neon blue and red highlights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 30 de junho de 2026, a administração Trump removeu as restrições aos modelos Mythos e Fable da Anthropic, que estavam bloqueados sob justificativa de segurança nacional desde o governo Biden. A decisão pegou o Vale do Silício de surpresa e reacendeu o debate sobre a volatilidade regulatória nos EUA.",
+      "highlight": "A política de IA dos EUA é tão volátil quanto o próprio clima político."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O governo Trump liberou os modelos mais poderosos da Anthropic — incluindo o Fable 5, antes considerado uma 'ameaça existencial' — sem um plano de regulação consistente. A medida é vista como um movimento tático, não uma política de Estado.",
+      "visual_hint": "Ícone de balança desequilibrada com um cadeado quebrado ao lado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como Anthropic, OpenAI e Google DeepMind dependem de previsibilidade para investir bilhões. Com um governo que pode banir e liberar modelos da noite para o dia, a confiança no mercado de IA despenca. Desenvolvedores e investidores agora temem um novo bloqueio repentino.",
+      "visual_hint": "Gráfico de linha com queda abrupta representando confiança do mercado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Anthropic avaliada em US$ 900 bilhões em rodadas recentes",
+        "Fable 5 bloqueado por meses sob cláusulas de segurança nacional",
+        "G7 debateu dependência global da IA americana após o embargo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "China usa o episódio como propaganda para seus modelos de pesos abertos (GLM-5.2)",
+        "Mercado de modelos open source (como Llama) capitalizou o vácuo durante o embargo",
+        "Empresas de IA podem buscar jurisdições mais estáveis fora dos EUA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A pergunta que fica: quem será o próximo alvo do capricho regulatório?"
+    }
+  ]
+}

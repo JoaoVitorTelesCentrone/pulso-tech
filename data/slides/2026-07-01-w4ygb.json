@@ -1,0 +1,53 @@
+{
+  "title": "Anthropic Sonnet 5: O Fim do Abismo de Preço vs. Performance que Pode Redefinir a Economia da Inferência",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Sonnet 5: O Fim do Abismo Preço vs. Performance",
+      "subtext": "Performance de ponta a preço de banana — e o que isso significa para a economia da inferência",
+      "image_prompt": "A futuristic digital landscape with a glowing bridge connecting two cliffs labeled 'Price' and 'Performance', with a bright AI core in the center, dark tech aesthetic, neon blue and purple tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Anthropic lançou o Claude Sonnet 5, um modelo que oferece performance comparável ao Opus 4.8 (seu modelo premium anterior) por uma fração do custo. A oferta promocional até agosto de 2026 cria uma janela de oportunidade para empresas testarem o modelo sem compromisso financeiro de longo prazo.",
+      "highlight": "Performance de Opus a preço de Sonnet"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Sonnet 5 quebra a dicotomia do mercado de IA: até então, modelos baratos eram capazes, mas limitados; modelos caros eram poderosos, mas inacessíveis. Agora, a Anthropic entrega o melhor dos dois mundos, com avanços em eficiência de treinamento, otimização de contexto longo e pós-treinamento direcionado para tarefas corporativas.",
+      "visual_hint": "Ícone de balança equilibrando um chip de IA e um cifrão"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas que dependem de inferência em larga escala — agentes, chatbots, automação —, cada centavo economizado por token se traduz em margem operacional ou na viabilidade de novos casos de uso. A Anthropic está testando a elasticidade da demanda: até que ponto a redução de preço acelera a adoção? Os dados coletados definirão o futuro do pricing de IA.",
+      "visual_hint": "Gráfico de barras mostrando custo por token caindo drasticamente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Sonnet 5 fecha a lacuna de desempenho com o Opus 4.8, modelo premium anterior",
+        "Preço promocional válido até agosto de 2026 — janela de oportunidade limitada",
+        "Estratégia 'land and expand' aplicada ao mercado de APIs de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Guerra de preços na camada de inferência se intensifica — concorrentes terão que reagir",
+        "Empresas podem escalar casos de uso antes inviáveis economicamente",
+        "Fidelidade a provedores de API cai — custo e performance decidem a escolha"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Sonnet 5 é só o começo. A economia da inferência está sendo reescrita — e você precisa entender as regras."
+    }
+  ]
+}

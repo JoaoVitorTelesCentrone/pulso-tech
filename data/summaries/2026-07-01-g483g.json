@@ -1,0 +1,14 @@
+{
+  "tldr": "O system card do Claude Sonnet 5 vai além dos benchmarks tradicionais, posicionando a previsibilidade e a confiabilidade como os novos ativos econômicos da IA empresarial.",
+  "key_facts": [
+    "Anthropic lançou o Claude Sonnet 5 em 30 de junho de 2026, acompanhado de um system card de 40 páginas.",
+    "O documento foca em confiabilidade de agentes multi-etapa, robustez contra ataques de injeção indireta de prompt e alinhamento em cenários não supervisionados.",
+    "O modelo apresentou melhoria de 34% na taxa de conclusão de tarefas com mais de 10 etapas em relação ao Sonnet 4."
+  ],
+  "why_it_matters": "A indústria está migrando da corrida por benchmarks para a necessidade de previsibilidade em operações críticas; o system card da Anthropic sinaliza que o próximo gargalo é econômico e regulatório, não técnico.",
+  "watch_next": [
+    "Empresas de grande porte devem adotar o Sonnet 5 como padrão para automação de processos e agentes autônomos, elevando a demanda por garantias contratuais de desempenho.",
+    "Reguladores podem usar o system card como referência para definir novos requisitos de transparência e segurança para modelos de fronteira."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o system card não como um mero relatório técnico, mas como um mapa da nova economia da confiança em IA, destacando que a Anthropic está vendendo redução de risco operacional como produto."
+}
