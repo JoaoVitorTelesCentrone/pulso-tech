@@ -1,0 +1,53 @@
+{
+  "title": "ScarfBench: O Mapeamento Silencioso de US$ 400 Bilhões que a IBM Está Criando na Migração de Java Corporativo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Mapeamento Silencioso de US$ 400 Bilhões",
+      "subtext": "IBM Research acaba de liberar um benchmark que expõe o calcanhar de Aquiles mais caro da economia corporativa: a migração de frameworks Java legados.",
+      "image_prompt": "A futuristic digital map of the world with glowing nodes and data streams, representing a silent, massive financial flow of 400 billion dollars, dark blue and neon cyan tones, abstract technology background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado celebra modelos multimodais e agentes de propósito geral, a IBM Research liberou o ScarfBench: um benchmark especificamente desenhado para avaliar a capacidade de agentes de IA em realizar migrações de frameworks Java corporativos. O problema que ele ataca é conhecido por qualquer CTO que já teve que lidar com um sistema monolítico de 15 anos.",
+      "highlight": "Mercado de modernização de software estimado em US$ 400 bilhões"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A IBM Research publicou no Hugging Face o ScarfBench, um benchmark open source que testa agentes em tarefas como refatoração de código de frameworks antigos para modernos, identificação de dependências obsoletas e reescrita de arquivos de configuração. Ele não testa 'conhecimento geral de Java' — testa a capacidade de entender a semântica de um framework legado e mapear para o equivalente moderno.",
+      "visual_hint": "Ícone de engrenagem com um cérebro digital no centro, representando a automação de conhecimento técnico profundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas gastam entre 30% e 50% do orçamento anual de manutenção de software apenas mantendo sistemas legados funcionais. O ScarfBench sinaliza que a IBM está pronta para automatizar esse trabalho com agentes de IA, criando um padrão de mercado e se posicionando como curadora do que é 'bom' em migração de legado.",
+      "visual_hint": "Gráfico de barras mostrando a redução drástica de custos com automação vs. trabalho humano"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 400 bilhões: tamanho do mercado de modernização de software",
+        "30% a 50% do orçamento anual de TI gasto apenas na manutenção de sistemas legados",
+        "Meses de trabalho de engenheiros seniores sendo transformados em commodity de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Automação da migração de frameworks que antes exigia meses de trabalho de engenheiros seniores se torna commodity",
+        "IBM cria o padrão de avaliação para um mercado que domina há décadas",
+        "Qualquer agente que performar bem no ScarfBench terá credibilidade para ser vendido como solução de migração"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O ScarfBench não é um benchmark acadêmico. É o início da automação de um mercado de US$ 400 bilhões."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "Após semanas de negociação com o governo Trump, a Anthropic conseguiu reverter o banimento do Claude Fable 5, estabelecendo um precedente de regulação negociada para modelos de IA de fronteira.",
+  "key_facts": [
+    "O Claude Fable 5 foi banido pelo governo dos EUA e depois liberado após negociações diretas com a administração Trump.",
+    "A Anthropic concordou com auditorias externas, compromissos de transparência ou restrições em setores sensíveis para reverter o banimento.",
+    "O banimento custou à Anthropic entre US$ 50 milhões e US$ 100 milhões em receita e reduziu temporariamente sua avaliação em até 15%."
+  ],
+  "why_it_matters": "A notícia expõe a fragilidade da dependência de um único fornecedor de IA para workloads críticas e cria um novo risco regulatório que investidores e empresas precisarão precificar, além de mostrar que o governo pode desligar modelos de fronteira por razões políticas, não técnicas.",
+  "watch_next": [
+    "Detalhamento público dos termos do acordo entre Anthropic e governo Trump.",
+    "Impacto na confiança de desenvolvedores e empresas que usam Claude, com possível migração para modelos concorrentes ou open source.",
+    "Reação de outros laboratórios de IA (OpenAI, Google DeepMind) e possíveis movimentos regulatórios similares."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o episódio não como um simples 'produto de volta ao mercado', mas como um marco de regulação negociada e demonstração de poder político, analisando os custos financeiros e o precedente para o setor."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "IBM Research lançou o ScarfBench, um benchmark open source para avaliar agentes de IA na migração de frameworks Java legados, mirando um mercado de modernização de software estimado em US$ 400 bilhões.",
+  "key_facts": [
+    "ScarfBench foi publicado no Hugging Face pela IBM Research como open source.",
+    "O benchmark testa agentes em tarefas como refatoração de código, identificação de dependências obsoletas e reescrita de configurações XML para anotações.",
+    "O mercado de modernização de software legado é estimado em US$ 400 bilhões, com empresas gastando 30% a 50% do orçamento de TI em manutenção de sistemas antigos.",
+    "ScarfBench foca em semântica de frameworks (ex: mapear @Stateless do EJB para @Service do Spring), não em lógica algorítmica genérica."
+  ],
+  "why_it_matters": "A notícia importa porque sinaliza que a IBM está automatizando um dos maiores gargalos de produtividade corporativa — a migração de legados Java —, criando um padrão de mercado que pode transformar a consultoria de TI em uma commodity de IA, impactando diretamente CTOs, engenheiros seniores e o ecossistema de ferramentas de modernização.",
+  "watch_next": [
+    "Empresas de consultoria como Accenture e Infosys podem adotar ou criar benchmarks concorrentes para não perder relevância.",
+    "Agentes de IA que performarem bem no ScarfBench podem ser rapidamente comercializados como soluções de migração, acelerando a automação de legados.",
+    "O benchmark pode evoluir para incluir outros ecossistemas (como .NET ou COBOL), expandindo o escopo da automação."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o ScarfBench não como um mero benchmark acadêmico, mas como uma jogada estratégica da IBM para dominar o padrão de avaliação de um mercado bilionário, destacando o impacto econômico e o alerta para desenvolvedores Java sobre a commoditização da migração de legados."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "ChatGPT Não É Mais um Produto: Os Novos Dados da OpenAI Revelam a Economia Oculta da Adoção de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "ChatGPT Não É Mais um Produto",
+      "subtext": "Os novos dados da OpenAI revelam a economia oculta da adoção de IA — e o que isso significa para o futuro dos negócios",
+      "image_prompt": "Futuristic digital network with glowing nodes connecting across a global map, dark blue and neon green tones, abstract data streams"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI divulgou dados inéditos do programa Signals, revelando que o uso do ChatGPT deixou de ser experimental. Agora, os mesmos usuários estão usando a ferramenta com mais frequência, explorando mais funcionalidades e expandindo o alcance para regiões não tradicionais.",
+      "highlight": "Não é mais sobre aquisição — é sobre aprofundamento de valor por usuário."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Três movimentos simultâneos: aumento na frequência de uso por usuário, expansão das capacidades exploradas (de análise de dados a código) e crescimento transversal entre regiões e idiomas, incluindo mercados emergentes.",
+      "visual_hint": "Ícone de três setas concêntricas crescendo para fora, representando profundidade, amplitude e alcance"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A economia da IA migrou da fase de 'aquisição de usuários' para 'aprofundamento de valor'. O custo de troca aumenta, a retenção supera a aquisição, e mercados não anglófonos se mostram maiores do que o Vale do Silício projetava.",
+      "visual_hint": "Gráfico de curva de retenção subindo, com destaque para o ponto de inflexão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Frequência de uso por usuário cresce consistentemente — formação de hábito operacional",
+        "Usuários exploram leque maior de funcionalidades: dados, código, documentos multimodais",
+        "Aceleração em regiões como América Latina, Sudeste Asiático e África"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Qualidade do onboarding e descoberta de funcionalidades vira diferencial competitivo crítico",
+        "Mercado endereçável da IA generativa é maior que o estimado — especialmente fora do eixo EUA",
+        "Concorrentes focados apenas em soluções corporativas caras perdem terreno para plataformas acessíveis"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia oculta da IA está se revelando — e quem não enxergar agora, vai correr atrás depois."
+    }
+  ]
+}

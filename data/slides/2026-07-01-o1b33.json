@@ -1,0 +1,53 @@
+{
+  "title": "Etched: A Concorrente da Nvidia que Já Faturou US$ 1 Bilhão e Vale US$ 5 Bilhões — A Nova Fronteira dos Chips de Inferência",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Etched: US$ 1 Bilhão em Contratos, US$ 5 Bi de Valuation",
+      "subtext": "A startup que está desafiando a Nvidia no mercado de inferência de IA — e já tem clientes de peso.",
+      "image_prompt": "Futuristic semiconductor chip glowing with neon blue and orange circuits, dark background, high tech, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a Nvidia domina o treinamento de modelos gigantes, o verdadeiro custo da IA está migrando para a inferência — o uso contínuo dos modelos em produção. Até 2028, a inferência representará mais de 70% de todo o poder computacional consumido por IA.",
+      "highlight": "70% de todo o poder computacional de IA será para inferência até 2028"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Etched, fundada por ex-engenheiros do Google e Apple, desenvolveu chips ASICs especializados exclusivamente para inferência. Eles sacrificam a flexibilidade dos GPUs da Nvidia para entregar eficiência brutal: desempenho até 10x superior por watt e latência 5x menor. A startup já acumulou US$ 1 bilhão em contratos antes mesmo de um IPO.",
+      "visual_hint": "Ícone de chip com raio de energia, comparando GPU vs ASIC em gráfico de barras de eficiência"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como Meta, Microsoft e Amazon estão desesperadas por soluções que reduzam o custo por token de inferência. A Etched promete consumir 1/3 da energia de um H100 da Nvidia para a mesma carga de trabalho — um diferencial crítico em um momento de explosão dos custos de energia e infraestrutura de data centers.",
+      "visual_hint": "Gráfico de linha mostrando custo por token caindo com a adoção de ASICs"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Valuação de US$ 5 bilhões — startup de hardware mais valiosa do segmento",
+        "US$ 1 bilhão em contratos firmados antes do lançamento em larga escala",
+        "Desempenho 10x superior por watt vs GPUs generalistas da Nvidia"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fragmentação do domínio da Nvidia no mercado de chips de IA",
+        "Redução drástica nos custos de inferência para big techs e provedores de nuvem",
+        "Aceleração da adoção de IA em produção com hardware especializado"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A corrida dos chips de inferência está apenas começando — e a Etched pode ser a virada de jogo que o mercado esperava."
+    }
+  ]
+}

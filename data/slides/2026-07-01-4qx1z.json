@@ -1,0 +1,53 @@
+{
+  "title": "O Retorno de Fable 5: A Vitória Negociada da Anthropic e o Novo Equilíbrio de Poder na Regulação da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Fable 5 Está de Volta",
+      "subtext": "O modelo mais poderoso da Anthropic foi banido, negociado e liberado — e isso muda tudo na regulação da IA",
+      "image_prompt": "A futuristic glowing AI brain emerging from a dark digital cage, with chains breaking and golden light, cyberpunk style, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Após semanas de negociações secretas com a administração Trump, o Claude Fable 5 — banido sob alegações de risco à segurança nacional — foi autorizado a retornar. O bloqueio foi político, não técnico.",
+      "highlight": "Primeira vez que um modelo de fronteira é banido e depois liberado por negociação direta entre empresa e poder executivo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Anthropic restaurou o acesso global ao Fable 5 via Claude e AWS. O governo usou o banimento como moeda de troca — e a empresa cedeu em auditoria, transparência ou restrições setoriais não reveladas.",
+      "visual_hint": "Ícone de aperto de mãos sobreposto a um cadeado quebrado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O precedente é imenso: qualquer laboratório de IA pode ter seu modelo desligado por decisão política. Desenvolvedores e empresas que dependem de um único fornecedor agora enfrentam um novo risco regulatório — e a confiança foi abalada.",
+      "visual_hint": "Gráfico de linha com queda abrupta e recuperação parcial"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50M a US$ 100M em receita perdida durante o banimento",
+        "Até 15% de queda temporária na avaliação da Anthropic",
+        "Concorrentes open source (GLM-5.2, Ling) ganharam tração no período"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Governo dos EUA demonstrou poder de desligar modelos privados a qualquer momento",
+        "Investidores terão que precificar risco regulatório em futuros IPOs de IA",
+        "Empresas vão acelerar estratégias de multi-fornecedor e modelos próprios"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A regulação da IA nunca mais será a mesma — e você precisa entender as novas regras do jogo."
+    }
+  ]
+}

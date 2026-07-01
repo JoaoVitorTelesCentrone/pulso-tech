@@ -1,0 +1,16 @@
+{
+  "tldr": "Startup Etched, focada em chips ASIC para inferência de IA, atinge valuation de US$ 5 bilhões e garante US$ 1 bilhão em contratos, desafiando a dominância da Nvidia no crescente mercado de inferência.",
+  "key_facts": [
+    "Etched atingiu valuation de US$ 5 bilhões e US$ 1 bilhão em contratos de vendas.",
+    "A empresa desenvolve chips ASIC especializados exclusivamente para inferência de IA.",
+    "Chips prometem desempenho até 10x superior por watt em comparação com GPUs da Nvidia.",
+    "Mercado de inferência deve representar mais de 70% do poder computacional de IA até 2028."
+  ],
+  "why_it_matters": "A notícia sinaliza uma fragmentação real no domínio da Nvidia, com demanda concreta por alternativas mais eficientes para inferência, um mercado que deve superar o de treinamento em volume de computação. Para leitores de IA/Tech, isso impacta custos operacionais, escolhas de infraestrutura e o futuro da cadeia de suprimentos de hardware.",
+  "watch_next": [
+    "Divulgação dos nomes dos clientes dos contratos de US$ 1 bilhão, especialmente se incluir big techs como Meta ou Microsoft.",
+    "Capacidade da Etched de escalar produção e entregar os chips com as promessas de desempenho em larga escala.",
+    "Reação da Nvidia: possível lançamento de chips otimizados para inferência ou redução de preços para proteger market share."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no momento de transição do mercado de treinamento para inferência, usando dados concretos de contratos e valuation para validar a tese da Etched, em vez de apenas repetir promessas de startups. A escolha editorial se justifica pela relevância do tema para o público de tecnologia e pelo timing estratégico, quando a Nvidia enfrenta pressão concorrencial."
+}

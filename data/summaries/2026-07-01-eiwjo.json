@@ -1,0 +1,16 @@
+{
+  "tldr": "Anthropic lança Claude Science, um agente autônomo de P&D farmacêutico, mirando uma fatia de US$ 50 bilhões em receita recorrente ao verticalizar seu produto sobre o Claude.",
+  "key_facts": [
+    "Claude Science foi anunciado em evento fechado para executivos farmacêuticos e biotech em 30 de junho de 2026.",
+    "O produto opera em loop fechado de descoberta: lê papers, analisa dados, gera hipóteses e redige manuscritos.",
+    "Indústria farmacêutica gasta US$ 250 bilhões/ano em P&D com taxa de falha >90% em ensaios clínicos.",
+    "Anthropic não lançou novo modelo de fundação, mas sim uma camada de produto verticalizada, similar ao Claude Code."
+  ],
+  "why_it_matters": "A notícia sinaliza uma mudança estratégica na monetização de IA: em vez de vender tokens de API, a Anthropic está criando produtos de alto valor agregado para setores específicos, com potencial de gerar US$ 12,5 bilhões em economia anual apenas na indústria farmacêutica.",
+  "watch_next": [
+    "Anúncio de parcerias com grandes farmacêuticas (ex: Pfizer, Novartis) para adoção do Claude Science.",
+    "Possível reação da OpenAI e Google com produtos verticais similares para pesquisa científica.",
+    "Impacto regulatório: como agências como FDA vão tratar manuscritos e dados gerados por IA autônoma."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na estratégia de produto verticalizada da Anthropic, em vez de apenas anunciar um novo modelo, e ao quantificar o ROI potencial (US$ 12,5 bi/ano) para justificar o investimento, conectando IA a um problema real de alto custo na indústria."
+}

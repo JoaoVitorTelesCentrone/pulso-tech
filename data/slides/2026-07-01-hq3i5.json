@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.6 Sol: A Nova Fronteira da OpenAI em Cibersegurança e o Gargalo da Confiança na Economia da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-5.6 Sol: A Aposta Bilionária da OpenAI em um Modelo que Precisa Ser Confiável",
+      "subtext": "Segurança integrada desde a concepção — o novo padrão para a adoção corporativa de IA.",
+      "image_prompt": "A futuristic digital sun rising over a glowing network of data streams and secure code, dark blue and orange neon tones, high tech, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 26 de junho de 2026, a OpenAI pré-visualizou o GPT-5.6 Sol, um modelo que promete avanços em programação, ciência e cibersegurança. Pela primeira vez, a empresa coloca a segurança como pilar central, não como camada posterior.",
+      "highlight": "Mercado de cibersegurança: US$ 200 bilhões"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-5.6 Sol chega com o 'stack de segurança mais avançado' da história da OpenAI, incluindo alinhamento constitucional em tempo real, detecção proativa de jailbreak e auditoria contínua de alucinações.",
+      "visual_hint": "Ícone de escudo digital com engrenagens internas brilhando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas não perguntam mais 'qual modelo é mais inteligente?', mas sim 'qual é mais seguro para produção?'. O Sol ataca exatamente esse gargalo, reduzindo riscos regulatórios e operacionais.",
+      "visual_hint": "Gráfico de adoção corporativa com barreira de confiança sendo rompida"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de cibersegurança: US$ 200 bilhões",
+        "3,5 milhões de vagas abertas em segurança digital",
+        "Produtividade em engenharia: salto de 2x a 3x com o Sol"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "IA de segurança autônoma se torna nova categoria de produto",
+        "Adoção corporativa acelera com redução de riscos",
+        "OpenAI pressiona concorrentes a priorizarem segurança desde o design"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Sol está nascendo — e a confiança é a nova moeda da economia da IA."
+    }
+  ]
+}
