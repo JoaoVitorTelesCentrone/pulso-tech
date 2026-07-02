@@ -1,0 +1,14 @@
+{
+  "tldr": "Pesquisadores propõem um framework multi-agente com 'juízes terapêuticos' que transformam a avaliação de qualidade em sinal de controle ativo para LLMs, potencializando um mercado de US$ 20 bilhões em saúde mental digital.",
+  "key_facts": [
+    "O framework usa múltiplos agentes especializados (empatia, validação, reestruturação cognitiva) para avaliar e orientar respostas de IA em tempo real.",
+    "O dataset do estudo contém 12 mil pares de interação-resposta ideal anotados por psicólogos clínicos.",
+    "O mercado global de saúde mental digital deve atingir US$ 20 bilhões até 2028, com gargalo na qualidade e segurança das interações automatizadas."
+  ],
+  "why_it_matters": "A abordagem resolve o problema crítico da avaliação subjetiva em saúde mental, permitindo sistemas de suporte emocional mais seguros, escaláveis e personalizados, reduzindo custos operacionais em telemedicina e abrindo caminho para a implantação de IA terapêutica sem supervisão humana constante.",
+  "watch_next": [
+    "Adoção do framework por plataformas de telemedicina e startups de saúde mental digital.",
+    "Desenvolvimento de benchmarks específicos para qualidade terapêutica em IA, impulsionados por este tipo de avaliação granular."
+  ],
+  "editorial_angle": "O artigo se destaca por ir além do hype de LLMs genéricos, focando em um problema técnico e de segurança real — a avaliação subjetiva da terapia — e apresentando uma solução arquitetural concreta (multi-agente com juízes especializados) que pode viabilizar economicamente o setor."
+}

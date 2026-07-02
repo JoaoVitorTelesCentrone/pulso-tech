@@ -1,0 +1,53 @@
+{
+  "title": "Indi-RomCoM: O Novo Benchmark que Expõe o Gargalo Bilionário dos LLMs em Mercados Emergentes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Bilionário dos LLMs no Sul Global",
+      "subtext": "Como a incapacidade de entender 'code-mixing' pode bloquear um mercado de US$ 50 bilhões",
+      "image_prompt": "A futuristic digital map of India glowing with red and orange data streams, with a broken AI circuit symbol in the center, dark tech background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo benchmark, Indi-RomCoM, revela que os maiores LLMs do mundo falham miseravelmente ao processar o dialeto digital mais usado por 1 bilhão de pessoas: o Romanized Code Mixing (RCM). Modelos como GPT-4 e Claude perdem até 40% de performance em tarefas simples.",
+      "highlight": "800 milhões de usuários de internet na Índia se comunicam predominantemente em RCM"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Indi-RomCoM testa 12 idiomas indianos em tarefas como sentimento, tradução e QA. O resultado é alarmante: os LLMs, treinados em inglês e escritas nativas, são 'cegos' para o code-mixing romanizado — a forma real como as pessoas falam no WhatsApp, Instagram e YouTube.",
+      "visual_hint": "Ícone de um cérebro com um 'X' vermelho sobreposto a balões de texto em hindi romanizado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas de tecnologia, bancos e governos investem bilhões em chatbots e assistentes de IA para o mercado indiano. Se o modelo não entende 'Bro, mera loan application status kya hai?', o ROI despenca. Não é um bug de UX — é uma perda direta de receita e confiança.",
+      "visual_hint": "Gráfico de barras mostrando queda de 15% a 40% na acurácia entre inglês e RCM"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Queda de 15% a 40% no desempenho dos LLMs ao processar RCM vs. inglês padrão",
+        "Tokenização de RCM consome até 3x mais tokens que o inglês para a mesma mensagem",
+        "Menos de 0,01% do Common Crawl contém texto em code-mixing romanizado"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas terão que investir em fine-tuning com dados de RCM para não perder o mercado indiano",
+        "O custo de inferência pode triplicar para usuários reais devido à tokenização ineficiente",
+        "Novos benchmarks como Indi-RomCoM forçarão a indústria a repensar o viés de treinamento dos LLMs"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA no Sul Global depende de entender quem realmente a usa. Não fique para trás."
+    }
+  ]
+}

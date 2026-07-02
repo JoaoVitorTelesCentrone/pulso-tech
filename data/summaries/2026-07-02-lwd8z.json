@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo benchmark Indi-RomCoM revela que LLMs têm desempenho 15-40% pior em code-mixing romanizado, bloqueando um mercado de US$ 50 bilhões no Sul Global.",
+  "key_facts": [
+    "Indi-RomCoM cobre 12 idiomas indianos e testa tarefas como classificação de sentimento, tradução e resposta a perguntas.",
+    "Modelos como GPT-4, Claude e Gemini apresentam quedas de 15% a 40% em entradas com Romanized Code Mixing (RCM).",
+    "Tokenização de RCM pode consumir até 3x mais tokens que o inglês padrão, aumentando custos de inferência.",
+    "Menos de 0,01% do Common Crawl contém texto em code-mixing romanizado, evidenciando viés de treinamento."
+  ],
+  "why_it_matters": "O artigo expõe um gargalo econômico e técnico crítico: LLMs ignoram o dialeto digital de mais de 800 milhões de usuários na Índia, inviabilizando investimentos em chatbots, assistentes e sistemas de recomendação em mercados emergentes.",
+  "watch_next": [
+    "Empresas de tecnologia podem anunciar datasets ou fine-tuning específicos para RCM.",
+    "Surgimento de benchmarks similares para outras regiões (África, Sudeste Asiático) com code-mixing.",
+    "Pressão regulatória na Índia para que LLMs sejam auditados quanto ao desempenho em idiomas locais."
+  ],
+  "editorial_angle": "Diferencia-se ao conectar um problema técnico de tokenização a uma barreira de mercado bilionária, indo além da análise de desempenho para destacar o viés de treinamento como um risco de ROI para empresas no Sul Global."
+}

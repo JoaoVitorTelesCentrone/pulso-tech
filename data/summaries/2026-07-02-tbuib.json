@@ -1,0 +1,17 @@
+{
+  "tldr": "Ashton Kutcher deixa a Sound Ventures para co-fundar um novo fundo focado em infraestrutura física de IA (energia, data centers, hardware), sinalizando que o gargalo do setor não são mais os modelos, mas a capacidade de executá-los de forma confiável e barata.",
+  "key_facts": [
+    "Ashton Kutcher está deixando a Sound Ventures, onde apostou cedo e lucrou com OpenAI e Anthropic.",
+    "Ele se junta a Morgan Beller (ex-NFX, co-criadora do Facebook Diem) para lançar um novo fundo de venture capital.",
+    "O novo fundo mira infraestrutura e energia para IA: data centers modulares, geração dedicada, redes de baixa latência e hardware alternativo.",
+    "O mercado de LLMs de fronteira queimou mais de US$ 60 bilhões entre 2023 e 2025, com margens apertadas.",
+    "O consumo de energia de data centers de IA deve crescer de 460 TWh (2025) para mais de 1.200 TWh até 2028."
+  ],
+  "why_it_matters": "A migração de um dos investidores mais bem-sucedidos da era dos LLMs para infraestrutura física indica que o próximo ciclo de valor em IA não estará nos modelos, mas na energia e no hardware que os sustentam — um realinhamento que redefine prioridades para founders, VCs e formuladores de política tecnológica.",
+  "watch_next": [
+    "Abertura de rodadas significativas em startups de data centers modulares e energia dedicada para IA.",
+    "Possível movimento de outros grandes VCs de IA seguindo Kutcher para o setor de infraestrutura.",
+    "Impacto na Sound Ventures sem Kutcher: mudança de tese ou continuidade das apostas em modelos de fronteira."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar a saída de Kutcher não como uma notícia de pessoa, mas como um sinal de mercado baseado em dados concretos de consumo energético e margens operacionais, conectando o movimento individual a uma tese macroeconômica sobre o futuro da IA."
+}

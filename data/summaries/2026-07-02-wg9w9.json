@@ -1,0 +1,14 @@
+{
+  "tldr": "Um novo framework do arXiv propõe tornar as falhas de agentes de IA para coleta de dados web seguras e verificáveis, potencialmente desbloqueando um mercado de automação corporativa de US$ 50 bilhões.",
+  "key_facts": [
+    "Pesquisadores publicaram no arXiv um framework chamado 'Making Failure Safe' para agentes de IA de coleta de dados na web.",
+    "O framework usa geração restrita, verificação em tempo de execução e tratamento de heterogeneidade para garantir falhas controladas e auditáveis.",
+    "O mercado atual de extração de dados web é de US$ 3 bilhões, mas a falta de confiabilidade dos agentes de IA trava a adoção em massa."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, esta notícia importa porque aborda o gargalo crítico que impede a automação confiável de workflows web com agentes de IA, abrindo caminho para aplicações corporativas em larga escala, como inteligência competitiva e precificação dinâmica.",
+  "watch_next": [
+    "Implementações práticas do framework em empresas de scraping e automação web.",
+    "Possível adoção do framework por reguladores como padrão para auditabilidade de agentes de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não na busca pela perfeição dos agentes, mas na segurança controlada das falhas, um insight contraintuitivo que conecta um problema técnico (fragilidade de scrapers) a um potencial de mercado bilionário, tornando a notícia relevante tanto para engenheiros quanto para estrategistas de negócios."
+}

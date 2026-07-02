@@ -1,0 +1,53 @@
+{
+  "title": "O Juiz Terapêutico: Como Agentes Multi-Agente Estão Criando um Novo Mercado de US$ 20 Bilhões em Saúde Mental com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Juiz Terapêutico: A IA que Avalia a Alma",
+      "subtext": "Como agentes multi-agente estão transformando LLMs em controladores ativos de qualidade terapêutica — e criando um mercado de US$ 20 bilhões",
+      "image_prompt": "A futuristic digital brain made of interconnected glowing nodes, with a human silhouette in the center, dark blue and purple tones, holographic interface, therapeutic vibe"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado global de saúde mental digital deve atingir US$ 20 bilhões até 2028. Mas o gargalo sempre foi a qualidade e segurança das interações automatizadas — LLMs genéricos falham em aplicar princípios terapêuticos fundamentais.",
+      "highlight": "US$ 20 bilhões até 2028"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo framework no arXiv propõe 'juízes terapêuticos' — agentes de IA especializados que avaliam a qualidade de respostas de suporte à saúde mental em tempo real. Em vez de métricas passivas, o sistema usa feedback granular para orientar o modelo gerador, criando um loop de refinamento contínuo.",
+      "visual_hint": "Ícone de balança com um cérebro no centro, setas circulares indicando feedback contínuo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A qualidade terapêutica depende de nuances contextuais e clínicas difíceis de capturar. Esse framework transforma a avaliação em um sinal de controle ativo, permitindo sistemas de suporte emocional mais seguros, redução de custos em telemedicina e personalização terapêutica adaptada ao perfil do paciente.",
+      "visual_hint": "Ícone de escudo com coração, gráfico de linha ascendente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de saúde mental digital: US$ 20 bilhões até 2028",
+        "Dataset especializado: 12 mil pares de interação-resposta ideal curados por psicólogos",
+        "Múltiplos juízes especializados: empatia, validação, estruturação de problemas e reestruturação cognitiva"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Sistemas de suporte emocional implantáveis em larga escala sem supervisão humana constante",
+        "Redução drástica de custos operacionais em plataformas de telemedicina",
+        "Personalização terapêutica: o 'juiz' se adapta ao histórico e necessidades de cada paciente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da terapia já está sendo escrito por agentes de IA. Não fique de fora."
+    }
+  ]
+}

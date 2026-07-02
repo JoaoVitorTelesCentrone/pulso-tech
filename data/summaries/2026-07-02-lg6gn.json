@@ -1,0 +1,15 @@
+{
+  "tldr": "Pesquisadores propõem um framework que usa agentes de IA para automatizar auditorias black-box de algoritmos de personalização, reduzindo custos e tempo e potencialmente criando um mercado de compliance de US$ 10 bilhões.",
+  "key_facts": [
+    "Paper arXiv:2606.30801 propõe agentes de IA para auditar algoritmos de personalização sem acesso ao código-fonte.",
+    "Auditoria tradicional é manual, cara (dezenas de milhares de dólares) e lenta (semanas a meses), com escala limitada a dezenas de perfis.",
+    "Agentes podem simular milhares de perfis sintéticos em paralelo, reduzindo auditorias de 30 dias para horas.",
+    "Meta teve receita publicitária de US$ 161 bilhões em 2025, baseada em segmentação algorítmica."
+  ],
+  "why_it_matters": "A automação da auditoria de viés por agentes de IA pode acelerar a regulação e compliance, expondo vieses em escala nunca antes possível, o que impacta diretamente a confiança em plataformas digitais e o futuro da governança de IA.",
+  "watch_next": [
+    "Reguladores (como a UE e FTC) podem adotar ou exigir auditorias automatizadas como padrão de compliance.",
+    "Empresas de tecnologia podem desenvolver contramedidas para detectar e bloquear agentes auditores, gerando uma corrida armamentista."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma inovação técnica (agentes de IA auditando black-boxes) com um impacto de mercado concreto (novo setor de compliance de US$ 10 bi), indo além do relato científico para analisar as implicações econômicas e regulatórias."
+}

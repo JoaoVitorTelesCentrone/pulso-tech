@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo da Colisão de Skills: Como um Erro de Roteamento em Agentes de IA Pode Custar Bilhões em Produtividade Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível dos Agentes de IA",
+      "subtext": "Um erro de roteamento pode custar bilhões em produtividade corporativa",
+      "image_prompt": "A futuristic digital network with multiple AI agents colliding at a crossroads, glowing red warning signals, dark blue background, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em benchmarks de performance de modelos, um problema silencioso de engenharia de produção está drenando o ROI de sistemas multi-agente: a colisão de descrições de skills. Um novo paper do arXiv expõe que a causa raiz não é a capacidade do modelo, mas sim a engenharia de descrições.",
+      "highlight": "Skill collision: o gargalo que ninguém estava medindo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Quando um sistema de IA precisa rotear requisições para skills especializadas, ele depende de descrições em linguagem natural. Se duas descrições são semanticamente sobrepostas, o LLM de roteamento falha em distinguir para onde enviar a consulta. O paper demonstra que uma única reescrita bem calibrada resolve o problema.",
+      "visual_hint": "Ícone de dois caminhos se cruzando com um ponto de interrogação no centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de agentes de IA corporativos ultrapassará US$ 50 bilhões. Com falhas de roteamento em 5% a 15% dos casos, o custo acumulado em retrabalho, frustração do usuário e perda de confiança pode corroer o ROI dramaticamente. Um assistente que confunde 'análise de risco de crédito' com 'avaliação de portfólio' pode gerar decisões financeiras equivocadas.",
+      "visual_hint": "Gráfico de barras mostrando queda de ROI com aumento de falhas de roteamento"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA: > US$ 50 bilhões nos próximos anos",
+        "Taxa de falha de roteamento: 5% a 15% dos casos",
+        "Solução: uma única reescrita guiada por dados resolve a colisão"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Descrições de skills deixam de ser detalhe de documentação e viram artefato crítico de engenharia",
+        "Empresas precisam adotar otimização empírica de descrições, não manual",
+        "Ferramentas de monitoramento de colisão semântica se tornarão padrão em arquiteturas multi-agente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo da colisão de skills é o próximo grande desafio da engenharia de IA — e a solução pode ser mais simples do que você imagina."
+    }
+  ]
+}

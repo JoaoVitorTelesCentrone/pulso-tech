@@ -1,0 +1,53 @@
+{
+  "title": "Making Failure Safe: O Framework que Pode Desbloquear um Mercado de US$ 50 Bilhões em Automação Web com Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Making Failure Safe: O Framework que Pode Desbloquear um Mercado de US$ 50 Bilhões",
+      "subtext": "Como transformar a fragilidade dos scrapers em uma vantagem corporativa auditável",
+      "image_prompt": "A futuristic digital landscape with glowing blue and orange data streams, abstract web nodes, and a subtle shield icon representing safe failure, dark background with neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A extração de dados na web sempre foi frágil: scrapers quebram, seletores falham, schemas mudam sem aviso. Empresas gastam bilhões em manutenção de scrapers tradicionais, enquanto agentes de IA prometem automação, mas ainda são considerados não confiáveis para produção.",
+      "highlight": "Mercado atual de extração de dados web: US$ 3 bilhões — mas travado pela falta de confiabilidade"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram no arXiv um novo framework chamado 'Making Failure Safe'. Em vez de tentar eliminar falhas (impossível na web dinâmica), ele torna as falhas seguras, controladas e verificáveis. O agente falha de forma previsível, registrando exatamente onde, por que e em que estado os dados ficaram.",
+      "visual_hint": "Ícone de escudo com checkmark verde sobre um fundo de código quebrado, simbolizando segurança mesmo na falha"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas querem automatizar workflows inteiros: monitoramento de preços, coleta de reviews, atualização de fornecedores. Cada falha gera custos operacionais e perda de dados. Com falhas seguras e auditáveis, agentes de IA se tornam utilizáveis em ambientes corporativos regulados — desbloqueando um mercado de US$ 50 bilhões.",
+      "visual_hint": "Diagrama de fluxo com setas verdes (sucesso) e laranjas (falha controlada) convergindo para um banco de dados seguro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 3 bilhões: mercado atual de extração de dados web",
+        "US$ 50 bilhões: potencial de automação corporativa com agentes confiáveis",
+        "3 camadas do framework: Geração Restrita, Verificação em Tempo de Execução e Tratamento de Heterogeneidade"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de IA deixam de ser experimentais e entram em produção corporativa",
+        "Falhas se tornam auditáveis e seguras, viabilizando compliance e regulação",
+        "Automação de workflows web inteiros — não apenas scraping isolado"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da automação web não é evitar falhas — é torná-las seguras. Fique por dentro."
+    }
+  ]
+}

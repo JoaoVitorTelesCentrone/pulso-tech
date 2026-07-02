@@ -1,0 +1,53 @@
+{
+  "title": "O Algoritmo Invisível Sob Julgamento: Como Agentes de IA Estão Automatizando a Auditoria de Viés em Escala e Criando um Novo Mercado de Compliance",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Algoritmo Invisível Sob Julgamento",
+      "subtext": "Agentes de IA estão automatizando a auditoria de viés em escala — e criando um novo mercado de compliance de US$ 10 bilhões.",
+      "image_prompt": "A futuristic digital courtroom with a glowing black box on trial, surrounded by multiple AI agents as transparent holographic figures, dark blue and neon orange lighting, high-tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Auditar o viés de algoritmos de recomendação sempre foi um processo caro, manual e lento. Reguladores, ONGs e jornalistas enfrentam caixas-pretas sem acesso a código ou dados de treino.",
+      "highlight": "Cada auditoria manual custa dezenas de milhares de dólares e leva semanas a meses."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv (2606.30801) propõe um framework onde múltiplos agentes de IA coordenados simulam milhares de usuários sintéticos, interagem com plataformas e detectam disparidades sistemáticas — tudo sem acesso ao código-fonte.",
+      "visual_hint": "Ícone de múltiplos robôs conectados a uma plataforma digital, com gráficos de barras comparando grupos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas de tecnologia, o custo e a lentidão da auditoria tradicional se tornam gargalos regulatórios. Para a sociedade, a automação da auditoria pode expor vieses ocultos em feeds, buscas e recomendações que afetam bilhões de pessoas.",
+      "visual_hint": "Ilustração de uma balança da justiça com um olho digital no centro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Receita publicitária da Meta em 2025: US$ 161 bilhões — quase toda baseada em segmentação algorítmica.",
+        "Google responde por mais de 80% das buscas globais.",
+        "Auditoria que levava 30 dias pode ser concluída em horas com agentes de IA."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Surge um novo mercado de compliance algorítmico, estimado em US$ 10 bilhões.",
+        "Reguladores ganham ferramentas para fiscalizar caixas-pretas em escala industrial.",
+        "Empresas serão pressionadas a adotar transparência proativa ou enfrentar auditorias automatizadas."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O algoritmo invisível está sob julgamento — e o veredito pode mudar a internet."
+    }
+  ]
+}

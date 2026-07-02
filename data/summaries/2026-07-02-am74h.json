@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo estudo revela que o principal gargalo em sistemas multi-agente corporativos não é a capacidade dos LLMs, mas sim a colisão semântica entre descrições de skills, que pode ser resolvida com uma única reescrita otimizada.",
+  "key_facts": [
+    "Paper do arXiv (2606.30775) demonstra o fenômeno da 'skill collision' em roteamento de agentes de IA.",
+    "Falhas de roteamento ocorrem em 5% a 15% dos casos devido a descrições semanticamente sobrepostas.",
+    "Uma única reescrita guiada por dados resolve a colisão, superando a otimização manual iterativa.",
+    "O problema afeta igualmente modelos como GPT-4, Claude e Llama quando as descrições são mal projetadas."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, este artigo revela um custo oculto e evitável em sistemas multi-agente que prometem automatizar fluxos corporativos. Ignorar a engenharia de descrições pode corroer o ROI de investimentos bilionários em agentes de IA, transformando uma promessa de produtividade em uma fonte de erros e retrabalho.",
+  "watch_next": [
+    "Empresas como Salesforce e Microsoft começarem a adotar ferramentas de otimização de descrições baseadas em dados empíricos.",
+    "Surgimento de startups focadas em 'skill description engineering' como serviço para agentes corporativos.",
+    "Padronização de métricas de discriminabilidade semântica em benchmarks de sistemas multi-agente."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar em um gargalo de engenharia de produção negligenciado, em vez de benchmarks de performance de modelos. Ele foi escolhido por oferecer uma análise prática e quantificável de um problema que impacta diretamente o ROI corporativo, com uma solução surpreendentemente simples, mas que exige mudança de mentalidade na indústria."
+}
