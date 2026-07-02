@@ -1,0 +1,53 @@
+{
+  "title": "O Grupo do Pensamento Único: A Startup que Quer Curar os LLMs do Viés de 7 e Liberar US$ 1 Trilhão em Decisões de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Viés de 7: O Gargalo Silencioso da IA Corporativa",
+      "subtext": "Uma startup quer curar os LLMs do pensamento único e desbloquear US$ 1 trilhão em decisões estratégicas",
+      "image_prompt": "A futuristic digital brain with multiple diverging colorful neural pathways breaking away from a single gray path, dark background, neon blue and purple lights, high tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Grandes modelos de linguagem (LLMs) estão sofrendo de um 'groupthink' digital: quando solicitados a gerar ideias, eles repetem padrões previsíveis e estatisticamente dominantes. Esse fenômeno, chamado de 'viés de 7', limita a inovação e achata o diferencial competitivo das empresas.",
+      "highlight": "LLMs tendem a convergir para um conjunto limitado de opções, ignorando a 'cauda longa' da criatividade."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Uma startup emergiu com uma solução de três frentes: perturbação controlada do espaço latente dos transformers, amostragem por 'cauda longa' e uma métrica de 'novidade semântica'. O resultado? Um aumento de 340% na diversidade de ideias geradas, sem perda de coerência.",
+      "visual_hint": "Ícone de um cérebro com engrenagens coloridas e uma seta indicando 'diversidade' vs. 'homogeneidade'"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas que usam IA para decisões estratégicas — de hedge funds a marketing — estão descobrindo que os modelos geram recomendações homogêneas. A IA, que deveria ampliar horizontes, está estreitando-os. Se todos usam os mesmos modelos com os mesmos vieses, o diferencial competitivo desaparece.",
+      "visual_hint": "Gráfico de duas curvas: uma mostrando 'decisões previsíveis' (plana) e outra 'decisões inovadoras' (crescente)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado atual de 'decisões aumentadas por IA': US$ 200 bilhões",
+        "Potencial total estimado: US$ 1 trilhão",
+        "Aumento de 340% na diversidade de ideias com a nova abordagem"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão explorar estratégias verdadeiramente inovadoras, não apenas as óbvias",
+        "O 'viés de 7' deixará de ser um gargalo econômico para se tornar uma alavanca de diferenciação",
+        "A confiança em decisões automatizadas para áreas críticas (finanças, saúde, estratégia) dará um salto"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro das decisões de IA não é único — é diverso. E ele está começando agora."
+    }
+  ]
+}

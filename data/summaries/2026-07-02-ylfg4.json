@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisa mostra que a arquitetura de memória de agentes de IA é o fator crítico para que eles inventem uma linguagem compartilhada do zero, com implicações bilionárias para sistemas multi-agente corporativos.",
+  "key_facts": [
+    "Paper no arXiv (2607.00233) testa cinco arquiteturas de memória em agentes LLM usando o Lewis signaling game.",
+    "Agentes sem linguagem pré-definida precisam inventar um código de comunicação baseado apenas no histórico de interações.",
+    "Arquiteturas testadas incluem janela fixa, sumarizada, episódica, hierárquica e com atenção diferencial.",
+    "Empresas como Microsoft, Google e Anthropic já implantam sistemas multi-agente que dependem dessa comunicação emergente."
+  ],
+  "why_it_matters": "À medida que sistemas multi-agente se proliferam em cadeias de suprimentos, diagnósticos médicos e trading algorítmico, a capacidade de agentes de diferentes fornecedores se coordenarem sem protocolos rígidos se torna um gargalo oculto — e a escolha da arquitetura de memória pode determinar sucesso ou fracasso operacional, com impacto financeiro direto.",
+  "watch_next": [
+    "Empresas de infraestrutura de IA começarem a oferecer soluções de memória especializadas para comunicação entre agentes.",
+    "Padronização de protocolos de memória entre diferentes fornecedores de agentes de IA.",
+    "Surgimento de startups focadas em otimizar arquiteturas de memória para coordenação multi-agente."
+  ],
+  "editorial_angle": "O artigo conecta um problema teórico clássico (Lewis signaling game) a um desafio prático e urgente da indústria (comunicação entre agentes heterogêneos), destacando a memória como o fator negligenciado que pode custar bilhões — um ângulo que poucas coberturas exploram, focando mais em modelos ou dados."
+}

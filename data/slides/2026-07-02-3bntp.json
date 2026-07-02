@@ -1,0 +1,56 @@
+{
+  "title": "O Gargalo Esquecido: Como a Vulnerabilidade 'Cordyceps' em CI/CD Expõe um Risco de US$ 10 Bilhões na Infraestrutura de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Esquecido: Como a Vulnerabilidade 'Cordyceps' em CI/CD Expõe um Risco de US$ 10 Bilhões na Infraestrutura de IA",
+      "subtext": "Enquanto o mercado foca em modelos e chips, o elo mais fraco da cadeia de IA pode estar num pipeline de deploy mal configurado.",
+      "image_prompt": "A dark, futuristic data center with a glowing red fungal network spreading through server racks, symbolizing a hidden vulnerability in CI/CD pipelines, cyberpunk style, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 24 de junho de 2026, a Novee Security divulgou uma pesquisa que identificou um padrão de vulnerabilidade batizado de 'Cordyceps'. A descoberta revela uma fraqueza arquitetural em pipelines de CI/CD que permite que qualquer pessoa com acesso não autenticado assuma o controle do pipeline de deploy de uma empresa.",
+      "highlight": "8% dos pipelines públicos analisados apresentam o padrão Cordyceps"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O padrão Cordyceps explora a confiança cega no artefato final. Atacantes podem substituir artefatos legítimos em registries expostos por versões maliciosas, que são automaticamente implantadas. O pipeline continua funcionando 'normalmente', mas agora entrega software comprometido — incluindo modelos de IA, agentes e APIs.",
+      "visual_hint": "Ícone de um fungo crescendo sobre uma engrenagem de pipeline, com setas vermelhas indicando o fluxo de ataque"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para o mercado de IA, o risco é particularmente agudo. Modelos de machine learning são tratados como artefatos de build. Um ataque Cordyceps pode substituir um modelo de detecção de fraudes por um que ignore transações suspeitas. Agentes autônomos comprometidos podem executar ações maliciosas com credenciais legítimas.",
+      "visual_hint": "Gráfico de barras mostrando o crescimento do mercado de CI/CD (US$ 1,2B em 2025) e o valor dos ativos de IA que ele protege"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mais de 12.000 pipelines públicos analisados pela Novee Security",
+        "62% usavam registries de artefatos sem autenticação",
+        "34% não tinham validação de checksum entre build e deploy",
+        "28% permitiam overwrite de artefatos sem versionamento",
+        "3 dos 5 maiores provedores de nuvem estavam entre os afetados"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas de IA precisam auditar e reforçar a segurança de seus pipelines de CI/CD",
+        "A validação de integridade de artefatos (checksums, assinaturas) se torna obrigatória",
+        "Registries de artefatos devem exigir autenticação e versionamento obrigatório",
+        "O mercado de segurança para CI/CD deve crescer exponencialmente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O fungo já está se espalhando. Sua infraestrutura está protegida?"
+    }
+  ]
+}

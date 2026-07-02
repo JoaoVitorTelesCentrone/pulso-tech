@@ -1,0 +1,53 @@
+{
+  "title": "Microsoft Cria Sua Própria Aceleradora de Implantações de IA com US$ 2,5 Bilhões: O Sinal de que a Economia da Infraestrutura Está Mudando de Mãos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "US$ 2,5 Bilhões para Acelerar a IA Corporativa",
+      "subtext": "O gargalo não é mais o modelo — é a entrega. Microsoft entra no jogo da implantação.",
+      "image_prompt": "A futuristic data center with glowing blue AI circuits and a massive Microsoft logo, dark tech atmosphere, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Amazon, OpenAI e Anthropic já têm forças-tarefa de implantação. Agora a Microsoft anuncia uma aceleradora dedicada com US$ 2,5 bilhões. O mercado de IA muda de fase: o foco sai dos modelos e vai para a execução.",
+      "highlight": "70% dos projetos de IA generativa nunca chegam à produção"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Microsoft criou uma nova subsidiária dentro do Azure AI com autonomia orçamentária e metas agressivas. O objetivo: reduzir o tempo entre contrato e produção de 14 meses para 3 meses, com equipes dedicadas de engenharia, arquitetura e migração.",
+      "visual_hint": "Ícone de foguete ou engrenagem com seta de aceleração"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O problema real não é 'qual modelo usar', mas 'como colocar o modelo para funcionar em uma empresa real'. Dados legados, compliance, latência e custos de inferência são os novos gargalos. Quem dominar a integração vence a próxima década.",
+      "visual_hint": "Gráfico de abismo entre PoC e produção"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 2,5 bilhões: investimento inicial da Microsoft na aceleradora",
+        "14 meses: tempo médio entre PoC e produção (Gartner)",
+        "70% dos projetos de IA generativa nunca chegam à produção"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mercado de serviços de IA corporativa está subestimado",
+        "Diferenciação competitiva virá da capacidade de execução, não do modelo",
+        "Empresas que dominarem a arte da integração liderarão a próxima década"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da infraestrutura está mudando de mãos — e você precisa estar preparado."
+    }
+  ]
+}

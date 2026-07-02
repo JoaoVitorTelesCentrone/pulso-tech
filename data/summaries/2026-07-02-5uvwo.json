@@ -1,0 +1,15 @@
+{
+  "tldr": "OpenAI lança GeneBench-Pro, um benchmark com dados reais para padronizar a avaliação de IA em genômica, mirando o mercado de US$ 50 bilhões em descoberta de medicamentos.",
+  "key_facts": [
+    "Anunciado em 30 de junho de 2026, o GeneBench-Pro usa conjuntos de dados reais como ENCODE, GTEx, ClinVar e AlphaFold DB.",
+    "Cobre cinco áreas: predição de estrutura de proteínas, anotação funcional de genes, interpretação de variantes não-codificantes, análise de expressão gênica diferencial e descoberta de alvos farmacológicos.",
+    "O mercado de descoberta de medicamentos assistida por IA deve ultrapassar US$ 50 bilhões até 2030."
+  ],
+  "why_it_matters": "A falta de padronização na avaliação de modelos de IA em biologia cria riscos de segurança e dificulta a comparação objetiva entre soluções. O GeneBench-Pro estabelece uma régua de ouro que pode definir quais startups e modelos são confiáveis para aplicações clínicas, impactando investimentos e o futuro do setor.",
+  "watch_next": [
+    "Adoção do GeneBench-Pro por laboratórios acadêmicos e empresas de biotecnologia como padrão de facto.",
+    "Possível integração do benchmark ao ecossistema GPT-6 da OpenAI para posicionar seus modelos como referência em pesquisa genômica.",
+    "Reação de concorrentes como DeepMind e Google, que podem lançar benchmarks próprios para evitar que a OpenAI domine a definição de métricas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o lançamento técnico do benchmark com a estratégia de mercado da OpenAI, destacando como 'quem define o benchmark, define o mercado' — uma análise que vai além do anúncio e explora as implicações competitivas e de investimento no setor de IA para biologia."
+}

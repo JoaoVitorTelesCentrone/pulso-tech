@@ -1,0 +1,53 @@
+{
+  "title": "GeneBench-Pro: O Novo Benchmark da OpenAI que Mapeia o Campo Minado de US$ 50 Bilhões na Genômica com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GeneBench-Pro: A Régua de Ouro da IA na Genômica",
+      "subtext": "A OpenAI está traçando a fronteira entre a IA que cura e a IA que alucina em um mercado de US$ 50 bilhões.",
+      "image_prompt": "A futuristic DNA helix made of glowing digital code, floating in a dark tech lab with neon blue and purple lights, 8k resolution, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A intersecção entre IA e biologia gerou avanços como o AlphaFold, mas a falta de padronização na avaliação dos modelos é um gargalo silencioso. Cada laboratório cria seus próprios testes, impossibilitando comparações objetivas.",
+      "highlight": "Mercado de descoberta de medicamentos assistida por IA: US$ 50 bilhões até 2030"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Em 30 de junho de 2026, a OpenAI lançou o GeneBench-Pro, um benchmark que testa modelos de IA em genômica usando dados reais e complexos. Ele cobre cinco áreas críticas: predição de proteínas, anotação de genes, variantes não-codificantes, expressão gênica e descoberta de alvos farmacológicos.",
+      "visual_hint": "Ícone de um microscópio digital com gráficos de DNA e proteínas ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Um modelo que alucina uma estrutura de proteína ou interpreta erroneamente uma variante genética não é apenas um erro de engenharia — é um risco de vida e uma responsabilidade legal bilionária. O GeneBench-Pro cria um padrão objetivo para separar startups sérias do hype.",
+      "visual_hint": "Ilustração de uma balança com um chip de IA de um lado e uma molécula de DNA do outro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: projeção do mercado de IA em descoberta de medicamentos até 2030",
+        "5 áreas principais cobertas pelo benchmark: proteínas, genes, variantes, expressão, alvos",
+        "Datasets reais: ENCODE, GTEx, ClinVar e AlphaFold DB garantem relevância clínica"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investidores poderão diferenciar startups com capacidade técnica real das que surfam no hype",
+        "Pesquisadores terão uma ferramenta para validar se seus modelos são robustos para aplicações clínicas",
+        "A OpenAI pavimenta o caminho para que seu ecossistema de modelos seja o padrão em pesquisa genômica"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A era do 'achismo' em IA biológica acabou. Quem define o benchmark, define o mercado."
+    }
+  ]
+}

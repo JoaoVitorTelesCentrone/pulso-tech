@@ -1,0 +1,53 @@
+{
+  "title": "A Linguagem Secreta das Máquinas: Como a Arquitetura de Memória Está Criando um Novo Mercado de Comunicação entre Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Linguagem Secreta das Máquinas",
+      "subtext": "Como a arquitetura de memória está criando um novo mercado de comunicação entre agentes de IA",
+      "image_prompt": "Two futuristic AI agents facing each other, connected by a glowing neural network of symbols and light, dark cyberpunk background, digital art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Dois agentes de IA precisam se comunicar sem um idioma predefinido. Eles inventam um. A escolha da arquitetura de memória determina se essa invenção será eficiente ou um desastre — com implicações diretas de bilhões de dólares para sistemas multi-agente corporativos.",
+      "highlight": "A memória é o gargalo oculto de qualquer sistema multi-agente"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores testaram cinco arquiteturas de memória em agentes baseados em LLM usando o clássico Lewis signaling game. O experimento: um remetente observa um estado do mundo e envia um sinal; um receptor recebe e age. Sem linguagem pré-definida. Apenas o histórico de interações como guia. A arquitetura de memória foi o fator determinante para o sucesso ou fracasso da emergência de uma linguagem compartilhada.",
+      "visual_hint": "Ícone de dois robôs trocando sinais luminosos, com um cérebro digital ao centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Estamos entrando na era dos sistemas multi-agente. Microsoft, Google e Anthropic já implantam ecossistemas com dezenas a milhares de agentes cooperando — cadeias de suprimentos, diagnósticos médicos, trading algorítmico, DevOps. Quando agentes de diferentes fornecedores precisam se coordenar sem protocolo rígido, a memória define se a comunicação funciona ou falha — um risco de bilhões em produtividade perdida.",
+      "visual_hint": "Mapa mundial com pontos de conexão entre empresas de tecnologia e setores como saúde, finanças e logística"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "5 arquiteturas de memória testadas: janela fixa, sumarizada, episódica, hierárquica e atenção diferencial",
+        "Agentes sem memória adequada falham em estabelecer qualquer linguagem funcional",
+        "Sistemas multi-agente corporativos podem envolver centenas ou milhares de agentes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Arquitetura de memória se torna um diferencial competitivo no design de agentes",
+        "Surgimento de um novo mercado de protocolos de comunicação entre IAs heterogêneas",
+        "Empresas precisarão auditar e padronizar a memória de seus agentes para garantir coordenação"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A linguagem secreta das máquinas está sendo escrita agora. Você vai ficar de fora?"
+    }
+  ]
+}

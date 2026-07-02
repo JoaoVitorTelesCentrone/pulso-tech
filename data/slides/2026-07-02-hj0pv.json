@@ -1,0 +1,53 @@
+{
+  "title": "A Ponte de Dados Esquecida: Como um Novo Benchmark Árabe-Russo Expõe o Gargalo de US$ 10 Bilhões na Ciência Multilíngue",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Ponte de Dados Esquecida",
+      "subtext": "Como um benchmark Árabe-Russo expõe o gargalo de US$ 10 bilhões na ciência multilíngue",
+      "image_prompt": "A futuristic digital bridge connecting Arabic and Russian text, with glowing data streams and a dark tech background, symbolizing knowledge transfer"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de LLMs está obcecado por benchmarks em inglês. Enquanto isso, dois terços do conhecimento científico global são produzidos em outras línguas, e a barreira linguística custa entre US$ 10 e US$ 15 bilhões por ano.",
+      "highlight": "US$ 10-15 bilhões perdidos anualmente em inovação travada por barreiras linguísticas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram um novo corpus paralelo e benchmark para LLMs focado na transferência de conhecimento científico entre árabe e russo. O estudo expõe que modelos como GPT-4 e Claude falham consistentemente em manter rigor semântico e terminológico nesse par de línguas.",
+      "visual_hint": "Ícone de engrenagem quebrada entre dois globos linguísticos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Rússia e mundo árabe representam uma parcela significativa da produção científica em áreas como física teórica, química orgânica e medicina tropical. A incapacidade dos LLMs de transferir esse conhecimento com precisão gera duplicação de esforços e atraso na inovação.",
+      "visual_hint": "Mapa de calor mostrando concentração de produção científica em russo e árabe"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Menos de 0,5% dos dados de treinamento de LLMs estão em árabe; menos de 1% em russo",
+        "Custo de inferência até 40% maior para árabe e russo devido à tokenização ineficiente",
+        "Sobreposição de dados entre árabe e russo é virtualmente zero nos corpora atuais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Desenvolvedores precisarão criar benchmarks específicos para pares de línguas não-inglesas de alto valor científico",
+        "Fine-tuning científico multilíngue se torna prioridade para evitar perda de precisão terminológica",
+        "O mercado de LLMs multilíngues não é monolítico — performance em inglês-alemão não garante qualidade em árabe-russo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A ponte de dados esquecida pode ser a chave para desbloquear bilhões em inovação. Não fique para trás."
+    }
+  ]
+}

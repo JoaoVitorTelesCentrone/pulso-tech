@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisa da Novee Security revela vulnerabilidade 'Cordyceps' em pipelines de CI/CD que permite substituição de artefatos de build, expondo riscos bilionários na infraestrutura de IA.",
+  "key_facts": [
+    "Vulnerabilidade 'Cordyceps' afeta pipelines de CI/CD como Jenkins, GitLab Runner, GitHub Actions e CircleCI.",
+    "8% dos 12.000 pipelines públicos analisados apresentam o padrão, com 62% usando registries sem autenticação.",
+    "Ataque pode substituir modelos de IA em produção por versões backdooradas sem detecção.",
+    "Três dos cinco maiores provedores de nuvem e duas plataformas de deploy de modelos de IA estão entre os afetados."
+  ],
+  "why_it_matters": "Enquanto o mercado foca em modelos e chips, a segurança da cadeia de suprimentos de software para IA é negligenciada, e esta vulnerabilidade mostra que um pipeline mal configurado pode comprometer todo o ecossistema de IA, incluindo modelos, agentes e APIs.",
+  "watch_next": [
+    "Adoção de medidas de validação de integridade de artefatos por empresas de tecnologia e provedores de nuvem.",
+    "Possível regulamentação ou padrões de segurança para pipelines de CI/CD em infraestrutura crítica de IA.",
+    "Exploração ativa da vulnerabilidade por grupos de ameaças, levando a incidentes de alto perfil."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma vulnerabilidade técnica de CI/CD ao mercado de IA, quantificando o risco em US$ 10 bilhões e destacando o 'gargalo esquecido' na segurança da infraestrutura de IA, em vez de focar apenas em modelos ou chips."
+}

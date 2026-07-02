@@ -1,0 +1,16 @@
+{
+  "tldr": "Startup anônima desenvolve técnica para corrigir o 'viés de 7' em LLMs, que limita a diversidade de respostas e trava um mercado de decisões de IA estimado em US$ 1 trilhão.",
+  "key_facts": [
+    "O 'viés de 7' faz LLMs convergirem para opções previsíveis e estatisticamente dominantes, em vez de explorar possibilidades inovadoras.",
+    "Startup propõe três frentes de ataque: perturbação controlada do espaço latente, amostragem por 'cauda longa' e métrica de 'novidade semântica'.",
+    "Resultados preliminares mostram aumento de 340% na diversidade de ideias para tarefas criativas, sem queda significativa na coerência.",
+    "Mercado de 'decisões aumentadas por IA' vale US$ 200 bilhões hoje, com potencial de US$ 1 trilhão se o viés for resolvido."
+  ],
+  "why_it_matters": "O 'groupthink' dos LLMs é um gargalo econômico que homogeneíza decisões estratégicas em setores como finanças e marketing, anulando o diferencial competitivo que a IA deveria proporcionar. A solução pode desbloquear um mercado de US$ 1 trilhão.",
+  "watch_next": [
+    "Detalhes técnicos e validação independente da abordagem da startup (ex: benchmarks públicos).",
+    "Reação de grandes players (OpenAI, Google, Anthropic) e possível incorporação da técnica em modelos comerciais.",
+    "Casos de uso reais em hedge funds ou departamentos de marketing que testem a solução."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o viés de LLMs não como um problema ético ou de segurança, mas como um gargalo econômico mensurável (US$ 1 trilhão), conectando um fenômeno técnico sutil ('viés de 7') a um impacto de mercado concreto e a uma startup com solução inovadora."
+}
