@@ -1,0 +1,53 @@
+{
+  "title": "O Vibe-Coding Sai do Esconderijo: Meta Lança Pocket e o Mercado de Jogos Gerados por IA Encontra Seu Primeiro Campo de Teste de Massa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Vibe-Coding Sai do Esconderijo",
+      "subtext": "Meta lança Pocket: o primeiro campo de teste de massa para jogos gerados por IA",
+      "image_prompt": "A futuristic glowing smartphone floating in a dark digital space, with a small colorful game world emerging from the screen, neon lights, cyberpunk vibe"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O 'vibe-coding' — gerar software com prompts de linguagem natural — deixou de ser um experimento de nicho. A Meta lançou discretamente o Pocket, um app que permite criar minigames interativos com texto, sem programação.",
+      "highlight": "A economia da criação de software está mudando de mãos: do desenvolvedor profissional para o usuário final com uma ideia."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Na quinta-feira, 2 de julho de 2026, a Meta lançou o Pocket, um app experimental de IA. O usuário digita um prompt — como 'um jogo de plataforma onde um gato coleta estrelas' — e a IA gera um minigame jogável em segundos. O resultado pode ser compartilhado na plataforma.",
+      "visual_hint": "Ícone de app com engrenagens e faíscas, representando criação instantânea"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O Pocket reduz a barreira para criar software interativo a zero: não é preciso saber programar, baixar engine ou entender design de níveis. Basta uma ideia e uma frase. A Meta testa em escala quem captura o valor da criação na era dos LLMs.",
+      "visual_hint": "Ilustração de uma pessoa comum digitando em um celular e vendo um jogo 3D surgir na tela"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "3 bilhões de usuários na base da Meta para testar a tese",
+        "Geração de jogo jogável em menos de 5 segundos",
+        "App lançado em stealth na App Store e Google Play"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Indústria de games terá que se reconfigurar com criação por IA",
+        "Valor migra para distribuição, curadoria e comunidade",
+        "Ferramentas de desenvolvimento tradicionais podem perder espaço"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Pocket é o canário na mina do vibe-coding. Se decolar, tudo muda."
+    }
+  ]
+}

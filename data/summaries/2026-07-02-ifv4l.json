@@ -1,0 +1,16 @@
+{
+  "tldr": "Meta lança Pocket, um app que permite criar minigames com prompts de texto, testando em massa a viabilidade do 'vibe-coding' e a transferência da criação de software para usuários não-técnicos.",
+  "key_facts": [
+    "Meta lançou discretamente o Pocket, app que gera minigames interativos a partir de prompts de texto.",
+    "O app apareceu na App Store e Google Play sem anúncio oficial, seguindo estratégia stealth da empresa.",
+    "Pocket opera em loop de três etapas: geração por IA, renderização em sandbox e compartilhamento social.",
+    "A inovação chave está na latência e custo da inferência para gerar jogos jogáveis em segundos."
+  ],
+  "why_it_matters": "A notícia valida que o 'vibe-coding' saiu do nicho técnico para um produto de massa, testando se a barreira zero para criar software interativo pode gerar uma nova economia de conteúdo, onde o valor migra da programação para distribuição e curadoria.",
+  "watch_next": [
+    "Se Pocket decolar, grandes plataformas (Google, Apple) podem lançar concorrentes similares.",
+    "O sucesso do app pode pressionar engines de jogos (Unity, Unreal) a integrar geração por IA nativa.",
+    "Debate sobre moderação e qualidade: como a Meta lidará com conteúdo gerado por usuários em escala."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o Pocket não como um 'brinquedo de IA', mas como o primeiro campo de teste de massa para a tese econômica do vibe-coding, conectando o lançamento stealth da Meta ao debate sobre quem captura valor na era dos LLMs."
+}

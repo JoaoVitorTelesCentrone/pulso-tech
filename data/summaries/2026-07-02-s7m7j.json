@@ -1,0 +1,14 @@
+{
+  "tldr": "A startup Subquadratic lançou um modelo de atenção esparsa com janela de contexto de 12 milhões de tokens e custo subquadrático, quebrando o gargalo de inferência de contexto longo e redefinindo a economia da IA.",
+  "key_facts": [
+    "Modelo processa 12 milhões de tokens (equivalente a ~24 livros) em uma única passagem.",
+    "Arquitetura combina atenção esparsa com roteamento aprendido, alcançando complexidade O(n log n) em vez de O(n²).",
+    "Startup emergiu do ostracismo acadêmico no início de 2026 e não divulgou nome do modelo nem detalhes completos."
+  ],
+  "why_it_matters": "A notícia importa porque resolve o custo quadrático da atenção, viabilizando aplicações como análise de codebases completos, conversas longas e documentos extensos sem RAG ou chunking, além de reduzir drasticamente o custo por token de contexto longo.",
+  "watch_next": [
+    "Subquadratic pode abrir rodada de investimento ou ser adquirida por big techs interessadas em eficiência de inferência.",
+    "Concorrentes (OpenAI, Google, Anthropic) podem acelerar suas próprias abordagens de atenção subquadrática ou esparsa."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no impacto econômico e prático da inovação, em vez de apenas nos números técnicos, destacando a mudança de paradigma da capacidade do modelo para a eficiência do processamento de contexto."
+}

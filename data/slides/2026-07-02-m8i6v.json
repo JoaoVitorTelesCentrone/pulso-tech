@@ -1,0 +1,53 @@
+{
+  "title": "O Governo como Acionista: A Proposta de 5% da OpenAI que Pode Redefinir a Economia da Regulação de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Governo como Acionista: A Jogada de 5% da OpenAI",
+      "subtext": "Sam Altman quer transformar regulação em participação nos lucros — e o mercado nunca mais será o mesmo.",
+      "image_prompt": "A futuristic boardroom with a glowing AI brain hologram and a US Treasury seal merging into stock certificates, dark blue and neon green tones, cinematic lighting."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em meio a tensões regulatórias com a administração Trump, a OpenAI propôs ceder 5% de seu equity ao governo dos EUA. A ideia: alinhar incentivos e transformar o maior risco da empresa em um ativo estratégico.",
+      "highlight": "5% de participação = ~US$ 15 bilhões em valor de mercado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Sam Altman oferece ao governo uma fatia da OpenAI como moeda de troca para aliviar pressões regulatórias. A proposta cria um novo modelo: em vez de multas ou freios, o governo se torna sócio e passa a torcer pelo crescimento da empresa.",
+      "visual_hint": "Ícone de aperto de mãos entre um cifrão e um escudo de regulamentação"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Reguladores que hoje veem a IA como ameaça passariam a enxergá-la como ativo nacional. Cada nova regra teria que ser ponderada contra o impacto no valuation da participação do governo. É a monetização do poder político via equity.",
+      "visual_hint": "Gráfico de setas opostas se transformando em uma seta única para cima"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "OpenAI avaliada em ~US$ 300 bi — 5% equivale a US$ 15 bi",
+        "Anthropic valuation: US$ 900 bi — novo patamar do setor",
+        "3 modelos possíveis: ações com voto, sem voto (golden share) ou warrants/opções"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Governança de IA vira engenharia financeira, não só técnica ou ética",
+        "Precedente perigoso para outras big techs — interferência estatal via equity",
+        "Nasce o 'seguro regulatório': comprado com ações, não com dinheiro"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da regulação de IA está sendo reescrita. Fique por dentro."
+    }
+  ]
+}

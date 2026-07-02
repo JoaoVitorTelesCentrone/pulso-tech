@@ -1,0 +1,53 @@
+{
+  "title": "O Fim das Preferências Fixas: Como o 'Constructive Alignment' Pode Redefinir o Mercado de Governança de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim das Preferências Fixas",
+      "subtext": "Como o 'Constructive Alignment' pode desbloquear um mercado de US$ 50 bilhões em governança dinâmica de agentes de IA",
+      "image_prompt": "Futuristic digital landscape with a human silhouette and an AI agent in a dynamic, flowing conversation, glowing nodes representing shifting preferences, dark tech background with neon blue and purple tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv expõe o calcanhar de Aquiles dos sistemas de alinhamento atuais: tratar preferências humanas como alvos estáticos. A descoberta pode desbloquear um mercado de US$ 50 bilhões em compliance dinâmico para agentes autônomos.",
+      "highlight": "Preferências não são fixas — são construídas na interação."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Constructive Alignment' demonstra que a maioria das abordagens de alinhamento trata preferências humanas como alvos fixos a serem inferidos e otimizados. Na realidade, preferências são em camadas, dinâmicas e construídas através da interação. Um sistema que ignora isso opera com um modelo desatualizado do usuário.",
+      "visual_hint": "Ícone de engrenagem quebrada ao lado de um fluxo dinâmico de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Modelos treinados com alinhamento estático (como RLHF padrão) apresentam degradação de 15-20% na satisfação do usuário em interações com mais de 5 turnos de conversa. O 'desalinhamento' não é um bug — é uma característica inevitável de sistemas que ignoram a dinâmica das preferências.",
+      "visual_hint": "Gráfico de linha descendente com pico de satisfação caindo após 5 turnos"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "30% dos projetos de agentes de IA falham por comportamento imprevisível que viola preferências não declaradas",
+        "Custo anual de US$ 5-10 bilhões em projetos abandonados devido ao desalinhamento",
+        "Mercado de compliance dinâmico estimado em US$ 50 bilhões até 2028"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Governança de preferências se torna um processo contínuo de negociação, não otimização de alvos fixos",
+        "Sistemas de IA precisarão navegar camadas de preferência em tempo real",
+        "Surgimento de um novo mercado de compliance dinâmico para agentes autônomos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da governança de IA não é estático — é construído a cada interação."
+    }
+  ]
+}

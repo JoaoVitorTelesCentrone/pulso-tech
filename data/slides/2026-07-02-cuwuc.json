@@ -1,0 +1,53 @@
+{
+  "title": "Mnemosyne: O Agente de Transações que Pode Salvar a Economia dos Workflows Gerados por IA do Colapso Silencioso",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Mnemosyne: O Agente de Transações que Pode Salvar a Economia dos Workflows Gerados por IA do Colapso Silencioso",
+      "subtext": "Enquanto o mercado de agentes de IA explode, um novo paper expõe o calcanhar de Aquiles de toda a automação: workflows que se tornam armadilhas lógicas e econômicas.",
+      "image_prompt": "A futuristic digital brain made of glowing circuit boards and flowing data streams, with a subtle crack forming in the center, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de agentes de IA corporativos está projetado para crescer exponencialmente, rumo a US$ 50 bilhões. Empresas como Anthropic, OpenAI e Vercel estão empurrando agentes para produção em escala. Mas ninguém está olhando para a integridade transacional desses workflows.",
+      "highlight": "US$ 50 bilhões: o tamanho do mercado que pode desabar silenciosamente"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o paper Mnemosyne, que expõe um problema brutal: LLMs geram workflows em escala industrial, mas uma ação pode ser sintaticamente válida e, ao mesmo tempo, estar desatualizada, ser inviável, conflitar com outras ações ou destruir a própria evidência que desencadeou o reparo.",
+      "visual_hint": "Ícone de engrenagem quebrada com um cadeado ao lado, simbolizando falha de integridade"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A economia dos agentes de IA está construída sobre uma premissa frágil: que LLMs podem gerar sequências de ações corretas e seguras. O Mnemosyne expõe que essa premissa é falsa. Cada workflow quebrado gera custos ocultos de depuração, rollback e perda de dados. A diferença entre um robô que troca uma peça quebrada e um robô que derruba a máquina inteira.",
+      "visual_hint": "Gráfico de linha mostrando curva de produtividade subindo e depois despencando, com um ponto de 'colapso silencioso'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA: projetado para US$ 50 bilhões",
+        "Workflows gerados por IA: escala industrial, sem garantia de integridade",
+        "4 problemas críticos: desatualizado, inviável, conflitante, destrutivo de evidências"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mnemosyne trata cada ação como uma transação ACID, abortando planos inválidos antes do dano",
+        "Reparo com preservação de evidências: rollback sem perder o diagnóstico",
+        "Detecção de conflitos em tempo real em sistemas multi-agente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Mnemosyne não é uma solução cosmética — é a camada de infraestrutura que pode determinar se a automação por IA será um multiplicador de produtividade ou uma fábrica de bugs sistêmicos."
+    }
+  ]
+}

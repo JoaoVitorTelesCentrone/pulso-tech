@@ -1,0 +1,17 @@
+{
+  "tldr": "Governo dos EUA suspende embargo ao modelo Fable 5 da Anthropic, que retorna com nova precificação agressiva para reconquistar mercados perdidos durante a restrição, redefinindo a economia da inferência de alto nível.",
+  "key_facts": [
+    "Em 30 de junho de 2026, EUA suspenderam controles de exportação do Fable 5, modelo de raciocínio avançado da Anthropic.",
+    "O embargo havia sido imposto por riscos de segurança nacional, criando um cisma no mercado global de IA.",
+    "Durante o embargo, concorrentes como GLM-5.2 (chinês) e Llama 4 (Meta) ganharam tração em mercados antes dominados pela Anthropic.",
+    "Anthropic negocia IPO e precisa demonstrar escala global para justificar valuation acima de US$ 900 bilhões.",
+    "Nova estrutura de preços inclui tiers regionais, descontos por volume e assinaturas corporativas com SLAs."
+  ],
+  "why_it_matters": "A notícia sinaliza uma mudança na estratégia de contenção tecnológica dos EUA — de bloqueio para competição via preço e performance — e pode comprimir margens de todo o setor de IA, afetando desde startups até gigantes como Meta e provedores chineses.",
+  "watch_next": [
+    "Detalhamento da nova tabela de preços do Fable 5 e impacto nas margens da Anthropic.",
+    "Reação da Meta e de provedores chineses (GLM-5.2) à reconquista de mercado pela Anthropic.",
+    "Próximos passos regulatórios dos EUA em relação a outros modelos de fronteira."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o fim do embargo com a estratégia de precificação agressiva da Anthropic, tratando o evento não apenas como notícia de produto, mas como um terremoto regulatório e econômico que pode redefinir a economia da inferência de alto nível."
+}

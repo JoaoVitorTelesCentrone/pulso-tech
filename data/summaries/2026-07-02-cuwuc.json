@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores propõem o Mnemosyne, um framework que aplica princípios de transações ACID para validar e reparar workflows gerados por IA, evitando colapsos silenciosos causados por ações desatualizadas, conflitantes ou destrutivas.",
+  "key_facts": [
+    "Paper Mnemosyne foi publicado no arXiv, propondo validação transacional para workflows de IA.",
+    "Workflows gerados por IA podem falhar por desatualização, inviabilidade, conflitos ou destruição de evidências.",
+    "Mnemosyne opera em três níveis: validação transacional, reparo com preservação de evidências e detecção de conflitos em tempo real.",
+    "Mercado de agentes de IA corporativos cresce rapidamente, mas sem garantias de integridade transacional."
+  ],
+  "why_it_matters": "A economia dos agentes de IA depende da premissa de que LLMs geram sequências corretas e seguras; o Mnemosyne expõe essa fragilidade e oferece uma camada de infraestrutura crítica para evitar que a automação se torne uma fábrica de bugs sistêmicos e custos ocultos.",
+  "watch_next": [
+    "Adoção do Mnemosyne por frameworks como Eve (Vercel) ou ferramentas da Anthropic e OpenAI.",
+    "Surgimento de startups focadas em integridade transacional para agentes de IA.",
+    "Debate sobre padrões de auditoria e rollback em sistemas multi-agente."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar a correção de workflows não como um problema de qualidade de código, mas como um problema de processamento de transações atômico, conectando a fragilidade técnica a um alerta econômico para investidores e gestores."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe 'Constructive Alignment', um framework que trata preferências humanas como dinâmicas e construídas na interação, desafiando o alinhamento estático de IA e abrindo um mercado de US$ 50 bilhões em governança dinâmica para agentes autônomos.",
+  "key_facts": [
+    "Paper 'Constructive Alignment' argumenta que tratar preferências humanas como alvos fixos é fundamentalmente falho.",
+    "Preferências são descritas como em camadas, dinâmicas e construídas através da interação, não estáticas.",
+    "Modelos com alinhamento estático (RLHF) mostram degradação de 15-20% na satisfação do usuário em conversas longas (mais de 5 turnos).",
+    "30% dos projetos de agentes de IA falham devido a violações de preferências não declaradas, custando US$ 5-10 bilhões anuais."
+  ],
+  "why_it_matters": "A notícia desafia o paradigma dominante de alinhamento de IA (RLHF, DPO), apontando uma falha epistemológica que gera custos bilionários e limita a adoção de agentes autônomos. O 'Constructive Alignment' propõe uma nova abordagem de governança contínua, que pode redefinir o mercado de compliance e viabilizar interações mais longas e complexas com IA.",
+  "watch_next": [
+    "Lançamento de startups focadas em soluções de alinhamento dinâmico e governança contínua de preferências.",
+    "Grandes players (OpenAI, Google, Anthropic) adotando ou contestando o framework em suas pesquisas e produtos.",
+    "Regulamentações de IA incorporando a necessidade de adaptação dinâmica a preferências em tempo real."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas reportar o paper, mas conectar a descoberta teórica a um impacto econômico concreto (mercado de US$ 50 bi) e a um problema prático (falha de 30% dos projetos). A análise aprofunda o 'mecanismo da construção' das preferências, indo além do resumo superficial, e posiciona a notícia como um divisor de águas para o mercado de governança de agentes, não apenas como mais um avanço técnico."
+}

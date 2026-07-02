@@ -1,0 +1,53 @@
+{
+  "title": "A Volta do Fable 5: O Fim do Embargo que Pode Redefinir a Economia da Inferência de Alto Nível",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Fable 5 Está de Volta",
+      "subtext": "O embargo que parou o mercado de IA acabou — e a guerra de preços está apenas começando",
+      "image_prompt": "A futuristic glowing AI brain emerging from a broken digital lock, dark background with neon blue and purple lights, cinematic tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 30 de junho de 2026, os EUA suspenderam os controles de exportação do Fable 5, modelo mais avançado da Anthropic. O embargo, que durou meses, criou um cisma global: de um lado, aliados com acesso; do outro, mercados emergentes e potências rivais excluídas.",
+      "highlight": "US$ 900 bilhões — valuation da Anthropic na véspera do IPO"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Anthropic anunciou o retorno do Fable 5 com uma nova estrutura de preços agressiva. A empresa aprendeu com o erro do Mythos — modelo tão caro que inviabilizou a adoção em larga escala — e agora quer capturar a demanda reprimida dos mercados que ficaram sem acesso.",
+      "visual_hint": "Ícone de gráfico de barras subindo com cifrão ao lado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Durante o embargo, concorrentes como Llama 4 (Meta) e GLM-5.2 (China) ganharam tração em mercados antes dominados pela Anthropic. Agora, a empresa precisa reconquistar clientes em um cenário onde a fidelidade à marca foi testada — e a nova arma é o preço.",
+      "visual_hint": "Mapa-múndi com setas de fluxo de dados entre continentes"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 900 bi — valuation da Anthropic antes do IPO",
+        "Meses de embargo que forçaram migração para concorrentes open source",
+        "3 novas frentes de precificação: tiers regionais, descontos por volume e assinaturas corporativas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Guerra de preços deve comprimir margens de todo o setor de IA de fronteira",
+        "Meta e provedores chineses perdem vantagem competitiva imediata",
+        "Mercados emergentes ganham acesso a IA de alto nível com custo reduzido"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Fable 5 está de volta — e o mercado de inferência nunca mais será o mesmo"
+    }
+  ]
+}

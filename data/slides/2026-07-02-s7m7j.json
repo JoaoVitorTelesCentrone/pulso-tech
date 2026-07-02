@@ -1,0 +1,53 @@
+{
+  "title": "O Fim da Atenção como Conhecemos: Subquadratic Lança Modelo de 12 Milhões de Tokens e Redefine a Economia da Inferência de Contexto Longo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim da Atenção como Conhecemos",
+      "subtext": "Subquadratic quebra a barreira quadrática e processa 12 milhões de tokens de uma só vez",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways expanding outward, dark background with neon blue and purple lights, abstract technology concept"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado corre atrás de modelos maiores, o verdadeiro gargalo da IA permanece: o custo quadrático da atenção. A Subquadratic, startup nascida do ostracismo acadêmico, anuncia um modelo que processa 12 milhões de tokens — o equivalente a 24 livros — em uma única passagem.",
+      "highlight": "12 milhões de tokens = ~9 milhões de palavras em uma única inferência"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Subquadratic construiu um modelo de atenção esparsa com roteamento aprendido. Um 'gate' decide dinamicamente quais tokens merecem atenção plena e quais podem ser aproximados. Resultado: complexidade cai de O(n²) para O(n log n), viabilizando contextos gigantes sem custos proibitivos.",
+      "visual_hint": "Ícone de engrenagem com setas de roteamento e um gráfico de curva exponencial descendo para linear"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas poderão processar codebases completos sem chunking ou RAG. Assistentes manterão conversas de meses sem perder contexto. Documentos técnicos, contratos e papers serão analisados em uma única passagem. O custo por token de contexto longo pode cair de centavos para frações de centavo.",
+      "visual_hint": "Ícone de gráfico de barras com uma barra alta (custo antigo) e uma barra baixa (novo custo)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "12 milhões de tokens de janela de contexto",
+        "Equivalente a 24 livros médios ou 9 milhões de palavras",
+        "Complexidade reduzida de O(n²) para O(n log n)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim da necessidade de chunking e RAG para documentos longos",
+        "Assistentes com memória contínua de meses de conversa",
+        "Economia da inferência migra de capacidade para eficiência de contexto"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A atenção quadrática morreu. O futuro é subquadrático."
+    }
+  ]
+}

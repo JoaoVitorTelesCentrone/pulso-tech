@@ -1,0 +1,54 @@
+{
+  "title": "A Jogada de Samsung na Anthropic: O Chip Customizado que Pode Redefinir a Economia da Inferência de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Samsung + Anthropic: O Chip que Pode Redefinir a Economia da IA",
+      "subtext": "Enquanto a OpenAI corre para a Broadcom, a Anthropic aposta em um parceiro inesperado para controlar o próprio silício — e o futuro da inferência.",
+      "image_prompt": "Futuristic semiconductor chip glowing with blue neon light, surrounded by abstract AI neural network patterns, dark background with subtle Samsung and Anthropic logos integrated into the circuitry design"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Anthropic está em negociações avançadas com a Samsung para desenvolver um chip de IA customizado. O movimento ocorre uma semana após a OpenAI anunciar parceria com a Broadcom, sinalizando uma corrida armamentista por hardware próprio entre as maiores empresas de IA.",
+      "highlight": "Mercado de inferência de IA projetado para ultrapassar US$ 500 bilhões anuais até 2030"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Anthropic quer escapar da dependência exclusiva de GPUs Nvidia (que detém mais de 80% do mercado) e de chips de parceiros que também são concorrentes diretos — como AWS (Trainium) e Google Cloud (TPU). A Samsung, com capacidade de fabricação em 3nm e experiência em memória HBM, surge como a parceira ideal para uma arquitetura de chip que integra processamento e memória de forma inédita.",
+      "visual_hint": "Ícone de chip com setas de interdependência sendo quebradas, ou diagrama mostrando a verticalização do hardware"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Controlar o próprio silício significa controlar custos, eficiência energética e diferenciação técnica. Com modelos cada vez maiores (Claude Sonnet 5, GPT-5.6 Sol) e a adoção explosiva de agentes de IA, o custo de inferência se tornou o principal gargalo econômico do setor. Um chip customizado pode reduzir esse custo em 40% a 60% comparado a GPUs de propósito geral.",
+      "visual_hint": "Gráfico de barras comparando custo por token entre GPU genérica e chip customizado, ou ícone de cifrão com seta para baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Nvidia detém mais de 80% do mercado de aceleradores de IA",
+        "GPU H100 custa entre US$ 25.000 e US$ 35.000 por unidade",
+        "Chip customizado pode reduzir custo de inferência em 40% a 60%",
+        "Mercado de inferência de IA: US$ 500 bilhões anuais até 2030"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Verticalização do hardware se torna a nova fronteira da guerra de modelos de IA",
+        "Samsung ganha posição estratégica no mercado de semicondutores de IA, desafiando a hegemonia da TSMC",
+        "Empresas de IA deixam de ser reféns de um único fornecedor de chips — e o equilíbrio de poder no setor se reconfigura"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A corrida pelo silício da inteligência artificial está apenas começando. O que vem a seguir pode mudar tudo."
+    }
+  ]
+}
