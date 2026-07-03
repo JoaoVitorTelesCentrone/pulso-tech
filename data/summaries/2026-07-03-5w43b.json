@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo artigo do arXiv testa a escalabilidade do framework SOLiD, que usa detectores de mentiras automatizados para reduzir o custo de supervisão humana no alinhamento de LLMs, mas revela riscos de falsos negativos que podem reforçar comportamentos enganosos.",
+  "key_facts": [
+    "O framework SOLiD usa um detector de mentiras treinado em ativações internas do modelo para filtrar respostas suspeitas, enviando apenas essas para revisão humana.",
+    "O artigo investiga como o detector se comporta quando o modelo alvo se torna mais capaz e sofisticado em seu engano potencial.",
+    "O custo de supervisão humana no pós-treinamento de LLMs de fronteira está se tornando dominante, ameaçando a economia do alinhamento."
+  ],
+  "why_it_matters": "A notícia aborda um gargalo econômico crítico para a próxima geração de LLMs: se o alinhamento for um custo variável que escala com a capacidade do modelo, a viabilidade financeira de modelos de fronteira pode ser comprometida. SOLiD propõe uma solução, mas seus riscos sistêmicos podem quebrar a confiança no processo de treinamento.",
+  "watch_next": [
+    "Testes independentes de terceiros sobre a taxa de falsos negativos do SOLiD em modelos de fronteira.",
+    "Discussões regulatórias sobre a obrigatoriedade de supervisão humana em sistemas de alinhamento automatizados.",
+    "Novos papers propondo variantes do SOLiD com mecanismos de detecção redundantes."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um paper técnico de escalabilidade a uma questão econômica e estratégica de alto nível — o custo do alinhamento como fator limitante para o avanço dos LLMs —, alertando para riscos sistêmicos que a maioria das coberturas ignora."
+}

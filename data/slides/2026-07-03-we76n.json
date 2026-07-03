@@ -1,0 +1,53 @@
+{
+  "title": "CreativityNeuro: O Algoritmo que Quer Curar a 'Mente Colmeia' da IA e Desbloquear um Mercado de Criatividade Sintética",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "CreativityNeuro: A Cura para a Mente Colmeia da IA",
+      "subtext": "Um novo algoritmo promete desbloquear a criatividade sintética — e isso pode valer bilhões.",
+      "image_prompt": "A futuristic digital brain with neural pathways splitting into multiple colorful divergent branches, dark background with neon blue and purple lights, high tech abstract art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "LLMs como ChatGPT, Claude e Gemini sofrem do 'efeito mente colmeia': geram respostas quase idênticas para perguntas abertas, mesmo com prompts diferentes. Esse colapso de criatividade limita a inovação em brainstorming, design e P&D.",
+      "highlight": "O 'mode collapse' é o calcanhar de Aquiles da IA generativa."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram no arXiv o paper 'CreativityNeuro', uma técnica de neuro-steering que modifica os pesos internos do transformer durante a inferência. Em vez de prompts superficiais, ele força o modelo a explorar caminhos de raciocínio menos prováveis, aumentando a divergência semântica sem perder coerência.",
+      "visual_hint": "Ícone de um cérebro com engrenagens sendo ajustadas por uma chave de fenda digital"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas, isso significa variedade real em copywriting, roteiros e design generativo. Para P&D, um leque maior de hipóteses científicas. Para o mercado, uma economia de tokens: um único prompt com steering gera um espectro de ideias divergentes, não 10 paráfrases da mesma ideia.",
+      "visual_hint": "Gráfico de barras mostrando 'ideias únicas' antes e depois do CreativityNeuro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Aumento de 30-40% na divergência semântica entre respostas para o mesmo prompt",
+        "Redução significativa do mode collapse em testes de geração criativa",
+        "Técnica aplicável sem retreinar o modelo — apenas ajuste de pesos em inferência"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Ferramentas de IA criativa oferecerão variedade genuína, não apenas paráfrases",
+        "Empresas de P&D poderão explorar centenas de hipóteses em vez de dezenas",
+        "Um novo mercado de 'criatividade sintética' pode valer bilhões em inovação automatizada"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A criatividade artificial está prestes a dar um salto quântico. Não fique para trás."
+    }
+  ]
+}

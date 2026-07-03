@@ -1,0 +1,14 @@
+{
+  "tldr": "Pesquisadores publicaram um pipeline multi-agente com três LLMs que gera hipóteses científicas a partir de dados reais de satélite, automatizando a descoberta científica no mercado de Observação da Terra.",
+  "key_facts": [
+    "O sistema EO-Agents utiliza três agentes especializados: análise de dados, síntese de conhecimento e validação de hipóteses.",
+    "O mercado de Observação da Terra movimenta US$ 5 bilhões em dados brutos, mas o mercado de insights derivados é estimado em US$ 50 bilhões até 2030.",
+    "Diferente de abordagens anteriores, o pipeline ancora a geração de hipóteses em dados reais de sensoriamento remoto, não apenas em literatura."
+  ],
+  "why_it_matters": "A automação da geração de hipóteses científicas ataca o gargalo humano na interpretação de dados de satélite, abrindo caminho para a descoberta científica contínua e escalável em um mercado de alto valor comercial.",
+  "watch_next": [
+    "Validação do pipeline em escala com dados reais de agências espaciais e governos.",
+    "Expansão da abordagem para outros domínios científicos, como climatologia e agricultura de precisão."
+  ],
+  "editorial_angle": "O artigo se destaca por conectar uma inovação técnica (pipeline multi-agente) a um mercado concreto e de alto crescimento (EO insights), mostrando o potencial comercial imediato da ciência autônoma."
+}

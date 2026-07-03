@@ -1,0 +1,17 @@
+{
+  "tldr": "O framework neuro-simbólico PACE promete resolver o gargalo da explicabilidade em IA ao gerar explicações contrafactuais que são simultaneamente plausíveis e acionáveis, combinando raciocínio simbólico com aprendizado neural.",
+  "key_facts": [
+    "Paper do arXiv (3 jul 2026) apresenta o PACE, framework neuro-simbólico para explicações contrafactuais.",
+    "Métodos existentes falham em equilibrar plausibilidade e acionabilidade, gerando explicações irreais ou genéricas.",
+    "Regulamentações como AI Act (UE) e PL 2338/2023 (Brasil) pressionam por explicabilidade em IA de alto risco.",
+    "Mercado de explicabilidade e auditoria de IA é estimado em US$ 5-10 bi até 2028, com crescimento anual >25%.",
+    "63% dos americanos acham que a IA avança rápido demais, corroendo confiança corporativa."
+  ],
+  "why_it_matters": "A explicabilidade deixou de ser um diferencial técnico para se tornar uma exigência regulatória e econômica. O PACE ataca o calcanhar de Aquiles da IA corporativa — a falta de explicações confiáveis e acionáveis —, o que pode acelerar a adoção, reduzir riscos de multas e aumentar o ROI de sistemas de IA.",
+  "watch_next": [
+    "Adoção do PACE por grandes players de cloud e fintechs que lidam com decisões de alto risco.",
+    "Possível integração do framework em regulamentações de IA como padrão de facto para explicabilidade.",
+    "Surgimento de startups focadas em explicabilidade neuro-simbólica, disputando o mercado de auditoria de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico (PACE) com as dores econômicas e regulatórias do mercado de IA corporativo, mostrando que a explicabilidade não é apenas um problema de pesquisa, mas um gargalo financeiro e de confiança que pode ser transformado em vantagem competitiva."
+}

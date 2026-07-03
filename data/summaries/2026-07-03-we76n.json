@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores publicaram o CreativityNeuro, uma técnica de neuro-steering que modifica os pesos de LLMs durante a inferência para reduzir o mode collapse e gerar respostas mais divergentes e criativas, atacando o 'efeito mente colmeia' que limita a originalidade da IA.",
+  "key_facts": [
+    "O paper 'CreativityNeuro: Steering Language Model Weights to Improve Divergent Thinking and Reduce Mode Collapse' foi publicado no arXiv (2607.01433).",
+    "A técnica propõe intervenção direta nos pesos das camadas de atenção do transformer, não apenas prompts ou fine-tuning superficial.",
+    "Resultados iniciais mostram aumento de 30-40% na divergência semântica entre respostas para o mesmo prompt.",
+    "O método visa reduzir o 'mode collapse', fenômeno onde LLMs geram respostas muito similares para perguntas abertas."
+  ],
+  "why_it_matters": "O 'efeito mente colmeia' é um gargalo econômico e técnico que limita a utilidade de LLMs em aplicações que exigem originalidade genuína, como brainstorming, design, descoberta científica e marketing. Se o CreativityNeuro funcionar em escala, pode desbloquear um mercado de criatividade sintética, permitindo que uma única consulta gere um espectro de ideias verdadeiramente divergentes, economizando tempo e tokens.",
+  "watch_next": [
+    "Validação independente dos resultados do CreativityNeuro por outros grupos de pesquisa e testes em modelos de maior escala.",
+    "Surgimento de startups ou ferramentas que integrem a técnica em produtos comerciais de geração de conteúdo e P&D.",
+    "Debate sobre os limites éticos e de controle ao 'forçar' a criatividade em modelos de IA, especialmente em contextos de segurança e alinhamento."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar em uma solução técnica de baixo nível (neuro-steering) para um problema prático e frustrante para usuários de LLMs, em vez de apenas descrever o problema. A abordagem promete um avanço concreto e mensurável na criatividade artificial, com implicações diretas para o mercado de conteúdo generativo e inovação corporativa."
+}

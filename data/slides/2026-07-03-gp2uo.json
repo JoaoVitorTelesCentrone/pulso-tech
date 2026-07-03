@@ -1,0 +1,53 @@
+{
+  "title": "PACE: O Framework Neuro-Simbólico que Pode Salvar a Economia dos Modelos de IA do Colapso da Explicabilidade",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "PACE: O Framework que Salva a IA do Colapso da Explicabilidade",
+      "subtext": "Enquanto o mercado queima bilhões em caixas-pretas, uma nova abordagem neuro-simbólica promete transformar o maior calcanhar de Aquiles da IA em vantagem competitiva.",
+      "image_prompt": "A futuristic digital brain made of transparent glass and neon blue circuits, with a glowing key unlocking a black box, dark tech background, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper no arXiv (julho/2026) apresenta o PACE, um framework neuro-simbólico que gera explicações contrafactuais plausíveis e acionáveis para modelos de IA. O problema é antigo e caro: modelos de deep learning tomam decisões críticas sem conseguir explicar 'o que mudar para ter um resultado diferente'.",
+      "highlight": "63% dos americanos acham que a IA avança rápido demais — e cada decisão inexplicável corrói a confiança."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O PACE combina raciocínio simbólico (regras lógicas e conhecimento de domínio) com aprendizado neural (representações contínuas). Ele primeiro aprende um espaço latente, aplica restrições simbólicas para garantir realismo e valida se as mudanças são executáveis no mundo real. Chega de sugestões impossíveis como 'mude sua idade de 45 para 30 anos'.",
+      "visual_hint": "Diagrama de três estágios: Espaço Latente → Restrições Simbólicas → Validação no Mundo Real"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O problema da explicabilidade não é apenas técnico — é econômico e regulatório. Reguladores na UE (AI Act), EUA e Brasil estão endurecendo regras para sistemas de alto risco. Empresas que não explicam decisões automatizadas enfrentam multas de até 7% do faturamento global. O PACE transforma explicabilidade de 'adivinhação pós-hoc' em processo auditável.",
+      "visual_hint": "Ícone de gavel (martelo de juiz) sobreposto a gráfico de barras crescentes representando multas regulatórias"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de explicabilidade e auditoria de IA: US$ 5-10 bilhões até 2028, crescendo >25% ao ano.",
+        "Multas regulatórias podem chegar a 7% do faturamento global por falta de explicabilidade.",
+        "63% dos americanos acreditam que a IA avança rápido demais, corroendo a confiança corporativa."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Explicabilidade vira vantagem competitiva: empresas que adotarem PACE poderão auditar decisões em tempo real.",
+        "Redução de riscos regulatórios e financeiros: menos multas, mais conformidade com AI Act e leis similares.",
+        "Aceleração da adoção de IA em setores críticos (saúde, finanças, justiça) com confiança renovada."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O PACE pode ser a chave para destravar o próximo bilhão em valor da IA corporativa. Não fique para trás."
+    }
+  ]
+}

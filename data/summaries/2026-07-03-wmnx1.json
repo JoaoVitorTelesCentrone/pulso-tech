@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper propõe método training-free para atribuição multimodal em QA de documentos longos, usando atenção interna de transformers, visando resolver gargalo de confiança em assistentes corporativos de IA.",
+  "key_facts": [
+    "MultAttnAttrib é um método training-free que rastreia origens de respostas em documentos multimodais (texto, imagens, tabelas).",
+    "Utiliza mecanismos de cross-attention de modelos como GPT-4V, Gemini Pro Vision e Claude 3.5 Sonnet.",
+    "Funciona em três etapas: extração de atenção multimodal, agregação hierárquica e atribuição por evidência.",
+    "Mercado de assistentes corporativos de IA é estimado em US$ 10 bilhões, com empresas como Salesforce, Microsoft e Google investindo pesado."
+  ],
+  "why_it_matters": "A falta de atribuição confiável em sistemas multimodais é um gargalo crítico para adoção corporativa de IA, pois sem provas das fontes, a confiança do usuário e o ROI de bilhões investidos ficam ameaçados.",
+  "watch_next": [
+    "Adoção do MultAttnAttrib por APIs de modelos de fronteira como GPT-4V e Gemini.",
+    "Desenvolvimento de benchmarks padronizados para avaliação de atribuição multimodal.",
+    "Possível corrida de startups e big techs para integrar atribuição training-free em seus assistentes."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico específico (atribuição multimodal training-free) com um problema de mercado concreto e bilionário (confiança em assistentes corporativos), destacando o impacto prático além da inovação acadêmica."
+}

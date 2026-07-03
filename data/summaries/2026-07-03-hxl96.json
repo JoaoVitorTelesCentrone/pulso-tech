@@ -1,0 +1,15 @@
+{
+  "tldr": "Paper do arXiv propõe Destilação de Memória Processual (PMD), um método que permite LLMs aprenderem com suas próprias trajetórias de raciocínio durante a inferência, reduzindo drasticamente os custos de pós-treinamento.",
+  "key_facts": [
+    "O método PMD analisa a trajetória de tokens gerados (o processo), não apenas o resultado final, para identificar sub-sequências de sucesso ou erro.",
+    "O modelo gera múltiplos rollouts para um problema, reflete online sobre os caminhos e destila o aprendizado em seus próprios pesos sem novos dados rotulados.",
+    "O framework se insere na linhagem do RLVR e autodestilação (como SDPO), mas opera em tempo real durante a inferência, sem depender de verificadores externos."
+  ],
+  "why_it_matters": "Ataca o gargalo mais caro da indústria de IA: o custo do pós-treinamento (fine-tuning, RLHF). Se validado, o PMD pode permitir que modelos evoluam com o uso em produção, reduzindo a dependência de ciclos caros de coleta e rotulagem de dados, e barateando a operação de LLMs em escala.",
+  "watch_next": [
+    "Validação empírica do PMD em benchmarks de raciocínio (matemática, código) e comparação com métodos tradicionais de pós-treinamento.",
+    "Adoção por empresas de infraestrutura de IA (como OpenAI, Anthropic, Google) para reduzir custos operacionais de modelos em produção.",
+    "Surgimento de críticas ou limitações: risco de overfitting nos próprios padrões do modelo, ou necessidade de supervisão esporádica para evitar deriva."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas reportar um novo paper, mas contextualizá-lo dentro do problema econômico do pós-treinamento, oferecendo uma análise técnica acessível (como funciona a destilação processual) e conectando a inovação a um impacto prático imediato para empresas que implantam LLMs."
+}

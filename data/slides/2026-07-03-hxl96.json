@@ -1,0 +1,53 @@
+{
+  "title": "Destilação de Memória Processual: O Novo Método que Ensina LLMs a Aprender com a Própria Experiência e Redefine a Economia do Pós-Treinamento",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "LLMs que Aprendem com a Própria Experiência",
+      "subtext": "Destilação de Memória Processual: o fim do pós-treinamento caro e lento",
+      "image_prompt": "A futuristic digital brain made of glowing circuits and flowing data streams, self-reflecting and evolving, dark background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria queima bilhões em fine-tuning e RLHF para cada novo domínio. Cada iteração custa milhões em compute e semanas de engenharia.",
+      "highlight": "Custo do pós-treinamento: o gargalo silencioso da IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper (arXiv) propõe o Procedural Memory Distillation (PMD): LLMs que melhoram em tempo real analisando suas próprias trajetórias de raciocínio, sem novos dados rotulados ou verificadores externos.",
+      "visual_hint": "Ícone de um cérebro com setas de auto-reflexão em loop"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas podem ter modelos que evoluem com o uso, sem intervenção manual. O custo marginal de melhoria contínua cai drasticamente, reduzindo um dos maiores custos operacionais da IA.",
+      "visual_hint": "Gráfico de curva de custo caindo ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Milhões de dólares por iteração de pós-treinamento tradicional",
+        "Semanas de engenharia para cada novo domínio",
+        "PMD: custo marginal de melhoria contínua próximo de zero"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Modelos que se autoaperfeiçoam durante a inferência",
+        "Fim da dependência de ciclos caros de feedback humano",
+        "Nova economia da IA: aprendizado contínuo sem supervisão"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do pós-treinamento já começou — e ele aprende sozinho."
+    }
+  ]
+}

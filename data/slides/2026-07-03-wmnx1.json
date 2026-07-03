@@ -1,0 +1,53 @@
+{
+  "title": "MultAttnAttrib: A Nova Fronteira da Atribuição Multimodal que Pode Desbloquear (ou Travar) o Mercado de US$ 10 Bilhões em Assistentes de IA Corporativos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "MultAttnAttrib: A Chave para a Confiança em Assistentes de IA Multimodais",
+      "subtext": "Como um método sem treinamento pode destravar (ou travar) um mercado de US$ 10 bilhões",
+      "image_prompt": "A futuristic digital brain with interconnected nodes of text, images, and charts, glowing with blue and orange light, dark background, high contrast, tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Assistentes de IA corporativos estão sendo implantados em massa, mas a falta de atribuição precisa em documentos multimodais (gráficos, tabelas, texto) ameaça a confiança do usuário e o ROI de bilhões investidos.",
+      "highlight": "US$ 10 bilhões em risco"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper MultAttnAttrib propõe um método inovador e sem fine-tuning que rastreia a origem de cada resposta gerada, usando os próprios mecanismos de atenção do modelo para mapear evidências em texto, imagens e tabelas.",
+      "visual_hint": "Ícone de mapa de calor sobre um documento multimodal"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem atribuição, sistemas de QA são caixas-pretas. Com o MultAttnAttrib, empresas podem confiar que seus assistentes de IA não apenas respondem, mas provam de onde vieram as informações, aumentando a adoção e reduzindo riscos.",
+      "visual_hint": "Ícone de cadeado sendo aberto com uma chave digital"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de assistentes de IA corporativos: US$ 10 bilhões",
+        "Método training-free: zero custo de fine-tuning",
+        "Funciona com GPT-4V, Gemini Pro Vision, Claude 3.5 Sonnet"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão auditar respostas de IA com transparência",
+        "Redução de riscos legais e regulatórios em setores como finanças e saúde",
+        "Aceleração da adoção de assistentes multimodais em documentos complexos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A confiança é a nova fronteira da IA. Não fique para trás."
+    }
+  ]
+}
