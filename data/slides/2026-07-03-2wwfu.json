@@ -1,0 +1,53 @@
+{
+  "title": "Beyond Next-Token Prediction: A Prova de Conceito que Pode Redefinir a Economia dos Agentes de IA Empresariais",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Beyond Next-Token Prediction",
+      "subtext": "O fim do 'chute estatístico' em workflows corporativos pode estar mais perto do que se imagina — e o custo das alucinações em APIs pode cair drasticamente.",
+      "image_prompt": "Futuristic digital brain made of glowing circuit paths and API endpoints, dark background with neon blue and purple lights, abstract technology concept"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA empresariais ainda funcionam como 'macacos digitando': tentam adivinhar a próxima palavra com base em probabilidade. Em tarefas fechadas como chamar uma API com parâmetros específicos, o resultado é desastroso — e caro.",
+      "highlight": "Cada erro de endpoint gera retrabalho, logs de erro e, no pior caso, corrupção de dados."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper (arXiv 2607.01465) propõe treinar modelos de linguagem para agir dentro de uma API, em vez de apenas prever a próxima palavra. Usando RLVR (Reinforcement Learning from Verifiable Rewards), o modelo aprende a 'pensar em ações', não em tokens.",
+      "visual_hint": "Ícone de engrenagem com setas de API se conectando a um cérebro digital"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O RLVR resolve três problemas de uma vez: alinha geração textual com ação correta, permite aprendizado específico de domínio com poucos dados, e usa o sucesso binário das chamadas de API como recompensa verificável — tornando o treinamento por reforço muito mais eficiente.",
+      "visual_hint": "Gráfico de barras comparando taxa de sucesso entre LLM tradicional e RLVR"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de até 40% nos erros de chamada de API em testes iniciais",
+        "Modelo RLVR aprendeu sequências de até 7 chamadas de API encadeadas",
+        "Superou GPT-4 e Claude 3.5 em tarefas de automação no ecossistema Atlassian"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Custo de alucinações em APIs empresariais pode cair drasticamente",
+        "Agentes autônomos em CRMs, ERPs e plataformas de desenvolvimento se tornam viáveis",
+        "Mudança fundamental na função objetivo do treinamento de modelos de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA não está em prever palavras — está em executar ações. E isso muda tudo."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Dilema do Arrependimento: Como o Novo Framework de Roteamento por Dificuldade Pode Redefinir a Economia dos Agentes de Atendimento",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Dilema do Arrependimento",
+      "subtext": "Como um novo framework de roteamento por dificuldade pode redefinir a economia dos agentes de atendimento",
+      "image_prompt": "A futuristic call center with glowing AI agents and human operators, split by a digital wall of light, dark tech atmosphere, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA estão migrando de chatbots para executores operacionais — acessam registros, aplicam políticas e executam reembolsos. O risco de um erro autônomo não é uma resposta mal-educada, mas um prejuízo financeiro direto.",
+      "highlight": "O custo oculto de um 'sim' automático pode ser maior que o de um 'não' humano"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo artigo no arXiv propõe o Difficulty-Routed Control: um framework que avalia dinamicamente a dificuldade de cada solicitação e decide se o agente de IA prossegue sozinho ou recorre a um operador humano. O sistema não depende do agente declarar sua própria incerteza — algo que LLMs fazem muito mal.",
+      "visual_hint": "Diagrama de fluxo: solicitação do cliente → roteador de dificuldade → IA autônoma ou operador humano"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A indústria de agentes de IA está em uma encruzilhada. De um lado, a promessa de redução de custos operacionais. Do outro, o risco de agentes autônomos tomarem decisões financeiras erradas em escala, gerando um passivo oculto. O 'arrependimento do agente' — quando uma ação deveria ter sido revisada por um humano — é o problema central.",
+      "visual_hint": "Balança com um prato de moedas (economia) e outro de documentos com cifrões (risco financeiro)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de até 40% na taxa de 'arrependimento' (ações que precisariam ser revertidas)",
+        "Taxa de automação mantida acima de 70% — equilíbrio que a indústria buscava há anos",
+        "Automação de atendimento pode economizar até US$ 80 bilhões anuais globalmente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "ROI da automação será recalculado com base no custo do erro, não apenas no custo da operação",
+        "Setores como fintech, e-commerce e telecom serão os primeiros a adotar o roteamento por dificuldade",
+        "Arquiteturas de governança em tempo real se tornarão padrão para agentes autônomos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Dilema do Arrependimento está apenas começando — e a correção de rota pode mudar tudo."
+    }
+  ]
+}

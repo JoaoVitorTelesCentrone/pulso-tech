@@ -1,0 +1,53 @@
+{
+  "title": "Proveniência Contra o Caos: Como a Rastreabilidade de Ações Pode Desbloquear o Mercado de Agentes de IA Corporativos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Proveniência Contra o Caos",
+      "subtext": "Como a rastreabilidade de ações pode desbloquear o mercado de agentes de IA corporativos",
+      "image_prompt": "Futuristic digital network with glowing nodes and data streams, representing traceability and order in AI systems, dark blue and neon green tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA corporativos prometem automatizar fluxos complexos, mas a adoção plena trava em menos de 15%. O gargalo não é técnico — é a falta de confiança e governança sobre decisões autônomas.",
+      "highlight": "Adoção empresarial plena de agentes autônomos: < 15%"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper propõe um framework de proveniência que audita cada ação do agente em tempo real, verificando se cada chamada de ferramenta é consistente com o objetivo original — sem precisar melhorar o modelo de IA.",
+      "visual_hint": "Ícone de corrente ou cadeia de blocos conectados, simbolizando rastreabilidade"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas, o problema não é tornar o agente mais inteligente, mas torná-lo auditável. Com rastreabilidade, compliance officers e conselhos podem confiar na delegação de tarefas críticas — desbloqueando investimento e escala.",
+      "visual_hint": "Ícone de escudo com checkmark ou gráfico de governança"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado global de agentes de IA: US$ 47 bilhões até 2030",
+        "Adoção empresarial plena (sem supervisão humana): < 15%",
+        "Framework detecta inconsistências em tempo real com mecanismo de rollback"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes poderão operar em sistemas críticos com auditoria contínua",
+        "Empresas poderão escalar automação sem medo de ações imprevisíveis",
+        "Proveniência vira requisito de compliance para adoção corporativa de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Transparência é o novo diferencial competitivo na era dos agentes autônomos."
+    }
+  ]
+}

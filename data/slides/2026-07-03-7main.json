@@ -1,0 +1,53 @@
+{
+  "title": "Auto-FL-Research: O Mecanismo de Busca Autônoma que Pode Redefinir a Economia do Aprendizado Federado",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Auto-FL-Research: A IA que Automatiza a Descoberta de Algoritmos",
+      "subtext": "Enquanto o mercado foca em LLMs maiores, um novo paper do arXiv automatiza a busca pelos algoritmos de aprendizado federado — e pode economizar bilhões em P&D de IA distribuída.",
+      "image_prompt": "A futuristic digital brain made of interconnected nodes and data streams, glowing blue and purple, representing autonomous AI search in federated learning, dark background, high tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O aprendizado federado (FL) é a espinha dorsal de sistemas onde dados não podem ser centralizados: saúde, finanças, dispositivos móveis e IoT industrial. O gargalo atual não é a falta de interesse — é o custo de P&D, que exige semanas ou meses de tentativa e erro manual.",
+      "highlight": "Cada nova aplicação de FL exige um ciclo de tentativa e erro que pode levar semanas ou meses de engenheiros especializados."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o paper 'Auto-FL-Research: Agentic Search for Federated Learning Algorithms', propondo um sistema de agente de IA que automatiza a descoberta e otimização de algoritmos de FL. O agente navega sistematicamente por combinações de otimizadores, regras de agregação, cronogramas de treinamento e arquiteturas de modelo.",
+      "visual_hint": "Ícone de um robô explorando um labirinto de engrenagens e circuitos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se um agente de IA pode explorar o espaço de design algorítmico de forma autônoma, o custo marginal de desenvolver um novo sistema FL cai drasticamente. Mercados que dependem de FL — como saúde digital e dispositivos inteligentes — podem ver barreiras de entrada reduzidas, acelerando a adoção de modelos que respeitam privacidade sem sacrificar performance.",
+      "visual_hint": "Gráfico de barras mostrando redução de custo de P&D ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de saúde digital estimado em US$ 500 bilhões até 2030",
+        "O Auto-FL-Research automatiza a busca por algoritmos, reduzindo semanas de trabalho para horas",
+        "O agente opera no nível do algoritmo, não apenas ajustando hiperparâmetros — escolhe entre variantes de otimizadores, frequência de comunicação e esquemas de regularização"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica no custo de P&D para sistemas de aprendizado federado",
+        "Aceleração da adoção de modelos que respeitam privacidade em saúde, finanças e IoT",
+        "Democratização do acesso a algoritmos otimizados de FL para empresas de todos os portes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA distribuída está sendo escrito agora — e ele é autônomo."
+    }
+  ]
+}

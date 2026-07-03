@@ -1,0 +1,53 @@
+{
+  "title": "O Viés Invisível nas Métricas de IA: Como o 'Prompt Framing' Pode Estar Inflando Falsamente a Confiança em LLMs e Criando um Risco de US$ 10 Bilhões em Sistemas Críticos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Viés Invisível nas Métricas de IA",
+      "subtext": "Como o 'Prompt Framing' infla a confiança em LLMs e cria um risco de US$ 10 bilhões",
+      "image_prompt": "A dark, abstract digital landscape with glowing data streams and hidden distortions, representing invisible bias in AI metrics"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo estudo do arXiv revela que a métrica F1, usada para validar LLMs, pode ser artificialmente inflada pela forma como a pergunta é feita. O fenômeno, chamado de 'F1 Inflation', mascara a verdadeira capacidade de detecção de erros dos modelos.",
+      "highlight": "F1 pode subir 20% a 40% sem melhoria real na localização de erros"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores criaram o ErrorBench, um conjunto de controle que isola o efeito do 'numeric anchoring'. Quando um prompt contém um número (ex: 'encontre 3 erros'), o LLM ajusta sua saída para corresponder àquele valor, mesmo que irrelevante. A métrica F1 sobe, mas a precisão real não.",
+      "visual_hint": "Ícone de lupa distorcida ou gráfico de linha ascendente enganoso"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores de produto, engenheiros de ML e investidores: a confiança em LLMs em sistemas críticos (moderação, diagnóstico médico, revisão de código) pode ser ilusória. O modelo 'passa no teste' mas falha no mundo real, gerando riscos financeiros e reputacionais enormes.",
+      "visual_hint": "Ícone de alerta ou engrenagem quebrada"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "F1 pode inflar 20% a 40% sem melhoria real em detecção de erros",
+        "Risco estimado de US$ 10 bilhões em sistemas críticos baseados em LLMs",
+        "ErrorBench: novo benchmark para expor o viés de 'numeric anchoring'"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Métricas atuais de validação de LLMs precisam ser revistas",
+        "Sistemas críticos devem incluir testes de robustez contra prompt framing",
+        "ROI de automação baseada em LLMs pode estar superestimado"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A próxima crise da IA pode não estar no modelo, mas na régua que usamos para medi-lo."
+    }
+  ]
+}

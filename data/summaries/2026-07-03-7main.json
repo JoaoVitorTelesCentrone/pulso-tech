@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores propõem o Auto-FL-Research, um sistema de agente de IA que automatiza a busca e otimização de algoritmos de aprendizado federado, reduzindo drasticamente o custo e o tempo de P&D em sistemas distribuídos que respeitam privacidade.",
+  "key_facts": [
+    "O paper 'Auto-FL-Research: Agentic Search for Federated Learning Algorithms' foi publicado no arXiv (2607.01366).",
+    "O sistema automatiza a descoberta de algoritmos de FL, incluindo otimizadores, regras de agregação, cronogramas de treinamento e regularização.",
+    "O agente usa um módulo de representação, busca (ex.: Monte Carlo Tree Search) e avaliação para navegar no espaço de design algorítmico.",
+    "O gargalo atual do FL é o custo de P&D manual, que pode levar semanas ou meses por aplicação."
+  ],
+  "why_it_matters": "Esta notícia importa porque o Auto-FL-Research pode reduzir barreiras de entrada em mercados críticos como saúde digital (US$ 500 bi até 2030) e IoT, acelerando a adoção de IA que preserva privacidade sem sacrificar performance, ao automatizar um processo de P&D caro e demorado.",
+  "watch_next": [
+    "Comparações com benchmarks de AutoML tradicionais e validação em cenários reais de saúde e finanças.",
+    "Possível integração do sistema com plataformas de nuvem ou frameworks de FL como TensorFlow Federated.",
+    "Discussões sobre o custo computacional do agente versus ganhos em eficiência de P&D."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar em um gargalo prático e econômico do FL — o custo de P&D — e por apresentar uma solução baseada em agentes de IA que vai além do AutoML tradicional, operando no nível do algoritmo, não apenas de hiperparâmetros. A abordagem 'agentic search' é um diferencial técnico que conecta inovação em IA com impacto de mercado."
+}

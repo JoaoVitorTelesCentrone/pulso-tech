@@ -1,0 +1,15 @@
+{
+  "tldr": "Paper propõe treinar LLMs com RLVR para executar chamadas de API corretamente em workflows empresariais, reduzindo alucinações e erros em até 40%.",
+  "key_facts": [
+    "Paper arXiv 2607.01465 propõe RLVR para treinar modelos a agir em APIs, não apenas prever tokens.",
+    "Foco em workflows Atlassian (Jira, Confluence, Bitbucket) com chamadas de API multi-etapa.",
+    "Modelo RLVR superou GPT-4 e Claude 3.5 em automação, reduzindo erros de chamada de API em até 40%.",
+    "Abordagem resolve três problemas: alinhamento texto-ação, generalização em domínios nichados e verificação binária de sucesso."
+  ],
+  "why_it_matters": "A economia dos agentes de IA empresariais é travada pelo custo das alucinações em APIs; este paper oferece um caminho prático para reduzir retrabalho e corrupção de dados, viabilizando automação confiável em CRMs, ERPs e plataformas de desenvolvimento.",
+  "watch_next": [
+    "Se a técnica for validada em outros ecossistemas (Salesforce, SAP, AWS), pode acelerar a adoção de agentes autônomos em empresas.",
+    "Big techs podem incorporar RLVR em seus modelos de fronteira, mudando o paradigma de treinamento para tarefas fechadas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo econômico real (custo das alucinações) e não apenas na inovação técnica, conectando o paper a um problema prático e mensurável para o leitor de tecnologia empresarial."
+}

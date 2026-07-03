@@ -1,0 +1,53 @@
+{
+  "title": "Agent4cs: O Sistema Multi-Agente que Pode Redefinir a Economia da Manutenção de Código Legado",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Agent4cs: O Fim do Gargalo Bilionário da Compreensão de Código",
+      "subtext": "Enquanto o mercado foca em gerar código novo, um sistema multi-agente ataca o verdadeiro dreno de produtividade: entender o que já foi escrito.",
+      "image_prompt": "A futuristic digital brain made of interconnected code nodes and glowing blue data streams, hovering over a dark server room, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Empresas de tecnologia gastam entre 40% e 60% do tempo dos desenvolvedores apenas lendo e entendendo código existente. O custo médio de um engenheiro sênior nos EUA ultrapassa US$ 200 mil anuais, resultando em centenas de bilhões de dólares perdidos em produtividade.",
+      "highlight": "40% a 60% do tempo dos devs é perdido apenas tentando entender o código"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper Agent4cs propõe uma arquitetura inovadora com quatro agentes de IA especializados que trabalham em conjunto para sumarizar código em múltiplos níveis de abstração — de funções a módulos inteiros. Diferente de LLMs únicos, ele trata a sumarização como engenharia reversa colaborativa.",
+      "visual_hint": "Ícone de engrenagens conectadas por linhas de código, representando a orquestração dos agentes"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores de tecnologia, o impacto é direto: onboardar novos devs em semanas em vez de meses, reduzir drasticamente o tempo em code reviews e manter sistemas legados sem depender de engenheiros que conhecem o código 'de cor'. Para investidores, o sinal é claro: a próxima onda de IA não é sobre escrever mais código, mas sobre entender o que já existe.",
+      "visual_hint": "Gráfico de barras mostrando redução de tempo de onboarding de 6 meses para 2 semanas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "40-60% do tempo dos desenvolvedores gasto apenas lendo código",
+        "Custo médio de engenheiro sênior: US$ 200 mil/ano",
+        "Centenas de bilhões de dólares perdidos anualmente em produtividade"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Onboarding de novos desenvolvedores em semanas, não meses",
+        "Redução drástica do tempo perdido em code reviews",
+        "Manutenção de sistemas legados sem dependência de especialistas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da engenharia de software não é escrever mais código — é entender o que já existe."
+    }
+  ]
+}

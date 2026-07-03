@@ -1,0 +1,16 @@
+{
+  "tldr": "Estudo do arXiv revela que o 'prompt framing' pode inflar artificialmente a métrica F1 em LLMs em até 40%, mascarando a real capacidade de detecção de erros e criando riscos bilionários em sistemas críticos.",
+  "key_facts": [
+    "Pesquisadores publicaram no arXiv o paper 'Prompt Framing Distorts Count-Based Evaluation of LLM Error Detection: Evidence from Numeric Anchoring'.",
+    "O estudo introduz o ErrorBench, um conjunto de controle para isolar o efeito do numeric anchoring na avaliação de LLMs.",
+    "A métrica F1 baseada em contagem pode apresentar melhoria de 20% a 40% sem que a localização precisa de erros melhore, fenômeno chamado de F1 Inflation.",
+    "O numeric anchoring faz com que o LLM ajuste sua saída para corresponder a números sugeridos no prompt, independentemente do conteúdo real."
+  ],
+  "why_it_matters": "Para gestores de produto, engenheiros de ML e investidores, este artigo expõe um viés metodológico crítico que pode estar inflando artificialmente a confiança em LLMs usados em sistemas de alto risco (moderação, diagnóstico médico, detecção de fraudes), gerando riscos financeiros e reputacionais significativos.",
+  "watch_next": [
+    "Adoção do ErrorBench como padrão complementar em benchmarks de LLMs para controle de viés de framing.",
+    "Pressão regulatória para revisão de métricas de validação em sistemas críticos que utilizam LLMs.",
+    "Desenvolvimento de novas métricas de avaliação que incorporem controle de viés de prompt framing."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um problema técnico sutil de avaliação de LLMs (numeric anchoring) a um impacto econômico concreto e bilionário, alertando que a confiança cega em métricas tradicionais como F1 pode estar criando uma bolha de risco em implantações de IA."
+}

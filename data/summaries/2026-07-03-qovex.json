@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe a arquitetura Wiola, um SLM construído do zero sem linhagem com GPT, LLaMA ou Mistral, visando eficiência radical em inferência leve para borda e dispositivos com recursos limitados.",
+  "key_facts": [
+    "Publicado em 3 de julho de 2026 no arXiv (código 2607.01394, cs.AI).",
+    "Arquitetura declarada como 'from first principles', sem herança estrutural de GPT, LLaMA, Mistral ou Falcon.",
+    "Foco em SLMs (modelos com menos de 7B parâmetros) para eficiência em inferência de borda e tempo real.",
+    "Apresenta cinco inovações independentes e inéditas na literatura, atacando gargalos como custo quadrático da atenção e latência de decodificação."
+  ],
+  "why_it_matters": "A maioria dos SLMs atuais são versões podadas de modelos grandes, herdando ineficiências estruturais. Wiola propõe um recomeço arquitetônico que pode gerar ganhos de eficiência de ordem de grandeza, impactando diretamente custos de inferência, adoção em dispositivos de borda e a competitividade de startups frente a gigantes como Nvidia.",
+  "watch_next": [
+    "Publicação de benchmarks comparativos (latência, throughput, consumo energético) entre Wiola e SLMs derivados de transformers.",
+    "Possível replicação ou extensão das inovações por grupos acadêmicos ou startups focadas em inferência eficiente.",
+    "Reação de grandes players (Google, Meta, OpenAI) que podem incorporar princípios da arquitetura em futuras versões de modelos leves."
+  ],
+  "editorial_angle": "O artigo se diferencia ao destacar um paper acadêmico que passou despercebido no ruído das big techs, mas que pode representar uma mudança de paradigma na economia da inferência leve — um tema estratégico para CTOs, gestores de infraestrutura e investidores que buscam alternativas ao domínio dos transformers canônicos."
+}

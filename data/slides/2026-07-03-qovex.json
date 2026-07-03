@@ -1,0 +1,53 @@
+{
+  "title": "Wiola: A Arquitetura de SLM que Rompe com o Legado GPT e Redefine a Economia da Inferência Leve",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Wiola: O Fim da Herança GPT",
+      "subtext": "Uma arquitetura SLM construída do zero, sem dívidas com o passado — e pronta para redefinir a economia da inferência leve.",
+      "image_prompt": "A futuristic, glowing blue neural network architecture emerging from a dark digital void, with sleek geometric nodes and light trails, tech conference style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a indústria corre para escalar trilhões de parâmetros, um paper do arXiv propõe um recomeço radical. Wiola não é fine-tuning, destilação ou MoE — é uma arquitetura original, sem linhagem com GPT, LLaMA, Mistral ou Falcon.",
+      "highlight": "Wiola não compartilha DNA com os transformers canônicos."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram no arXiv (2607.01394) o modelo Wiola, um Small Language Model construído a partir de primeiros princípios. São cinco inovações independentes e inéditas, focadas em eficiência radical para inferência leve e dispositivos de borda.",
+      "visual_hint": "Ícone de um chip de processamento com engrenagens e linhas de dados pulsando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A maioria dos SLMs atuais são versões podadas de modelos grandes, herdando ineficiências estruturais. Wiola ataca pela raiz: custo quadrático da atenção, memória de inferência e latência autorregressiva. Para CTOs com orçamento apertado e dispositivos com bateria limitada, isso é um novo patamar.",
+      "visual_hint": "Gráfico de barras comparando eficiência energética entre SLMs tradicionais e Wiola"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos com menos de 7B parâmetros — foco em SLMs de alta eficiência",
+        "Custo quadrático de atenção O(n²) é um dos gargalos clássicos atacados",
+        "Inferência em dispositivos de borda com bateria limitada se torna viável"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novo padrão de eficiência para inferência leve e tempo real",
+        "Startups podem competir com gigantes em eficiência de inferência",
+        "Adoção corporativa de SLMs em larga escala se torna economicamente viável"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Wiola pode ser o começo de uma nova era para a IA eficiente. Não perca os próximos capítulos."
+    }
+  ]
+}

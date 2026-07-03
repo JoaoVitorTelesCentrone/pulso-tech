@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper propõe framework de análise de proveniência para auditar decisões de agentes de IA em tempo real, visando desbloquear o mercado corporativo ao resolver o gargalo de confiança e governança.",
+  "key_facts": [
+    "Paper no arXiv propõe framework de proveniência para alinhar ações de agentes de IA à intenção do usuário.",
+    "Framework opera em três camadas: registro de proveniência, verificação de consistência e mecanismo de rollback.",
+    "Mercado global de agentes de IA deve atingir US$ 47 bilhões até 2030, mas adoção plena está abaixo de 15%.",
+    "Abordagem não depende de melhorar o modelo, mas de criar governança em tempo real aplicável a qualquer LLM."
+  ],
+  "why_it_matters": "A notícia importa porque ataca o principal entrave para adoção empresarial de agentes autônomos: a falta de rastreabilidade e auditoria, oferecendo uma solução prática que pode acelerar investimentos e compliance em IA corporativa.",
+  "watch_next": [
+    "Empresas como Salesforce e Microsoft podem adotar frameworks similares em seus produtos de agentes.",
+    "Regulamentações de IA podem exigir proveniência como requisito mínimo para agentes autônomos em setores críticos.",
+    "Surgimento de startups focadas em ferramentas de auditoria e governança para agentes de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não no desempenho técnico dos agentes, mas na governança e transparência como chave para destravar o mercado corporativo, abordando diretamente o dilema de confiança que trava a adoção em larga escala."
+}
