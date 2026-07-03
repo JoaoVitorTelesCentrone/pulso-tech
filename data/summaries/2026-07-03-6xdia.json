@@ -1,0 +1,14 @@
+{
+  "tldr": "Anthropic lança Claude Science, um AI workbench para automatizar workflows de P&D farmacêutico, mirando um mercado de US$ 2 trilhões e prometendo reduzir custos e acelerar descobertas científicas.",
+  "key_facts": [
+    "Claude Science é uma plataforma que unifica ferramentas e datasets para cientistas, permitindo experimentos assistidos por IA em uma interface coesa.",
+    "O custo médio para desenvolver um novo medicamento ultrapassa US$ 2,6 bilhões, com 90% de falha em ensaios clínicos.",
+    "A plataforma opera sobre Claude Sonnet 5 e Mythos, focando em orquestração de tarefas como análise de dados, geração de gráficos e documentação de pipelines."
+  ],
+  "why_it_matters": "A notícia importa porque a Anthropic está atacando um dos maiores gargalos da indústria farmacêutica — a ineficiência e fragmentação de ferramentas — com uma solução que pode transformar a economia da ciência, reduzindo custos de falha e viabilizando pesquisas antes inviáveis, como medicamentos para doenças raras.",
+  "watch_next": [
+    "Anúncio de parcerias com grandes farmacêuticas para testar o Claude Science em pipelines reais de P&D.",
+    "Possível reação da OpenAI e Google, que podem lançar concorrentes diretos focados em automação científica."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na estratégia de negócios da Anthropic (expansão para além do código) e no impacto econômico da plataforma, em vez de apenas listar funcionalidades técnicas. Foi escolhido por conectar IA de fronteira a um problema real e bilionário — a ineficiência do P&D farmacêutico."
+}

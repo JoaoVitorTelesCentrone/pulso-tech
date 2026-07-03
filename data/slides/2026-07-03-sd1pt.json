@@ -1,0 +1,53 @@
+{
+  "title": "RusFinChain: O Benchmark Financeiro Russo que Expõe o Gargalo de US$ 10 Bilhões na Confiança em Raciocínio de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "RusFinChain: O Gargalo de US$ 10 Bilhões na Confiança em IA Financeira",
+      "subtext": "Novo benchmark revela que LLMs falham em explicar seu raciocínio — e isso pode custar caro para bancos e fundos.",
+      "image_prompt": "A futuristic financial control room with holographic data streams and a glowing red chain breaking apart, dark blue and neon orange tones, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores russos publicaram o RusFinChain, um benchmark que avalia a capacidade de raciocínio Chain-of-Thought em LLMs aplicados a finanças. O mercado global de IA em serviços financeiros ultrapassou US$ 35 bilhões em 2025 e deve chegar a US$ 100 bilhões até 2030.",
+      "highlight": "US$ 35 bilhões em 2025 → US$ 100 bilhões até 2030"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O RusFinChain testa LLMs em três níveis: resposta final, cadeia de raciocínio e alinhamento fuzzy. A inovação está em medir se as etapas intermediárias são logicamente consistentes, mesmo que as palavras sejam diferentes. Modelos como GPT-5 e Claude acertam respostas, mas falham na lógica.",
+      "visual_hint": "Ícone de corrente quebrada com engrenagens e cifrões"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Em finanças, cada decisão precisa ser auditável e explicável. LLMs que acertam por atalhos estatísticos criam passivos ocultos para bancos, seguradoras e fundos de hedge. A confiança cega em IA financeira pode estar superestimada.",
+      "visual_hint": "Gráfico de barras com uma barra 'Confiança' caindo e 'Risco' subindo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: gargalo estimado em confiança de raciocínio de IA",
+        "5 domínios financeiros cobertos: demonstrações, valuation, derivativos, etc.",
+        "3 níveis de avaliação: resposta final, CoT, alinhamento fuzzy"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Adoção cega de LLMs em finanças pode gerar passivos ocultos",
+        "Investidores devem reavaliar o hype em 'IA financeira'",
+        "Modelos precisarão passar em testes de raciocínio verificável para serem confiáveis"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA financeira depende de raciocínio auditável. Não fique para trás."
+    }
+  ]
+}

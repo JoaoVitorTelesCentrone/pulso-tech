@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores lançaram o Office Comprehension Bench (OCB), primeiro benchmark público para avaliar LLMs em formatos nativos do Microsoft Office, expondo uma falha crítica dos modelos atuais e sinalizando um mercado de automação corporativa de US$ 50 bilhões.",
+  "key_facts": [
+    "OCB é o primeiro benchmark público para avaliar LLMs em formatos nativos do Office (.docx, .xlsx, .pptx).",
+    "O benchmark possui duas trilhas: Compreensão (extração e resumo) e Transformação (modificação e conversão entre formatos).",
+    "Tarefas de escritório consomem cerca de 40% do tempo de 1,2 bilhão de trabalhadores de colarinho branco globalmente.",
+    "O paper está disponível no arXiv (ID 2607.01245) e ainda não divulga resultados de modelos comerciais."
+  ],
+  "why_it_matters": "A notícia importa porque revela que o maior mercado não endereçado pela IA atual é a automação de escritório, expondo um gargalo estrutural dos LLMs — que falham em compreender documentos nativos do Office — e abrindo uma corrida entre gigantes como Microsoft, Google e Anthropic para capturar um mercado estimado em US$ 50 bilhões anuais.",
+  "watch_next": [
+    "Divulgação dos primeiros resultados de modelos comerciais no OCB, expondo quem lidera a corrida de automação corporativa.",
+    "Anúncio de parcerias ou aquisições entre empresas de IA e a Microsoft para integrar compreensão nativa de Office nos LLMs.",
+    "Lançamento de benchmarks concorrentes focados em outros formatos corporativos (Google Docs, planilhas, PDFs complexos)."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um benchmark técnico específico (OCB) a uma oportunidade de mercado massiva e pouco explorada, posicionando a falha dos LLMs em documentos nativos do Office como o 'elo perdido' da produtividade corporativa, em vez de apenas mais um teste de desempenho."
+}

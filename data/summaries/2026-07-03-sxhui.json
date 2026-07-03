@@ -1,0 +1,15 @@
+{
+  "tldr": "Pesquisadores propõem usar Reinforcement Learning com feedback do mundo real em ambientes FHIR para treinar agentes clínicos, reduzindo a dependência de supervisão humana e potencialmente desbloqueando um mercado de US$ 100 bilhões em automação hospitalar.",
+  "key_facts": [
+    "Paper arXiv:2607.01470 propõe RL com 'world feedback' para treinar agentes clínicos em ambientes FHIR.",
+    "Agentes treinados com world feedback superam abordagens de imitation learning em tarefas de execução de protocolos.",
+    "Três desafios principais diagnosticados: esparsidade de recompensas, complexidade do espaço de ação e alinhamento com protocolos clínicos reais."
+  ],
+  "why_it_matters": "A validação clínica é o gargalo da automação hospitalar; este método promete escalar o treinamento de agentes sem supervisão humana intensiva, reduzindo custos e acelerando a adaptação a novos protocolos.",
+  "watch_next": [
+    "Publicação de benchmarks comparativos entre RL com world feedback e métodos tradicionais em ambientes FHIR reais.",
+    "Adoção do framework por hospitais ou startups de saúde digital para validação em larga escala.",
+    "Discussões regulatórias sobre o uso de verificadores automatizados como substitutos de supervisão clínica humana."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um avanço técnico específico (RL com world feedback em FHIR) a uma oportunidade de mercado quantificada (US$ 100 bilhões), oferecendo tanto análise técnica quanto implicações econômicas para o leitor de IA/Tech."
+}

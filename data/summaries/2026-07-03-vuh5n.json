@@ -1,0 +1,15 @@
+{
+  "tldr": "Agentes de IA automatizam a detecção do 'viés do jardim de caminhos que se bifurcam' na pesquisa científica, expondo a crise de reprodutibilidade e criando um mercado de US$ 5 bilhões em auditoria analítica automatizada.",
+  "key_facts": [
+    "Pesquisadores publicaram no arXiv o preprint 'The Agentic Garden of Forking Paths' (arXiv:2607.01507).",
+    "Agentes de IA mapeiam, simulam e documentam a variabilidade analítica de datasets, revelando como escolhas metodológicas podem inverter conclusões.",
+    "A crise de reprodutibilidade custa US$ 28 bilhões/ano apenas em pesquisa pré-clínica, segundo a Nature."
+  ],
+  "why_it_matters": "A automação da auditoria de robustez analítica transforma um processo artesanal e caro em um serviço escalável, impactando diretamente produtos de IA, reguladores (FDA, SEC), e investidores de deep tech, que podem agora exigir 'certificados de robustez' gerados por agentes.",
+  "watch_next": [
+    "Empresas de BI e análise de dados integrarão métricas de confiabilidade analítica em seus produtos de IA.",
+    "Reguladores como FDA e ANVISA podem começar a exigir certificados de robustez gerados por agentes para aprovação de estudos e medicamentos.",
+    "Fundos de venture capital adotarão a ferramenta para avaliar a solidez dos resultados de startups antes de investir."
+  ],
+  "editorial_angle": "O artigo conecta um problema metodológico clássico (p-hacking) a uma oportunidade de mercado concreta e mensurável (US$ 5 bilhões), indo além do avanço técnico para destacar o impacto econômico e regulatório imediato para o leitor de tecnologia e negócios."
+}

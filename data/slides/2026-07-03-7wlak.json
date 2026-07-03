@@ -1,0 +1,53 @@
+{
+  "title": "OPINE-World: O Framework que Ensina IA a Explorar o Desconhecido e Pode Redefinir a Economia da Robótica Autônoma",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "OPINE-World: O Fim dos Mundos Sintéticos Frágeis na Robótica",
+      "subtext": "Um novo framework que ensina IA a explorar o desconhecido e pode desbloquear um mercado de US$ 50 bilhões",
+      "image_prompt": "A futuristic robot arm exploring a dark, abstract environment with glowing blue nodes and connections, representing unknown ontology errors, high-tech and mysterious"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de mundo baseados em deep learning são flexíveis, mas frágeis fora da distribuição de treinamento. Um robô que aprendeu a navegar em um depósito limpo pode falhar ao encontrar uma poça d'água ou uma caixa fora do lugar.",
+      "highlight": "Gargalo de US$ 50 bilhões em robótica autônoma"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o OPINE-World, um framework que substitui a abordagem 'caixa-preta' por programas simbólicos combinados com exploração interativa que prioriza erros ontológicos — lacunas no modelo conceitual do ambiente.",
+      "visual_hint": "Ícone de quebra-cabeça com uma peça faltando sendo encaixada por um braço robótico"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se um robô pode aprender a operar em um novo ambiente com 10x menos dados, o custo de implantação cai drasticamente. Mercados antes inviáveis, como robótica doméstica e manufatura customizada, tornam-se acessíveis.",
+      "visual_hint": "Gráfico de barras mostrando custo de implantação caindo 10x"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: gargalo da robótica autônoma por falta de generalização",
+        "10x menos dados de interação necessários para aprender novos ambientes",
+        "3 camadas interligadas: modelo ontológico, detector de erros, exploração priorizada"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Robôs que se adaptam a novidades sem retreinamento do zero",
+        "Custo de implantação drasticamente reduzido para novos ambientes",
+        "Mudança de paradigma: programar conhecimento ontológico, usar IA só para explorar lacunas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da robótica não está em modelos maiores, mas em mundos programáticos que aprendem com o erro."
+    }
+  ]
+}

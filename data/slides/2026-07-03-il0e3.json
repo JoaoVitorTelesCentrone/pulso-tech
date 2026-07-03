@@ -1,0 +1,53 @@
+{
+  "title": "Janus: O Novo Framework de Permissões que Pode Desbloquear (ou Travar) o Mercado de US$ 100 Bilhões em Agentes Autônomos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Janus: O Framework que Decide se os Agentes de IA Vão Voar ou Cair",
+      "subtext": "O elo perdido da segurança em um mercado de US$ 100 bilhões",
+      "image_prompt": "A futuristic digital key made of glowing blue circuits, floating in a dark server room, with a subtle lock and chain motif, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA estão sendo implantados para executar ações reais: enviar e-mails, modificar bancos de dados e realizar transações financeiras. Mas o mecanismo que controla o que eles podem fazer ainda é primitivo.",
+      "highlight": "Mercado projetado para US$ 100 bilhões — mas depende de segurança"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o paper 'Janus', um playground experimental que testa modelos de permissionamento adaptativo. A ideia é envolver o usuário no loop de decisão, mas sem criar um gargalo manual.",
+      "visual_hint": "Ícone de um cadeado com engrenagens internas, representando controle adaptativo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Hoje, as empresas oscilam entre dar acesso total ao agente (risco enorme) ou exigir aprovação manual para cada ação (destruindo a automação). Janus propõe um terceiro caminho: permissão contextual e inteligente.",
+      "visual_hint": "Gráfico de balança com dois pesos desiguais e um terceiro ponto de equilíbrio no centro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: projeção do mercado de agentes corporativos",
+        "2 extremos falhos: permissão total vs. aprovação manual",
+        "3 componentes-chave do Janus: risco contextual, envolvimento adaptativo e políticas dinâmicas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes poderão operar com autonomia segura em ambientes de alto risco",
+        "Empresas poderão escalar automação sem comprometer conformidade",
+        "O permissionamento se torna um diferencial competitivo, não um gargalo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes autônomos depende de quem segura as chaves."
+    }
+  ]
+}

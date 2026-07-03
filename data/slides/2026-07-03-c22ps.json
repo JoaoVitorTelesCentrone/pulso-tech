@@ -1,0 +1,53 @@
+{
+  "title": "Office Comprehension Bench (OCB): O Novo Benchmark que Expõe o Abismo de Produtividade dos LLMs no Escritório e Cria um Mercado de US$ 50 Bilhões em Automação Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Abismo de Produtividade dos LLMs no Escritório",
+      "subtext": "Um novo benchmark expõe o calcanhar de Aquiles da IA corporativa e revela um mercado de US$ 50 bilhões em automação.",
+      "image_prompt": "A futuristic office desk with a glowing digital document, a shattered glass effect over a Word icon, and a dark blue tech background with neon grid lines."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a IA avança em programação e ciência, 40% do tempo dos 1,2 bilhão de trabalhadores de colarinho branco é consumido por tarefas de escritório. O Office Comprehension Bench (OCB) chega para expor o elo perdido da produtividade corporativa.",
+      "highlight": "40% do tempo de trabalho global é gasto em tarefas de escritório não automatizadas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores lançaram o OCB, o primeiro benchmark público para avaliar LLMs em formatos nativos do Microsoft Office — .docx, .xlsx e .pptx. O teste revela que os modelos falham em tarefas que um estagiário faz em minutos: entender um documento com formatação complexa.",
+      "visual_hint": "Ícone de um documento Word com um ponto de interrogação e um gráfico de barras mostrando desempenho baixo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "LLMs entendem texto plano, mas não documentos nativos do Office. Estrutura hierárquica, formatação semântica e metadados são perdidos na conversão. Isso trava a automação de relatórios, planilhas e apresentações — o coração do trabalho corporativo.",
+      "visual_hint": "Diagrama de uma árvore hierárquica sendo quebrada ao ser convertida em texto plano"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: valor estimado do mercado de automação de escritório",
+        "1,2 bilhão: trabalhadores de colarinho branco afetados globalmente",
+        "40%: tempo de trabalho perdido em tarefas de documentação e formatação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Microsoft, Google e Anthropic entram em corrida silenciosa por soluções nativas",
+        "Novos modelos precisarão ser treinados em formatos Office, não só em texto plano",
+        "Empresas que dominarem essa tecnologia podem revolucionar a produtividade corporativa"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O OCB é o mapa do tesouro de um mercado que pode valer dezenas de bilhões. Não fique de fora."
+    }
+  ]
+}

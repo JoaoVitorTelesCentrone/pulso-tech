@@ -1,0 +1,53 @@
+{
+  "title": "World Feedback para Agentes Clínicos: Como o RL em Ambientes FHIR Pode Desbloquear um Mercado de US$ 100 Bilhões em Automação Hospitalar",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "World Feedback para Agentes Clínicos",
+      "subtext": "Como o RL em Ambientes FHIR Pode Desbloquear um Mercado de US$ 100 Bilhões em Automação Hospitalar",
+      "image_prompt": "A futuristic hospital room with holographic medical data and AI agents interacting with a glowing FHIR interface, dark tech aesthetic, neon blue and green accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A automação hospitalar movimenta dezenas de bilhões de dólares, mas esbarra em um gargalo crítico: a validação clínica. Cada novo protocolo exige ajustes manuais ou supervisão humana intensiva, travando a escalabilidade.",
+      "highlight": "O gargalo invisível da automação clínica não é a tecnologia, mas a validação."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram um paper propondo Reinforcement Learning com 'world feedback' em ambientes FHIR. Especialistas codificam a lógica de decisão em um verificador, que se torna a fonte de recompensa para o agente. O agente aprende interagindo com o ambiente FHIR, sem depender de supervisão humana massiva.",
+      "visual_hint": "Ícone de engrenagem com cérebro e gráfico de aprendizado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O RL com world feedback reduz o custo de treinamento de agentes clínicos em ordens de magnitude. Para desenvolvedores, oferece um framework prático. Para gestores hospitalares, promete automação que se adapta rapidamente a novos protocolos sem reengenharia constante.",
+      "visual_hint": "Ícone de gráfico de crescimento com seta para cima e cifrão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de automação hospitalar: dezenas de bilhões de dólares anualmente",
+        "Agentes com RL ingênuo: taxa de convergência cai para menos de 5% em tarefas com mais de 10 passos sem recompensa",
+        "Espaço de ações FHIR: mais de 10^12 combinações possíveis"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes clínicos treinados com world feedback superam abordagens baseadas apenas em demonstrações humanas",
+        "Redução drástica do custo de validação e adaptação a novos protocolos",
+        "Potencial de desbloquear um mercado de US$ 100 bilhões em automação hospitalar"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da automação clínica está sendo escrito agora. Não fique de fora."
+    }
+  ]
+}

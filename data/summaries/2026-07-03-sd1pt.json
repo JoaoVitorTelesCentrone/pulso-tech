@@ -1,0 +1,14 @@
+{
+  "tldr": "Pesquisadores russos lançaram o RusFinChain, um benchmark financeiro que avalia a capacidade de modelos de IA de explicar seu raciocínio passo a passo, revelando que a maioria falha em manter consistência lógica — um gargalo crítico para a adoção segura de LLMs em finanças.",
+  "key_facts": [
+    "O RusFinChain foi publicado no arXiv em 3 de julho de 2026 e expande o benchmark FINCHAIN para o idioma russo.",
+    "O benchmark avalia três níveis: resposta final, cadeia de raciocínio (CoT) e alinhamento fuzzy (similaridade semântica do raciocínio).",
+    "O mercado global de IA em serviços financeiros foi estimado em US$ 35 bilhões em 2025 e deve ultrapassar US$ 100 bilhões até 2030."
+  ],
+  "why_it_matters": "Para desenvolvedores e gestores de TI, a notícia alerta que a adoção cega de LLMs em sistemas financeiros pode criar passivos ocultos, já que modelos frequentemente acertam respostas finais por atalhos estatísticos, mas falham na cadeia lógica auditável exigida pelo setor.",
+  "watch_next": [
+    "Espera-se que outros benchmarks similares surjam para diferentes idiomas e setores regulados, como saúde e direito.",
+    "Grandes provedores de LLMs (OpenAI, Google, Anthropic) podem ser pressionados a melhorar a explicabilidade e a consistência lógica de seus modelos para competir no mercado financeiro."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não apenas no lançamento de um benchmark, mas no gargalo de confiança de US$ 10 bilhões que ele expõe, conectando a falha técnica (raciocínio inconsistente) a um impacto econômico concreto e ao hype potencialmente superestimado da 'IA financeira'."
+}

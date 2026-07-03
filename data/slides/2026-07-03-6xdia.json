@@ -1,0 +1,53 @@
+{
+  "title": "Claude Science: A Jogada Bilionária da Anthropic para Automatizar a Descoberta Científica",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Claude Science: O Fim da Ciência Artesanal?",
+      "subtext": "Anthropic mira no coração do P&D farmacêutico — um mercado de US$ 2 trilhões — com um 'workbench' de IA para automatizar descobertas.",
+      "image_prompt": "A futuristic digital laboratory with holographic molecular structures and flowing data streams, dark blue and purple tones, cinematic lighting, high tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O P&D farmacêutico é um dos setores mais ineficientes da economia global. Cientistas alternam entre ferramentas fragmentadas, workflows manuais e pipelines mal documentados, gerando um custo bilionário em tentativa e erro.",
+      "highlight": "90% dos candidatos a fármacos falham nos ensaios clínicos."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Anthropic lançou o Claude Science, um 'AI workbench for scientists' que unifica ferramentas e datasets em um único ambiente. Pesquisadores descrevem experimentos em linguagem natural e o sistema executa código, gera gráficos e documenta todo o pipeline automaticamente.",
+      "visual_hint": "Ícone de um cérebro conectado a engrenagens e tubos de ensaio, simbolizando IA integrada à ciência."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O Claude Science ataca dois gargalos críticos: a fragmentação de ferramentas (que quebra o fluxo de raciocínio) e a falta de reprodutibilidade (mais de 70% dos experimentos não são reproduzíveis). A promessa é reduzir o custo da falha e encurtar ciclos de hipótese-teste.",
+      "visual_hint": "Gráfico de linha mostrando uma curva de custo caindo drasticamente ao longo do tempo."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 2,6 bilhões: custo médio para desenvolver um novo medicamento.",
+        "10 a 15 anos: tempo médio de desenvolvimento de um fármaco.",
+        "70%+ dos experimentos científicos não são reproduzíveis."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pesquisa de medicamentos para doenças raras pode se tornar economicamente viável.",
+        "Cientistas ganham um 'sistema operacional' unificado para suas descobertas.",
+        "A economia da ciência é transformada: falhas mais baratas, ciclos mais rápidos."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A ciência como conhecemos está prestes a ser reescrita por linhas de código. Você está pronto?"
+    }
+  ]
+}

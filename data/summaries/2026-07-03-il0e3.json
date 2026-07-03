@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores publicaram o framework Janus, um playground experimental para gerenciamento de permissões em agentes de IA, propondo um modelo adaptativo que equilibra autonomia e segurança, em um momento crítico para o mercado de agentes corporativos.",
+  "key_facts": [
+    "Paper 'Janus: a Playground for User-Involved Agentic Permission Management' (2607.01510) publicado no arXiv.",
+    "Janus é um playground experimental para testar diferentes modelos de permissionamento em cenários realistas.",
+    "O framework propõe três componentes: modelo de risco contextual, mecanismo de envolvimento adaptativo e políticas de delegação.",
+    "Mercado de agentes de IA corporativos projetado para ultrapassar US$ 100 bilhões nos próximos anos."
+  ],
+  "why_it_matters": "O permissionamento é o 'elo perdido' da arquitetura de agentes de IA. Sem um sistema robusto, o mercado de US$ 100 bilhões em agentes autônomos pode não se concretizar, pois empresas não confiarão em agentes que operam sem controle adequado, arriscando segurança, conformidade e reputação.",
+  "watch_next": [
+    "Empresas como OpenAI, Anthropic e Google podem adotar ou integrar conceitos do Janus em seus frameworks de agentes.",
+    "Surgimento de startups focadas exclusivamente em permissionamento e governança de agentes de IA.",
+    "Regulamentações governamentais sobre autonomia de agentes de IA, especialmente em setores financeiro e de saúde."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo de permissionamento, um problema negligenciado pela indústria que corre para construir agentes mais capazes. Ele expõe o trade-off entre autonomia e segurança, usando o Janus como estudo de caso para um problema prático e urgente, em vez de apenas mais um avanço técnico."
+}
