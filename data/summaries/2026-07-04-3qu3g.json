@@ -1,0 +1,14 @@
+{
+  "tldr": "Zuckerberg admite que agentes de IA da Meta não avançaram como esperado, sinalizando maturidade em meio ao hype do setor.",
+  "key_facts": [
+    "Zuckerberg afirmou em reunião interna que agentes de IA 'não progrediram tão rapidamente quanto ele esperava'.",
+    "A Meta investiu bilhões em infraestrutura de IA, modelos Llama e produtos baseados em agentes.",
+    "O artigo aponta gargalos técnicos: fragilidade de memória, taxa de erro acumulada, custo de inferência e alucinações em ações."
+  ],
+  "why_it_matters": "A declaração valida preocupações de pesquisadores sobre a falta de confiabilidade dos agentes autônomos, podendo iniciar uma correção de expectativas e valuations no mercado de IA.",
+  "watch_next": [
+    "Correção nos valuations de startups de agentes que levantaram rodadas bilionárias.",
+    "Possível mudança de foco da Meta para melhorias em sistemas de orquestração e confiabilidade, em vez de apenas modelos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo técnico real (sistemas e orquestração) em vez do hype dos modelos, oferecendo uma análise aprofundada dos desafios práticos que limitam os agentes de IA."
+}

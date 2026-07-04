@@ -1,0 +1,53 @@
+{
+  "title": "O Realismo de Zuckerberg: Quando o CEO da Meta Admite que os Agentes de IA Não Estão Prontos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Realismo de Zuckerberg: Quando o CEO da Meta Admite que os Agentes de IA Não Estão Prontos",
+      "subtext": "O momento de sobriedade que pode valer mais que bilhões em investimento: a era dos agentes autônomos ainda não chegou",
+      "image_prompt": "A futuristic dark tech control room with holographic displays showing AI agent error rates and warning signs, blue and red neon lighting, cinematic atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Mark Zuckerberg afirmou em reunião interna que os agentes de IA 'não progrediram tão rapidamente quanto ele esperava'. A declaração, vinda de quem comanda uma das maiores apostas do setor, carrega um peso imenso para todo o mercado de tecnologia.",
+      "highlight": "\"Agentes de IA não progrediram tão rapidamente quanto eu esperava\" — Mark Zuckerberg"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Zuckerberg não disse que a IA é um fracasso. Disse que os agentes — a camada de aplicação que promete autonomia — não evoluíram como esperado. O gargalo não é o modelo, é o sistema: orquestrar LLMs em loops de ação, observação e correção que funcionem de forma confiável.",
+      "visual_hint": "Ícone de engrenagem quebrada com circuitos, representando a falha na orquestração dos sistemas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A admissão valida o que pesquisadores e engenheiros vêm dizendo nos bastidores: agentes autônomos ainda são, em grande parte, uma promessa. Um agente que falha 10% das vezes em uma tarefa crítica é inútil para uma empresa. Estamos longe de taxas de erro abaixo de 1% em cenários do mundo real.",
+      "visual_hint": "Gráfico de linha descendente mostrando a queda de confiabilidade conforme o número de etapas aumenta"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Agente com 95% de precisão por passo: apenas ~60% de chance de completar uma tarefa de 10 passos corretamente",
+        "Para tarefas de 20 passos, a taxa de sucesso cai para ~36%",
+        "Custo de inferência: um agente a US$ 0,50 por tarefa, em escala de milhões, explode o orçamento"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Correção de expectativas no mercado: valuations de startups de agentes podem sofrer ajustes",
+        "Foco em confiabilidade e memória de longo prazo, não apenas em benchmarks de LLMs",
+        "Empresas adotarão agentes com supervisão humana, não autonomia total"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O hype passou. A construção real começou. Fique à frente do mercado com análises profundas sobre o futuro dos agentes de IA."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Menlo Ventures e o Efeito Dominó da Aposta de US$ 750 Mi na Anthropic: O Que o Fundo de US$ 3 Bi Revela Sobre a Nova Economia do Capital de Risco em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Aposta de US$ 750 Mi que Mudou o Jogo do Venture Capital em IA",
+      "subtext": "Como um cheque ousado na Anthropic gerou um fundo de US$ 3 Bi e reescreveu as regras do Vale do Silício",
+      "image_prompt": "A futuristic domino effect with glowing neon dollar signs and AI circuit patterns, dark background, cinematic lighting, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em junho de 2026, a Menlo Ventures fechou um fundo de US$ 3 bilhões. O feito impressiona em um mercado de VC ainda se recuperando do aperto de 2022-2024. Mas o que realmente chama a atenção é como esse fundo foi conquistado: a partir de uma única jogada ousada.",
+      "highlight": "US$ 3 Bi — o novo fundo da Menlo Ventures"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Em 2024, a Menlo Ventures apostou US$ 750 milhões na Anthropic — uma quantia desproporcional para uma firma de médio porte. Hoje, com a Anthropic valendo entre US$ 60 Bi e US$ 900 Bi, essa aposta é considerada 'a melhor trade de VC da década'. O novo fundo de US$ 3 Bi é o reflexo direto desse sucesso.",
+      "visual_hint": "Ícone de foguete decolando com cifrões ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O movimento da Menlo sinaliza uma mudança estrutural no capital de risco: a concentração de risco como estratégia vencedora. Em vez de diversificar em dezenas de startups, eles concentraram tudo em uma única empresa. Isso está reescrevendo o manual de alocação para fundos de IA e criando pressão sobre outras firmas para fazerem o mesmo.",
+      "visual_hint": "Gráfico de barras mostrando uma barra enorme (Anthropic) ao lado de várias pequenas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 750 Mi: o cheque âncora da Menlo na Anthropic em 2024",
+        "US$ 3 Bi: o novo fundo levantado após o sucesso da aposta",
+        "US$ 60 Bi a US$ 900 Bi: a valorização atual da Anthropic"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "LPs agora exigem track record em IA generativa para investir em novos fundos",
+        "Startups do ecossistema Anthropic se tornam alvos naturais para o novo capital",
+        "Firmas sem exposição a IA terão cada vez mais dificuldade para levantar fundos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O efeito dominó da IA no venture capital está só começando — e você não vai querer ficar de fora."
+    }
+  ]
+}

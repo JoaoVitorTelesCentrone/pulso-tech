@@ -1,0 +1,16 @@
+{
+  "tldr": "O mercado de veículos autônomos revive o ciclo de hype de 2016, mas agora com IA madura, simulações em escala e o retorno de Travis Kalanick, sinalizando que a tecnologia finalmente superou os gargalos técnicos.",
+  "key_facts": [
+    "Travis Kalanick está construindo uma nova empresa de robótica, sinalizando confiança no setor.",
+    "A Humble Robotics declarou que a tecnologia finalmente alcançou a visão dos veículos autônomos.",
+    "Três fatores técnicos mudaram: modelos de fundação e simulação, maturidade do stack de percepção e aprendizado por reforço em escala.",
+    "O custo de sensores de última geração caiu de dezenas de milhares para alguns milhares de dólares."
+  ],
+  "why_it_matters": "Para investidores e gestores de tech, a janela para posicionamento estratégico em mobilidade autônoma está se reabrindo, mas com regras diferentes: o risco tecnológico diminuiu, e os novos gargalos são execução e mercado.",
+  "watch_next": [
+    "Avanços regulatórios que podem acelerar a implantação comercial de AVs.",
+    "Movimentações de grandes players (Google, NVIDIA, Tesla) para dominar o stack de simulação e treinamento.",
+    "Possível onda de fusões e aquisições no setor de robótica e AVs."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o retorno de Kalanick com a maturação técnica da IA, oferecendo uma análise comparativa entre o ciclo de 2016 e o atual, focando nos avanços concretos de hardware, software e modelos de treinamento que justificam o novo hype."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Vazamento de Cache no Claude Code: O Bug de US$ 1 Bilhão que Expõe a Fragilidade Oculta dos Agentes de IA Corporativos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Vazamento de Cache no Claude Code: O Bug de US$ 1 Bilhão",
+      "subtext": "A falha que expõe a fragilidade oculta dos agentes de IA corporativos e pode queimar bilhões em confiança",
+      "image_prompt": "A dark, futuristic digital landscape with a massive glowing crack in a cache memory chip, data streams leaking out like neon blood, corporate server towers in the background, cyberpunk style, high contrast, blue and red lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Uma issue no GitHub do Claude Code revelou uma vulnerabilidade grave: vazamento de sessão e cache entre instâncias de workspace. Dados de uma sessão de trabalho podem 'vazar' para outra — um pesadelo de segurança para qualquer organização que lide com código proprietário, segredos de API ou dados de clientes.",
+      "highlight": "47 pontos no Hacker News e 14 comentários acalorados em horas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O mecanismo de cache do Claude Code não isola corretamente as sessões entre diferentes workspaces ou contas. Isso pode ocorrer por cache compartilhado com ID ambíguo, pool de conexão mal configurado, serialização inadequada de contexto ou race conditions em cache distribuído.",
+      "visual_hint": "Ícone de engrenagem quebrada com setas vermelhas cruzadas entre dois terminais de código"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este não é apenas mais um bug de segurança. É um sinal de alerta para toda a economia de agentes de IA corporativos, que depende de confiança e isolamento de dados. As implicações são catastróficas: vazamento de código proprietário, exposição de segredos, contaminação de dados entre ambientes e quebra de compliance.",
+      "visual_hint": "Ícone de escudo partido ao meio com um cadeado vermelho"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA para programação projetado para US$ 50 bilhões até 2028",
+        "Promessa de aumento de produtividade de 30-50% com adoção em larga escala",
+        "Bug descoberto por um usuário, não por auditoria interna — sem resposta oficial ainda"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novo mercado de auditoria de infraestrutura para agentes de IA corporativos",
+        "Pressão por isolamento de estado e certificações de segurança (GDPR, HIPAA, SOC 2)",
+        "Corrida por transparência: empresas precisarão provar que seus agentes não vazam dados"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O bug de US$ 1 bilhão é só o começo. A confiança nos agentes de IA está em jogo."
+    }
+  ]
+}

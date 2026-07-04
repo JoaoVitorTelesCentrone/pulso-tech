@@ -1,0 +1,53 @@
+{
+  "title": "A Conta Chegou: Por Que Modelos de IA Mais Baratos Não Vão Salvar Seu Orçamento de Agentes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Conta Chegou: Por Que Modelos de IA Mais Baratos Não Vão Salvar Seu Orçamento de Agentes",
+      "subtext": "O custo por token está caindo, mas o custo total das operações com agentes de IA está explodindo.",
+      "image_prompt": "A futuristic digital dashboard showing a graph with a steep upward red line labeled 'Total Agent Cost' and a downward green line labeled 'Cost per Token', dark tech background with glowing neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de IA estão cada vez mais baratos — Anthropic, OpenAI, DeepSeek e Meta reduziram preços drasticamente. Mas a conta final das operações com agentes de IA está subindo, não caindo.",
+      "highlight": "Custo por token cai — custo total explode"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Agentes autônomos consomem muito mais tokens que chatbots tradicionais. Cada tarefa envolve planejamento, execução, correção e síntese — multiplicando o volume de chamadas e o custo final por tarefa.",
+      "visual_hint": "Ícone de engrenagem com setas em loop e um contador de tokens subindo exponencialmente"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Startups e médias empresas podem ver a unidade econômica virar prejuízo. Grandes corporações podem enfrentar centenas de milhões de dólares extras em despesas de nuvem. O ROI precisa ser recalculado.",
+      "visual_hint": "Gráfico de barras comparando custo esperado vs custo real com agentes"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Tarefa que custava US$ 0,01 em modelo barato pode custar US$ 0,50+ com agente",
+        "Cada agente faz múltiplas chamadas: planejamento, ferramentas, correção, síntese",
+        "Custo real = (preço por token) × (tokens) × (multiplicador de loops)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas precisam repensar métricas de ROI para incluir TCO de agentes",
+        "Arquiteturas de custo precisam ser redesenhadas — não dá mais para ignorar loops e retries",
+        "Quem não ajustar agora pode estar construindo um castelo de areia financeiro"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A conta chegou — e não é hora de fingir que não ouviu."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "A Guerra Fria da Fanfiction: Como a Caça à IA Está Criando um Mercado Bilionário de Detecção e o Dilema da Criatividade Sintética",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Guerra Fria da Fanfiction",
+      "subtext": "Como a caça à IA está criando um mercado bilionário de detecção — e o dilema da criatividade sintética",
+      "image_prompt": "A dark, futuristic library with glowing neon books and a hooded figure holding a magnifying glass over a holographic text, digital art, cyberpunk style, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Comunidades inteiras de fãs-escritores na maior plataforma de fanfiction do mundo, a AO3, estão se mobilizando para expor autores que usam IA generativa. O movimento escalou de fóruns para detectores automatizados e listas públicas de suspeitos.",
+      "highlight": "A IA está 'poluindo' o ecossistema criativo, desvalorizando o trabalho humano"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Ferramentas como Claude, GPT e Llama são usadas para gerar fanfics longas e coerentes. A comunidade reage com análise estilométrica, detectores de 'água textual' e testes de consistência — uma verdadeira caça às bruxas digital.",
+      "visual_hint": "Ícone de lupa sobreposto a um cérebro humano vs. circuito de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Esse conflito é um laboratório para o futuro do jornalismo, literatura acadêmica, roteiros e relatórios corporativos. A confiança na autoria está se tornando um ativo econômico — e quem construir sistemas de verificação de proveniência terá vantagem competitiva.",
+      "visual_hint": "Gráfico de linha ascendente com selo de 'verificado' ao lado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de conteúdo gerado por IA: US$ 15 bilhões até 2027",
+        "Mercado de detecção de IA: US$ 5 bilhões nos próximos 3 anos",
+        "Taxa de falso positivo em detectores comerciais: 2% a 15%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Demanda explosiva por ferramentas de detecção confiáveis",
+        "Regulamentação e termos de serviço mais rígidos em plataformas criativas",
+        "Redefinição do conceito de autoria: onde termina a máquina e começa o humano?"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A criatividade sintética é o próximo campo de batalha da economia da autoria. Não fique de fora."
+    }
+  ]
+}

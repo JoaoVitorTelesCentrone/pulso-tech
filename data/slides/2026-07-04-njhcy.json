@@ -1,0 +1,53 @@
+{
+  "title": "A Jogada Silenciosa do Arizona: Como a Rede de Selby Está Reconfigurando o Mapa do Capital de Risco em Chips de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Jogada Silenciosa do Arizona",
+      "subtext": "Como a Rede de Selby Está Reconfigurando o Mapa do Capital de Risco em Chips de IA",
+      "image_prompt": "A futuristic desert landscape at night, with glowing semiconductor circuits embedded in the sand, leading to a distant city skyline made of chip architectures, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o Vale do Silício disputa os holofotes dos IPOs de IA, um movimento silencioso de capital está redesenhando a geografia do risco tecnológico. Jack Selby, sócio da Thiel Capital, está consolidando uma posição estratégica em startups de semicondutores no Arizona.",
+      "highlight": "US$ 300 milhões — novo fundo da Copper Sky Capital de Selby"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Jack Selby está captando um segundo fundo de US$ 300 milhões e já garantiu participações em empresas como a Etched, startup de chips de inferência que levantou US$ 1 bilhão e atingiu valuation de US$ 5 bilhões. A aposta é em ASICs dedicados para transformers, desafiando a Nvidia.",
+      "visual_hint": "Ícone de chip com seta ascendente sobre mapa do Arizona"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O gargalo da economia da IA não está mais em modelos ou dados, mas na infraestrutura física de computação. Sem hardware eficiente, a conta da inferência continuará subindo exponencialmente, corroendo margens e inviabilizando modelos de negócio baseados em agentes autônomos.",
+      "visual_hint": "Gráfico de barras comparando custo de inferência com GPU genérica vs. ASIC dedicado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 400 bilhões: mercado global de semicondutores para IA até 2030",
+        "US$ 5 bilhões: valuation da Etched após rodada de US$ 1 bilhão",
+        "70%+: margens da Nvidia no mercado de GPUs para IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Capital de risco se descentraliza geograficamente, impulsionado por clusters como o Arizona",
+        "Chips dedicados (ASICs) devem capturar fatia crescente do mercado de inferência",
+        "Investidores com conexões locais profundas terão acesso privilegiado a deals ignorados pelo Vale do Silício"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo ciclo de inovação em hardware já começou — e não é onde você espera."
+    }
+  ]
+}

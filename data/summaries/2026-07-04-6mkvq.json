@@ -1,0 +1,15 @@
+{
+  "tldr": "A queda no custo por token de modelos de IA não está reduzindo o custo total de agentes autônomos, que consomem volumes exponenciais de tokens em loops de planejamento, execução e correção, tornando a operação financeiramente inviável para muitas empresas.",
+  "key_facts": [
+    "O custo por token de inferência está caindo devido à concorrência e eficiência dos modelos.",
+    "Sistemas agentivos consomem muito mais tokens por tarefa do que chatbots tradicionais, devido a loops de raciocínio, chamadas de ferramentas e auto-correção.",
+    "Uma tarefa que custava US$ 0,01 em modelo barato pode custar US$ 0,50 ou mais quando executada por um agente.",
+    "O custo total de operação de agentes é dominado por orquestração, retries, logging e uso de modelos grandes para validação e planejamento."
+  ],
+  "why_it_matters": "A promessa de automação com agentes de IA corre o risco de se tornar inviável financeiramente se o custo total de propriedade não for gerenciado, impactando startups, médias empresas e grandes corporações que podem enfrentar prejuízos operacionais ou centenas de milhões em despesas de nuvem.",
+  "watch_next": [
+    "Empresas podem começar a adotar métricas de ROI específicas para agentes, em vez de apenas custo por token.",
+    "Surgimento de novas arquiteturas e ferramentas de orquestração focadas em eficiência de custos, como caching inteligente e modelos especializados para sub-tarefas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao expor a não-linearidade dos custos em sistemas agentivos, contrariando a percepção comum de que modelos mais baratos resolvem o problema de orçamento, e alerta para um risco econômico sistêmico no ecossistema de IA."
+}

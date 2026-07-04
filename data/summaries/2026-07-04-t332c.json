@@ -1,0 +1,16 @@
+{
+  "tldr": "A mobilização de comunidades de fanfiction contra o uso de IA generativa está criando um mercado bilionário de detecção de autoria, expondo o dilema entre democratização criativa e defesa do trabalho humano.",
+  "key_facts": [
+    "Comunidades da AO3 estão usando análise estilométrica, detectores de 'água' textual e testes de consistência para identificar autores que usam IA.",
+    "O mercado de detecção de IA pode valer US$ 5 bilhões nos próximos três anos, com startups como Originality.ai e GPTZero já valorizadas.",
+    "Detectores comerciais têm taxas de falso positivo de 2% a 15%, questionando sua eficácia.",
+    "O conflito na AO3 antecipa crises similares em jornalismo, literatura acadêmica e roteiros de cinema."
+  ],
+  "why_it_matters": "A confiança na autoria está se tornando um ativo econômico crítico, e a briga de nicho na fanfiction serve como laboratório para o futuro da verificação de conteúdo gerado por IA em setores criativos e corporativos.",
+  "watch_next": [
+    "Surgimento de sistemas de verificação de proveniência que rastreiam o processo criativo, não apenas o texto final.",
+    "Regulamentações em plataformas de conteúdo que exigem declaração obrigatória de uso de IA.",
+    "Crescimento de ferramentas de IA 'invisíveis' que burlam detectores, intensificando a guerra fria entre criadores e detectores."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar a 'caça à IA' não como um fenômeno cultural isolado, mas como um prenúncio de uma crise econômica e regulatória global, conectando a reação emocional das comunidades a oportunidades de mercado e dilemas técnicos."
+}

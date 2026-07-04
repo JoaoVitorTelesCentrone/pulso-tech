@@ -1,0 +1,14 @@
+{
+  "tldr": "Uma vulnerabilidade de vazamento de cache no Claude Code expõe riscos críticos de segurança para agentes de IA corporativos, ameaçando a confiança em um mercado de US$ 50 bilhões.",
+  "key_facts": [
+    "Issue no GitHub do Claude Code (github.com/anthropics/claude-code/issues/74066) reporta vazamento de sessão/cache entre workspaces.",
+    "O bug ganhou 47 pontos no Hacker News e gerou 14 comentários, sem resposta oficial da Anthropic até o momento.",
+    "O mercado de agentes de IA para programação deve ultrapassar US$ 50 bilhões até 2028, com adoção em larga escala por equipes de engenharia."
+  ],
+  "why_it_matters": "Esta notícia importa porque revela uma fragilidade estrutural na economia de agentes de IA corporativos: o vazamento de estado entre workspaces pode comprometer código proprietário, segredos de API e dados de clientes, gerando riscos de compliance e quebra de confiança em ferramentas que prometem aumentar a produtividade em 30-50%.",
+  "watch_next": [
+    "Resposta oficial da Anthropic e possíveis correções de segurança no Claude Code.",
+    "Crescimento de um mercado de auditoria de infraestrutura para agentes de IA, focado em isolamento de dados e compliance."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um bug técnico específico a um gargalo sistêmico na adoção corporativa de agentes de IA, destacando o impacto econômico e de confiança, em vez de apenas relatar a falha. Foi escolhido por sua análise profunda dos mecanismos de vazamento e implicações para o mercado de US$ 50 bilhões."
+}
