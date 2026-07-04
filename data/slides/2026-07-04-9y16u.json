@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Silencioso de US$ 1 Trilhões: Como a Volatilidade Energética dos Data Centers Está Testando os Limites da Rede Elétrica Global",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Silencioso de US$ 1 Trilhões",
+      "subtext": "O problema não é quanto os data centers consomem, mas como eles consomem — e isso está criando um risco sistêmico para a economia tech.",
+      "image_prompt": "A massive glowing data center at night, with electrical grid lines pulsing erratically, storm clouds gathering overhead, cinematic dark tech aesthetic, high contrast, blue and orange neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A narrativa dominante trata a IA como um problema de consumo de energia. Mas o IEEE Spectrum revela uma realidade mais sutil e perigosa: a volatilidade do consumo dos data centers está testando os limites da rede elétrica global.",
+      "highlight": "3% a 4% do consumo global de eletricidade — número alto, mas administrável. O verdadeiro alarme está na volatilidade."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Treinamento de modelos de fronteira não é linear. Picos de demanda durante o treinamento podem sobrecarregar subestações locais, causando instabilidade na rede. Concessionárias nos EUA já estão renegociando contratos em tempo real, instruindo data centers a reduzir carga em momentos críticos.",
+      "visual_hint": "Gráfico de linha mostrando picos abruptos de consumo vs. carga estável tradicional"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se a rede não suporta a volatilidade, data centers enfrentam apagões ou racionamento. Para uma empresa treinando um modelo de US$ 1 bilhão, uma interrupção de 24 horas não é apenas custo operacional — é a perda de uma janela de oportunidade de mercado.",
+      "visual_hint": "Ícone de relógio quebrado ao lado de cifrões"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Data centers podem consumir 80 MW por 12h, cair para 40 MW e explodir para 120 MW em minutos",
+        "Em regiões como Norte da Virgínia, data centers já representam mais de 20% da demanda local",
+        "Demanda de data centers na Virgínia do Norte cresceu 400% em cinco anos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Microsoft, Google e Amazon já internalizam o risco energético como prioridade estratégica",
+        "Fundo de US$ 2,5 bi da Microsoft para aceleradoras de IA inclui soluções de resiliência energética",
+        "A indústria de IA precisa repensar a arquitetura de GPUs e aceleradores para cargas pulsantes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo energético da IA não é um bug — é uma característica da arquitetura atual. E a conta está chegando."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Glossário de IA Que Vale US$ 1 Trilhão: Por Que a Falta de Um Léxico Comum Está Queimando Capital no Mercado de Agentes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Glossário de IA Que Vale US$ 1 Trilhão",
+      "subtext": "Como a falta de um léxico comum está queimando capital no mercado de agentes",
+      "image_prompt": "Futuristic digital landscape with fragmented words and symbols floating in space, connected by glowing lines, dark background with neon blue and purple accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O TechCrunch publicou o que chama de 'o único glossário de IA que você vai precisar este ano'. A iniciativa sinaliza que o mercado atingiu um ponto de inflexão onde a barreira de entrada não é mais técnica — é semântica.",
+      "highlight": "67% dos projetos de IA corporativos falham em atingir o ROI esperado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Com a explosão de novos modelos, arquiteturas e paradigmas, a desconexão entre o que engenheiros dizem e o que executivos entendem nunca foi tão cara. A falta de definições compartilhadas e precificáveis gera desalinhamento de expectativas em toda a cadeia.",
+      "visual_hint": "Ícone de duas cabeças falando línguas diferentes, com cifrões voando entre elas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Quando um CFO ouve 'agente de IA' e imagina um chatbot, enquanto o CTO imagina um sistema multi-agente com memória de longo prazo, o desalinhamento gera orçamentos mal alocados, ciclos de vendas alongados e falhas de integração que custam bilhões.",
+      "visual_hint": "Gráfico de barras mostrando a diferença entre expectativa e realidade em projetos de IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões anuais em garantias contratuais e seguros por confusão sobre 'alucinação'",
+        "US$ 2 bilhões em gastos desnecessários com computação em 2025 por confusão entre fine-tuning e RAG",
+        "40% mais tempo gasto em educação de cliente do que em fechamento de negócio"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A linguagem comum se torna um ativo econômico — empresas que dominarem o léxico terão vantagem competitiva",
+        "Mercado de agentes de IA estimado em US$ 100 bilhões até 2028 depende de definições compartilhadas",
+        "Profissionais que dominarem a tradução entre tech e business serão os mais valiosos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo bilhão será construído sobre palavras que todos entendem"
+    }
+  ]
+}

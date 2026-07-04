@@ -1,0 +1,53 @@
+{
+  "title": "Apple Transforma o Safari em um Controlador de Agentes de IA: A Jogada Silenciosa que Pode Redefinir a Economia da Automação Web",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Apple Transforma o Safari em um Controlador de Agentes de IA",
+      "subtext": "Enquanto o mercado debate o poder dos modelos, a Apple entrega a infraestrutura de controle.",
+      "image_prompt": "Futuristic Apple Safari browser interface with glowing AI agent connections, dark background, neon blue and silver tones, digital network lines"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Apple lançou o Safari Technology Preview 247 com um servidor Model Context Protocol (MCP) embutido diretamente no navegador. Agora, agentes de IA podem se conectar nativamente ao Safari para receber contexto completo da página e executar ações como clicar, preencher formulários e extrair dados.",
+      "highlight": "O navegador se torna um dispositivo de E/S para inteligência artificial."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Safari agora expõe ferramentas padronizadas via MCP, como safari_get_context e safari_click_element. Em vez de depender de hacks frágeis como DOM scraping ou JavaScript injetado, um agente de IA se conecta ao navegador por um protocolo aberto e recebe contexto estruturado do motor de renderização.",
+      "visual_hint": "Ícone de engrenagem conectada a um cérebro digital com setas de dados fluindo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas gastam bilhões mantendo pipelines de scraping frágeis que quebram com mudanças de layout. Com o MCP no Safari, agentes de IA não precisam 'adivinhar' a estrutura da página. Isso reduz custos operacionais e aumenta a confiabilidade da automação web em ordens de magnitude, desbloqueando um mercado de automação de processos corporativos.",
+      "visual_hint": "Gráfico de barras mostrando custo de scraping tradicional vs. custo com MCP, com queda drástica"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Empresas gastam bilhões de dólares anualmente em pipelines de scraping de dados web.",
+        "Mudanças de layout quebram seletores CSS e bloqueiam IPs, gerando custos operacionais recorrentes.",
+        "O MCP padroniza a comunicação entre agentes de IA e ferramentas externas, eliminando a necessidade de integrações personalizadas."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim do scraping frágil: agentes recebem contexto direto do motor de renderização, sem adivinhação.",
+        "Infraestrutura para agentes corporativos: qualquer aplicação web se torna controlável por IA.",
+        "Apple constrói a camada de infraestrutura que torna modelos de IA úteis no mundo real — o equivalente ao SDK do iPhone para agentes."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A jogada silenciosa da Apple pode redefinir a economia da automação web. Fique de olho."
+    }
+  ]
+}

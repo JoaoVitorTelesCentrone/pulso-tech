@@ -1,0 +1,15 @@
+{
+  "tldr": "Salesforce reconstruiu o Slackbot como um agente de IA autônomo, capaz de executar tarefas complexas integradas ao seu ecossistema de CRM, posicionando-se contra Microsoft e Google na guerra dos assistentes corporativos.",
+  "key_facts": [
+    "Salesforce lançou em 13 de janeiro de 2026 uma versão completamente reconstruída do Slackbot, transformando-o em um agente de IA.",
+    "O novo Slackbot pode pesquisar dados empresariais, redigir documentos e executar ações em nome dos usuários, como resolver tickets de suporte sem intervenção humana.",
+    "A estratégia da Salesforce é atualizar uma ferramenta existente (Slackbot) em vez de lançar um novo produto, reduzindo a barreira de adoção para milhões de empresas.",
+    "Microsoft Copilot custa até US$ 30 por usuário/mês, enquanto Google oferece Gemini para Workspace; a Salesforce compete com uma integração mais profunda ao seu CRM."
+  ],
+  "why_it_matters": "Esta notícia importa porque redefine a competição no mercado de agentes de IA corporativos: a Salesforce não apenas atualizou um produto, mas criou um agente orquestrador que executa ações de forma autônoma, algo que diferencia o Slackbot dos copilotos da Microsoft e Google, potencialmente alterando a economia de adoção e retenção de clientes no setor.",
+  "watch_next": [
+    "A reação da Microsoft e do Google, que podem acelerar a transformação de seus copilotos em agentes autônomos para não perder terreno.",
+    "O impacto na base de usuários do Slack: se a Salesforce conseguirá atrair novas contas corporativas ou apenas reter as existentes com a nova funcionalidade."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na estratégia de 'reconversão' do Slackbot como um movimento defensivo e ofensivo, destacando a diferença técnica entre co-piloto e agente autônomo, e como a Salesforce usa seu CRM como vantagem competitiva — um ângulo que vai além da simples cobertura de lançamento de produto."
+}

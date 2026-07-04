@@ -1,0 +1,53 @@
+{
+  "title": "Salesforce Reconstrói o Slackbot: A Batalha Silenciosa de US$ 50 Bilhões pelo Agente de IA no Local de Trabalho",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Slackbot Renascido: A Máquina de Produtividade que a Salesforce Escondeu",
+      "subtext": "Enquanto Microsoft e Google brigam pelo trono da IA, a Salesforce silenciosamente reconstruiu o Slackbot — e a jogada pode redefinir a economia dos assistentes corporativos.",
+      "image_prompt": "A futuristic, dark blue and neon green control room with a glowing AI assistant interface floating in the center, surrounded by data streams and corporate logos fading into the background, cinematic lighting, high contrast, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 13 de janeiro de 2026, a Salesforce lançou uma versão completamente reconstruída do Slackbot. O que antes era um simples entregador de notificações agora é um agente de IA capaz de pesquisar dados, redigir documentos e executar ações em nome dos usuários.",
+      "highlight": "A jogada insere a Salesforce diretamente na guerra contra Microsoft Copilot e Google Gemini."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Salesforce não criou um novo produto — ela reinventou uma ferramenta já usada por milhões de empresas. O novo Slackbot é um agente orquestrador que acessa CRM, Service Cloud e integrações de terceiros para executar tarefas completas sem intervenção humana.",
+      "visual_hint": "Ícone de engrenagem com setas conectando diferentes módulos (CRM, Service Cloud, Slack) a um robô central"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Enquanto o Copilot da Microsoft sugere, o Slackbot executa. Ele pode identificar um ticket de suporte, buscar histórico do cliente, redigir resposta, enviá-la e atualizar o status — tudo automaticamente. Isso reduz drasticamente a barreira de adoção e protege a base de usuários do Slack contra a erosão para o Teams.",
+      "visual_hint": "Diagrama de comparação: 'Copilot: sugere' vs 'Slackbot: executa' com ícones de seta e check"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: valor estimado do mercado de agentes de IA no local de trabalho",
+        "US$ 30 por usuário/mês: preço do Microsoft Copilot para empresas",
+        "Milhões de empresas já usam o Slackbot — adoção instantânea sem custos de troca"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Salesforce pode reter clientes técnicos e sofisticados que ameaçavam migrar para o Teams",
+        "Empresas podem adotar IA sem migrar de ferramenta — apenas atualizando o que já existe",
+        "A corrida por agentes autônomos (que executam, não só sugerem) se intensifica"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A batalha silenciosa de US$ 50 bilhões está só começando. Quem vencerá a guerra dos agentes de IA?"
+    }
+  ]
+}

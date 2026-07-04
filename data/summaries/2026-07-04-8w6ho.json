@@ -1,0 +1,15 @@
+{
+  "tldr": "A Apple integrou um servidor Model Context Protocol (MCP) no Safari, transformando o navegador em um controlador nativo para agentes de IA e potencialmente redefinindo a infraestrutura de automação web.",
+  "key_facts": [
+    "O Safari Technology Preview 247 inclui um servidor MCP embutido no WebKit.",
+    "O MCP permite que agentes de IA se conectem ao navegador via protocolo padronizado para extrair contexto e executar ações como clicar e preencher formulários.",
+    "A Apple adota o protocolo aberto MCP, originalmente proposto pela Anthropic, em vez de criar uma solução proprietária."
+  ],
+  "why_it_matters": "Esta notícia importa porque resolve um dos maiores gargalos da automação web — a fragilidade do scraping e a integração com sistemas legados — ao transformar o navegador em uma plataforma de E/S para IA, abrindo caminho para agentes corporativos escaláveis e reduzindo custos operacionais.",
+  "watch_next": [
+    "Adoção do MCP por outros navegadores (Chrome, Firefox) e padronização do protocolo.",
+    "Lançamento de ferramentas e SDKs para desenvolvedores criarem agentes de IA que usam o Safari como controlador.",
+    "Impacto no mercado de automação web e scraping, com possível desvalorização de soluções tradicionais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na infraestrutura (MCP no Safari) como um movimento estratégico da Apple, comparando-o ao lançamento do SDK do iPhone, em vez de apenas reportar a novidade técnica. Foi escolhido por antecipar um possível ponto de virada na economia da automação web, relevante para o leitor de IA/Tech."
+}

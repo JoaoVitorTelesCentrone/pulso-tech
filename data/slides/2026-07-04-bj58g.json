@@ -1,0 +1,53 @@
+{
+  "title": "HP + OpenAI: O Acordo Silencioso de US$ 1 Bilhão que Pode Redefinir a Economia da Adoção Corporativa de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "HP + OpenAI: O Acordo Silencioso de US$ 1 Bilhão",
+      "subtext": "Como a maior fabricante de PCs do mundo está redefinindo a economia da adoção corporativa de IA",
+      "image_prompt": "Futuristic corporate boardroom with glowing AI circuits and HP and OpenAI logos merging, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em IPOs e modelos de fronteira, a HP acaba de cravar uma aposta de escala industrial na infraestrutura de IA empresarial. A economia da IA está migrando do laboratório para o balanço patrimonial das empresas tradicionais.",
+      "highlight": "US$ 1 bilhão em jogo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A HP expandiu sua parceria com a OpenAI via programa Frontier Partnership, escalando IA em três frentes: experiências do cliente, desenvolvimento de software e operações corporativas. Não é um piloto — é uma implantação global.",
+      "visual_hint": "Ícone de engrenagem com circuitos integrados e setas de fluxo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A HP é o protótipo do cliente que a OpenAI precisa para justificar seu valuation bilionário. Este acordo valida que a próxima onda de receita da OpenAI virá de contratos empresariais de longo prazo com a Fortune 500, não de assinaturas de consumidores.",
+      "visual_hint": "Gráfico de crescimento exponencial com ícone de prédio corporativo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 53 bilhões em receita anual (FY2025)",
+        "Operações em mais de 170 países",
+        "Centenas de milhões de dispositivos conectados na base instalada"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Acesso prioritário a modelos futuros da OpenAI (GPT-5.x e agentes especializados)",
+        "Fine-tuning com datasets proprietários da HP — um dos maiores do mundo em comportamento empresarial",
+        "Infraestrutura dedicada em data centers da Microsoft Azure para escala global"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra de plataformas de IA corporativa está longe de ser decidida — e a HP acabou de mudar o tabuleiro."
+    }
+  ]
+}

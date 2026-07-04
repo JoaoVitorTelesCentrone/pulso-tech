@@ -1,0 +1,16 @@
+{
+  "tldr": "Engenheiro Dan Luu relata que programar exclusivamente com agentes de IA gera velocidade inicial, mas cria uma nova classe de dívida técnica invisível e frágil, que pode anular os ganhos de produtividade a longo prazo.",
+  "key_facts": [
+    "Dan Luu passou semanas codificando apenas com loops agenticos (IA executa, testa e itera autonomamente) nas Ilhas Galápagos.",
+    "O relato atingiu o topo do Hacker News com 96 pontos e 42 comentários.",
+    "Três problemas centrais: código frágil com dependências ocultas, loop de depuração viciante que degrada a arquitetura, e dívida técnica invisível (desenvolvedor perde intuição sobre pontos fracos).",
+    "Agentes tendem a substituir soluções especializadas por genéricas, ignorar restrições implícitas e criar abstrações no nível errado."
+  ],
+  "why_it_matters": "A indústria está sendo vendida a promessa de multiplicação de produtividade (3x a 10x) por ferramentas como Claude Code e Goose, mas o artigo expõe que a métrica ignorada é o custo total de propriedade do código, não a velocidade de escrita. Isso afeta diretamente a sustentabilidade de projetos e a tomada de decisão de CTOs e engenheiros seniores.",
+  "watch_next": [
+    "Estudos empíricos comparando dívida técnica entre código gerado por IA e código humano em projetos de longo prazo.",
+    "Surgimento de ferramentas de auditoria e 'linting' específicas para detectar fragilidades em código gerado por agentes.",
+    "Debate sobre a necessidade de novas práticas de code review e arquitetura para ambientes de programação agentica."
+  ],
+  "editorial_angle": "Diferencia-se por ser um relato de campo prático e honesto de um engenheiro respeitado (Dan Luu), em vez de um review superficial de ferramenta. O artigo conecta a euforia atual com um alerta sistêmico sobre custos ocultos, usando uma metáfora poderosa ('dirigir a 200 km/h em estrada cheia de curvas') e dados do próprio experimento."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "A falta de um léxico comum e compartilhado no mercado de agentes de IA está gerando bilhões em perdas devido a desalinhamento de expectativas, orçamentos mal alocados e ciclos de vendas alongados, e o glossário da TechCrunch sinaliza que a barreira de entrada agora é semântica, não técnica.",
+  "key_facts": [
+    "67% dos projetos de IA corporativos falham em atingir o ROI esperado, com 31% atribuindo o fracasso a desalinhamento de expectativas entre equipes técnicas e de negócios.",
+    "A confusão entre 'agente leve' e 'agente pesado' pode gerar custos que variam de US$ 0,01 a US$ 10+ por execução, sem um glossário que diferencie os termos.",
+    "A confusão entre 'fine-tuning' e 'RAG' gerou pelo menos US$ 2 bilhões em gastos desnecessários com computação em 2025.",
+    "O mercado de agentes de IA é estimado em US$ 100 bilhões até 2028."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, este artigo expõe que o maior gargalo atual não é a capacidade técnica dos modelos, mas a falta de uma linguagem comum que permita precificar, escalar e alinhar expectativas entre engenheiros e executivos, impactando diretamente o ROI de projetos e a eficiência do mercado.",
+  "watch_next": [
+    "Empresas de IA podem começar a adotar e padronizar glossários setoriais como parte de seus contratos e propostas de valor.",
+    "O surgimento de consultorias especializadas em 'tradução semântica' entre times técnicos e de negócios no setor de IA.",
+    "Reguladores ou órgãos de padronização podem intervir para criar definições oficiais para termos como 'agente' e 'alucinação'."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar a proliferação de jargões não como um mero problema de comunicação, mas como um gargalo econômico quantificável, com dados de impacto financeiro (US$ 10 bi em seguros, US$ 2 bi em computação) e ao posicionar o glossário da TechCrunch como um sintoma de maturação do mercado, onde a linguagem comum se torna um ativo econômico."
+}

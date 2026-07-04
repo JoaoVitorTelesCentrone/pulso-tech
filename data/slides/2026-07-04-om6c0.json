@@ -1,0 +1,54 @@
+{
+  "title": "Bending Spoons Estreia na Bolsa com Alta de 40%: O Anti-IPO Que Está Redefinindo a Economia do SaaS",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Bending Spoons: O Anti-IPO Que Está Redefinindo a Economia do SaaS",
+      "subtext": "Estreia na bolsa com alta de 40% e valuation de US$ 18 bilhões — enquanto o mercado de SaaS enfrenta sua pior crise.",
+      "image_prompt": "A futuristic Italian tech company headquarters in Milan, glowing neon lights, dark atmosphere, sleek modern architecture, digital stock market ticker in background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de SaaS enfrenta uma ressaca de valuations e múltiplos comprimidos. Startups queimam capital em crescimento a qualquer custo, enquanto investidores buscam alternativas. Nesse cenário, uma empresa italiana de Milão surge como a exceção que confirma a regra.",
+      "highlight": "Múltiplos de receita caíram de 20-30x para 5-10x"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Bending Spoons compra marcas de tecnologia 'geração passada' — como AOL, Eventbrite, Evernote, Meetup e Vimeo — aplica eficiência operacional e IA, e as transforma em máquinas de lucro. O IPO de US$ 18 bilhões disparou 40% no primeiro dia.",
+      "visual_hint": "Ícone de um fênix renascendo das cinzas, com engrenagens e linhas de código"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O modelo tradicional de SaaS — levantar rodadas gigantes, crescer rápido, IPO precoce — está sendo substituído por uma abordagem mais madura: eficiência, aquisição inteligente e consolidação. Marcas 'mortas' podem ser ressuscitadas com gestão eficiente e tecnologia.",
+      "visual_hint": "Gráfico de linha mostrando curva de crescimento tradicional vs. curva de revitalização"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "IPO valuation: US$ 18 bilhões",
+        "Alta de 40% no primeiro dia de negociação",
+        "Evernote: de queda livre a lucrativo em menos de 2 anos",
+        "Modelo: comprar ativos depreciados, aplicar IA e eficiência"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A próxima onda de criação de valor virá da reorganização de ativos existentes, não de novas startups",
+        "Investidores passarão a buscar 'zumbis' tech com potencial de revitalização",
+        "O mercado de SaaS amadurece: eficiência e lucro substituem crescimento a qualquer custo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O sucesso vem de minimizar a sorte. — Cofundador da Bending Spoons"
+    }
+  ]
+}

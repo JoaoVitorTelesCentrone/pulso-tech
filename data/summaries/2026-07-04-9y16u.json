@@ -1,0 +1,16 @@
+{
+  "tldr": "O artigo argumenta que o verdadeiro risco energético dos data centers de IA não é o volume total de consumo, mas a volatilidade imprevisível da demanda, que ameaça a estabilidade da rede elétrica global e cria um gargalo econômico de US$ 1 trilhão.",
+  "key_facts": [
+    "Data centers podem representar de 3% a 4% do consumo global de eletricidade, segundo a IEA.",
+    "O treinamento de modelos de IA pode causar picos de demanda de 50% em minutos, sobrecarregando subestações locais.",
+    "Na Virgínia do Norte, a demanda de data centers cresceu 400% em cinco anos, forçando concessionárias a renegociar contratos em tempo real.",
+    "A Microsoft anunciou um fundo de US$ 2,5 bilhões para aceleradoras de IA, parte destinado à resiliência energética."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, isso revela que a escalabilidade da IA não depende apenas de chips e algoritmos, mas de uma infraestrutura elétrica frágil que pode inviabilizar treinamentos de modelos de US$ 1 bilhão e gerar riscos operacionais e financeiros imediatos para big techs.",
+  "watch_next": [
+    "Concessionárias de energia podem impor tarifas dinâmicas ou racionamento para data centers em regiões críticas.",
+    "Empresas de IA podem acelerar investimentos em microrredes, baterias e geração local para mitigar a volatilidade.",
+    "Reguladores podem exigir transparência sobre perfis de consumo energético de data centers como condição para novas licenças."
+  ],
+  "editorial_angle": "O artigo se diferencia ao desafiar a narrativa simplista de 'consumo vs. capacidade', focando no mecanismo técnico da volatilidade (treinamento intermitente, resfriamento reativo, concentração geopolítica) e no risco sistêmico para a economia tech, em vez de apenas alarmismo ambiental."
+}
