@@ -1,0 +1,15 @@
+{
+  "tldr": "A obsolescência de APIs governamentais como o SOAP de 2003 do cadastro espanhol cria um gargalo de US$ 1 trilhão na adoção de agentes de IA, que o wrapper MCP/JSON PrédioHQ expõe como um padrão replicável de modernização.",
+  "key_facts": [
+    "Desenvolvedor criou o PrédioHQ, um wrapper que converte a API SOAP de 2003 do cadastro espanhol em RESTful JSON com suporte a MCP.",
+    "60% a 80% do orçamento de TI de governos e grandes corporações é consumido pela manutenção de sistemas legados.",
+    "SOAP aumenta o tráfego em até 400% comparado a JSON, e seu parsing consome recursos críticos para agentes de IA.",
+    "MCP (Model Context Protocol) é descrito como o 'novo HTTP da IA', padronizando a interação entre LLMs e ferramentas/APIs."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, o artigo revela que o maior obstáculo à adoção de agentes autônomos não é a capacidade dos modelos, mas a infraestrutura de dados legada — um problema econômico e técnico que pode travar a inovação em escala governamental e corporativa.",
+  "watch_next": [
+    "Governos de outros países (Brasil, EUA, Alemanha) podem seguir o mesmo padrão, criando wrappers MCP para suas APIs legadas, acelerando a integração com IA.",
+    "Empresas de middleware e plataformas de IA (como Anthropic e OpenAI) podem investir em ferramentas de tradução automática de SOAP para MCP, transformando o gargalo em um novo mercado."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um caso técnico específico (wrapper do cadastro espanhol) a um problema macroeconômico (US$ 1 trilhão em modernização), posicionando o MCP como a chave para destravar a próxima onda de agentes de IA — uma narrativa que vai além do nicho de dev tools e atinge o debate sobre produtividade e inovação pública."
+}

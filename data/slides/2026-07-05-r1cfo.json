@@ -1,0 +1,53 @@
+{
+  "title": "O Comercial da Google que Reimagina os Pais Fundadores com IA: Uma Análise da Estratégia de Comunicação Corporativa na Era da Adoção Forçada",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IA no Trabalho em Grupo de 1776",
+      "subtext": "O comercial constrangedor da Google que expõe a crise silenciosa de adoção corporativa de IA",
+      "image_prompt": "A dramatic, cinematic scene of Thomas Jefferson and Benjamin Franklin sitting around a wooden table in a dimly lit colonial room, each holding a glowing holographic tablet with AI interfaces, quill pens and parchment scattered, high contrast, dark moody lighting, photorealistic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a Google lançou um comercial comparando a redação da Declaração da Independência a um 'trabalho em grupo' com IA. A peça foi amplamente criticada como artificial e desrespeitosa, gerando memes e reações negativas no setor tech.",
+      "highlight": "\"Group project, but make it 1776\" — abertura do comercial"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Google está tentando normalizar o uso de IA generativa no ambiente corporativo com uma campanha que apela para uma fantasia histórica, em vez de demonstrar utilidade prática. Isso revela um dilema estratégico: a proposta de valor real da IA ainda é difusa para a maioria dos gestores.",
+      "visual_hint": "Ícone de engrenagem quebrada ou fantoche de teatro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para desenvolvedores, gestores de produto e investidores, este movimento sinaliza que a guerra pela adoção de IA corporativa está longe de ser vencida. Se a Google precisa apelar para o emocional e o histórico, o mercado de adoção de IA no escritório ainda está frágil e imaturo.",
+      "visual_hint": "Gráfico de adoção em queda ou termômetro quebrado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Penetração do Gemini pago no Google Workspace: inferior a 5% da base total de usuários",
+        "Preço do add-on Gemini Business: US$ 20/usuário/mês",
+        "Preço do add-on Gemini Enterprise: US$ 30/usuário/mês"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A Google precisará reformular sua estratégia de comunicação para focar em casos de uso reais e mensuráveis",
+        "A concorrência com Microsoft Copilot e ChatGPT Enterprise se intensificará, com batalhas por contratos corporativos",
+        "Empresas de tecnologia podem adotar uma abordagem mais cautelosa ao investir em IA generativa, exigindo provas de ROI"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A era da adoção forçada de IA está apenas começando — e os próximos capítulos prometem ser ainda mais reveladores."
+    }
+  ]
+}

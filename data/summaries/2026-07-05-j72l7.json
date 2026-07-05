@@ -1,0 +1,14 @@
+{
+  "tldr": "Gigantes da tecnologia como Microsoft, AWS e Anthropic estão redirecionando bilhões de dólares do desenvolvimento de modelos de IA para a criação de uma nova camada de infraestrutura focada na implantação e operação de agentes em escala corporativa.",
+  "key_facts": [
+    "Em 2 de julho de 2026, a Microsoft anunciou a Microsoft Frontier Company, uma entidade dedicada exclusivamente à implantação de IA em ambientes corporativos complexos.",
+    "AWS e Anthropic também estão redirecionando capital para a 'camada de implantação', incluindo engenharia de sistemas, integração legada e orquestração multi-cloud.",
+    "Mais de 70% dos projetos corporativos de IA que chegam à fase de produção não atingem escala operacional devido à falta de uma camada de implantação adequada."
+  ],
+  "why_it_matters": "A notícia sinaliza o fim da era focada apenas em benchmarks de modelos e o início de uma nova fase onde o gargalo crítico é a integração e operação confiável de IA em sistemas reais, impactando diretamente a estratégia de investimento e o roadmap de adoção empresarial.",
+  "watch_next": [
+    "Acompanhar o surgimento de startups e ferramentas especializadas em observabilidade, orquestração e engenharia de prompt em produção para agentes de IA.",
+    "Observar se a Microsoft Frontier Company conseguirá estabelecer padrões de mercado para a camada de deploy, forçando concorrentes a se adaptarem ou criarem suas próprias unidades focadas em implantação."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no 'gargalo esquecido' da implantação, em vez de mais um anúncio de modelo, oferecendo uma análise econômica e estratégica que conecta o movimento dos gigantes da nuvem com a realidade frustrante de 70% dos projetos corporativos que não escalam."
+}

@@ -1,0 +1,14 @@
+{
+  "tldr": "O case Keurig mostra como a promessa de padronização e conveniência criou um lock-in lucrativo de cápsulas, um modelo que agora se replica no mercado corporativo de IA com APIs e tokens proprietários.",
+  "key_facts": [
+    "Keurig Dr Pepper vale ~US$ 45 bilhões; faturou US$ 15 bilhões só com cápsulas em 2025.",
+    "Margem das cápsulas K-Cup é de 400% a 700% sobre o custo do café em grão.",
+    "Mercado de APIs de LLM deve atingir US$ 50 bilhões em 2027, seguindo o mesmo modelo de lock-in."
+  ],
+  "why_it_matters": "O artigo alerta que empresas de IA estão repetindo o ciclo Keurig: vendem modelos com margem baixa para prender clientes em ecossistemas de tokens caros e proprietários, criando um gargalo de ineficiência e dependência que o leitor de tech precisa antecipar.",
+  "watch_next": [
+    "Empresas de IA podem enfrentar regulação antitruste ou pressão por interoperabilidade, como ocorreu com Keurig e cápsulas de terceiros.",
+    "Surgimento de modelos abertos e soluções de inferência on-premise como alternativa ao lock-in de APIs proprietárias."
+  ],
+  "editorial_angle": "O artigo se diferencia ao traçar um paralelo inédito entre o modelo de negócio da Keurig e o mercado de LLMs, usando dados concretos de margens e receitas para mostrar que a 'conveniência' da IA corporativa pode esconder uma armadilha econômica e estratégica."
+}

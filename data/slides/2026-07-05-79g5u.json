@@ -1,0 +1,53 @@
+{
+  "title": "Bending Spoons Estreia na Bolsa: O Anti-IPO Que Está Redefinindo a Economia do SaaS",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Anti-IPO Que Está Redefinindo a Economia do SaaS",
+      "subtext": "Enquanto a indústria corre atrás de bilhões em IA, uma empresa italiana de aplicativos que ninguém conhece acaba de entrar na bolsa com uma tese que desafia todas as regras do Vale do Silício.",
+      "image_prompt": "A dark, futuristic stock exchange floor with a glowing Italian flag and a giant screen showing a graph soaring upward, surrounded by abstract digital code and app icons fading into the background."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Bending Spoons, holding italiana dona de Evernote, Meetup, Vimeo e AOL, abriu capital com alta de 40%. O IPO foi um sucesso, mas o que chama a atenção não é o valuation — é a narrativa radicalmente diferente do SaaS tradicional.",
+      "highlight": "IPO com alta de 40% — sem hype, sem IA, sem growth a qualquer custo."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Bending Spoons compra ativos digitais 'esquecidos' — apps que já tiveram seu auge, com base de usuários legada, mas abandonados por suas empresas originais. Ela os reestrutura, corta custos agressivamente e aplica otimização operacional. É um private equity de software.",
+      "visual_hint": "Ícone de um quebra-cabeça sendo montado com peças de apps antigos (Evernote, Meetup, Vimeo) formando uma máquina de dinheiro."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Em um momento em que OpenAI, Anthropic e gigantes queimam capital em infraestrutura de IA sem retorno claro, a Bending Spoons prova que existe um caminho alternativo — e lucrativo. Ela não tem hype. Ela tem receita. E, mais importante, tem lucro.",
+      "visual_hint": "Gráfico de duas curvas: uma subindo vertiginosamente (hype/IA) e outra estável e constante (lucro real), com um ponto de encontro onde a segunda ultrapassa a primeira."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Portfólio já atendeu mais de 1 bilhão de pessoas.",
+        "IPO estreou com alta de 40%.",
+        "Modelo: comprar ativos depreciados, aplicar engenharia financeira e operacional, gerar caixa."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mercado público começa a valorizar empresas que entregam resultado, não apenas promessas.",
+        "Correção de rota na forma como se avalia o valor de uma empresa de software.",
+        "Surgimento de um novo modelo: 'growth at all costs' dá lugar à 'eficiência como north star'."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O anti-IPO que está redefinindo a economia do SaaS — e o que isso significa para o futuro da tecnologia."
+    }
+  ]
+}

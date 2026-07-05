@@ -1,0 +1,53 @@
+{
+  "title": "Quase 90 Novos Unicórnios em 2026: O Mapa da Frenesi de Capital que a IA Está Criando",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "90 Unicórnios em 6 Meses: A IA Está Reescrevendo as Regras do Jogo",
+      "subtext": "O capital está fluindo como nunca. Mas será que isso é uma bolha ou uma nova era?",
+      "image_prompt": "A futuristic city skyline made of glowing circuit boards and neon data streams, with a massive AI brain hologram in the center, dark blue and purple tones, cinematic lighting, digital art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 2026, o mercado de startups não está apenas aquecido — está passando por uma transformação estrutural. Quase 90 novas empresas atingiram o status de unicórnio em apenas seis meses, impulsionadas por uma frenesi de capital focada em inteligência artificial.",
+      "highlight": "Mais de 3 novos unicórnios por semana"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Diferente dos ciclos anteriores, dominados por fintechs e marketplaces, a nova safra de unicórnios é fortemente inclinada para infraestrutura de IA, agentes corporativos e hardware especializado. A IA não é mais um setor — é o motor central de cada operação.",
+      "visual_hint": "Ícone de foguete com engrenagens e circuitos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para investidores, o risco de bolha setorial é real: muitas startups operam com margens negativas. Para founders, a janela de oportunidade é rara, mas a competição por talento e custos de inferência comprime as margens. Para o mercado de trabalho, a demanda por engenheiros de IA está em alta histórica.",
+      "visual_hint": "Gráfico de linha ascendente com um ponto de interrogação no topo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "90 novos unicórnios nos primeiros 6 meses de 2026",
+        "3+ unicórnios por semana, alimentados por capital de risco",
+        "Empresas como Etched (US$ 5 bi), TesterArmy e Lovable lideram a safra"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "O valuation não reflete mais receita atual, mas expectativa de crescimento exponencial",
+        "A economia unitária positiva será o divisor entre unicórnios reais e bolha",
+        "A corrida por talento em IA e otimização de inferência vai se intensificar"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O mapa da frenesi de capital está sendo redesenhado. Não fique de fora."
+    }
+  ]
+}

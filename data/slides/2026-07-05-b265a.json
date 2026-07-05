@@ -1,0 +1,53 @@
+{
+  "title": "A Dívida Técnica de 2003: Como o SOAP do Cadastro Espanhol Expõe o Gargalo de US$ 1 Trilhão na Modernização de Infraestrutura Pública com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Dívida Técnica de 2003",
+      "subtext": "Como o SOAP do Cadastro Espanhol Expõe o Gargalo de US$ 1 Trilhão na Modernização de Infraestrutura Pública com IA",
+      "image_prompt": "A dramatic digital landscape showing a massive rusty chain wrapped around a futuristic AI brain, with glowing XML code fragments falling like debris, dark tech atmosphere with neon blue and orange accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado celebra modelos de IA com trilhões de parâmetros, a realidade da integração de sistemas críticos ainda tropeça em protocolos de duas décadas atrás. Um desenvolvedor construiu um wrapper JSON + MCP para a API SOAP de 2003 do cadastro imobiliário espanhol — e isso é apenas a ponta do iceberg.",
+      "highlight": "60% a 80% do orçamento de TI de governos é consumido por sistemas legados"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O governo espanhol mantém um dos sistemas de dados cadastrais mais completos da Europa, mas sua interface de programação (SOAP) foi construída em 2003 — pré-smartphone, pré-cloud, pré-IA. Um desenvolvedor criou o PrédioHQ, um wrapper moderno que transforma essa interface arcaica em API RESTful JSON com suporte nativo ao Model Context Protocol (MCP).",
+      "visual_hint": "Ícone de corrente quebrada com um cadeado digital sendo aberto por uma chave MCP"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Esta não é uma história sobre o cadastro espanhol — é sobre o gargalo invisível da economia da IA. A maioria dos sistemas governamentais e corporativos críticos ainda roda em protocolos da era Bush/Chirac. O SOAP não é apenas feio: é uma barreira de entrada para agentes de IA que precisam interagir com dados públicos estruturados em escala.",
+      "visual_hint": "Gráfico de funil mostrando agentes de IA sendo bloqueados por uma parede de XML"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "SOAP aumenta o tráfego em até 400% comparado a JSON equivalente",
+        "3 a 6 meses adicionais no ciclo de desenvolvimento para integrar APIs governamentais legadas",
+        "US$ 1 trilhão é o custo estimado da dívida técnica global em infraestrutura pública"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "MCP se torna o novo 'HTTP da IA' — padronizando a comunicação entre modelos e ferramentas",
+        "Wrappers como PrédioHQ viram multiplicadores de produtividade para ecossistemas de agentes",
+        "Governos serão forçados a modernizar ou ficarão invisíveis para a economia de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não depende só dos modelos — depende dos dados que eles conseguem alcançar."
+    }
+  ]
+}

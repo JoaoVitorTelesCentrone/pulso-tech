@@ -1,0 +1,53 @@
+{
+  "title": "O Paradoxo Vizio: Como um 'Fracasso' de Smart TV Criou o Melhor Monitor 'Burro' do Mercado e o Que Isso Revela Sobre a Economia da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Paradoxo Vizio: Como um 'Fracasso' Criou o Melhor Produto",
+      "subtext": "A lição brutal que a economia da IA precisa aprender com uma TV que não faz nada.",
+      "image_prompt": "A minimalist dark room with a single 65-inch TV glowing with a pure black screen, no logos, no UI, just a sleek panel on a wall, cinematic lighting, high contrast, tech noir aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 2026, a Vizio lançou uma TV Mini LED Quantum de 65 polegadas por menos de US$ 398. A grande inovação? O sistema operacional não atrapalha. Em um mercado obcecado por ecossistemas de IA, a Vizio criou o melhor monitor 'burro' do mercado.",
+      "highlight": "US$ 398 — o preço de uma TV que não exige que você use seu software."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Vizio reconheceu que a maioria dos consumidores já possui um dispositivo de streaming preferido. Em vez de competir com Google TV, webOS ou Tizen, ela projetou o sistema operacional para ser invisível — desabilitando pop-ups, ignorando prompts e minimizando o input lag.",
+      "visual_hint": "Ícone de um controle remoto com um 'X' sobre um pop-up de atualização"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Ao abrir mão da receita de anúncios e dados de usuários, a Vizio eliminou o custo astronômico de manter um ecossistema de smart TV. O resultado: menos engenheiros de software, mais engenheiros de hardware. A empresa focou no que faz de melhor: fabricar painéis com excelente custo-benefício.",
+      "visual_hint": "Gráfico de barras simples mostrando 'Custo de Software' caindo e 'Qualidade de Hardware' subindo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 398: Preço de entrada da TV Vizio Mini LED Quantum de 65 polegadas",
+        "Bilhões: Receita anual que LG e Samsung geram vendendo dados de audiência e anúncios",
+        "Zero: Pop-ups de atualização que o usuário precisa enfrentar ao ligar a TV"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Plataformas de IA corporativa precisam parar de tentar ser o 'SO da empresa' e focar em entregar hardware/software que saia do caminho.",
+        "O 'feature creep' e a integração forçada criam atrito — a Vizio prova que a melhor estratégia é ser um hardware excelente que não atrapalha.",
+        "A economia da IA pode aprender: às vezes, o 'fracasso' intencional de um ecossistema é o maior sucesso de produto."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro não é sobre telas mais inteligentes. É sobre telas que simplesmente funcionam."
+    }
+  ]
+}

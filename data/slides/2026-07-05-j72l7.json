@@ -1,0 +1,53 @@
+{
+  "title": "Microsoft, AWS e Anthropic Estão Gastando Bilhões — e Não em Modelos Melhores: A Nova Economia da Implantação de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Nova Economia da Implantação de IA",
+      "subtext": "Gigantes da tecnologia estão redirecionando bilhões para resolver o gargalo esquecido: como colocar IA para funcionar no mundo real.",
+      "image_prompt": "A futuristic data center with glowing blue server racks and abstract AI agent pathways connecting legacy systems, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a Microsoft anunciou a Microsoft Frontier Company, uma entidade focada exclusivamente em implantação de IA corporativa. AWS e Anthropic seguiram o mesmo caminho, redirecionando capital massivo para engenharia de sistemas, integração legada e segurança de agentes.",
+      "highlight": "70% dos projetos corporativos de IA não atingem escala operacional por falta de uma camada de implantação."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A corrida por modelos maiores deu lugar à corrida por sistemas que funcionem. Microsoft, AWS e Anthropic estão investindo bilhões em engenharia de prompt em produção, orquestração multi-agente, observabilidade de agentes e integração com sistemas legados — não em novos modelos de fronteira.",
+      "visual_hint": "Ícone de engrenagem conectada a um cérebro digital, com setas de fluxo entre sistemas antigos e novos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Modelos melhores não resolvem o problema real das empresas: integrar IA em processos críticos sem quebrar tudo. A implantação em escala exige engenharia diferente, custos imprevisíveis e resiliência operacional — e isso não pode ser resolvido com outro modelo de 1 trilhão de parâmetros.",
+      "visual_hint": "Gráfico de barras mostrando investimento em deploy vs. investimento em modelos, com a barra de deploy crescendo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 150 bilhões investidos em 2025 apenas em clusters de GPU e dados de treinamento",
+        "Mais de 70% dos projetos corporativos de IA não atingem escala operacional",
+        "Bilhões sendo realocados para a 'camada de deploy de agentes' — engenharia de sistemas, integração legada e orquestração multi-cloud"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A vantagem competitiva não será o melhor modelo, mas o melhor sistema de implantação",
+        "Empresas precisarão de engenheiros de deploy de IA, não apenas pesquisadores",
+        "A infraestrutura de IA se tornará tão crítica quanto a própria nuvem"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A era da implantação em escala está apenas começando. Prepare-se para a nova economia da IA."
+    }
+  ]
+}
