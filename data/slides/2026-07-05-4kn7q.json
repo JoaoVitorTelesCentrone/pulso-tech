@@ -1,0 +1,53 @@
+{
+  "title": "O Apagão de Dados: Como a Exclusão de 6.000 Páginas de Eficiência Energética pela Casa Branca Expõe a Fragilidade da Infraestrutura de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Apagão de Dados",
+      "subtext": "6.000 páginas deletadas. Uma onda de calor histórica. A infraestrutura de IA no limite.",
+      "image_prompt": "A dark, futuristic data center interior with flickering lights and a massive digital screen displaying a red warning alert, heat waves distorting the air, cables and servers glowing under emergency red light, cinematic, high contrast, cyberpunk atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 4 de julho de 2026, o Departamento de Energia dos EUA removeu silenciosamente 6.000 páginas sobre conservação de energia. A ação ocorreu exatamente quando uma onda de calor histórica sobrecarregava a rede elétrica americana.",
+      "highlight": "6.000 páginas deletadas durante a pior onda de calor da história dos EUA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O governo federal está recuando de políticas de eficiência energética, mesmo em meio a uma crise climática. A mensagem política é clara: não querem ser vistos como 'restritivos' ao consumo de energia — sacrificando dados que poderiam evitar apagões.",
+      "visual_hint": "Ícone de um disquete sendo deletado com um raio ao fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Data centers de IA são os maiores consumidores emergentes de energia do planeta. Um único cluster de treinamento consome megawatts equivalentes a uma pequena cidade. Sem políticas de eficiência, a conta chega na forma de apagões, racionamento e custos explosivos.",
+      "visual_hint": "Gráfico de linha mostrando consumo de energia de data centers disparando"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Data centers consumirão 9% da eletricidade dos EUA até 2030 (hoje são ~2%)",
+        "Um modelo como GPT-5 consumiu estimados 50 GWh para treinar",
+        "Modelos de próxima geração podem consumir 500 GWh ou mais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Corrida armamentista por energia entre OpenAI, Google, Meta e Anthropic",
+        "Risco real de apagões regionais em hubs de data centers (Virgínia, Arizona, Iowa)",
+        "Pressão política para ignorar conservação em vez de investir em infraestrutura"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "A infraestrutura de IA está à beira de um colapso energético",
+      "subtext": "Acompanhe o blog para entender como a política está moldando — ou quebrando — o futuro da inteligência artificial."
+    }
+  ]
+}

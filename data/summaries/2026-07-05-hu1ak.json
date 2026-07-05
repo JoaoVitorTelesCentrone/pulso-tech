@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisa da KPMG revela que quase um terço dos executivos do C-Suite não compreende as faturas de IA devido ao pricing por uso, criando um gargalo de governança que ameaça a adoção corporativa.",
+  "key_facts": [
+    "29% dos executivos do C-Suite não entendem completamente as faturas de IA.",
+    "42% relataram que os custos reais de IA superaram em mais de 20% as projeções iniciais.",
+    "A migração para usage-based pricing introduz variáveis imprevisíveis como tokens, comprimento de contexto e caching.",
+    "37% das empresas consideram reconsiderar implantações inteiras de IA devido à falta de transparência nos custos."
+  ],
+  "why_it_matters": "A incerteza financeira gerada pelo pricing por uso está travando decisões estratégicas no C-Suite, transformando a IA de acelerador de produtividade em um poço de risco orçamentário, o que pode frear a adoção corporativa em larga escala.",
+  "watch_next": [
+    "Empresas de IA devem lançar modelos de precificação mais previsíveis ou ferramentas de governança de custos.",
+    "CFOs e CTOs podem pressionar por auditorias de custos de IA e novas métricas de ROI.",
+    "Startups de fintech e analytics podem surgir para resolver o problema de transparência em faturas de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo de decisão no C-Suite, e não apenas na complexidade técnica do pricing, usando dados concretos da KPMG para mostrar como a economia da IA está criando um novo risco de governança corporativa."
+}

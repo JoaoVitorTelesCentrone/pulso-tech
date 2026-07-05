@@ -1,0 +1,53 @@
+{
+  "title": "O Aumento de Preço do Matic: O Sinal de que a Economia dos Robôs Domésticos Está Saindo do Modo 'Crescimento a Qualquer Custo'",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Robô Que Ficou US$ 250 Mais Caro",
+      "subtext": "E o que isso revela sobre o fim da era do 'crescer a qualquer custo' no hardware de IA",
+      "image_prompt": "A futuristic robot vacuum cleaner in a sleek living room, glowing blue lights, dark ambient background, cinematic lighting, high tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Matic, fabricante do aspirador robô mais aclamado do mercado, anunciou um aumento de preço de US$ 250 a partir de setembro de 2026. O dispositivo passará de US$ 1.245 para US$ 1.495, um reajuste de 20%.",
+      "highlight": "US$ 250 a mais pelo mesmo robô"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A justificativa oficial é que o novo preço 'reflete melhor o valor do produto'. Na prática, o Matic estava sendo vendido abaixo do custo real, com margens insustentáveis. A empresa está corrigindo uma distorção de precificação que mascarava a verdadeira economia do negócio.",
+      "visual_hint": "Gráfico de linha mostrando preço subindo de US$ 1.245 para US$ 1.495"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O caso Matic é um sintoma de uma transformação mais profunda: o setor de robôs domésticos operou sob a lógica do Vale do Silício — queime caixa para ganhar mercado, depois monetize. Agora, hardware de qualidade não pode mais ser vendido como commodity.",
+      "visual_hint": "Ícone de gráfico de pizza mostrando margens comprimidas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de chips de IA subiu entre 15% e 30% nos últimos 18 meses",
+        "Inflação de matérias-primas: lítio, cobre e terras raras em alta",
+        "Preço do Matic sobe 20%: de US$ 1.245 para US$ 1.495"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim da guerra de preços insustentável no setor de robótica doméstica",
+        "Empresas precisarão precificar hardware pelo valor real, não por market share",
+        "Consumidores pagarão mais caro por inovação e qualidade"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O hardware de IA está saindo da bolha. E você, está preparado?"
+    }
+  ]
+}

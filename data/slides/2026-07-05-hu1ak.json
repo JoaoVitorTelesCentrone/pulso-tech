@@ -1,0 +1,53 @@
+{
+  "title": "A Fatura Incompreensível: Como o Pricing por Uso em IA Está Criando um Novo Gargalo de Decisão no C-Suite",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Fatura Incompreensível",
+      "subtext": "Como o pricing por uso em IA está travando o C-Suite",
+      "image_prompt": "A dark, abstract digital landscape with glowing red and blue data streams forming a maze, a blurred C-suite executive silhouette looking at an incomprehensible spreadsheet, high-tech atmosphere, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A KPMG revelou que quase um terço dos executivos do C-Suite não entende as próprias faturas de IA. A migração para modelos de precificação por uso está criando um novo gargalo de decisão nas empresas.",
+      "highlight": "29% dos executivos não compreendem as faturas de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Empresas estão trocando a previsibilidade de assinaturas fixas por um turbilhão de variáveis: tokens de entrada e saída, comprimento de contexto, latência, requisições por minuto, custo de fine-tuning e armazenamento de embeddings. O resultado: faturas mensais que variam em ordens de magnitude sem aviso.",
+      "visual_hint": "Ícone de gráfico de linha com picos e vales abruptos, ou um medidor de pressão no vermelho"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se o CFO não prevê o custo, não aprova o orçamento. Se o CTO não explica a fatura, perde credibilidade. Se o CEO não vê ROI, puxa o freio. A falta de transparência nos custos está levando empresas a reconsiderar implantações inteiras de IA.",
+      "visual_hint": "Três silhuetas de executivos (CFO, CTO, CEO) com pontos de interrogação sobre suas cabeças, conectados por linhas de engrenagens quebradas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "29% dos executivos admitem não entender as faturas de IA",
+        "42% relataram custos reais 20% acima das projeções iniciais",
+        "37% das empresas reconsideram implantações de IA devido à incerteza financeira"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A economia da IA corporativa exige uma correção de rota urgente",
+        "Empresas precisam de novas ferramentas de governança e previsibilidade de custos",
+        "Quem não se adaptar aos custos variáveis colherá surpresas nos balanços do próximo trimestre"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Entenda como dominar a economia da IA antes que ela domine seu balanço"
+    }
+  ]
+}

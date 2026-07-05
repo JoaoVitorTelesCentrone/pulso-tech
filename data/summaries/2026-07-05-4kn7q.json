@@ -1,0 +1,16 @@
+{
+  "tldr": "A exclusão de 6.000 páginas de eficiência energética pelo governo dos EUA, em meio a uma onda de calor, sinaliza paralisia política que agrava o gargalo energético para data centers de IA.",
+  "key_facts": [
+    "Departamento de Energia dos EUA deletou ~6.000 páginas sobre conservação de energia em 4 de julho de 2026.",
+    "A remoção ocorreu durante uma onda de calor histórica que sobrecarregou a rede elétrica.",
+    "Data centers de IA podem consumir 9% da eletricidade dos EUA até 2030, contra ~2% atualmente.",
+    "Casa Branca também emitiu ordem executiva encurtando prazo para criptografia pós-quântica, indicando pressão múltipla na infraestrutura digital."
+  ],
+  "why_it_matters": "A falta de políticas de eficiência energética e a remoção de dados críticos ameaçam diretamente a expansão da IA, que depende de energia abundante e estável. Sem ação, o setor enfrentará apagões, racionamento e aumento de custos operacionais.",
+  "watch_next": [
+    "Possíveis apagões ou racionamento em regiões com alta concentração de data centers (Virgínia, Arizona, Iowa).",
+    "Reação da indústria de IA (Anthropic, OpenAI, Google, Meta) e lobby por políticas energéticas mais previsíveis.",
+    "Desdobramentos políticos: pressão republicana contra conservação versus necessidade de infraestrutura para IA."
+  ],
+  "editorial_angle": "O artigo conecta um ato burocrático aparentemente menor (deleção de páginas) a um problema estrutural crítico para a economia da IA, expondo a fragilidade da infraestrutura energética dos EUA e a paralisia política em um momento de crise climática e tecnológica."
+}

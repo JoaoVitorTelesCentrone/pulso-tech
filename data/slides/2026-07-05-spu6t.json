@@ -1,0 +1,53 @@
+{
+  "title": "O Google e a Declaração de Independência: Como a IA Está Reformatando a Memória Coletiva e o Mercado de Narrativas",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Google reescreveu a Independência dos EUA com IA",
+      "subtext": "E isso não é só marketing — é a nova guerra cultural das big techs",
+      "image_prompt": "Founding Fathers writing the Declaration of Independence with holographic AI interfaces, futuristic colonial room, dramatic lighting, digital quill pens, Google branding subtly integrated, cinematic wide shot"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 4 de julho de 2026, exatos 250 anos após a assinatura da Declaração de Independência, o Google veiculou um comercial que reimagina Thomas Jefferson, Benjamin Franklin e John Adams usando IA generativa para redigir o documento fundador dos EUA.",
+      "highlight": "250 anos depois, a IA é apresentada como a 'caneta de Jefferson'"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Google está usando um dos momentos mais icônicos da história ocidental para associar sua marca a valores como liberdade, inovação e progresso. O comercial sugere que a IA não é uma ameaça, mas uma ferramenta natural de evolução — tão essencial quanto a própria escrita.",
+      "visual_hint": "Ícone de pena digital com engrenagens de IA ao fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A guerra da IA não é apenas técnica ou econômica — é profundamente cultural. Quem controlar a narrativa sobre o que a IA representa terá vantagem competitiva que nenhum benchmark de LLM pode medir. O Google está disputando o controle do significado cultural da IA.",
+      "visual_hint": "Três logos (Google, OpenAI, Anthropic) com setas apontando para 'coração' e 'mente' do público"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Comercial veiculado exatamente no 250º aniversário da Declaração de Independência",
+        "Campanha começou no Google I/O 2026 com o lançamento do Gemini Omni",
+        "Google investe em capital simbólico: associar IA a 'liberdade' e 'progresso'"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Big techs vão competir cada vez mais por narrativas históricas e culturais",
+        "A percepção pública da IA será moldada por quem contar a melhor história",
+        "Empresas que ignorarem o marketing simbólico perderão relevância na economia da atenção"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A IA está reformatando a memória coletiva — e o mercado de narrativas é o novo campo de batalha."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Godot Bane Agentes de Codificação por IA: O Sinal de Alarme que o Mercado de Dev Tools Ignorou",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Godot Bane Agentes de Codificação por IA",
+      "subtext": "O Sinal de Alarme que o Mercado de Dev Tools Ignorou",
+      "image_prompt": "A futuristic dark control room with a large red emergency stop button glowing in the center, surrounded by screens showing code and AI agent interfaces, cyberpunk style, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o Vale do Silício corre para integrar agentes de IA em cada pipeline de desenvolvimento, o Godot Engine — um dos projetos open source mais relevantes do planeta — decidiu apertar o freio de mão. A decisão não é sobre tecnologia. É sobre o colapso silencioso do modelo de mentoria que sustenta a economia do código aberto.",
+      "highlight": "Godot barra código gerado por IA para preservar o ciclo de aprendizado humano"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Godot Engine anunciou uma revisão radical: a maior parte do código gerado por agentes de IA será barrada do repositório principal. Contribuições assistidas por IA ainda podem ser aceitas caso a caso, desde que um humano assuma a autoria e responsabilidade. O recado é claro: o Godot está dizendo não à automação irrestrita de pull requests.",
+      "visual_hint": "Ícone de um cadeado sobreposto a um ícone de robô escrevendo código"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O código aberto não é apenas sobre produção de software. É sobre reprodução de conhecimento. Quando um agente de IA gera um PR de 500 linhas que funciona perfeitamente na primeira tentativa, ele quebra o ciclo de aprendizado. Quem treinará os humanos que precisam entender e manter esse código? Quem pagará a conta quando a dívida técnica gerada por código sintético começar a acumular juros?",
+      "visual_hint": "Gráfico de ciclo quebrado: setas de aprendizado interrompidas por um robô"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Milhares de contribuidores ativos no Godot Engine",
+        "Base de usuários cresce exponencialmente após controvérsias da Unity em 2023",
+        "Discussão no Hacker News gerou dezenas de comentários em poucas horas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mantenedores terão que revisar código sem o benefício colateral da mentoria",
+        "Desenvolvedores juniores perdem a oportunidade de aprender com o esforço de escrever código",
+        "O open source pode se tornar um ecossistema onde apenas agentes de IA contribuem de forma significativa"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do desenvolvimento de software está sendo decidido agora. Não ignore o sinal de alarme."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tldr": "Pipelines tradicionais de CI/CD falham para LLMs devido ao não-determinismo e deriva de comportamento, gerando bilhões em perdas operacionais.",
+  "key_facts": [
+    "30% dos projetos corporativos de LLM falham em atingir ROI positivo, principalmente por problemas operacionais.",
+    "LLMs não têm testes unitários tradicionais, pois outputs não são determinísticos nem repetíveis.",
+    "O artigo propõe gates de release específicos: robustez adversarial, viés em subpopulações, monitoramento de data drift e testes de comportamento emergente."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, expõe que o gargalo real não é treinar modelos, mas operá-los com segurança — um problema que pode custar milhões e que a maioria das equipes ignora.",
+  "watch_next": [
+    "Adoção em massa de plataformas de LLMOps com gates de release especializados.",
+    "Regulamentações exigindo validação contínua de comportamento de LLMs em produção."
+  ],
+  "editorial_angle": "Diferencia-se ao focar no custo econômico oculto da falha operacional, em vez de apenas na qualidade do modelo, e ao detalhar uma arquitetura prática de validação para não-determinismo."
+}

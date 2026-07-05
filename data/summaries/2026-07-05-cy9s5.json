@@ -1,0 +1,16 @@
+{
+  "tldr": "Mistral AI está se consolidando como a alternativa europeia viável ao duopólio americano de modelos de IA, combinando modelos abertos de alta performance com custos de inferência drasticamente menores e apelo à soberania digital.",
+  "key_facts": [
+    "Mistral AI levantou mais de €1 bilhão desde 2023, fundada por ex-pesquisadores da DeepMind e Meta.",
+    "O modelo Mistral Large 2 compete com GPT-4 e Claude 3.5, mas com custo de inferência 40% menor.",
+    "A arquitetura Mixture of Experts (Mixtral 8x22B) ativa apenas 2 de 8 especialistas por token, reduzindo custo computacional em 5x comparado ao GPT-4.",
+    "A empresa fechou contratos com o governo francês e instituições financeiras europeias para fornecer IA local, explorando o movimento de soberania digital."
+  ],
+  "why_it_matters": "Para CTOs e tomadores de decisão em IA, a Mistral quebra o dilema entre performance e dependência de fornecedor: oferece modelos de fronteira com custo muito menor e a opção de self-hosting, permitindo controle sobre dados e redução de riscos geopolíticos — algo crítico para setores regulados e empresas europeias.",
+  "watch_next": [
+    "Expansão dos contratos de soberania digital para outros governos europeus e setores como saúde e defesa.",
+    "Resposta da OpenAI e Anthropic: possível redução de preços ou abertura parcial de modelos para conter a erosão de mercado.",
+    "Adoção do Mistral por grandes empresas de tecnologia fora da Europa, especialmente na Ásia e América Latina, como alternativa ao domínio americano."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não apenas na tecnologia, mas na estratégia econômica e geopolítica da Mistral — apresentando-a como um 'Cavalo de Tróia' que reescreve as regras do mercado de modelos de fronteira, em vez de apenas mais uma startup de IA. A escolha editorial reflete o timing: o movimento de soberania digital europeu está ganhando força, e a Mistral é o player mais bem posicionado para capitalizá-lo."
+}

@@ -1,0 +1,14 @@
+{
+  "tldr": "Godot Engine baniu a maior parte das contribuições de código geradas por IA para preservar o modelo de mentoria que sustenta o ecossistema open source, contrariando a tendência do mercado de dev tools.",
+  "key_facts": [
+    "Godot Engine anunciou que barrará a maior parte do código gerado por agentes de IA do repositório principal, permitindo apenas contribuições assistidas caso a caso com responsabilidade humana.",
+    "A decisão foi justificada como forma de evitar a desmoralização da comunidade e a erosão do modelo de mentoria que forma novos contribuidores.",
+    "A notícia ganhou tração no Hacker News, gerando dezenas de comentários, e posiciona o Godot na contramão de ferramentas como GitHub Copilot, Claude Code e Cursor."
+  ],
+  "why_it_matters": "A decisão expõe um dilema central para o open source: a automação via IA pode aumentar a produtividade, mas ameaça o ciclo de aprendizado e mentoria que forma engenheiros e mantém a sustentabilidade do ecossistema a longo prazo.",
+  "watch_next": [
+    "Outros projetos open source de grande porte podem adotar políticas similares, criando uma fragmentação no uso de IA em contribuições.",
+    "O mercado de dev tools pode ser pressionado a desenvolver soluções que integrem IA sem quebrar o processo de mentoria, como ferramentas de revisão assistida."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no impacto econômico e social da IA no open source, em vez de apenas relatar a decisão técnica, destacando o conflito entre produtividade imediata e sustentabilidade do conhecimento."
+}
