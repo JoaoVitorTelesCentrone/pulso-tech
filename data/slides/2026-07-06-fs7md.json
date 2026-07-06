@@ -1,0 +1,53 @@
+{
+  "title": "O Peso Invisível de US$ 100 Bilhões: Como os Óculos Inteligentes Estão Criando uma Nova Economia da Privacidade",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Peso Invisível de US$ 100 Bilhões",
+      "subtext": "Como os óculos inteligentes estão criando uma nova economia da privacidade — e ninguém está precificando isso.",
+      "image_prompt": "A pair of futuristic smart glasses floating in a dark digital void, with a subtle glowing eye symbol and data streams reflecting on the lenses, cyberpunk aesthetic, high contrast, blue and neon orange tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Uma colunista do The Verge passou semanas usando óculos inteligentes com câmera e IA no dia a dia. A conclusão não veio de benchmarks, mas de uma sensação visceral: 'É horrível segurar a privacidade de outras pessoas nas suas mãos.'",
+      "highlight": "73% dos adultos americanos se sentem desconfortáveis com óculos com câmera em espaços públicos (Pew Research, 2025)"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O problema real não é técnico — é social e econômico. Cada interação vira um cálculo de risco: estou gravando? A pessoa sabe? O que a IA está processando? A ficção científica nos preparou para o espetáculo, não para a banalidade da vigilância cotidiana.",
+      "visual_hint": "Ícone de olho humano com engrenagens internas, representando vigilância invisível e assimetria de informação"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada uso de óculos inteligentes cria uma assimetria de informação: o usuário sabe o que o dispositivo faz; as pessoas ao redor, não. Esse atrito invisível — o custo de transação social — pode ser o maior gargalo de adoção e o maior mercado que ninguém está precificando.",
+      "visual_hint": "Ilustração de duas pessoas lado a lado: uma com óculos brilhantes e dados fluindo, outra com ponto de interrogação e expressão de desconforto"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de wearables com IA projetado entre US$ 50 bi e US$ 200 bi até 2030",
+        "73% dos adultos americanos se sentem desconfortáveis com óculos com câmera em espaços públicos",
+        "Apenas 12% se sentiriam confortáveis interagindo com alguém usando o dispositivo abertamente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução da taxa de adoção em ambientes sociais e profissionais",
+        "Custos regulatórios imprevistos com leis de privacidade",
+        "Surgimento de um mercado paralelo de soluções anti-vigilância"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A próxima grande plataforma pós-smartphone pode tropeçar no próprio peso invisível da privacidade."
+    }
+  ]
+}

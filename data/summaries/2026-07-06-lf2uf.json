@@ -1,0 +1,15 @@
+{
+  "tldr": "Photoroom publica a quarta parte de sua série PRX, detalhando uma estratégia de dados que demonstra como fine-tuning com dados curados pode superar modelos de fronteira a custos drasticamente menores, desafiando a narrativa de que 'maior é sempre melhor' na economia da IA.",
+  "key_facts": [
+    "Photoroom levantou mais de US$ 64 milhões e tem clientes como L'Oréal.",
+    "A estratégia de dados inclui dados sintéticos gerados por modelo, curadoria manual em escala e balanced sampling.",
+    "Fine-tuning com dados curados pode custar entre US$ 50 mil e US$ 500 mil, contra US$ 100 milhões a US$ 1 bilhão para treinar um modelo de fronteira do zero."
+  ],
+  "why_it_matters": "Esta notícia importa porque expõe um gargalo econômico subestimado: a qualidade e estratégia de dados são o verdadeiro diferencial competitivo, não o tamanho do modelo. Para startups e empresas de IA, isso sugere que investir em curadoria de dados pode ser mais eficiente do que buscar modelos maiores, redefinindo a economia do fine-tuning.",
+  "watch_next": [
+    "Outras startups de IA podem adotar estratégias similares de dados curados, pressionando grandes laboratórios a repensarem seus custos.",
+    "A Photoroom pode monetizar seu pipeline de dados como um serviço ou licenciamento para outras empresas de edição de imagens.",
+    "O mercado de fine-tuning pode se fragmentar em nichos onde dados especializados se tornam o principal ativo, em vez de poder computacional."
+  ],
+  "editorial_angle": "O artigo se diferencia por não ser apenas um post técnico, mas um documento estratégico que desafia a narrativa dominante de escala na IA. Ele foi escolhido por oferecer uma análise econômica concreta e um estudo de caso prático que pode inspirar mudanças na indústria, focando no valor dos dados em vez de modelos maiores."
+}

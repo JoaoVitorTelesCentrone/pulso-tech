@@ -1,0 +1,53 @@
+{
+  "title": "Xtra Muse vs. DJI Osmo Pocket 3: A Guerra Silenciosa dos Preços que Expõe a Comoditização da Estabilização Mecânica e o Novo Mercado de Câmeras de Bolso",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Guerra Silenciosa dos Preços",
+      "subtext": "Como a comoditização da estabilização mecânica está redefinindo o mercado de câmeras de bolso",
+      "image_prompt": "A futuristic, dark tech battlefield with two pocket cameras facing each other, glowing neon blue and red, digital rain, cyberpunk style, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O DJI Osmo Pocket 3, padrão-ouro das câmeras de bolso, teve seu preço reduzido de US$ 500 para US$ 378. Enquanto isso, o concorrente Xtra Muse chegou a US$ 329 — um desconto agressivo que sinaliza uma nova fase de competição no setor.",
+      "highlight": "US$ 49 de diferença entre os dois modelos — mas um abismo estratégico"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A tecnologia de gimbals de 3 eixos e sensores CMOS de 1 polegada amadureceu. O que antes era engenharia de precisão proprietária agora é um componente modular disponível para dezenas de fabricantes. O Xtra Muse entrega 85% da experiência por 65% do preço.",
+      "visual_hint": "Ícone de engrenagem se desmontando em peças genéricas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para consumidores: câmeras de altíssima qualidade estão se tornando acessíveis. Para a DJI: um dilema clássico entre canibalizar margens ou perder participação de mercado. Para o mercado: a estabilização mecânica deixou de ser diferencial e virou commodity.",
+      "visual_hint": "Gráfico de setas opostas: uma subindo (acesso) e outra descendo (margem)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Osmo Pocket 3: de US$ 500 para US$ 378 (-24%)",
+        "Xtra Muse: vendido a US$ 329 (-23% abaixo do preço habitual)",
+        "Diferença entre os dois: apenas US$ 49 (11% do valor original)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A DJI precisará inovar em software e ecossistema para justificar o premium",
+        "Fabricantes de segunda linha vão acelerar a guerra de preços",
+        "O consumidor ganha acesso a tecnologia profissional por fração do custo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A comoditização está apenas começando — e as próximas batalhas serão ainda mais reveladoras."
+    }
+  ]
+}

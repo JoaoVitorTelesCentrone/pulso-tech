@@ -1,0 +1,53 @@
+{
+  "title": "PRX Part 4: A Estratégia de Dados Que Pode Redefinir a Economia do Fine-Tuning de Modelos de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim da Corrida por Modelos Maiores?",
+      "subtext": "Como uma startup francesa está redefinindo a economia do fine-tuning com dados curados — e desafiando gigantes da IA.",
+      "image_prompt": "A futuristic data pipeline glowing with blue and orange lights, symbolizing curated data flowing into a compact AI model, dark tech background with subtle grid lines"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto OpenAI, Google e Meta gastam bilhões em modelos cada vez maiores, a Photoroom — startup de edição de imagens com clientes como L'Oréal — publicou a quarta parte de sua série técnica PRX. O artigo revela uma estratégia de dados que pode tornar o fine-tuning de modelos menores mais eficiente e barato que os gigantes de fronteira.",
+      "highlight": "US$ 64 milhões levantados pela Photoroom — e um modelo que compete com DALL-E e Stable Diffusion em tarefas específicas."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Photoroom detalhou seu pipeline de dados: geração de dados sintéticos com loop de feedback, curadoria humana especializada em escala e amostragem balanceada para cobrir casos de borda. O resultado é um modelo de edição de imagens que entrega performance superior com custo de inferência muito menor que os modelos de fronteira.",
+      "visual_hint": "Ícone de funil com engrenagens e um diamante no centro, representando curadoria de dados de alta qualidade"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de fine-tuning subestima o valor dos dados curados. Empresas que investirem em estratégia de dados — e não apenas em mais parâmetros — podem obter vantagem competitiva real. Para startups e PMEs, isso significa que é possível competir com gigantes da IA com uma fração do orçamento.",
+      "visual_hint": "Gráfico de barras comparando custo de treinamento: modelo de fronteira (US$ 1B) vs fine-tuning curado (US$ 500)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Treinar modelo de fronteira do zero: US$ 100M a US$ 1B",
+        "Fine-tuning com dados genéricos: US$ 10K a US$ 100K",
+        "Fine-tuning com dados curados e estratégia: US$ 50K a US$ 500K"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Curadoria de dados se torna o novo diferencial competitivo — não o tamanho do modelo",
+        "Startups podem superar gigantes em tarefas específicas com orçamentos enxutos",
+        "A economia da IA se desloca de 'mais computação' para 'dados mais inteligentes'"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A Photoroom está escrevendo o manual do fine-tuning inteligente. O próximo capítulo pode mudar sua estratégia de dados."
+    }
+  ]
+}

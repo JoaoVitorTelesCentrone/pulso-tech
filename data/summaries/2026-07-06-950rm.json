@@ -1,0 +1,14 @@
+{
+  "tldr": "A UTA está usando agentes de IA especializados para gerenciar contratos, descobrir talentos e otimizar campanhas na economia criativa de US$ 250 bilhões, sem substituir o talento humano.",
+  "key_facts": [
+    "A UTA revelou no Cannes Lions que opera uma infraestrutura de agentes de IA para gerenciar sua divisão de criadores de conteúdo.",
+    "Os agentes são especializados em descoberta de talentos, negociação de contratos e otimização de campanhas em tempo real.",
+    "A UTA não usa modelos de fronteira como GPT-5, mas modelos fine-tuned em dados proprietários de contratos e métricas de audiência."
+  ],
+  "why_it_matters": "Mostra um caso real de implantação de agentes de IA em indústrias criativas, desafiando a narrativa de que automação substitui empregos — aqui ela amplifica a capacidade de gestão e negociação humana.",
+  "watch_next": [
+    "Outras agências de talentos e empresas criativas devem anunciar adoção similar de agentes de IA nos próximos meses.",
+    "O mercado de modelos fine-tuned para nichos específicos (contratos, métricas de campanha) pode crescer rapidamente."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no uso prático de agentes de IA em uma indústria criativa de grande escala, em vez de debates teóricos sobre desemprego tecnológico, e ao destacar a escolha por modelos especializados em vez de modelos de fronteira."
+}

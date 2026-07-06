@@ -1,0 +1,16 @@
+{
+  "tldr": "Andrej Karpathy, Google e Y Combinator convergem no uso de arquivos Markdown como solução de memória para agentes de IA, mas cada um aborda problemas distintos — autonomia individual, escalabilidade corporativa e governança — revelando uma fragmentação estratégica na economia dos agentes.",
+  "key_facts": [
+    "Em abril de 2026, Andrej Karpathy publicou o 'LLM Wiki', um gist propondo um arquivo Markdown como base de memória para agentes de IA.",
+    "Garry Tan (CEO da Y Combinator) endossou publicamente a abordagem, e engenheiros do Google adotaram padrões similares internamente.",
+    "O artigo argumenta que Karpathy, Google e Tan enfrentam problemas diferentes: autonomia do desenvolvedor, escalabilidade com governança e validação de mercado, respectivamente.",
+    "A abordagem com Markdown contrasta com soluções complexas e caras como bancos vetoriais (Pinecone, Weaviate) e sistemas de RAG."
+  ],
+  "why_it_matters": "A notícia importa porque expõe um gargalo crítico na economia dos agentes de IA — o custo e a complexidade da memória de longo prazo — e sugere que uma solução minimalista (Markdown) pode redefinir a infraestrutura, barateando o desenvolvimento e acelerando a adoção de agentes pessoais e empresariais.",
+  "watch_next": [
+    "Se o Google padronizará o Markdown como formato oficial de memória para seus agentes (Gemini, Search, Assistant), impactando todo o ecossistema.",
+    "Se startups de infraestrutura de IA (Pinecone, Chroma) responderão com adaptações ou se o movimento minimalista canibalizará seu mercado.",
+    "Se a abordagem de Karpathy inspirará uma nova geração de agentes open-source rodando localmente, desafiando o modelo de negócios baseado em APIs de memória."
+  ],
+  "editorial_angle": "O artigo se diferencia ao revelar que a convergência no Markdown é apenas superficial — cada player resolve um problema econômico distinto (autonomia vs. escala vs. validação), o que fragmenta silenciosamente o mercado de agentes. A análise vai além do hype técnico para expor as implicações estratégicas e de custo para desenvolvedores e investidores."
+}

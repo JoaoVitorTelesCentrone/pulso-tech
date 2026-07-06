@@ -1,0 +1,53 @@
+{
+  "title": "Station F: O Berço Europeu que Desafia o Vale do Silício na Nova Economia da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Station F: O Berço Europeu que Desafia o Vale do Silício na Nova Economia da IA",
+      "subtext": "Enquanto o Vale do Silício briga por US$ 1 trilhão, um hub parisiense está silenciosamente construindo a próxima geração de startups de IA — com um modelo que pode redefinir a economia da inovação no continente.",
+      "image_prompt": "A futuristic view of the Station F campus in Paris at night, glowing with neon blue and purple lights, with a giant holographic brain symbolizing AI floating above the building, surrounded by digital data streams, cyberpunk style, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Station F, o maior campus de startups do mundo em Paris, anunciou uma nova edição de seu programa acelerador F/ai. O movimento visa fortalecer sua posição como plataforma de lançamento para as startups de IA mais promissoras da Europa, sinalizando uma maturação do ecossistema europeu de IA.",
+      "highlight": "Mais de 1.000 startups já abrigadas no campus"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O programa F/ai oferece acesso a mentores, infraestrutura de computação e conexões com investidores europeus — incluindo o fundo Kima Ventures. A edição atual promete ser a maior até hoje, com um número recorde de aplicações de toda a Europa, focando em setores verticais como saúde, manufatura e energia.",
+      "visual_hint": "Ícone de foguete com engrenagens e circuitos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Europa está criando um modelo alternativo ao Vale do Silício: menos 'crescimento a qualquer custo' e mais 'construção de negócios sustentáveis com vantagens regulatórias e de talento'. O EU AI Act vira um 'selo de confiança' em setores regulados como saúde, finanças e defesa.",
+      "visual_hint": "Mapa da Europa com pontos de luz conectados por linhas de dados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "€ 20 bilhões levantados por fundos europeus de VC para IA em 2025 (+40% vs. ano anterior)",
+        "Europa forma mais engenheiros de machine learning per capita do que os EUA",
+        "Station F: a 10 minutos de metrô da École Polytechnique e INRIA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Startups europeias de IA terão acesso a capital paciente e infraestrutura de computação local (OVHcloud, Scaleway)",
+        "Setores verticais (saúde, energia, agricultura) se tornarão polos de inovação com vantagem competitiva",
+        "O modelo Station F pode redefinir o mapa global da inovação, descentralizando o Vale do Silício"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A Europa não está apenas alcançando — está criando um novo caminho para a economia da IA."
+    }
+  ]
+}

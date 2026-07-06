@@ -1,0 +1,54 @@
+{
+  "title": "O Desmonte Silencioso do Xbox: Como a Microsoft Está Reconfigurando a Economia dos Games na Era da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Desmonte Silencioso do Xbox",
+      "subtext": "4.800 demissões, 4 estúdios vendidos e o fim do 'crescimento a qualquer custo' nos games",
+      "image_prompt": "A dark, futuristic Xbox console fading into digital fragments, with glowing AI circuits and dollar signs in the background, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a Microsoft anunciou a maior reestruturação de sua história no setor de games. 4.800 funcionários foram demitidos e quatro estúdios first-party foram vendidos, incluindo Ninja Theory e Double Fine.",
+      "highlight": "Mais de 30% das demissões concentradas na divisão Xbox"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Microsoft não está matando o Xbox — está transformando sua divisão de games em uma operação enxuta. Estúdios criativos de alto nível estão sendo 'desmamados' para operar como independentes, levando suas franquias consigo.",
+      "visual_hint": "Ícone de console sendo desmontado em peças, com setas indicando 'venda' e 'demissão'"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este movimento não é sobre games — é sobre capital. A Microsoft está redirecionando bilhões para infraestrutura de IA, enquanto o modelo de 'comprar estúdios e acumular IPs' não se sustenta mais sem ROI claro.",
+      "visual_hint": "Balança com um lado pesado de dinheiro e IA, e o outro lado leve com um controle de Xbox"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "4.800 demissões — economia anual de US$ 720M a US$ 960M",
+        "4 estúdios vendidos: Ninja Theory, Double Fine, Compulsion, Undead Labs",
+        "Game Pass: 30M assinantes, mas margem líquida inferior a 15%",
+        "US$ 2,5 bi investidos em aceleradora de implantações de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "XBox focará em 3 pilares: plataforma, IPs de alto valor e parcerias externas",
+        "Desenvolvedores independentes ganham mais espaço — mas com menos segurança",
+        "A era do 'crescimento a qualquer custo' no gaming acabou; disciplina fiscal é a nova regra"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O jogo mudou — não no console, mas no balanço financeiro da Big Tech."
+    }
+  ]
+}

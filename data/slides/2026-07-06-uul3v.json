@@ -1,0 +1,53 @@
+{
+  "title": "Andrej Karpathy, Google e a Guerra do Markdown: Por Que um Arquivo de Texto Está Redefinindo a Economia da Memória dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Guerra do Markdown: Como um Arquivo de Texto Está Redefinindo a Memória dos Agentes de IA",
+      "subtext": "Karpathy, Google e Y Combinator apostam no simples — mas cada um resolve um problema diferente",
+      "image_prompt": "A futuristic glowing Markdown file icon floating above a battlefield of complex server racks and database symbols, dark tech aesthetic, neon blue and purple lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em abril de 2026, Andrej Karpathy publicou o 'LLM Wiki' — um arquivo Markdown que serve como base de memória para agentes de IA. A ideia viralizou, com Garry Tan (Y Combinator) e engenheiros do Google adotando a abordagem. O que parecia uma nota de rodapé virou o novo campo de batalha da economia dos agentes.",
+      "highlight": "Markdown não é mais só formatação — é infraestrutura de memória"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Em vez de bancos vetoriais complexos, sistemas de RAG ou fine-tuning caro, a memória do agente é um simples arquivo de texto que ele lê, escreve e edita. Karpathy foca na autonomia do desenvolvedor individual. Google usa o Markdown como formato de intercâmbio entre agentes. Tan aposta na simplicidade para startups.",
+      "visual_hint": "Ícone de arquivo .md com engrenagens ao redor, cada uma representando um uso diferente"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo de inferência escala quadraticamente com o tamanho do contexto. Soluções complexas adicionam latência e custos operacionais. O Markdown resolve: custo de implementação zero, versionável com Git, legível por humanos e máquinas. A economia da memória está sendo redefinida pela simplicidade.",
+      "visual_hint": "Gráfico de barras comparando custo de memória: bancos vetoriais vs. arquivo Markdown"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "12 milhões de tokens: janela de contexto do Gemini Spark — mas custo de inferência ainda escala quadraticamente",
+        "Custo de implementação do LLM Wiki: zero — apenas espaço em disco",
+        "3 problemas diferentes resolvidos pelo mesmo formato: autonomia individual, governança em escala, simplicidade para startups"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes pessoais rodando localmente, sem dependência de APIs de memória caras",
+        "Google e outras big techs padronizando memória de agentes em Markdown como formato de intercâmbio",
+        "Startups podem competir sem infraestrutura complexa — a barreira de entrada cai"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Markdown é o novo campo de batalha — e a guerra está apenas começando."
+    }
+  ]
+}

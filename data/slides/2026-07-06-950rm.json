@@ -1,0 +1,53 @@
+{
+  "title": "O Algoritmo Invisível do Talento: Como a UTA Está Transformando a Economia dos Criadores com Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Algoritmo Invisível do Talento",
+      "subtext": "Como a maior agência dos EUA já está usando agentes de IA para gerenciar a economia criativa de US$ 250 bilhões — sem substituir criadores.",
+      "image_prompt": "Futuristic digital brain made of social media icons and contract documents, glowing neon blue on a dark background, cinematic lighting, tech abstract"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "No palco do Cannes Lions, executivas da United Talent Agency (UTA) revelaram uma infraestrutura de agentes de IA operando nos bastidores da maior agência de talentos do planeta. Enquanto o mercado debate demissões, a UTA já está usando sistemas multi-agente para negociar contratos, otimizar campanhas e prever tendências.",
+      "highlight": "A UTA representa metade das pessoas que você já viu em algum lugar."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A UTA implantou uma arquitetura de agentes especializados que operam em paralelo: um agente descobre talentos emergentes analisando engajamento real, outro negocia contratos monitorando o mercado em tempo real, e um terceiro otimiza campanhas sugerindo ajustes de horário, tom e plataforma. Tudo isso sem substituir o talento humano — amplificando sua capacidade de gestão.",
+      "visual_hint": "Ícone de três engrenagens interligadas, cada uma com um ícone diferente: lupa (descoberta), cifrão (negociação) e gráfico (otimização)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Criadores de conteúdo operam em múltiplas plataformas com métricas em tempo real — um contrato que funcionava ontem pode estar obsoleto amanhã. A gestão humana desse ecossistema é impossível em escala. A UTA prova que agentes de IA podem gerenciar a complexidade da economia criativa sem substituir a criatividade, liberando talentos para focar no que realmente importa: criar.",
+      "visual_hint": "Diagrama mostrando um criador no centro, com setas para YouTube, TikTok, Instagram, Snapchat, Twitch, e um agente de IA filtrando dados de todas elas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Economia dos criadores nos EUA: US$ 250 bilhões em 2025 (SignalFire)",
+        "UTA usa modelos especializados fine-tuned em dados proprietários — não GPT-5 ou Claude Sonnet 5",
+        "Agente de negociação sugere preços e cláusulas que um humano levaria dias para pesquisar"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de IA se tornarão infraestrutura padrão em agências de talento e marketing de influência",
+        "Criadores ganharão poder de negociação com dados em tempo real sobre seu próprio valor de mercado",
+        "A automação não substitui criatividade — mas substitui a gestão manual que sufoca criadores"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O algoritmo invisível do talento já está rodando. A pergunta é: quem vai aprender a usá-lo primeiro?"
+    }
+  ]
+}
