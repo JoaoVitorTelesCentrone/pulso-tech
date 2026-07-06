@@ -1,0 +1,53 @@
+{
+  "title": "Even Realities: O Unicórnio Silencioso dos Óculos Sem Câmera que Redefine a Economia da IA Vestível",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Unicórnio que Não Te Espiona",
+      "subtext": "Ex-time da Apple, US$ 1 bi de valuation e uma aposta radical: óculos inteligentes sem câmera.",
+      "image_prompt": "A sleek, minimalist pair of smart glasses floating in a dark, futuristic space, with glowing holographic text and no camera lens visible, cyberpunk aesthetic, blue and purple neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o Vale do Silício aposta em headsets volumosos e câmeras onipresentes, a Even Realities, bancada por gigantes chineses, acaba de atingir US$ 1 bilhão com uma proposta radicalmente oposta: óculos que não gravam nada.",
+      "highlight": "US$ 1 bilhão de valuation — sem câmera."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Even Realities fechou uma Série C de US$ 150 milhões liderada por Meituan e Tencent. Seus óculos focam exclusivamente em exibir informações no campo de visão — notificações, navegação, legendas em tempo real — sem qualquer capacidade de gravação ou fotografia.",
+      "visual_hint": "Ícone de olho com um 'X' sobre uma câmera, simbolizando a ausência de captura de imagem"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Privacidade vira vantagem competitiva. Sem câmera, o dispositivo elimina riscos de compliance, usa baterias menores e chips mais simples. Resultado: design mais leve, mais barato e com maior autonomia — fatores críticos para adoção em massa.",
+      "visual_hint": "Balança com um prato pesado de 'câmeras e dados' e outro leve de 'display e confiança'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 150 milhões — rodada Série C liderada por Meituan e Tencent",
+        "US$ 1 bilhão — valuation de unicórnio",
+        "0 câmeras — zero captura de imagem, zero passivo de privacidade"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Dispositivos de exibição (Even Realities) vs. dispositivos de captura (Meta, Google)",
+        "Confiança se torna o ativo mais valioso da IA vestível",
+        "Meituan e Tencent sinalizam integração com economia de serviços e consumo de massa"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos wearables não é sobre o que eles veem — é sobre o que eles mostram."
+    }
+  ]
+}

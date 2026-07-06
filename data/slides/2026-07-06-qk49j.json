@@ -1,0 +1,53 @@
+{
+  "title": "O Colégio dos 1%: Como a IA Está Criando uma Nova Classe de Analfabetos Sociais e Redefinindo a Economia da Educação de Luxo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Colégio dos 1%",
+      "subtext": "Como a IA está criando uma nova classe de analfabetos sociais e redefinindo a economia da educação de luxo",
+      "image_prompt": "A futuristic luxury classroom with holographic AI tutors and wealthy children in uniforms, dark moody lighting, cinematic wide shot, digital art style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto 63% dos americanos desconfiam da IA, a elite econômica está pagando fortunas para que algoritmos eduquem seus filhos. Startups como a Forge Prep lideram esse movimento, com valuations superiores a US$ 500 milhões.",
+      "highlight": "63% dos americanos desconfiam da IA — mas os 1% estão apostando tudo nela para educar seus filhos."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A elite americana está abandonando escolas tradicionais por instituições onde a IA generativa é o principal veículo de ensino. Cada lição é personalizada em tempo real, eliminando 'ineficiências' como interações sociais e transições entre aulas.",
+      "visual_hint": "Ícone de cérebro dividido: metade digital, metade humano, com setas indicando substituição"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "As 'ineficiências' removidas pela IA são justamente onde desenvolvemos empatia, negociação e colaboração. Crianças com mais de 60% do aprendizado mediado por IA têm 34% menos capacidade de interpretar emoções faciais. Estamos criando duas humanidades paralelas.",
+      "visual_hint": "Gráfico de duas curvas divergentes: uma subindo (eficiência acadêmica) e outra caindo (habilidades sociais)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "63% dos americanos não confiam em IA para tarefas cotidianas",
+        "Forge Prep e similares já valem mais de US$ 500 milhões em VC",
+        "34% de redução na capacidade de interpretar emoções faciais em crianças com >60% de aprendizado por IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Elite treinada por IA terá eficiência cognitiva superior, mas déficits socioemocionais críticos",
+        "Maioria continuará em escolas tradicionais, desenvolvendo habilidades humanas — ironicamente mais valiosas",
+        "Mobilidade social pode sofrer o maior golpe desde a era vitoriana: duas classes com capacidades complementares"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da educação já começou — e ele é mais desigual do que você imagina."
+    }
+  ]
+}

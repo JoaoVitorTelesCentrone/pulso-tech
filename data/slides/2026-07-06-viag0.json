@@ -1,0 +1,53 @@
+{
+  "title": "O Efeito Chip: Como a Crise Demográfica na Coreia do Sul Está Criando um Novo Mercado de Matchmaking Corporativo e o Que Isso Revela Sobre a Economia do Taltech em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Efeito Chip: Engenheiros de Semicondutores São os Novos 'Solteiros Mais Cobiçados'",
+      "subtext": "Como a guerra por talento em IA está reconfigurando mercados matrimoniais e criando uma nova classe de ativos humanos avaliados em milhões de dólares.",
+      "image_prompt": "A futuristic cityscape of Seoul at night, with glowing semiconductor wafer patterns and circuit board traces forming a matchmaking heart symbol, digital art, cyberpunk aesthetic, neon blue and purple tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na Coreia do Sul, engenheiros de chips da Samsung e SK Hynix se tornaram os perfis mais disputados em agências de matchmaking de luxo. Famílias tratam o 'casamento com um engenheiro de semicondutores' como um investimento de longo prazo, em meio à menor taxa de fertilidade do mundo (0,72 filhos por mulher) e uma guerra global por talento técnico.",
+      "highlight": "0,72 filhos por mulher — a menor taxa de fertilidade do mundo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Profissionais de semicondutores e IA estão sendo tratados como ativos de alto valor. Agências de casamento de luxo relatam aumento expressivo na demanda por perfis técnicos, com famílias inteiras inscritas em programas de matchmaking. O caso emblemático: Baek, gerente de 35 anos da SK Hynix, inscrito pela mãe na agência Sunoo.",
+      "visual_hint": "Ícone de chip de computador com um anel de casamento ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este não é um fenômeno cultural — é um sinal econômico. A escassez de capital humano qualificado está precificando talento técnico de forma explícita. Para investidores e gestores, a Coreia do Sul é um laboratório do que acontece quando a demanda por engenheiros de IA e chips supera a oferta em ordens de magnitude: gargalos de recrutamento, inflação salarial e reestruturação de cadeias de suprimento de talento.",
+      "visual_hint": "Gráfico de oferta e demanda com uma linha de talento tech em disparada"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Salário médio de engenheiro sênior na SK Hynix/Samsung: > US$ 150 mil anuais (bônus podem dobrar)",
+        "EUA investiram US$ 52 bilhões em subsídios para chips; Europa, US$ 47 bilhões",
+        "Coreia do Sul: 9º ano consecutivo com mais mortes do que nascimentos (2024)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Talento tech se torna a commodity mais valiosa — e mais escassa — da economia global",
+        "Empresas precisarão criar 'programas de retenção matrimonial' e benefícios familiares para competir",
+        "O mercado de matchmaking corporativo pode se expandir para outros países com crise demográfica (Japão, Itália, China)"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do trabalho já está sendo escrito nos casamentos arranjados de Seul. Fique por dentro das próximas tendências em Taltech e IA."
+    }
+  ]
+}

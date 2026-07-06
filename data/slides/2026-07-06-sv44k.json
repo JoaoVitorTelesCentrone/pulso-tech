@@ -1,0 +1,53 @@
+{
+  "title": "O Silêncio que Fala: Por Que a Mídia Tech Ignorou a Maior Inovação do Dia e o Que Isso Revela Sobre o Estado da Cobertura de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Silêncio que Fala",
+      "subtext": "Por que a mídia tech ignorou o lançamento que expõe a bolha da cobertura de IA",
+      "image_prompt": "A dark, futuristic newsroom with glowing screens showing AI headlines, but a single vinyl record in the center casts a long shadow, symbolizing ignored innovation"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, o rapper Mr. Lif lançou o EP 'Emergency Rations' — um artefato cultural que expõe o abismo entre o que a cobertura tech considera relevante e o que realmente molda a economia da criatividade sintética. Enquanto a imprensa de IA corre atrás de benchmarks e IPOs, um lançamento musical independente passou despercebido.",
+      "highlight": "O EP não é um disco. É um termômetro da bolha de atenção que domina a tecnologia."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A mídia tech ignora sistematicamente inovações culturais que não vêm de startups ou grandes corporações. O EP de Mr. Lif, descrito como 'hip-hop pós-11 de setembro em seu momento mais ousado', foi ofuscado por um ciclo de notícias auto-referencial, viciado em 'primeiros' e press releases.",
+      "visual_hint": "Ícone de megafone com um 'X' vermelho sobreposto a um disco de vinil"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A economia da IA não opera no vácuo. Ela depende de dados, cultura e expressão humana — e canibaliza exatamente o tipo de arte que Mr. Lif representa. Ignorar isso significa perder o principal campo de batalha: o valor do trabalho criativo original em um mundo de conteúdo gerado por máquinas.",
+      "visual_hint": "Ilustração de uma balança: de um lado, um cérebro humano; do outro, um chip de IA, com o prato humano vazio"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de música gerada por IA deve atingir US$ 3 bilhões até 2028 (MIDiA Research)",
+        "Modelos de IA podem gerar centenas de faixas por hora a custo marginal próximo de zero",
+        "Artistas independentes como Mr. Lif têm sua receita comprimida por algoritmos que favorecem conteúdo sintético"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A cobertura tech precisa sair do loop auto-referencial e olhar para o impacto real da IA na cultura",
+        "Artistas independentes se tornarão os principais termômetros da economia da criatividade sintética",
+        "O valor do trabalho artesanal e politicamente engajado será cada vez mais raro — e mais necessário"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Porque o silêncio também fala — e às vezes grita mais alto que qualquer benchmark."
+    }
+  ]
+}

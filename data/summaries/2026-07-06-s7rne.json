@@ -1,0 +1,14 @@
+{
+  "tldr": "Hugging Face lança LeRobot v0.6.0 com ciclo Imagine-Evaluate-Improve, padronizando o pipeline de robótica com IA e reduzindo drasticamente a barreira de entrada para sim-to-real.",
+  "key_facts": [
+    "LeRobot v0.6.0 introduz simulação integrada com domain randomization, métricas padronizadas e pipeline de melhoria contínua.",
+    "O ciclo Imagine-Evaluate-Improve resolve os gargalos de transferência sim-to-real, falta de benchmarks e iteração manual.",
+    "Projeto é mantido por Hugging Face, academia e empresas como AI Sweden, e já está disponível no GitHub e no hub da Hugging Face."
+  ],
+  "why_it_matters": "A padronização do pipeline de robótica com IA reduz custos de integração e democratiza o desenvolvimento, permitindo que empresas e desenvolvedores criem robôs inteligentes sem equipes especializadas, acelerando a adoção industrial da IA física.",
+  "watch_next": [
+    "Empresas de automação industrial começam a adotar o LeRobot como padrão de facto para treinamento de robôs.",
+    "Surgimento de um ecossistema de datasets e modelos robóticos no Hugging Face Hub, similar ao que ocorreu com NLP."
+  ],
+  "editorial_angle": "O artigo destaca o movimento silencioso da Hugging Face para resolver o gargalo mais caro da robótica (sim-to-real) com uma abordagem de plataforma, contrastando com o hype de LLMs e posicionando o LeRobot como o 'PyTorch da robótica'."
+}

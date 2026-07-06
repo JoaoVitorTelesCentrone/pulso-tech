@@ -1,0 +1,54 @@
+{
+  "title": "GTA VI: O Fenômeno de US$ 1 Bilhão que a Indústria Tech Ignora e o Que Ele Revela Sobre a Economia da Experiência na Era da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GTA VI: O Bilhete de US$ 1 Bilhão que a Tech Ignora",
+      "subtext": "Enquanto o Vale do Silício aposta em agentes de IA, a Rockstar prepara o maior evento de consumo coordenado da história — e isso muda tudo sobre para onde o dinheiro real está indo.",
+      "image_prompt": "A futuristic neon-lit city skyline at dusk, with a massive glowing dollar sign and a game controller floating in the sky, digital art, cyberpunk aesthetic, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Rockstar Games confirmou o lançamento de GTA VI para 19 de novembro de 2026. O jogo estará disponível apenas digitalmente, sinalizando o fim das mídias ópticas no mercado AAA. Enquanto isso, o Vale do Silício debate modelos de fronteira e agentes autônomos — mas o dinheiro do consumidor está prestes a provar seu verdadeiro destino.",
+      "highlight": "Pré-vendas podem ultrapassar US$ 1 bilhão em 48 horas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "GTA VI não é apenas um jogo: é um fenômeno econômico. Milhões de pessoas vão gastar US$ 70 a US$ 100 simultaneamente no mesmo produto, criando um 'evento de consumo coordenado' que testará os limites da infraestrutura digital global — desde servidores até banda larga.",
+      "visual_hint": "Ícone de um globo com setas de download simultâneas ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada dólar gasto em GTA VI é um dólar que não vai para assinaturas de IA, upgrades de GPU ou cursos de programação. Estamos vendo um 'crowding out' do consumo tech: experiências artesanais e de alto orçamento ainda comandam o bolso do público, desafiando a narrativa de que a IA canibalizará tudo.",
+      "visual_hint": "Balança com um controle de videogame de um lado e um chip de IA do outro, com o controle pesando mais"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "GTA V: 200 milhões de cópias vendidas, receita superior a US$ 8 bilhões em 12 anos",
+        "Pré-vendas de GTA VI estimadas em US$ 1 bilhão nas primeiras 48 horas",
+        "Lançamento pode impulsionar vendas de consoles em 20-30% no Q4 2026 (US$ 3-5 bilhões adicionais)",
+        "Demanda por banda larga e servidores terá picos históricos — equivalente a um data center de médio porte"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Infraestrutura digital global será testada em tempo real — redes de distribuição e nuvem precisarão se preparar",
+        "Consumidores mostram disposição para gastar centenas de dólares em prazer imediato e tangível, não em promessas de IA",
+        "Indústria tech precisa repensar a relação valor vs. assinatura: experiências completas ainda vencem modelos recorrentes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Enquanto a IA promete o futuro, GTA VI prova onde está o presente. O dinheiro real não mente."
+    }
+  ]
+}

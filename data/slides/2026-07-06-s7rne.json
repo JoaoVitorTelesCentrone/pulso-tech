@@ -1,0 +1,53 @@
+{
+  "title": "LeRobot v0.6.0: A Ponte Robótica que Pode Redefinir a Economia da IA Física",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Robótica Acabou de Virar Commodity",
+      "subtext": "Hugging Face lança a peça que faltava para transformar laboratórios em fábricas inteligentes.",
+      "image_prompt": "A futuristic robotic arm reaching out from a digital simulation grid, glowing blue circuits, dark background, cinematic lighting, high tech"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado corre atrás de modelos de linguagem cada vez maiores, a robótica com IA ainda enfrenta um gargalo mortal: cada novo robô exige engenharia manual extensa. Treinar um braço em laboratório não garante que ele funcione em uma fábrica real.",
+      "highlight": "A barreira de entrada para robótica com IA está caindo."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Hugging Face lançou o LeRobot v0.6.0, uma biblioteca open source que introduz o ciclo Imagine, Evaluate, Improve. Isso resolve o problema mais caro da robótica: a transferência de simulação para o mundo real (sim-to-real).",
+      "visual_hint": "Ícone de um ciclo infinito com engrenagens e um chip de IA no centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O LeRobot padroniza o pipeline de desenvolvimento de robôs inteligentes, da mesma forma que o PyTorch padronizou o treinamento de redes neurais. O que antes exigia equipes de PhDs agora pode ser feito com alguns comandos e datasets abertos.",
+      "visual_hint": "Gráfico de barras mostrando a queda no custo de desenvolvimento robótico"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "3 pilares: Simulação integrada, Métricas padronizadas e Pipeline de melhoria contínua",
+        "Domain randomization: varia sistematicamente condições para forçar a generalização do modelo",
+        "Benchmarks canônicos: taxa de sucesso, tempo de execução e robustez a perturbações"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão comparar fornecedores de robôs com métricas objetivas e reproduzíveis",
+        "O loop de melhoria fechado reduz drasticamente o tempo de iteração entre simulação e teste real",
+        "A robótica deixa de ser um mercado fragmentado e se torna uma plataforma escalável"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA física está sendo escrito em código aberto. Não fique de fora."
+    }
+  ]
+}

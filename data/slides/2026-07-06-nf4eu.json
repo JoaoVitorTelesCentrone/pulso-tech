@@ -1,0 +1,53 @@
+{
+  "title": "Uber na Europa: O Freio de Mão que Expõe os Limites da Economia da Mobilidade Tech",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Uber na Europa: O Freio de Mão que Expõe os Limites da Economia da Mobilidade Tech",
+      "subtext": "Cinco de sete expansões congeladas. O que nenhum algoritmo conseguiu prever.",
+      "image_prompt": "A futuristic electric Uber car stopped by a giant glowing hand symbolizing regulation, European city skyline at dusk, neon blue and orange tones, cinematic tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em fevereiro de 2026, a Uber anunciou a maior expansão europeia em anos: sete novos mercados. Seis meses depois, cinco estão congelados. O sinal de alerta não é apenas operacional — é estrutural.",
+      "highlight": "5 de 7 expansões congeladas em menos de 6 meses"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Diretiva de Trabalho em Plataformas da UE força a reclassificação de motoristas como empregados. Custos sobem. Margens encolhem. A otimização por IA encontra um limite que nenhum algoritmo pode contornar: a regulação trabalhista.",
+      "visual_hint": "Ícone de engrenagem quebrada sobreposta a um gráfico de custos em alta"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Uber é o termômetro da economia de plataforma. Se ela recua na Europa, o recado é para todo o ecossistema: o custo de expansão no continente está subindo mais rápido que a receita potencial. Investidores, gestores e founders precisam recalcular a rota.",
+      "visual_hint": "Mapa da Europa com pontos vermelhos de 'stop' sobre as cidades afetadas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "7 mercados anunciados em fevereiro de 2026",
+        "5 expansões congeladas até julho de 2026",
+        "Diretiva de Trabalho em Plataformas em implementação acelerada na UE"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Regulação trabalhista se torna o maior risco de expansão para plataformas tech",
+        "IA e otimização algorítmica perdem eficácia onde tarifas mínimas são impostas",
+        "Concorrência local (Bolt, Free Now, Heetch) ganha vantagem política e operacional"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da mobilidade tech não será escrito apenas por algoritmos — mas por leis, custos e escolhas políticas."
+    }
+  ]
+}

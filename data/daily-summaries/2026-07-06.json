@@ -1,0 +1,193 @@
+{
+  "date": "2026-07-06",
+  "updatedAt": "2026-07-06T13:01:41.435Z",
+  "articles": [
+    {
+      "slug": "2026-07-06-s7rne",
+      "title": "LeRobot v0.6.0: A Ponte Robótica que Pode Redefinir a Economia da IA Física",
+      "tags": [
+        "robótica",
+        "open source",
+        "hugging face",
+        "ia física",
+        "simulação",
+        "dev tools"
+      ],
+      "image": "/images/2026-07-06-s7rne.jpg",
+      "tldr": "Hugging Face lança LeRobot v0.6.0 com ciclo Imagine-Evaluate-Improve, padronizando o pipeline de robótica com IA e reduzindo drasticamente a barreira de entrada para sim-to-real.",
+      "key_facts": [
+        "LeRobot v0.6.0 introduz simulação integrada com domain randomization, métricas padronizadas e pipeline de melhoria contínua.",
+        "O ciclo Imagine-Evaluate-Improve resolve os gargalos de transferência sim-to-real, falta de benchmarks e iteração manual.",
+        "Projeto é mantido por Hugging Face, academia e empresas como AI Sweden, e já está disponível no GitHub e no hub da Hugging Face."
+      ],
+      "why_it_matters": "A padronização do pipeline de robótica com IA reduz custos de integração e democratiza o desenvolvimento, permitindo que empresas e desenvolvedores criem robôs inteligentes sem equipes especializadas, acelerando a adoção industrial da IA física.",
+      "watch_next": [
+        "Empresas de automação industrial começam a adotar o LeRobot como padrão de facto para treinamento de robôs.",
+        "Surgimento de um ecossistema de datasets e modelos robóticos no Hugging Face Hub, similar ao que ocorreu com NLP."
+      ],
+      "editorial_angle": "O artigo destaca o movimento silencioso da Hugging Face para resolver o gargalo mais caro da robótica (sim-to-real) com uma abordagem de plataforma, contrastando com o hype de LLMs e posicionando o LeRobot como o 'PyTorch da robótica'.",
+      "generatedAt": "2026-07-06T12:55:49.078Z"
+    },
+    {
+      "slug": "2026-07-06-nf4eu",
+      "title": "Uber na Europa: O Freio de Mão que Expõe os Limites da Economia da Mobilidade Tech",
+      "tags": [
+        "Uber",
+        "Economia Tech",
+        "Expansão Europeia",
+        "Regulação",
+        "Mobilidade"
+      ],
+      "image": "/images/2026-07-06-nf4eu.jpg",
+      "tldr": "Uber congela cinco de sete expansões na Europa em 2026, revelando que regulação trabalhista, limites da IA na mobilidade e concorrência local estão tornando o custo de entrada no continente proibitivo.",
+      "key_facts": [
+        "Uber anunciou planos de entrar em sete novos mercados europeus em fevereiro de 2026.",
+        "Cinco desses lançamentos foram oficialmente colocados em espera em menos de seis meses.",
+        "A Diretiva de Trabalho em Plataformas da UE força a reclassificação de motoristas como empregados, elevando custos.",
+        "Cidades europeias impõem tarifas mínimas e limites operacionais que reduzem a eficácia da otimização por IA.",
+        "Concorrentes locais como Bolt, Free Now e Heetch já têm presença consolidada e vantagens políticas."
+      ],
+      "why_it_matters": "A Uber é o benchmark da economia de plataforma; seu recuo sinaliza que a regulação e a saturação de mercado estão elevando o custo de expansão na Europa acima da receita potencial, afetando investidores, gestores de produto e estratégias de growth no continente.",
+      "watch_next": [
+        "Detalhamento oficial dos mercados congelados e motivos exatos pela Uber.",
+        "Impacto da Diretiva de Trabalho em Plataformas em outros players de mobilidade (Bolt, Free Now).",
+        "Possível migração da Uber para modelos de frota própria ou parcerias com operadores locais na Europa."
+      ],
+      "editorial_angle": "O artigo vai além do factual ao conectar o congelamento das expansões a três forças estruturais — regulação, limites da IA e concorrência local —, oferecendo uma análise de ecossistema que interessa a profissionais de tech e investidores, não apenas a leitores de notícias corporativas.",
+      "generatedAt": "2026-07-06T12:56:49.583Z"
+    },
+    {
+      "slug": "2026-07-06-qk49j",
+      "title": "O Colégio dos 1%: Como a IA Está Criando uma Nova Classe de Analfabetos Sociais e Redefinindo a Economia da Educação de Luxo",
+      "tags": [
+        "economia-tech",
+        "educação",
+        "IA generativa",
+        "desigualdade",
+        "mercado de trabalho"
+      ],
+      "image": "/images/2026-07-06-qk49j.jpg",
+      "tldr": "A elite americana está substituindo escolas tradicionais por ensino baseado em IA, criando uma nova classe de alunos hiper-eficientes, mas socialmente empobrecidos, enquanto acelera a estratificação social.",
+      "key_facts": [
+        "63% dos americanos desconfiam da IA, mas a elite paga fortunas para que algoritmos eduquem seus filhos.",
+        "A Forge Prep lidera o movimento, com currículos onde tutores de IA personalizam cada lição e eliminam 'ineficiências' como interações sociais.",
+        "Crianças com mais de 60% do aprendizado mediado por IA apresentam redução de 34% na capacidade de interpretar emoções faciais (Journal of Educational Psychology, 2025)."
+      ],
+      "why_it_matters": "A notícia revela como a IA está reconfigurando a educação de elite, criando duas humanidades paralelas: uma hiper-eficiente e socialmente deficiente, outra tradicional e colaborativa, com implicações profundas para mobilidade social e mercado de trabalho.",
+      "watch_next": [
+        "Regulamentação governamental sobre uso de IA em educação infantil, especialmente nos EUA e Europa.",
+        "Estudos longitudinais comparando desempenho social e profissional de alunos formados por IA vs. ensino tradicional."
+      ],
+      "editorial_angle": "O artigo se destaca por expor o paradoxo irônico da elite que financia a IA educacional, mas pode estar criando filhos incapazes de colaboração humana real, invertendo a narrativa de que IA é solução para todos os problemas educacionais.",
+      "generatedAt": "2026-07-06T12:57:45.032Z"
+    },
+    {
+      "slug": "2026-07-06-pvqg8",
+      "title": "GTA VI: O Fenômeno de US$ 1 Bilhão que a Indústria Tech Ignora e o Que Ele Revela Sobre a Economia da Experiência na Era da IA",
+      "tags": [
+        "economia-tech",
+        "gaming",
+        "mercado-consumo",
+        "infraestrutura-digital"
+      ],
+      "image": "/images/2026-07-06-pvqg8.jpg",
+      "tldr": "O lançamento de GTA VI em 2026 expõe um contraste econômico: enquanto a indústria tech foca em IA, o consumo real migra para experiências de alto valor agregado, testando infraestrutura digital e revelando limites no orçamento do consumidor.",
+      "key_facts": [
+        "GTA VI será lançado em 19 de novembro de 2026 para PS5 e Xbox Series S/X, com versões físicas contendo apenas códigos de resgate.",
+        "GTA V gerou mais de US$ 8 bilhões em receita ao longo de 12 anos, com 200 milhões de cópias vendidas.",
+        "Pré-vendas de GTA VI podem ultrapassar US$ 1 bilhão nas primeiras 48 horas, baseado no histórico do antecessor e crescimento do mercado.",
+        "O lançamento pode impulsionar vendas de consoles em 20-30% no Q4 2026, gerando US$ 3-5 bilhões adicionais para Sony e Microsoft.",
+        "A demanda por banda larga e servidores de jogos terá picos históricos, exigindo capacidade equivalente a um data center de médio porte."
+      ],
+      "why_it_matters": "A notícia desafia a narrativa de que a IA dominará o consumo tech, mostrando que produtos de entretenimento artesanais e de alto orçamento ainda atraem bilhões de dólares, criando um 'crowding out' que pode redirecionar investimentos e expectativas do mercado.",
+      "watch_next": [
+        "Impacto do lançamento nas receitas de assinaturas de IA e hardware de inferência no Q4 2026.",
+        "Estresse teste em redes de distribuição digital (PSN, Xbox Live) e possíveis falhas de infraestrutura.",
+        "Reação de investidores e startups de IA ao desvio de consumo para entretenimento tradicional."
+      ],
+      "editorial_angle": "O artigo se diferencia ao tratar GTA VI não como entretenimento, mas como um evento macroeconômico que expõe a desconexão entre o discurso tech (foco em IA) e o comportamento real do consumidor, oferecendo uma análise crítica sobre a alocação de recursos na economia da experiência.",
+      "generatedAt": "2026-07-06T12:58:41.873Z"
+    },
+    {
+      "slug": "2026-07-06-vb2ij",
+      "title": "Even Realities: O Unicórnio Silencioso dos Óculos Sem Câmera que Redefine a Economia da IA Vestível",
+      "tags": [
+        "smart glasses",
+        "venture capital",
+        "IA vestível",
+        "China tech",
+        "valuation",
+        "unicórnio"
+      ],
+      "image": "/images/2026-07-06-vb2ij.jpg",
+      "tldr": "Even Realities, startup de ex-engenheiros da Apple, atinge US$ 1 bilhão de valuation com óculos inteligentes sem câmera, apostando em privacidade e display como diferencial competitivo em meio à corrida por wearables com IA.",
+      "key_facts": [
+        "Even Realities fechou Série C de US$ 150 milhões liderada por Meituan e Tencent, atingindo valuation de US$ 1 bilhão.",
+        "Os óculos não possuem câmera, focando apenas em exibir informações (notificações, navegação, legendas) no campo de visão.",
+        "A rodada sinaliza integração com serviços de consumo de massa, não apenas uso enterprise, via Meituan e Tencent."
+      ],
+      "why_it_matters": "A notícia expõe uma fratura estratégica no mercado de wearables com IA: entre dispositivos de captura de dados (Meta, Google) e dispositivos de exibição focados em privacidade e confiança, com a Even Realities validando que a segunda abordagem pode gerar valuation de unicórnio.",
+      "watch_next": [
+        "Possível entrada da Even Realities no mercado ocidental e reação regulatória de privacidade.",
+        "Movimento de concorrentes como Meta e Google para lançar versões sem câmera ou com privacidade aprimorada.",
+        "Expansão do ecossistema de serviços da Meituan e Tencent integrado aos óculos como novo canal de distribuição."
+      ],
+      "editorial_angle": "O artigo se diferencia ao contrastar a tese da Even Realities com a abordagem dominante do Vale do Silício, destacando a privacidade como vantagem competitiva e a segmentação do mercado em duas correntes econômicas — captura vs. exibição —, em vez de tratar o produto como mais um gadget.",
+      "generatedAt": "2026-07-06T12:59:31.333Z"
+    },
+    {
+      "slug": "2026-07-06-sv44k",
+      "title": "O Silêncio que Fala: Por Que a Mídia Tech Ignorou a Maior Inovação do Dia e o Que Isso Revela Sobre o Estado da Cobertura de IA",
+      "tags": [
+        "economia-tech",
+        "cobertura-de-ia",
+        "análise-de-mídia",
+        "hip-hop",
+        "cultura-tech"
+      ],
+      "image": "/images/2026-07-06-sv44k.jpg",
+      "tldr": "O artigo critica a cobertura de IA por ignorar o lançamento do EP 'Emergency Rations' de Mr. Lif, argumentando que isso revela um viés estrutural que desconsidera o impacto real da IA na economia da criatividade humana.",
+      "key_facts": [
+        "Mr. Lif lançou o EP 'Emergency Rations' em 5 de julho de 2026 pelo selo Definitive Jux.",
+        "O EP é descrito como 'hip-hop pós-11 de setembro em seu momento mais ousado' pelo The Verge.",
+        "A indústria musical enfrenta crise dupla: canibalização por IA generativa (Suno, Udio) e baixos pagamentos de streaming.",
+        "Mercado de música gerada por IA deve atingir US$ 3 bilhões até 2028 (MIDiA Research)."
+      ],
+      "why_it_matters": "A cobertura tech ignora o principal campo de batalha da economia da IA: o valor do trabalho criativo original versus conteúdo sintético, perdendo de vista como a IA está remodelando a cultura e a subsistência de artistas independentes.",
+      "watch_next": [
+        "Reação da comunidade de artistas independentes ao avanço da IA generativa na música.",
+        "Novos estudos sobre compressão do mercado de música independente por algoritmos de recomendação.",
+        "Possíveis regulações ou movimentos de resistência cultural contra a canibalização sintética."
+      ],
+      "editorial_angle": "O artigo se diferencia ao usar um lançamento musical específico como termômetro da bolha de atenção tech, expondo o viés de pipeline e o fetiche pelo novo na cobertura de IA, em vez de apenas repercutir mais um benchmark ou rodada de funding.",
+      "generatedAt": "2026-07-06T13:00:28.786Z"
+    },
+    {
+      "slug": "2026-07-06-viag0",
+      "title": "O Efeito Chip: Como a Crise Demográfica na Coreia do Sul Está Criando um Novo Mercado de Matchmaking Corporativo e o Que Isso Revela Sobre a Economia do Taltech em IA",
+      "tags": [
+        "economia-tech",
+        "mercado-de-trabalho",
+        "semicondutores",
+        "coreia-do-sul",
+        "talento-tech"
+      ],
+      "image": "/images/2026-07-06-viag0.jpg",
+      "tldr": "A crise demográfica na Coreia do Sul transformou engenheiros de semicondutores em alvos cobiçados por agências de matchmaking de luxo, revelando um novo mercado de 'taltech' onde talento técnico é tratado como ativo de alto valor.",
+      "key_facts": [
+        "Na Coreia do Sul, engenheiros de semicondutores da Samsung e SK Hynix se tornaram os perfis mais disputados em agências de matchmaking de luxo.",
+        "A taxa de fertilidade sul-coreana é a menor do mundo (0,72 filhos por mulher em 2023), agravando a escassez de mão de obra jovem.",
+        "A guerra global por talento em semicondutores e IA, impulsionada por subsídios como a Lei de Chips dos EUA, intensifica a demanda por engenheiros coreanos.",
+        "Salários de engenheiros seniores na SK Hynix e Samsung ultrapassam US$ 150 mil anuais, com bônus que podem dobrar o valor."
+      ],
+      "why_it_matters": "A notícia sinaliza que a escassez de talento técnico em semicondutores e IA está criando distorções de mercado que vão além do recrutamento, afetando desde dinâmicas sociais até a precificação de capital humano, com implicações para inflação salarial, gargalos de recrutamento e reestruturação de cadeias de suprimento de talento.",
+      "watch_next": [
+        "Aumento da inflação salarial e disputas por talento entre gigantes de semicondutores e IA na Coreia do Sul.",
+        "Expansão de agências de matchmaking corporativo como resposta à escassez de engenheiros, com modelos de negócio baseados em 'ativos humanos'.",
+        "Possível migração de talento coreano para outros países com incentivos fiscais e de imigração, agravando a crise demográfica local."
+      ],
+      "editorial_angle": "O artigo se diferencia ao conectar um fenômeno sociocultural aparentemente bizarro (matchmaking de engenheiros) com forças econômicas profundas (crise demográfica, guerra por talento em IA e semicondutores), oferecendo uma lente original para entender a economia do 'taltech' e a precificação de capital humano em um mercado globalizado.",
+      "generatedAt": "2026-07-06T13:01:41.434Z"
+    }
+  ]
+}
