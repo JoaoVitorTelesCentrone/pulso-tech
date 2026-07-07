@@ -1,0 +1,57 @@
+{
+  "title": "O Sinal de US$ 500 Mi que a Química do Vale do Silício Está Enviando: O Novo Fundo que Expõe a Economia Real do Capital de Risco em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Sinal de US$ 500 Mi que a Química do Vale do Silício Está Enviando",
+      "subtext": "Como insiders do Vale do Silício estão lendo o tabuleiro da economia da IA — e por que você deveria prestar atenção",
+      "image_prompt": "A futuristic Silicon Valley skyline at night, glowing circuit board patterns overlaying the city, a subtle dollar sign made of light particles, dark blue and neon purple tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado celebra IPOs bilionários e valuations astronômicos, a Chemistry Ventures — fundada por ex-alunos de Bessemer, Index e a16z — está levantando US$ 500 milhões para seu segundo fundo. Um movimento silencioso que revela como os insiders mais experientes estão realmente lendo o tabuleiro.",
+      "highlight": "US$ 500 milhões — 66% maior que o primeiro fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Chemistry Ventures, spin-off de elite do Vale do Silício, está captando US$ 500 milhões para seu segundo fundo. Seus fundadores acumulam décadas em ciclos completos — da bolha das ponto-com à crise de 2008, da explosão mobile à revolução da IA generativa. Não são novatos: são operadores que viram o jogo inteiro.",
+      "visual_hint": "Ícone de foguete com gráfico de crescimento ascendente e um selo 'Elite Spin-off'"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Em um mercado saturado de fundos genéricos surfando o hype da IA, a Chemistry representa a consolidação em torno de players com tese diferenciada. LPs estão escrevendo cheques maiores para times comprovados, não para promessas. A economia da IA entra na 'segunda rodada' — onde custos de infraestrutura e talento são o verdadeiro gargalo.",
+      "visual_hint": "Ícone de lupa sobre um gráfico de radar, destacando 'Tese Diferenciada' e 'Histórico Comprovado'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 500 milhões — novo fundo da Chemistry Ventures (2º fundo)",
+        "66% de aumento em relação ao primeiro fundo de US$ 300 milhões (2021)",
+        "Fundadores com passagem por Bessemer, Index Ventures e Andreessen Horowitz",
+        "IPOs de IA como Bending Spoons com alta de 40% na estreia",
+        "Fundos de US$ 750 milhões para infraestrutura de IA (ex: Menlo Ventures na Anthropic)",
+        "Big tech gasta US$ 80 bilhões/ano em data centers e chips"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Consolidação do VC em torno de players com acesso privilegiado a deal flow e suporte operacional",
+        "Fundos genéricos de IA vão morrer — só sobrevivem os com tese diferenciada",
+        "Guerra de preços de inferência comprime margens e força consolidação de startups",
+        "LPs priorizam times com histórico comprovado em vez de promessas de retorno exponencial"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O jogo da IA está apenas na segunda rodada. Quem está realmente lendo o tabuleiro?"
+    }
+  ]
+}

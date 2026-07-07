@@ -1,0 +1,53 @@
+{
+  "title": "O Dilema do Conhecimento Justificado: Como o Benchmark Incognita Expõe o Gargalo de US$ 100 Bilhões dos Agentes de IA em Ambientes Sociais",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Agentes de IA: Bilhões em Investimento, um Gargalo Invisível",
+      "subtext": "O novo benchmark Incognita revela por que agentes corporativos falham no que mais importa: saber quando agir e justificar suas decisões.",
+      "image_prompt": "A futuristic digital brain with fragmented puzzle pieces floating around, some glowing, some dark, representing incomplete knowledge and decision-making gaps in AI agents, dark blue and neon orange color palette, cinematic lighting."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram o benchmark Incognita, que testa agentes de IA em ambientes de tarefas socialmente distribuídas. O foco não é acurácia, mas discernimento: saber quando buscar conhecimento, quando agir e se as ações são justificadas.",
+      "highlight": "Agentes que não sabem quando perguntar estão queimando bilhões em produtividade corporativa."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Incognita expõe uma fragilidade crítica: agentes atuais são excelentes em tarefas com contexto completo, mas falham em ambientes reais onde a informação está distribuída entre pessoas, sistemas e momentos. O benchmark mede o elo perdido entre coleta de dados e tomada de decisão.",
+      "visual_hint": "Ícone de um agente com um ponto de interrogação sobre a cabeça, ao lado de engrenagens quebradas."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "CTOs e VPs de Engenharia já sentem na pele: agentes vendidos como 'prontos para produção' agem no escuro. O problema não é de capacidade, mas de justificação — e isso impacta diretamente a confiança e o ROI em automação corporativa.",
+      "visual_hint": "Gráfico de linha mostrando alta expectativa de investimento versus baixa performance real em ambientes complexos."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes corporativos projetado para US$ 100 bilhões até 2028 (Gartner, McKinsey).",
+        "Benchmarks tradicionais (GSM8K, MATH, HumanEval) não testam discernimento social.",
+        "Incognita mede 3 habilidades críticas: buscar conhecimento, agir no tempo certo e justificar ações."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes precisarão de arquiteturas com verificação explícita de suficiência de informação.",
+        "Empresas vão exigir benchmarks sociais antes de implantar agentes em produção.",
+        "O gargalo de US$ 100 bilhões só será superado com agentes que sabem o que não sabem."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O dilema do conhecimento justificado é o próximo grande desafio da IA corporativa. Não fique no escuro."
+    }
+  ]
+}

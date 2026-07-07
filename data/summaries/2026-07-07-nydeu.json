@@ -1,0 +1,14 @@
+{
+  "tldr": "A Australian Payments Plus (AP+) usou ChatGPT Enterprise e Codex para acelerar processos regulatórios e de integração, mostrando que o ROI da IA corporativa está na integração com supervisão humana, não na automação total.",
+  "key_facts": [
+    "AP+ gerencia infraestruturas críticas de pagamento na Austrália (BPAY, eftpos, cheques).",
+    "Implementou ChatGPT Enterprise e Codex para análise de documentação regulatória, geração de código e automação de compliance.",
+    "Resultados focam em ganhos de velocidade e qualidade mantida, com revisão humana final em todas as tarefas."
+  ],
+  "why_it_matters": "O case desafia o hype de agentes autônomos ao demonstrar que, em setores regulados, o valor real da IA está em aumentar a capacidade de julgamento humano, não em substituí-lo, abrindo caminho para adoção em infraestruturas críticas além da big tech.",
+  "watch_next": [
+    "Outras infraestruturas financeiras (como SWIFT ou FedNow) podem adotar abordagens similares de copiloto com LLMs.",
+    "O mercado de agentes autônomos pode enfrentar pressão para provar ROI em ambientes regulados, levando a modelos híbridos humano-IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar em um case pragmático e conservador de IA em infraestrutura crítica, contrastando com a narrativa dominante de agentes autônomos e destacando o gargalo real da adoção corporativa: integração com processos humanos e custo regulatório do erro."
+}

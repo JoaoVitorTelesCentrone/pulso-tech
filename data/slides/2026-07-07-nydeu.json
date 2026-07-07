@@ -1,0 +1,53 @@
+{
+  "title": "O Sistema de Pagamentos Australiano que Virou Case de Produtividade com IA: O Que a AP+ e a OpenAI Estão Ensinando Sobre ROI Corporativo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IA Corporativa: O Case Silencioso que Está Redefinindo ROI",
+      "subtext": "Como um consórcio de pagamentos australiano extraiu produtividade real com ChatGPT Enterprise — sem hype, sem agentes autônomos.",
+      "image_prompt": "Futuristic dark control room with glowing data streams and a subtle Australian flag motif, high-tech financial infrastructure vibe"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Australian Payments Plus (AP+) gerencia infraestruturas críticas de pagamento — BPAY, eftpos e cheques — processando bilhões de dólares anualmente. Em meio a regulações cambiantes e sistemas legados, a empresa adotou ChatGPT Enterprise e Codex para acelerar operações sem comprometer compliance.",
+      "highlight": "Infraestrutura crítica + regulação pesada + IA = produtividade real"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "AP+ usou IA como copiloto, não como substituto. O ChatGPT Enterprise acelera a primeira versão de documentos regulatórios e código de integração, enquanto humanos mantêm a revisão e validação final. O foco não é autonomia, mas aumento da capacidade de julgamento.",
+      "visual_hint": "Ícone de copiloto ao lado de um humano revisando documentos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este case quebra o mito de que IA corporativa é só para big tech. Se um consórcio de pagamentos regulado conseguiu integrar LLMs em processos críticos, qualquer setor com complexidade regulatória pode fazer o mesmo. O verdadeiro gargalo não é a tecnologia — é a integração com processos humanos.",
+      "visual_hint": "Gráfico de barra mostrando adoção de IA em setores regulados vs. não regulados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Ganhos de velocidade em análise de documentação regulatória",
+        "Geração de código boilerplate para integrações com sistemas legados",
+        "Automação de processos de compliance com supervisão humana"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mercado de IA corporativa migra de 'modelos melhores' para 'integração que respeita o julgamento humano'",
+        "Setores regulados (finanças, saúde, governo) se tornam os próximos grandes adotantes",
+        "ROI de IA será medido em tempo economizado e qualidade mantida, não em substituição de equipes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA corporativa não está nos agentes autônomos — está na parceria entre humanos e máquinas em contextos regulados."
+    }
+  ]
+}

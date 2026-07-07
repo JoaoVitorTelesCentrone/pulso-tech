@@ -1,0 +1,53 @@
+{
+  "title": "Pixel 11 em Agosto: O Sinal de que o Google Está Reconfigurando a Economia do Hardware de IA para 2027",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Pixel 11: A Jogada de Xadrez do Google para 2027",
+      "subtext": "Como um evento noturno em NY pode redefinir a economia da IA local",
+      "image_prompt": "Futuristic New York skyline at night, with a giant glowing Google Pixel 11 floating above the city, digital art, neon blue and purple tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 7 de julho de 2026, o Google convidou a imprensa para o evento Made by Google em 12 de agosto, às 18h — um horário incomum. O foco: o Pixel 11. A mudança de horário sinaliza uma tentativa de capturar o mercado de massa, não apenas entusiastas de tecnologia.",
+      "highlight": "Evento noturno: Google quer transformar o Pixel em produto aspiracional, como a Apple faz."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Google está reposicionando o Pixel 11 como a peça central de sua estratégia de IA. O chip Tensor G5 (ou G6) promete rodar modelos multimodais leves localmente, reduzindo a dependência da nuvem e cortando custos de inferência.",
+      "visual_hint": "Ícone de chip com um cérebro estilizado, conectado a um smartphone e uma nuvem sendo parcialmente substituída por dados locais"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se o Google conseguir rodar versões quantizadas do Gemini 2.0 Flash no dispositivo, pode cortar custos de inferência em nuvem em até 40% para usuários Pixel. Isso cria uma vantagem econômica direta sobre concorrentes que dependem exclusivamente de APIs.",
+      "visual_hint": "Gráfico de barras comparando custo de inferência em nuvem vs. local, com destaque para a economia de 40%"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Pixel detém apenas 3% a 5% do mercado global de smartphones — mas nunca foi sobre volume.",
+        "Custo de inferência em data centers do Google está subindo com modelos mais pesados.",
+        "Gemini Nano já roda tarefas on-device: sumarização, respostas inteligentes e edição de fotos."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Google pode ditar os termos de uma nova categoria: os 'AI-first phones'.",
+        "Apple e Qualcomm correm para integrar NPUs ainda mais poderosas.",
+        "A economia do hardware de IA migra da nuvem para o dispositivo — e o Pixel 11 é a prova."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está na nuvem. Está no seu bolso."
+    }
+  ]
+}

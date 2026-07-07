@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Esquecido do Sul Global: Como a Fusão Multimodal de Idiomas Indianos Pode Redefinir a Economia do Reconhecimento de Voz em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Esquecido do Sul Global",
+      "subtext": "Como a fusão multimodal de idiomas indianos pode redefinir a economia do reconhecimento de voz em IA",
+      "image_prompt": "A futuristic digital map of India glowing with orange and blue data streams, voice waveforms floating over major cities, dark background with high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o Vale do Silício disputa benchmarks de raciocínio, um paper do arXiv expõe um abismo de US$ 50 bilhões: a IA ignora 1,4 bilhão de pessoas que falam dialetos indianos. A Índia tem 22 idiomas oficiais e centenas de dialetos não oficiais — a maioria sem datasets anotados para treinar ASR.",
+      "highlight": "US$ 50 bilhões em valor não capturado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram um novo método que integra Reconhecimento Automático de Fala (ASR) com Identificação de Dialetos (DID) para idiomas indianos, usando fusão multimodal de características. Em vez de dois modelos separados, eles criam um encoder compartilhado que aprende padrões universais de fala, reduzindo drasticamente a necessidade de dados específicos por dialeto.",
+      "visual_hint": "Ícone de fusão entre onda sonora e texto"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Um falante de Bhojpuri, Maithili ou Marwari enfrenta taxas de erro absurdas em assistentes de voz — e abandona o serviço. Para call centers automatizados, saúde por áudio e educação, isso é um gargalo econômico. A fusão multimodal reduz a frustração e aumenta a retenção de usuários em mercados emergentes.",
+      "visual_hint": "Gráfico de barras comparando taxa de erro entre dialetos padrão e de baixo recurso"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "700 milhões de usuários de smartphone na Índia — segundo maior mercado do mundo",
+        "Melhoria de 12-18% na taxa de erro de palavras (WER) para dialetos de baixo recurso",
+        "Redução de 120.000 a 180.000 interações frustradas por mês em call centers com 1M de chamadas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Assistentes de voz e sistemas de transcrição se tornarão viáveis para centenas de dialetos ignorados",
+        "Empresas de tecnologia poderão penetrar mercados rurais e de baixa renda com serviços de voz adaptativos",
+        "A fusão multimodal estabelece um novo padrão para ASR em línguas de baixo recurso globalmente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Sul Global não é um problema — é a próxima fronteira da IA de voz."
+    }
+  ]
+}

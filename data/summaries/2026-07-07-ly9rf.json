@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo paper do arXiv propõe uma camada 'Crença-para-Negociação' que transforma previsões de agentes de IA em ordens de compra e venda em mercados de previsão, usando o lucro como métrica definitiva de desempenho em vez da acurácia estatística.",
+  "key_facts": [
+    "O paper 'Beyond Forecasting: The Belief-to-Trade Layer in Prediction-Market Agents' foi publicado no arXiv.",
+    "A camada 'Belief-to-Trade' converte saídas probabilísticas de LLMs em ordens de compra/venda em mercados de previsão.",
+    "O framework usa o lucro como sinal de feedback econômico objetivo, substituindo benchmarks estáticos tradicionais.",
+    "O mecanismo central envolve extração de crença, mapeamento para ação e alocação de capital."
+  ],
+  "why_it_matters": "A notícia importa porque ataca o gargalo crítico da economia de agentes de IA: a falta de um sinal de feedback econômico claro. Agentes que operam em finanças, logística e cadeias de suprimentos precisam de um mecanismo que avalie decisões em ambientes dinâmicos e competitivos, onde o custo de oportunidade de um erro é real. O paper propõe um 'juiz inflexível' que força os agentes a serem economicamente racionais, não apenas estatisticamente precisos.",
+  "watch_next": [
+    "Empresas como Anthropic e OpenAI podem adotar ou integrar frameworks similares para treinar agentes autônomos em finanças e logística.",
+    "O paper pode gerar uma nova onda de benchmarks baseados em lucro em vez de acurácia, redefinindo como avaliamos agentes de IA.",
+    "Possível surgimento de startups focadas em 'Belief-to-Trade' como serviço para agentes de IA em mercados de previsão."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar dois temas quentes — mercados de previsão e agentes de IA — de forma prática e crítica, indo além do hype de 'IA que prevê o futuro' para focar na execução econômica real. Foi escolhido porque aborda um problema concreto da indústria (falta de feedback econômico) com uma solução inovadora e testável, relevante para gestores, investidores e desenvolvedores que buscam a próxima fronteira em sistemas autônomos."
+}

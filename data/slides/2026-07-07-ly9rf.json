@@ -1,0 +1,53 @@
+{
+  "title": "Além do Palpite: Como o Novo Paper do arXiv Transforma Mercados de Previsão em Motores Econômicos para Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Além do Palpite: Agentes de IA que Lucram com a Incerteza",
+      "subtext": "Um novo framework do arXiv transforma previsões em ações lucrativas. O salto do 'saber' para o 'agir'.",
+      "image_prompt": "A futuristic digital brain connected to stock market graphs and prediction market interfaces, glowing neon lines, dark background, high tech, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA são ótimos em prever, mas péssimos em agir com racionalidade econômica. Benchmarks tradicionais ignoram o custo real de decisões erradas em ambientes dinâmicos.",
+      "highlight": "95% de acurácia em testes não significa lucro no mundo real."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Beyond Forecasting' propõe uma camada 'Crença-para-Negociação' (Belief-to-Trade Layer). Ela converte probabilidades de LLMs em ordens de compra e venda em mercados de previsão, usando o lucro como métrica definitiva.",
+      "visual_hint": "Ícone de um cérebro digital com setas de entrada (dados) e saída (moedas/gráfico de lucro)."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como OpenAI e Anthropic correm para criar agentes autônomos para finanças e logística. Sem este mecanismo, eles operam 'no escuro', confiando em previsões estatisticamente corretas, mas economicamente desastrosas.",
+      "visual_hint": "Ilustração de um robô caminhando sobre uma corda bamba sobre um abismo de gráficos de ações em queda."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos acertam 95% dos testes, mas falham em alocar capital.",
+        "Mercados de previsão: o 'juiz inflexível' da racionalidade econômica.",
+        "A próxima fronteira não é prever melhor, mas negociar melhor."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes serão avaliados por lucro, não apenas por acurácia.",
+        "Surgimento de uma nova camada de middleware entre LLMs e mercados financeiros.",
+        "Feedback econômico real substitui benchmarks estáticos de IA."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é apenas inteligente. É lucrativo."
+    }
+  ]
+}

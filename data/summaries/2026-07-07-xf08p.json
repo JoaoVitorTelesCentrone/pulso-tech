@@ -1,0 +1,14 @@
+{
+  "tldr": "O benchmark Incognita revela que agentes de IA corporativos falham em justificar ações com base em conhecimento adquirido, expondo um gargalo crítico para o mercado de US$ 100 bilhões.",
+  "key_facts": [
+    "Pesquisadores publicaram o benchmark Incognita no arXiv, focado em avaliar agentes em ambientes de tarefas socialmente distribuídas.",
+    "O benchmark testa três habilidades: quando buscar conhecimento, quando agir e se as ações são justificadas pelas informações obtidas.",
+    "Mercado de agentes de IA corporativos está projetado para US$ 100 bilhões até 2028, mas agentes atuais falham em ambientes com informação incompleta."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o artigo expõe que o principal obstáculo para a adoção corporativa de agentes não é capacidade técnica bruta, mas discernimento contextual e justificação de ações — algo que benchmarks tradicionais ignoram.",
+  "watch_next": [
+    "Grandes empresas (Anthropic, OpenAI, Google, Microsoft) podem anunciar melhorias em agentes para lidar com informação distribuída.",
+    "Surgimento de novos benchmarks focados em discernimento e justificação, influenciando padrões de avaliação da indústria."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um benchmark acadêmico específico (Incognita) a um problema de mercado bilionário, oferecendo uma análise crítica sobre a lacuna entre a promessa dos agentes e a realidade operacional corporativa."
+}
