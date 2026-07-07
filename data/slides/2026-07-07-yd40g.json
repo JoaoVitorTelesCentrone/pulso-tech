@@ -1,0 +1,53 @@
+{
+  "title": "SwarmResearch: O Novo Framework que Transforma Agentes de Codificação em Cientistas Autônomos e Redefine a Economia da Descoberta em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim da Convergência Cega: Agentes que Exploram, Não Apenas Otimizam",
+      "subtext": "Como um sistema multi-agente está resolvendo o gargalo de US$ 10 bilhões em otimização exploratória — e redefinindo P&D, dev tools e capital de risco.",
+      "image_prompt": "A futuristic digital swarm of glowing AI agents diverging in multiple directions across a dark abstract network, representing open-ended exploration and scientific discovery, neon blue and purple tones, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA como Claude Code e Goose são ótimos em otimizar o que já existe, mas péssimos em encontrar o que poderia existir. Eles convergem rapidamente para uma única estratégia, ignorando soluções superiores que exigem mudanças de paradigma.",
+      "highlight": "US$ 10 bilhões em custo de oportunidade por convergência prematura"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O SwarmResearch propõe uma orquestração explícita de múltiplos agentes de codificação, cada um explorando uma hipótese diferente de forma persistente. Em vez de um único agente que 'muda de ideia', o sistema mantém um ecossistema de exploradores concorrentes que compartilham descobertas, mas não abandonam suas linhas de investigação.",
+      "visual_hint": "Ícone de um enxame de pontos de luz se ramificando em galhos distintos, como uma árvore de decisão viva"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para desenvolvedores, gestores de produto e investidores, a próxima fronteira competitiva não será 'quem escreve mais código', mas 'quem explora melhor o espaço de soluções'. O custo de inferência para agentes de longa duração pode chegar a centenas de milhares de dólares por execução — desperdiçar ciclos em otimizações marginais é queima de capital silenciosa.",
+      "visual_hint": "Gráfico de duas curvas: uma subindo rápido e estagnando (convergência prematura) e outra subindo mais devagar mas indo mais longe (exploração persistente)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de inferência por execução de agente de longa duração: até centenas de milhares de dólares",
+        "Agentes tradicionais convergem para uma única estratégia em minutos, ignorando soluções superiores",
+        "SwarmResearch descobre otimizações que agentes single-agent simplesmente não encontram"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "P&D automatizado: agentes se tornam cientistas autônomos, não apenas codificadores",
+        "Economia da descoberta: o valor migra de 'execução eficiente' para 'exploração inteligente'",
+        "Novos critérios de avaliação para VCs: diversidade de exploração vira métrica de investimento"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é sobre respostas certas — é sobre fazer as perguntas que ninguém pensou."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "tldr": "Pesquisadores propõem o framework ASK in the Dark, que usa um mecanismo de incerteza para agentes de RL consultarem SLMs apenas quando necessário, reduzindo em até 40% o custo de inferência de LLMs caros sem perda significativa de performance.",
+  "key_facts": [
+    "O framework ASK in the Dark foi apresentado em um paper no arXiv em 7 de julho de 2026.",
+    "Agentes de RL em ambientes de observabilidade parcial consultam LLMs caros a cada passo, gerando custos elevados.",
+    "O ASK usa um ensemble de redes neurais para medir a incerteza do agente e só consulta um SLM quando a incerteza ultrapassa um limiar.",
+    "Resultados preliminares indicam redução de até 40% nas consultas a modelos caros, mantendo performance aceitável.",
+    "O custo por chamada de API de modelos de fronteira varia entre US$ 0,10 e US$ 1,00 por milhão de tokens de entrada."
+  ],
+  "why_it_matters": "Esta notícia importa porque ataca o gargalo central da escalabilidade de agentes de IA: o custo marginal de cada decisão. Reduzir o custo de inferência em 40% sem perda de performance viabiliza economicamente casos de uso antes inviáveis, como assistentes de atendimento ao cliente com milhares de interações diárias, e sinaliza que a próxima onda de inovação em agentes virá de frameworks de orquestração de custos, não de modelos maiores.",
+  "watch_next": [
+    "Empresas como Amazon Robotics e Google DeepMind podem anunciar integrações do ASK in the Dark em seus sistemas de agentes robóticos e de navegação web.",
+    "Startups de automação industrial e atendimento ao cliente podem adotar o framework para reduzir custos operacionais, gerando novos casos de sucesso e atraindo investimento de venture capital.",
+    "O paper pode inspirar variações do framework, como o uso de múltiplos SLMs especializados ou a incorporação de aprendizado por reforço para ajustar dinamicamente o limiar de incerteza."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar uma inovação técnica (framework de gating baseado em incerteza) diretamente ao impacto econômico e estratégico para o mercado de agentes de IA, indo além da descrição do paper para analisar como isso redefine a equação de custo-benefício e abre novos horizontes de escalabilidade, o que o torna relevante tanto para desenvolvedores quanto para investidores e gestores de produto."
+}

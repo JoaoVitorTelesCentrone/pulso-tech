@@ -1,0 +1,53 @@
+{
+  "title": "Gemma 4: O Contra-Ataque Silencioso do Google na Economia dos Modelos Abertos e o que Isso Significa para a Guerra de Inferência",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Gemma 4: O Contra-Ataque Silencioso do Google",
+      "subtext": "Como uma família de modelos abertos e multimodais pode redefinir a economia da inferência e forçar um realinhamento no mercado de pesos abertos.",
+      "image_prompt": "A futuristic digital battlefield with glowing blue and green AI circuits forming a shield, dark background, high contrast, cinematic lighting, tech war theme"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado discute modelos de fronteira fechados, o Google DeepMind lança o Gemma 4 — uma família de modelos abertos nativamente multimodais. O movimento ataca dois gargalos simultaneamente: o custo de inferência e a fragmentação multimodal.",
+      "highlight": "US$ 200 bilhões: mercado de IA multimodal estimado pela McKinsey até 2028"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Gemma 4 introduz arquiteturas densas e Mixture-of-Experts (MoE), é nativamente multimodal (texto, imagem e outros formatos desde o treinamento base) e foi projetado com eficiência computacional como prioridade. O modelo utiliza roteamento dinâmico de especialistas por modalidade, ativando apenas os especialistas relevantes para cada entrada.",
+      "visual_hint": "Ícone de engrenagem com múltiplos caminhos de dados se ramificando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas que precisam processar texto e imagem não precisam mais orquestrar pipelines separados. O Gemma 4 se posiciona como a alternativa de custo mais baixo para implantação de IA multimodal, reduzindo o custo por consulta em até 70% em relação a modelos densos equivalentes.",
+      "visual_hint": "Gráfico de barras comparando custo de inferência entre modelos densos e MoE"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Gemma 4 MoE (grande): 2,1 trilhões de parâmetros totais, ~280 bilhões ativos por token",
+        "Gemma 4 Densa (média): 400 bilhões de parâmetros, todos ativos",
+        "MoE supera versão densa em benchmarks com 42% menos FLOPs por inferência"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "DeepSeek-V4 e Llama 4 precisarão se adaptar rapidamente para competir em multimodalidade nativa",
+        "Adoção corporativa de IA multimodal deve acelerar com a redução de custos de inferência",
+        "Google fortalece sua posição na guerra de plataformas de IA com uma oferta aberta e eficiente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Google lançou o contra-ataque. Como os concorrentes vão responder?"
+    }
+  ]
+}

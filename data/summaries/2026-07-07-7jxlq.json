@@ -1,0 +1,14 @@
+{
+  "tldr": "A infraestrutura de TI corporativa não está preparada para escalar sistemas agentivos de IA, criando um gargalo que desperdiça bilhões em CAPEX e trava projetos em fase de piloto.",
+  "key_facts": [
+    "Mercado de infraestrutura de IA deve ultrapassar US$ 1 trilhão em gastos acumulados até 2028 (IDC/Gartner).",
+    "Sistemas agentivos quebram paradigmas de previsibilidade de consumo, acoplamento de estado e cadeias de dependência não lineares.",
+    "Empresas tratam IA como carga de trabalho de nuvem tradicional, mas modelos de linguagem, RAG e agentes exigem abordagem arquitetural diferente."
+  ],
+  "why_it_matters": "A vantagem competitiva em IA não virá apenas do modelo, mas de como ele é operado; habilidades em arquitetura de sistemas distribuídos e engenharia de ML se tornam mais valiosas que chamar APIs.",
+  "watch_next": [
+    "Empresas de consultoria e plataformas de infraestrutura lançando soluções específicas para orquestração de agentes.",
+    "Movimento de padronização de arquiteturas de referência para sistemas agentivos em escala empresarial."
+  ],
+  "editorial_angle": "Diferencia-se ao focar no gargalo arquitetural e operacional, em vez de benchmarks de modelos ou IPOs, alertando que o verdadeiro campo de batalha de US$ 1 trilhão está na infraestrutura que sustenta a IA em produção."
+}

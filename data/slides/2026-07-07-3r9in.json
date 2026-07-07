@@ -1,0 +1,53 @@
+{
+  "title": "Ecos de Insubordinação: O Novo Framework de NLP que Pode Redefinir o Mercado de US$ 10 Bilhões em Moderação de Conteúdo e Segurança Pública",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Ecos de Insubordinação",
+      "subtext": "O framework de NLP que prevê violência antes dela acontecer — e pode redefinir um mercado de US$ 10 bilhões",
+      "image_prompt": "A dark, futuristic digital landscape with glowing red and blue data streams converging into a warning siren icon, abstract network nodes pulsing with tension, cinematic lighting, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado debate agentes de IA e gadgets, um paper do arXiv expõe o calcanhar de Aquiles das plataformas de mídia social: a incapacidade de prever, em tempo real, a transição de desinformação para violência organizada.",
+      "highlight": "US$ 78 bilhões foi o custo global da desinformação violenta em 2025"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores propõem o framework 'Echoes of Unrest', um sistema multimodal de NLP que analisa carga emocional, coesão narrativa e dinâmica de propagação para emitir alertas precoces — 24 a 72 horas antes de eventos críticos de violência de massa.",
+      "visual_hint": "Ícone de radar ou onda de alerta com nós de rede se conectando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Plataformas como Meta e X estão reduzindo moderação humana em favor de sistemas automatizados. Este framework pode se tornar o novo padrão de compliance regulatório, especialmente com o DSA na Europa e a regulação brasileira avançando.",
+      "visual_hint": "Ícone de escudo com checkmark regulatório ou gráfico de compliance"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: tamanho do mercado de moderação de conteúdo",
+        "US$ 78 bilhões: custo global da desinformação violenta em 2025",
+        "24 a 72 horas: janela de ação preventiva oferecida pelo framework"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Moderação reativa dá lugar à predição de comportamento violento em escala",
+        "APIs de moderação e ferramentas de segurança pública ganham nova camada de análise multimodal",
+        "Algoritmos de recomendação podem ser redesenhados para evitar amplificação de conteúdo polarizador"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo campo de batalha da moderação de conteúdo já começou. Esteja à frente."
+    }
+  ]
+}

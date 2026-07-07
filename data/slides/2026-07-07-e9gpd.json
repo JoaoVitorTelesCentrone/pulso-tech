@@ -1,0 +1,53 @@
+{
+  "title": "ASK in the Dark: O Novo Framework que Ensina Agentes de IA a Pedir Ajuda na Hora Certa e Pode Economizar Bilhões em Inferência",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "ASK in the Dark: O Framework que Ensina Agentes de IA a Pedir Ajuda na Hora Certa",
+      "subtext": "Como um mecanismo de incerteza pode cortar custos de inferência em 40% e salvar bilhões — sem perder performance.",
+      "image_prompt": "A futuristic AI agent in a dark, partially lit warehouse, with a glowing question mark symbol above its head, surrounded by data streams and subtle blue neon lights, cinematic, high contrast, tech noir style."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA que operam em ambientes complexos — como robôs em armazéns ou sistemas de trading — tomam decisões com informação incompleta. A solução atual? Consultar um LLM caro a cada passo, gerando custos astronômicos.",
+      "highlight": "Custo por chamada de API: de US$ 0,10 a US$ 1,00 por milhão de tokens."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores propuseram o ASK in the Dark, um framework onde o agente de RL aprende a medir sua própria incerteza. Quando está confiante, age sozinho. Quando a dúvida é alta, consulta um SLM barato e especializado — no lugar de um modelo de fronteira caro.",
+      "visual_hint": "Diagrama de decisão: um agente com um medidor de confiança (0-100%) que, ao ultrapassar um limiar, aciona uma 'lâmpada' de consulta a um modelo menor."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para desenvolvedores, o custo por sessão cai de US$ 0,50 para US$ 0,30. Para gestores de produto, casos de uso antes inviáveis — como assistentes com milhares de interações diárias — tornam-se economicamente viáveis. Para investidores, é o sinal de que a próxima onda de unicórnios virá de orquestração inteligente, não de modelos maiores.",
+      "visual_hint": "Gráfico de barras comparando custo por sessão (antes vs. depois) com uma seta verde apontando para baixo."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de até 40% no número de consultas a modelos caros.",
+        "Custo de inferência pode cair de US$ 0,50 para US$ 0,30 por sessão.",
+        "Modelos de fronteira custam entre US$ 0,10 e US$ 1,00 por milhão de tokens."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de IA escaláveis para automação industrial, navegação web e cadeias de suprimentos.",
+        "Novo patamar competitivo: frameworks inteligentes superam modelos maiores em custo-benefício.",
+        "Corrida por eficiência de inferência se intensifica entre Amazon Robotics, Google DeepMind e startups."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes não é mais caro — é mais inteligente. Fique de olho no ASK in the Dark."
+    }
+  ]
+}

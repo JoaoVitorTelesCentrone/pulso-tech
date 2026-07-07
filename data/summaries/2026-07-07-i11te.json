@@ -1,0 +1,16 @@
+{
+  "tldr": "Google lança Gemma 4, família de modelos abertos com arquitetura MoE e multimodalidade nativa, visando reduzir custos de inferência e reposicionar-se na guerra de plataformas de IA.",
+  "key_facts": [
+    "Gemma 4 introduz arquiteturas densas e Mixture-of-Experts (MoE), com 2,1 trilhões de parâmetros totais e ~280 bilhões ativos por token.",
+    "O modelo é nativamente multimodal, processando texto e imagem desde o treinamento base, sem adaptadores posteriores.",
+    "Benchmarks mostram que a versão MoE supera a densa em raciocínio multimodal com 42% menos FLOPs por inferência.",
+    "O Google posiciona o Gemma 4 como alternativa de baixo custo para implantação de IA multimodal, mirando um mercado estimado em US$ 200 bilhões até 2028."
+  ],
+  "why_it_matters": "A notícia importa porque o Gemma 4 ataca dois gargalos críticos da adoção corporativa de IA: o alto custo de inferência (reduzido em até 70% com MoE) e a fragmentação de pipelines multimodais, oferecendo uma solução integrada e eficiente que pode redefinir a economia dos modelos abertos.",
+  "watch_next": [
+    "Reação da Meta com o Llama 4, que ainda não tem versão multimodal nativa competitiva.",
+    "Impacto no mercado de startups de inferência e provedores de API, que podem perder margem com a redução de custos.",
+    "Possível adoção do Gemma 4 por grandes empresas para substituir pipelines multimodais fragmentados."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na estratégia de plataforma do Google, não apenas nos aspectos técnicos, e ao conectar o lançamento à economia da inferência e à guerra de modelos abertos, oferecendo uma análise de mercado que vai além do relatório técnico."
+}

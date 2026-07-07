@@ -1,0 +1,15 @@
+{
+  "tldr": "SwarmResearch é um framework multi-agente que resolve a convergência prematura em agentes de codificação, mantendo exploradores concorrentes para descobrir soluções superiores em problemas abertos.",
+  "key_facts": [
+    "SwarmResearch usa múltiplos agentes de codificação, cada um explorando uma hipótese diferente de forma persistente.",
+    "O framework evita a convergência prematura, comum em agentes single-agent como Claude Code e Goose.",
+    "Resultados preliminares mostram que descobre otimizações que agentes tradicionais não encontram em espaços de soluções vastos.",
+    "O custo de inferência para agentes de longa duração pode chegar a centenas de milhares de dólares por execução."
+  ],
+  "why_it_matters": "A notícia importa porque ataca um gargalo econômico real em P&D de IA: o desperdício de capital em otimizações marginais enquanto soluções radicalmente melhores são ignoradas, redefinindo a competição de 'quem escreve mais código' para 'quem explora melhor o espaço de soluções'.",
+  "watch_next": [
+    "Empresas como Anthropic, OpenAI e Microsoft podem integrar mecanismos de orquestração por diversidade em seus agentes de longa duração.",
+    "O framework pode gerar uma nova onda de ferramentas de dev focadas em exploração aberta, impactando capital de risco e economia de descoberta em IA."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um problema técnico específico (convergência prematura em agentes) a um gargalo econômico de bilhões de dólares, oferecendo uma análise profunda dos mecanismos do framework e posicionando a descoberta como um marco competitivo para investidores e desenvolvedores."
+}

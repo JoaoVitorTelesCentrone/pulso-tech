@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Silencioso da Escala de IA: Por Que a Arquitetura de TI Está se Tornando o Novo Campo de Batalha de US$ 1 Trilhões",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Silencioso da Escala de IA",
+      "subtext": "Por que a arquitetura de TI está se tornando o novo campo de batalha de US$ 1 trilhão",
+      "image_prompt": "A futuristic data center with glowing blue server racks, digital network lines, and a subtle AI brain hologram floating above, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em benchmarks de modelos e IPOs, líderes de TI enfrentam um problema silencioso: a infraestrutura de IA corporativa simplesmente não escala. A MIT Technology Review alerta que a arquitetura atual está travando a revolução dos agentes de IA.",
+      "highlight": "Gastos em infraestrutura de IA devem ultrapassar US$ 1 trilhão até 2028"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Sistemas agentivos de IA quebram o paradigma de previsibilidade da TI tradicional. Agentes consomem recursos de forma imprevisível, mantêm estado entre chamadas e criam cadeias de dependência não lineares. O resultado? Projetos que morrem na fase de piloto e CAPEX mal direcionado.",
+      "visual_hint": "Ícone de engrenagem quebrada com setas de fluxo caótico"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas tratam IA como mais uma carga de nuvem — e isso é um erro. Modelos de linguagem, RAG e agentes autônomos exigem arquitetura fundamentalmente diferente. Quem não adaptar sua infraestrutura verá custos explodirem e vantagem competitiva evaporar.",
+      "visual_hint": "Gráfico de linha mostrando custo de inferência disparando ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão em gastos acumulados com infraestrutura de IA até 2028 (IDC/Gartner)",
+        "Agentes de IA podem consumir 100x mais recursos em uma única tarefa",
+        "Projetos de IA que nunca saem do piloto: maioria das iniciativas corporativas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Vantagem competitiva virá de como você opera IA, não de qual modelo usa",
+        "Habilidades em arquitetura distribuída e engenharia de ML valerão mais que saber chamar APIs",
+        "Dívida técnica silenciosa vai queimar bilhões em CAPEX mal direcionado"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A arquitetura de TI é o novo campo de batalha. Esteja preparado."
+    }
+  ]
+}

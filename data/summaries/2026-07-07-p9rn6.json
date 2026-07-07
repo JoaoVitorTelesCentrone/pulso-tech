@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo benchmark MedCalc-Pro revela que LLMs falham em cálculos médicos complexos do mundo real, expondo um gargalo crítico que pode desperdiçar bilhões em investimentos em automação hospitalar.",
+  "key_facts": [
+    "O MedCalc-Pro testa LLMs em cenários clínicos reais com múltiplos cálculos simultâneos a partir de narrativas desestruturadas.",
+    "Benchmarks atuais simplificam demais os testes, fornecendo a calculadora correta explicitamente na consulta.",
+    "Erros em cálculos médicos custam ao sistema de saúde dos EUA cerca de US$ 20 bilhões anuais em litígios e eventos adversos.",
+    "O mercado de automação hospitalar com IA deve ultrapassar US$ 100 bilhões até 2030."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o artigo expõe que a corrida por assistentes clínicos generalistas ignora um gargalo fundamental — a incapacidade dos LLMs de realizar raciocínio matemático contextualizado —, o que pode levar a investimentos mal direcionados e riscos reais à segurança do paciente.",
+  "watch_next": [
+    "Publicação de resultados numéricos do MedCalc-Pro e comparação entre modelos (GPT-4, Claude, Gemini).",
+    "Reação de empresas como Epic Systems e Cerner, que podem precisar repensar a arquitetura de seus sistemas de IA.",
+    "Surgimento de soluções híbridas que combinam LLMs com calculadoras médicas especializadas ou agentes de ferramentas."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar no abismo entre benchmarks simplificados e a complexidade real da prática clínica, conectando um problema técnico aparentemente menor (cálculos médicos) a um impacto econômico bilionário e riscos de segurança. Foi escolhido por oferecer uma visão crítica e contraintuitiva sobre os limites dos LLMs em saúde."
+}

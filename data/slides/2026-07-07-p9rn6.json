@@ -1,0 +1,53 @@
+{
+  "title": "MedCalc-Pro: O Gargalo de US$ 100 Bilhões que os LLMs Ignoram nos Cálculos Médicos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 100 Bilhões que os LLMs Ignoram",
+      "subtext": "Benchmark expõe fragilidade oculta na automação hospitalar com IA",
+      "image_prompt": "A futuristic hospital room with holographic medical data and a glowing red warning symbol over a complex medical calculator interface, dark blue and neon orange tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O arXiv recebeu hoje o paper MedCalc-Pro, um novo benchmark que testa LLMs em cálculos médicos complexos. Diferente dos testes atuais, ele exige que o modelo identifique e execute múltiplos cálculos a partir de uma única narrativa clínica desestruturada.",
+      "highlight": "Benchmarks atuais são como testar um engenheiro dando a fórmula e a página do livro."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O MedCalc-Pro revela que LLMs falham em extrair parâmetros clínicos, escolher a calculadora certa e executar cálculos simultâneos. Um erro no passo 2 pode levar a dosagens incorretas de medicamentos.",
+      "visual_hint": "Ícone de cérebro com engrenagens quebradas e um alerta vermelho"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de automação hospitalar com IA ultrapassa US$ 100 bilhões até 2030. Grandes players como Epic Systems e Cerner assumem que LLMs navegarão pela complexidade real — suposição que o MedCalc-Pro mostra estar dramaticamente errada.",
+      "visual_hint": "Gráfico de barras com uma barra 'US$ 100B' e um ponto de interrogação vermelho sobre ela"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: mercado de automação hospitalar com IA até 2030",
+        "US$ 20 bilhões: custo anual de erros de dosagem nos EUA",
+        "5-6 cálculos simultâneos: exigidos em um paciente com múltiplas comorbidades"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investimentos em assistentes 'generalistas' podem estar mal direcionados",
+        "Sistemas precisarão de camadas de verificação e seleção de calculadoras",
+        "Erros em cálculos médicos podem gerar litígios e custos bilionários"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo que ninguém está vendo — e que pode custar bilhões."
+    }
+  ]
+}
