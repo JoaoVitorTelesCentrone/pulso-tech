@@ -1,0 +1,53 @@
+{
+  "title": "Akashic: A Revolução Silenciosa na Inferência de LLMs que Pode Economizar Bilhões em Custos de Contexto para Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Akashic: A Revolução Silenciosa na Inferência de LLMs",
+      "subtext": "Como um novo mecanismo de atenção pode economizar bilhões em custos de contexto para agentes de IA",
+      "image_prompt": "A futuristic digital brain with glowing memory blocks being cached and reused, dark blue and neon green tech background, abstract data streams"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA modernos acumulam contexto continuamente — cada interação, chamada de API e workflow é adicionado ao histórico. A abordagem ingênua de reprocessar todo o histórico a cada nova requisição torna o custo de inferência proibitivo, escalando de forma quadrática com o tempo de uso.",
+      "highlight": "Custo de preenchimento de contexto (prefill) é o maior gargalo invisível da economia de agentes"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper Akashic (arXiv 2607.05708) propõe o MemAttention, um mecanismo de atenção com memória de baixo overhead que elimina a necessidade de reprocessar históricos completos. Em vez de recalcular o estado de atenção para cada nova interação, o sistema mantém um cache de estado incremental que pode ser retomado de onde parou.",
+      "visual_hint": "Ícone de cache de memória com setas de reutilização, mostrando blocos sendo processados uma única vez"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para agentes corporativos que fazem centenas de interações por dia, o custo de inferência cai de O(n²) para O(n). Isso representa economias de 50% a 80% nos custos operacionais. O timing é perfeito: o mercado está migrando de chatbots de uso único para agentes persistentes que operam por horas ou dias.",
+      "visual_hint": "Gráfico de curva exponencial vs linear, com destaque para a economia acumulada ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de prefill escala com O(n²) em agentes tradicionais — com Akashic, passa a O(n)",
+        "Economia de 50% a 80% nos custos de inferência para agentes de uso intensivo",
+        "Agente com 100 interações/dia: de 5.050 unidades de contexto para apenas 100"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes persistentes se tornam economicamente viáveis para operações de longa duração",
+        "Redução drástica no consumo de GPU e energia em data centers",
+        "Novo padrão para arquitetura de inferência — concorrentes terão que se adaptar"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A revolução silenciosa já começou — e ela vai redefinir a economia dos agentes de IA"
+    }
+  ]
+}

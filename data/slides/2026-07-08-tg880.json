@@ -1,0 +1,53 @@
+{
+  "title": "BaFCo: O Benchmark que Expõe o Gargalo de US$ 10 Bilhões da Compreensão de Documentos em Línguas de Baixo Recurso",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 10 Bilhões da IA Global",
+      "subtext": "Modelos de fronteira falham 45% ao processar documentos em bengali — a 7ª língua mais falada do mundo.",
+      "image_prompt": "A futuristic digital abyss showing a glowing English document on one side and a fragmented, fading Bengali document on the other, with a dollar sign made of binary code in the center, dark tech background, neon blue and orange accents."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram o BaFCo, o primeiro benchmark focado em compreensão de formulários complexos em bengali. O resultado? Modelos como GPT-5.5 e Claude 4 apresentam queda de performance de 30% a 45% em relação ao inglês. Modelos abertos simplesmente colapsam, com acurácia abaixo de 25%.",
+      "highlight": "230 milhões de falantes nativos ignorados pela IA multimodal."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O BaFCo expõe quatro gargalos técnicos: falha na compreensão de layout hierárquico, tokenização ineficiente (3x mais tokens), viés de layout ocidental e falta de dados de treinamento. O resultado é uma 'IA global' que, na prática, é anglófona com verniz multilíngue.",
+      "visual_hint": "Ícone de engrenagem quebrada ao lado de um documento multilíngue."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Línguas de baixo recurso representam mais de 40% da população global, mas recebem menos de 1% dos investimentos em dados multimodais. Para fintechs, govtechs e legaltechs na Índia e Bangladesh, a incapacidade de processar formulários em bengali não é um bug — é uma barreira de entrada econômica de US$ 10 bilhões.",
+      "visual_hint": "Mapa-múndi com regiões de baixo recurso destacadas em vermelho, contrastando com um pequeno ponto verde para o inglês."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Queda de 30% a 45% na performance de modelos de fronteira (GPT-5.5, Claude 4, Gemini 2.5) em bengali vs. inglês.",
+        "Acurácia abaixo de 25% em extração de campos aninhados para modelos abertos (Llama 4, Mistral).",
+        "Tokenização ineficiente: 3x mais tokens para o mesmo conteúdo semântico em bengali."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Correção de rota no investimento em dados de treinamento para línguas de baixo recurso.",
+        "Novos benchmarks multilíngues forçarão a indústria a sair da zona de conforto anglófona.",
+        "Oportunidade de US$ 10 bilhões para quem resolver a compreensão de documentos em mercados emergentes."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O abismo entre a IA que temos e a IA que precisamos está documentado. A pergunta é: quem vai atravessá-lo primeiro?"
+    }
+  ]
+}

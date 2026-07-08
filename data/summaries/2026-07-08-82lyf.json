@@ -1,0 +1,17 @@
+{
+  "tldr": "Paper do arXiv sintetiza falhas estruturais em agentes de IA (tool-use, planejamento, raciocínio) que benchmarks não capturam, expondo riscos econômicos para um mercado projetado em US$ 100 bilhões.",
+  "key_facts": [
+    "Paper 'Beyond the Leaderboard' (2607.05775) foi publicado em 8 de julho de 2026 no arXiv.",
+    "Estudo não propõe novo benchmark, mas sim uma síntese de modos de falha recorrentes em agentes LLM.",
+    "Falhas identificadas em três áreas: uso de ferramentas, planejamento multi-etapas e raciocínio lógico.",
+    "Taxa de sucesso em planejamento cai exponencialmente com o número de etapas, não linearmente.",
+    "Mercado de agentes de IA está projetado para ultrapassar US$ 100 bilhões nos próximos anos."
+  ],
+  "why_it_matters": "O artigo expõe que a métrica de sucesso atual (benchmarks) está quebrada, pois modelos com alta performance em testes podem falhar catastroficamente em cenários de borda, gerando custos ocultos de retrabalho e imprevisibilidade que comprometem o ROI de implantações corporativas.",
+  "watch_next": [
+    "Reações de grandes players (OpenAI, Anthropic, Google) e possíveis ajustes em seus frameworks de agentes.",
+    "Novos estudos ou benchmarks focados em cenários de borda e falhas estruturais, em vez de acurácia média.",
+    "Impacto no valuation de startups de agentes de IA e no discurso de investidores sobre riscos operacionais."
+  ],
+  "editorial_angle": "O artigo se diferencia por não ser mais um hype de lançamento, mas um 'reality check' baseado em evidências compiladas, que conecta diretamente falhas técnicas a riscos econômicos bilionários, oferecendo uma análise útil para CTOs, investidores e gestores de produto."
+}

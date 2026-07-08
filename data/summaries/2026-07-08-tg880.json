@@ -1,0 +1,16 @@
+{
+  "tldr": "O benchmark BaFCo revela que LLMs multimodais têm queda de 30-45% na compreensão de documentos em bengali comparado ao inglês, expondo um gargalo de US$ 10 bilhões em oportunidades de mercado em línguas de baixo recurso.",
+  "key_facts": [
+    "BaFCo é o primeiro benchmark focado em compreensão de formulários em bengali, a sétima língua mais falada do mundo.",
+    "Modelos de fronteira (GPT-5.5, Claude 4, Gemini 2.5) têm queda de 30-45% de performance em bengali vs. inglês.",
+    "Modelos abertos como Llama 4 e Mistral têm acurácia abaixo de 25% em extração de campos aninhados.",
+    "Línguas de baixo recurso representam 40% da população global, mas recebem menos de 1% dos investimentos em dados de treinamento multimodal."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o artigo mostra que a promessa de 'IA global' é falha: a incapacidade de processar documentos em línguas como bengali cria barreiras econômicas reais para fintechs, govtechs e legal techs em mercados emergentes, limitando o ROI da automação documental e expondo um viés estrutural nos dados de treinamento.",
+  "watch_next": [
+    "Grandes empresas de IA podem anunciar investimentos em datasets multilíngues para línguas de baixo recurso.",
+    "Startups focadas em localização de IA para mercados como Índia e Bangladesh podem ganhar tração com soluções especializadas.",
+    "O BaFCo pode inspirar benchmarks similares para outras línguas de baixo recurso (ex.: suaíli, tâmil, vietnamita)."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um problema técnico (benchmark de compreensão de documentos) a um impacto econômico quantificado (US$ 10 bilhões), usando dados concretos do paper para expor o viés anglófono da indústria de IA. Foi escolhido por ser um alerta estratégico para investidores e tomadores de decisão em tecnologia."
+}

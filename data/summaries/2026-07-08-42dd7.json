@@ -1,0 +1,16 @@
+{
+  "tldr": "Dois novos papers do arXiv revelam que o 'arnês' (harness) que controla agentes de IA pode ser otimizado com Reinforcement Learning offline, transformando a infraestrutura de agentes em um novo campo de batalha de US$ 10 bilhões.",
+  "key_facts": [
+    "Dois artigos do arXiv (2607.05773 e 2607.05458) propõem otimizar a infraestrutura de agentes de IA com RL offline.",
+    "O paper 'Learning to Control LLM Agent Harnesses' mostra que o harness é uma camada de controle aprendível, não fixa.",
+    "O mercado de agentes de IA corporativos deve ultrapassar US$ 100 bilhões, mas a maioria dos harnesses é artesanal e ineficiente.",
+    "Otimizar o harness pode reduzir custos de inferência e melhorar o desempenho sem trocar de modelo."
+  ],
+  "why_it_matters": "A notícia importa porque revela um ponto cego bilionário na economia dos agentes de IA: a infraestrutura de controle. Empresas que dominarem a otimização do harness com RL offline terão vantagem competitiva ao extrair mais valor de modelos existentes, reduzindo custos e latência.",
+  "watch_next": [
+    "Empresas de infraestrutura de IA (como LangChain, Anthropic, OpenAI) podem anunciar suporte nativo a harnesses otimizados por RL.",
+    "Startups focadas em RL offline para agentes devem atrair investimento significativo nos próximos meses.",
+    "Publicação de benchmarks comparando harnesses artesanais vs. otimizados por RL em cenários reais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar dois papers técnicos do arXiv a uma tese de investimento e estratégia de mercado, mostrando que a próxima fronteira de valor não está nos modelos, mas na infraestrutura de controle. A escolha se justifica pelo timing (mercado de agentes em alta) e pelo insight contraintuitivo de que o 'arnês' é mais importante que o 'cavalo'."
+}

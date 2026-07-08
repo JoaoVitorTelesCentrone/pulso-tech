@@ -1,0 +1,17 @@
+{
+  "tldr": "O paper Akashic propõe o MemAttention, um mecanismo que elimina o reprocessamento de históricos completos em agentes de IA, reduzindo custos de inferência de O(n²) para O(n) e potencialmente economizando bilhões.",
+  "key_facts": [
+    "Paper Akashic (arXiv 2607.05708) publicado em 8 de julho de 2026.",
+    "Introduz o MemAttention, um mecanismo de atenção com memória de baixo overhead para inferência de LLMs.",
+    "Foca no custo de prefill (preenchimento de contexto), o maior gargalo econômico para agentes persistentes.",
+    "Reduz a complexidade de custo de O(n²) para O(n) em interações sequenciais de agentes.",
+    "Economias estimadas de 50% a 80% nos custos de inferência para agentes de uso intensivo."
+  ],
+  "why_it_matters": "Esta notícia importa porque ataca o custo operacional invisível e crescente da economia de agentes de IA: o replay infinito de contextos longos. Com a migração para agentes persistentes, o Akashic pode redefinir a viabilidade econômica de sistemas corporativos de IA, tornando a inferência escalável e acessível.",
+  "watch_next": [
+    "Implementação do MemAttention em frameworks populares de agentes (LangChain, AutoGPT) e adoção por provedores de nuvem.",
+    "Validação independente dos benchmarks do paper e comparação com outras técnicas de otimização de contexto (como KV-cache estendido).",
+    "Impacto no mercado de APIs de LLMs: provedores podem oferecer preços diferenciados para agentes que usam Akashic."
+  ],
+  "editorial_angle": "O artigo se diferencia ao expor um gargalo econômico pouco discutido (custo de prefill em agentes) e apresentar uma solução técnica inovadora (MemAttention) com potencial de impacto massivo. Foi escolhido por conectar engenharia de sistemas a economia de IA, oferecendo uma análise profunda que vai além do hype de modelos maiores."
+}

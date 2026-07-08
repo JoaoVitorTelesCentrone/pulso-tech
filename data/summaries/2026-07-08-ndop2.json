@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores publicaram o ArtisanCAD, o primeiro agente de IA industrial capaz de gerar modelos CAD paramétricos e editáveis a partir de texto, automatizando tarefas de engenharia que consomem 30-50% do tempo de P&D em manufatura e potencialmente desbloqueando um mercado de US$ 50 bilhões.",
+  "key_facts": [
+    "ArtisanCAD é um agente de IA especializado em CAD industrial, operando com modelagem procedural de longo horizonte e execução B-Rep.",
+    "O sistema usa destilação de conhecimento baseada em especialistas, treinado com workflows validados por engenheiros mecânicos seniores.",
+    "Engenheiros gastam entre 30% e 50% do tempo em tarefas repetitivas de modelagem, representando dezenas de bilhões em salários que poderiam ser redirecionados para inovação.",
+    "O artigo foi publicado no arXiv (ID: 2607.05750) e descreve uma arquitetura híbrida com módulo de raciocínio de engenharia, destilação de conhecimento e executor B-Rep."
+  ],
+  "why_it_matters": "Esta notícia importa porque ataca o gargalo mais caro da economia industrial — o design mecânico repetitivo — com um agente vertical que supera as limitações de LLMs generalistas em raciocínio espacial e restrições geométricas, abrindo caminho para automação de engenharia de alto valor e um novo mercado de agentes industriais especializados.",
+  "watch_next": [
+    "Empresas de software CAD (Autodesk, Dassault) podem anunciar integrações ou aquisições de tecnologia similar para incorporar agentes de IA em seus ecossistemas.",
+    "Publicação de benchmarks comparando ArtisanCAD com soluções anteriores (Text2CAD, CADGPT) em métricas de manufaturabilidade e tempo de execução.",
+    "Surgimento de startups focadas em agentes de IA para outras áreas da engenharia, como simulação estrutural ou otimização topológica."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar não em geração estética de modelos 3D, mas em automação industrial real com validação de engenharia, destacando a destilação de conhecimento de especialistas como diferencial técnico e o potencial de mercado de US$ 50 bilhões como gancho de impacto econômico."
+}

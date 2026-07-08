@@ -1,0 +1,53 @@
+{
+  "title": "Além do Benchmark: O Novo Paper do arXiv que Mapeia o Gargalo de US$ 100 Bilhões em Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 100 Bilhões dos Agentes de IA",
+      "subtext": "Por que os benchmarks estão escondendo falhas estruturais que podem custar bilhões",
+      "image_prompt": "A futuristic digital abyss with a cracked leaderboard and a glowing dollar sign falling into the void, dark blue and neon orange tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv expõe o abismo entre a performance em benchmarks e o fracasso operacional em agentes de IA. O mercado de agentes está projetado para ultrapassar US$ 100 bilhões, mas as métricas de sucesso estão quebradas.",
+      "highlight": "US$ 100 bilhões em risco por métricas enganosas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores analisaram dezenas de avaliações e identificaram padrões de colapso em três áreas críticas: uso de ferramentas, planejamento multi-etapas e raciocínio lógico. Os ganhos em benchmarks obscurecem falhas estruturais que aparecem no mundo real.",
+      "visual_hint": "Ícone de lupa sobre gráfico de benchmark com rachaduras"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Um modelo com 90% de acerto em benchmarks pode falhar catastroficamente em 10% dos casos — justamente os cenários de borda que quebram sistemas em produção. O custo real não é só inferência, é gerenciar a imprevisibilidade.",
+      "visual_hint": "Ilustração de engrenagem quebrada com cifrões caindo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA: > US$ 100 bilhões nos próximos anos",
+        "Taxa de erro de 2% no uso de ferramentas pode gerar milhares de requisições inválidas por dia",
+        "Taxa de sucesso cai exponencialmente com o aumento de etapas no planejamento"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investidores e CTOs precisam repensar o ROI real de agentes autônomos",
+        "Frameworks de agentes precisam de camadas de validação e fallback",
+        "A próxima corrida não é por benchmarks, mas por robustez operacional"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA depende de enxergar além do ranking"
+    }
+  ]
+}

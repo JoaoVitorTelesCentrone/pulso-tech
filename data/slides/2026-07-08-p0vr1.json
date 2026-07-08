@@ -1,0 +1,53 @@
+{
+  "title": "O Fundo de US$ 25 Milhões de uma GP Solo: O Sinal de que a Economia de Capital de Risco em IA Está se Fragmentando",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "US$ 25 Milhões e uma Só Sócia: O Terremoto Silencioso no Venture Capital de IA",
+      "subtext": "Enquanto os gigantes brigam por bilhões, os solo GPs estão redesenhando o mapa da inovação em inteligência artificial.",
+      "image_prompt": "A lone figure standing on a fractured digital landscape, with glowing data streams and AI neural networks splitting into smaller, focused beams of light, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Ashley Smith, GP solo da Vermilion Cliffs Ventures, acaba de fechar seu segundo fundo de US$ 25 milhões. Em um mercado dominado por fundos bilionários, este movimento modesto sinaliza uma mudança estrutural profunda na alocação de capital para startups de IA.",
+      "highlight": "Fundo II de US$ 25 milhões — um termômetro de fragmentação do mercado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Ashley Smith opera como única sócia geral: toma todas as decisões, gerencia o portfólio e constrói relacionamentos com founders sem burocracia. Seu segundo fundo comprova que o modelo solo GP está ganhando tração e gerando retornos reais para investidores.",
+      "visual_hint": "Ícone de uma única figura central com múltiplos raios de luz conectando a startups, simbolizando decisão ágil e foco"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Grandes fundos precisam alocar capital de forma ampla. Já os solo GPs mergulham fundo em nichos específicos — infraestrutura de dados, segurança de modelos, compliance regulatório. Startups que resolvem problemas profundos de IA não se encaixam no checklist de um fundo generalista.",
+      "visual_hint": "Dois caminhos divergentes: um largo e genérico (mega-fundos) e outro estreito e profundo (solo GP), com a palavra 'NICHO' em destaque"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Crescimento de 40% no número de fundos geridos por solo GPs entre 2024 e 2025 (fonte: Carta)",
+        "Fundo de US$ 25 milhões: taxa de gestão de 2% = US$ 500 mil/ano cobre confortavelmente as despesas de uma GP solo",
+        "Incentivo brutal: sem diluição de 'carry' — se o fundo performa, a GP fica rica; se não, volta ao mercado"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fragmentação do venture capital: mega-fundos vs. solo GPs hiper-especializados",
+        "Startups de IA em nichos profundos ganham acesso a capital inteligente e focado",
+        "Modelo solo GP se torna alternativa viável para LPs que buscam exposição a teses de alto rendimento"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro do capital de risco não será decidido nos grandes palcos — mas nos movimentos silenciosos de quem aposta na profundidade."
+    }
+  ]
+}

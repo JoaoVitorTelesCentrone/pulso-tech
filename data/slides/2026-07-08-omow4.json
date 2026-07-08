@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Silencioso dos US$ 100 Bilhões: Como a Otimização de KV-Cache Está se Tornando o Campo de Batalha Decisivo da Inferência de LLMs",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Silencioso dos US$ 100 Bilhões",
+      "subtext": "Como a otimização de KV-Cache está se tornando o campo de batalha decisivo da inferência de LLMs",
+      "image_prompt": "A massive, glowing digital brain with a bottleneck shaped like a hourglass, filled with flowing data streams and memory chips, dark futuristic tech style, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em novos modelos e benchmarks, um paper do arXiv expõe a verdadeira guerra econômica: o custo de servir contextos longos está fora de controle. Técnicas de compressão de KV-cache podem definir quem domina a próxima década da IA.",
+      "highlight": "US$ 100 bilhões em jogo na economia da inferência"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper (arXiv 2607.05399) expõe o crescimento explosivo do KV-cache em workloads de contexto longo, inviabilizando a economia da inferência. Pela primeira vez, um benchmark unificado compara técnicas de compressão de forma padronizada, revelando quais realmente funcionam em produção.",
+      "visual_hint": "Ícone de gráfico de barras com uma seta para cima saindo do controle"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Modelos como GPT-4, Claude 3 e Gemini 1.5 Pro podem processar milhões de tokens, mas o custo para servir essas requisições é astronômico. Sem otimizações eficazes de KV-cache, a promessa de agentes de IA que 'leem' livros inteiros ou auditam codebases é economicamente inviável.",
+      "visual_hint": "Ícone de cifrão com uma chama ao lado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Cada token adicional exige mais memória e computação — custo cresce quadraticamente com o contexto",
+        "Técnicas populares de compressão colapsam em contextos de 100k+ tokens",
+        "Benchmark mede qualidade da tarefa, throughput e latência em cenários reais de produção"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão tomar decisões de engenharia informadas sobre compressão de cache",
+        "Técnicas que funcionam em contexto curto (4k-8k) serão descartadas para long-context",
+        "A corrida por agentes de IA viáveis economicamente passa pela otimização de KV-cache"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo silencioso que vai definir quem domina a próxima década da IA"
+    }
+  ]
+}

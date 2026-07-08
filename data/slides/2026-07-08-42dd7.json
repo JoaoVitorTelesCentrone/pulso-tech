@@ -1,0 +1,53 @@
+{
+  "title": "O Arreio Aprendiz: Como o Reinforcement Learning Offline Está Transformando a Infraestrutura de Agentes de IA em um Novo Campo de Batalha de US$ 10 Bilhões",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Arreio Aprendiz: A Nova Fronteira de US$ 10 Bilhões da IA",
+      "subtext": "Enquanto todos correm atrás de modelos melhores, o verdadeiro gargalo — e a próxima fortuna — está no controle dos agentes.",
+      "image_prompt": "A futuristic digital harness made of glowing blue circuits and data streams, controlling a swarm of AI agents against a dark, abstract background with subtle financial graph overlays."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Dois novos papers do arXiv revelam que a infraestrutura de execução dos agentes de IA — o 'harness' ou arnês — não é mais um mero detalhe de engenharia. Ela se torna o centro da estratégia econômica, enquanto o mercado de agentes corporativos projeta ultrapassar US$ 100 bilhões.",
+      "highlight": "O gargalo não está no modelo, mas no controle."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores propõem que o 'harness' — o invólucro de software que orquestra chamadas ao modelo, gerencia contexto e decide quando parar — é uma camada de controle aprendível. Otimizá-lo com Reinforcement Learning offline pode gerar ganhos dramáticos de eficiência e desempenho.",
+      "visual_hint": "Ícone de um cérebro digital sendo ajustado por uma chave inglesa estilizada."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Hoje, arneses são artesanais, cheios de regras heurísticas e prompts escritos no escuro. Cada chamada desnecessária a um LLM custa dinheiro. Empresas que dominarem essa camada terão vantagem competitiva brutal — não por terem modelos melhores, mas por extraírem muito mais valor dos modelos que já existem.",
+      "visual_hint": "Gráfico de barras comparando custo operacional de agentes com arnês manual vs. arnês otimizado por RL."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA corporativos projetado para ultrapassar US$ 100 bilhões.",
+        "Novo campo de batalha de infraestrutura de controle avaliado em US$ 10 bilhões.",
+        "RL offline pode reduzir custos de inferência em até 40% segundo estimativas dos papers."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Arneses deixam de ser fixos e passam a ser otimizados continuamente com dados de execução.",
+        "Decisões como 'quando chamar o modelo' ou 'quando interromper um loop' serão automatizadas por políticas aprendidas.",
+        "A vantagem competitiva migra de 'quem tem o melhor modelo' para 'quem tem o melhor controle de agente'."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está apenas em pensar melhor, mas em controlar melhor. Fique ligado."
+    }
+  ]
+}
