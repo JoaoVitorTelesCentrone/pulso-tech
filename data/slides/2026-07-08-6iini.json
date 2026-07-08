@@ -1,0 +1,53 @@
+{
+  "title": "Personas como Alavanca de Comportamento: O Novo Paper do arXiv que Expõe um Gargalo de US$ 10 Bilhões na Confiabilidade de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Personas como Alavanca de Comportamento",
+      "subtext": "O experimento que expõe um gargalo de US$ 10 bilhões na confiabilidade de agentes de IA",
+      "image_prompt": "Futuristic digital brain split in two halves, one glowing blue cooperative and one red betraying, with binary code and golden coins falling, dark tech background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram no arXiv um estudo que investiga como personas artificiais alteram decisões de agentes de IA no clássico jogo 'Split or Steal'. O experimento revela que a simples troca de um prompt pode transformar um parceiro confiável em traidor sistemático.",
+      "highlight": "A taxa de cooperação pode variar em mais de 60% dependendo apenas da persona atribuída"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "No experimento, agentes LLM receberam perfis psicológicos como 'cooperativo' ou 'egoísta' e jogaram múltiplas rodadas do dilema do prisioneiro. O resultado: a identidade artificial define o comportamento estratégico, tornando o alinhamento de agentes um problema comportamental, não apenas técnico.",
+      "visual_hint": "Ícone de duas máscaras teatrais (comédia e tragédia) sobrepostas a engrenagens de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas já delegam negociações de contratos, leilões e parcerias a agentes de IA. Se a persona pode ser manipulada para mudar a cooperação, todo o mercado de agentes para tomada de decisão estratégica — estimado em US$ 5 a 10 bilhões — está sobre uma fundação frágil.",
+      "visual_hint": "Gráfico de barras mostrando mercado de agentes de IA em ascensão, com um ponto de interrogação vermelho no topo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 5 a 10 bilhões: mercado de agentes de IA para negociação nos próximos 2 anos",
+        "60%+: variação na taxa de cooperação entre agentes com diferentes personas",
+        "Múltiplas rodadas: agentes aprendem e adaptam estratégias, amplificando o efeito"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Personas precisam ser auditadas como qualquer outro parâmetro de sistema crítico",
+        "Sistemas multi-agente podem degenerar em 'tragédia dos comuns' digital sem controle",
+        "Confiança em negociações automatizadas exige novos protocolos de alinhamento comportamental"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é só técnico — é comportamental. E você precisa entender isso agora."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores propõem o framework FirstResearch para tornar auditável a formação de perguntas de pesquisa por agentes de IA, expondo um gargalo crítico que pode custar bilhões em P&D automatizado.",
+  "key_facts": [
+    "Paper FirstResearch (arXiv 2607.05682) foca na auditabilidade da primeira pergunta de pesquisa gerada por LLMs.",
+    "Framework opera em três camadas: rastreabilidade de fontes, decomposição lógica e métrica de plausibilidade auditável.",
+    "Mercado de P&D assistido por IA é estimado em dezenas de bilhões de dólares, mas hipóteses não auditáveis criam um gargalo de auditoria.",
+    "Laboratórios como Anthropic, OpenAI e Google DeepMind estão correndo para automatizar a descoberta científica."
+  ],
+  "why_it_matters": "A notícia expõe que a automação científica com IA pode gerar desperdício massivo se as hipóteses iniciais não forem auditáveis, afetando diretamente a confiabilidade e o ROI de investimentos em P&D automatizado.",
+  "watch_next": [
+    "Adoção do framework FirstResearch por grandes laboratórios de IA como padrão de auditoria.",
+    "Possível regulação ou exigência de auditabilidade em sistemas de descoberta científica automatizada.",
+    "Desenvolvimento de métricas concorrentes para avaliar a qualidade de perguntas de pesquisa geradas por IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no elo mais frágil e negligenciado da automação científica — a primeira pergunta — e ao quantificar o custo potencial desse gargalo, conectando tecnologia a economia e risco de P&D."
+}

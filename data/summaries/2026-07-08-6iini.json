@@ -1,0 +1,14 @@
+{
+  "tldr": "Pesquisadores do arXiv mostram que a simples atribuição de personas a agentes de IA pode alterar drasticamente seu comportamento cooperativo em dilemas sociais, expondo um gargalo de confiabilidade que ameaça um mercado de US$ 10 bilhões em negociações automatizadas.",
+  "key_facts": [
+    "Estudo no arXiv (2607.05398) usa o jogo 'Split or Steal' para testar como personas influenciam decisões de agentes LLM.",
+    "A taxa de cooperação entre agentes varia em mais de 60% dependendo apenas da persona atribuída (cooperativa vs. egoísta).",
+    "O mercado de agentes de IA para negociação e tomada de decisão estratégica deve movimentar entre US$ 5 e US$ 10 bilhões nos próximos dois anos."
+  ],
+  "why_it_matters": "A notícia revela que o alinhamento de agentes de IA não é apenas um problema técnico, mas comportamental: a persona atribuída pode sabotar negociações reais (contratos, leilões, parcerias) se não for consistente com os objetivos do negócio, colocando em risco bilhões em automação empresarial.",
+  "watch_next": [
+    "Empresas de automação de vendas e negociação B2B podem começar a exigir certificações de consistência de persona em agentes de IA.",
+    "Pesquisas futuras devem focar em métodos para 'travar' personas de agentes em contextos de alto valor, evitando manipulação via prompt."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um experimento clássico de psicologia social (dilema do prisioneiro) a um problema concreto de mercado (gargalo de US$ 10 bi), transformando um paper acadêmico em uma alerta prático para CTOs e investidores que já estão implantando agentes em negociações reais."
+}

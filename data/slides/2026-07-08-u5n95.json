@@ -1,0 +1,53 @@
+{
+  "title": "FirstResearch: O Novo Framework de Auditoria que Expõe o Gargalo de US$ 10 Bilhões na Ciência Feita por Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 10 Bilhões na Ciência com Agentes de IA",
+      "subtext": "Um novo framework expõe o calcanhar de Aquiles da descoberta científica automatizada: a primeira pergunta de pesquisa.",
+      "image_prompt": "A futuristic laboratory with glowing AI agents and a magnifying glass inspecting a complex network of scientific papers, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Laboratórios como Anthropic, OpenAI e Google DeepMind correm para automatizar a descoberta científica. Agentes de IA já leem literatura, formulam hipóteses e projetam experimentos em escala. Mas há um problema crítico: a primeira pergunta de pesquisa permanece uma 'caixa preta'.",
+      "highlight": "P&D assistido por IA já movimenta dezenas de bilhões de dólares."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o paper 'FirstResearch', que ataca o problema negligenciado da auditabilidade na formação de perguntas de pesquisa por LLMs. O framework propõe rastreabilidade de fontes, decomposição lógica e uma métrica de 'plausibilidade auditável' para cada hipótese gerada.",
+      "visual_hint": "Ícone de corrente ou cadeia de elos conectando um ponto de interrogação a uma base de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem auditabilidade, agentes de IA são 'caixas-pretas de hipóteses': geram milhares de perguntas por dia, mas não se sabe quais têm mérito real. Uma pergunta mal-formulada pode desperdiçar meses de trabalho e bilhões em P&D automatizado.",
+      "visual_hint": "Ícone de um funil com uma grande quantidade de hipóteses entrando e poucas saindo, com um alerta vermelho"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de P&D assistido por IA: dezenas de bilhões de dólares",
+        "Agentes podem gerar 10 mil hipóteses por dia",
+        "Custo potencial de uma hipótese não auditada: meses de trabalho e recursos desperdiçados"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Cientistas poderão rastrear exatamente como um agente de IA chegou a uma pergunta de pesquisa",
+        "Revisores humanos poderão verificar cada etapa da cadeia de raciocínio",
+        "A economia da descoberta científica automatizada será forçada a valorizar a auditabilidade"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "FirstResearch: a chave para destravar o verdadeiro potencial da ciência com IA."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "MUFG: O Banco de US$ 3 Trilhões que Quer se Tornar 'AI-Native' — e o Sinal que Isso Envia para a Economia Financeira Global",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Banco de US$ 3 Trilhões que Quer se Tornar 'AI-Native'",
+      "subtext": "O maior banco do Japão está reescrevendo as regras da adoção de IA corporativa — e o mercado financeiro global está de olho.",
+      "image_prompt": "A futuristic bank headquarters made of glowing blue data streams and AI neural networks, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado debate valuations de startups de IA, o MUFG, maior conglomerado financeiro do Japão com mais de US$ 3 trilhões em ativos, anuncia uma parceria estratégica com a OpenAI para integrar o ChatGPT Enterprise em toda a sua operação.",
+      "highlight": "US$ 3 trilhões em ativos — 160 anos de história, 180 mil funcionários, 50+ países"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O MUFG não está apenas comprando licenças de IA. Está reestruturando workflows, produtos financeiros e processos internos com IA generativa como espinha dorsal — de compliance a novos serviços para milhões de clientes.",
+      "visual_hint": "Ícone de engrenagem com circuitos de IA conectando silos de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O termo 'AI-native' ecoa o movimento 'cloud-native' que redefiniu a TI. O MUFG está dizendo que a IA não será um adicional — será o ambiente operacional padrão. Isso redefine a economia da adoção de IA.",
+      "visual_hint": "Diagrama de evolução: mainframe → cloud-native → AI-native"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 3 trilhões em ativos sob gestão",
+        "180 mil funcionários em 50+ países",
+        "ChatGPT Enterprise como sistema nervoso central da operação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "IA sai da fase experimental e entra na integração sistêmica",
+        "Concorrentes serão forçados a repensar suas estratégias de IA",
+        "OpenAI ganha case de referência no setor financeiro asiático"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O sinal do MUFG é claro: a próxima fronteira não é usar IA — é ser IA."
+    }
+  ]
+}

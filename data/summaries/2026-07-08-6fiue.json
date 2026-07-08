@@ -1,0 +1,16 @@
+{
+  "tldr": "Modelos de IA compactos (SLMs) estão criando um mercado de US$ 50 bilhões ao viabilizar aplicações práticas e de baixo custo em áreas como saúde e educação, desafiando a narrativa de que modelos maiores são sempre melhores.",
+  "key_facts": [
+    "Lançamento do CSTutorBench, benchmark para SLMs como tutores de programação K-12.",
+    "Startup RxScanner usa SLM em espectrômetro portátil para detectar medicamentos falsificados na África.",
+    "SLMs têm de 1 a 7 bilhões de parâmetros, contra centenas de bilhões dos modelos de fronteira.",
+    "Custo de inferência próximo de zero e maior privacidade são vantagens-chave dos SLMs."
+  ],
+  "why_it_matters": "A notícia sinaliza uma correção de mercado na economia da IA: a descentralização e especialização dos modelos reduz custos e barreiras de adoção, tornando a IA acessível para aplicações do mundo real, longe dos data centers e das APIs caras.",
+  "watch_next": [
+    "Crescimento de benchmarks e frameworks específicos para SLMs em nichos verticais.",
+    "Aumento de investimentos em startups que desenvolvem SLMs para dispositivos de borda e mercados emergentes.",
+    "Possível desaceleração na corrida por modelos gigantes, com grandes players lançando versões compactas de seus modelos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar dois eventos aparentemente isolados (um benchmark acadêmico e uma startup de saúde) para revelar uma tendência macro: a IA está saindo da bolha de custos e entrando em uma fase de aplicabilidade real, com foco em ROI e inclusão tecnológica."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Memória Dentro do Loop: O Novo Paper do arXiv que Pode Redefinir a Economia de US$ 100 Bilhões dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Memória Dentro do Loop: A Revolução Silenciosa dos Agentes de IA",
+      "subtext": "Como um novo paper do arXiv pode economizar bilhões e desbloquear uma nova classe de sistemas autônomos",
+      "image_prompt": "A futuristic digital brain with glowing neural circuits inside a continuous loop, dark blue and neon green tones, high tech abstract background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA atuais operam com memória fora do loop de decisão — consultada apenas quando o agente 'lembra' de olhar. Isso gera esquecimento, custos altos e baixa confiabilidade em tarefas longas. O mercado de agentes de IA está estimado em US$ 100 bilhões até 2028.",
+      "highlight": "US$ 100 bilhões: o mercado que a memória fora do loop pode estar limitando"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Memory in the Loop' propõe uma mudança arquitetônica: mover a memória para dentro do ciclo de raciocínio do agente, lida e atualizada a cada passo. Isso elimina o gargalo de 'quando consultar' e mantém um estado de memória vivo e relevante.",
+      "visual_hint": "Ícone de um loop infinito com um cérebro no centro, setas indicando fluxo contínuo de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para engenheiros, gestores de produto e investidores: o maior problema hoje não é a capacidade dos modelos, mas a confiabilidade em tarefas longas. Com memória no loop, agentes podem gerenciar projetos por semanas, acompanhar pacientes ou auditar sistemas continuamente — sem perder o fio da meada.",
+      "visual_hint": "Gráfico de linha ascendente mostrando 'confiabilidade' vs 'tempo de tarefa', com duas curvas: uma caindo (atual) e outra estável (proposta)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Redução de 35-45% no número de chamadas à API de modelos de fronteira (GPT-4, Claude 3.5)",
+        "Aumento de 22% na taxa de conclusão de tarefas no benchmark WebArena",
+        "Queda de 60% na latência percebida pelo usuário em agentes conversacionais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução de custos de inferência em tarefas multi-turno em até 40%",
+        "Desbloqueio de aplicações inviáveis hoje: agentes de longa duração, assistentes clínicos, auditoria contínua",
+        "Nova classe de sistemas autônomos com memória de trabalho estendida e confiável"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA está sendo reescrito — e a memória está no centro do loop."
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "Prompt-to-Paper é um agente de IA para bioinformática que automatiza a redação de artigos científicos com verificação bibliográfica determinística, resolvendo o problema de alucinações e falta de rastreabilidade.",
+  "key_facts": [
+    "O sistema foi apresentado no arXiv em 8 de julho de 2026.",
+    "Ele opera em três estágios: busca bibliográfica, extração de evidências e redação com citações inline.",
+    "O mercado de publicação acadêmica movimenta US$ 28 bilhões anuais, com custo de produção por artigo entre US$ 5.000 e US$ 25.000."
+  ],
+  "why_it_matters": "A automação da escrita científica com verificação confiável pode reduzir drasticamente o tempo e custo de publicação, além de aumentar a reprodutibilidade e a integridade da pesquisa, impactando diretamente a economia acadêmica e a velocidade da inovação.",
+  "watch_next": [
+    "Adoção do sistema por grandes editoras e instituições de pesquisa.",
+    "Surgimento de concorrentes que implementem grounding determinístico em outras áreas científicas.",
+    "Debates éticos sobre autoria e responsabilidade em artigos gerados por IA."
+  ],
+  "editorial_angle": "O artigo se destaca por focar na arquitetura de verificação (grounding determinístico) como diferencial técnico, em vez de apenas na geração de texto, e por conectar a inovação a um mercado bilionário e a um problema real da ciência."
+}
