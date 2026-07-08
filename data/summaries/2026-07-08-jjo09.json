@@ -1,0 +1,17 @@
+{
+  "tldr": "OpenAI lança GPT-Live, modelo de voz unificado que elimina pipeline ASR+LLM+TTS, reduz latência para <200ms e promete transformar a economia da interação humano-máquina ao tornar a voz uma interface primária natural.",
+  "key_facts": [
+    "GPT-Live foi anunciado em 8 de julho de 2026 e já alimenta o ChatGPT Voice.",
+    "Substitui a arquitetura de pipeline (ASR + LLM + TTS) por um modelo unificado de processamento direto de áudio.",
+    "Latência de resposta caiu para menos de 200 milissegundos, comparável a conversas humanas reais.",
+    "Captura tom, ritmo, pausas, entonação e emoções em tempo real.",
+    "Treinado em pares áudio-áudio de conversas humanas reais, não em pares áudio-texto."
+  ],
+  "why_it_matters": "A voz sempre foi a interface mais natural, mas a IA nunca conseguiu replicar fluidez conversacional. O GPT-Live resolve o gargalo de experiência do usuário que travava a adoção em massa de assistentes de voz, abrindo mercados como call centers, saúde mental e educação com qualidade de interação humana escalável.",
+  "watch_next": [
+    "Impacto em call centers e setores de atendimento ao cliente, que podem substituir operadores humanos em larga escala.",
+    "Reação dos concorrentes (Google, Amazon, Anthropic) que precisarão lançar modelos de voz unificados para não perder mercado.",
+    "Regulamentação de interações de voz emocionalmente realistas, especialmente em saúde mental e consentimento."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo econômico (experiência do usuário ruim) que o GPT-Live resolve, em vez de apenas descrever a tecnologia. A escolha editorial reflete o interesse do leitor de IA/Tech em entender como a inovação desbloqueia novos mercados e modelos de negócio, não apenas os avanços técnicos."
+}

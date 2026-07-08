@@ -1,0 +1,53 @@
+{
+  "title": "GPT-Live: A Nova Camada de Realidade que a OpenAI Está Colocando Entre Você e o Computador",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-Live: A Nova Camada de Realidade",
+      "subtext": "A OpenAI está redefinindo a interação humano-máquina — não com um novo modelo, mas com uma nova forma de estar presente.",
+      "image_prompt": "Futuristic digital interface with glowing neon lines and a human silhouette merging with AI, dark blue and purple tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI lançou o GPT-Live, um modo de interação contínua e em tempo real com o ChatGPT. O anúncio dominou o Hacker News com 421 pontos e 288 comentários em poucas horas.",
+      "highlight": "421 pontos no Hacker News em poucas horas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-Live não é um novo modelo, mas uma nova arquitetura de interação: uma camada persistente que escuta, processa e reage ao ambiente do usuário de forma síncrona. Adeus prompts discretos, bem-vindo às sessões contínuas de colaboração.",
+      "visual_hint": "Ícone de onda sonora pulsando em tempo real"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A OpenAI está mudando a competição: de qualidade de resposta para qualidade de relação. O valor agora está no tempo de engajamento e na profundidade da sessão, não no volume de texto gerado.",
+      "visual_hint": "Gráfico de linha ascendente mostrando engajamento vs. tokens"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "421 pontos no Hacker News em horas",
+        "288 comentários no primeiro dia",
+        "Latência alvo: < 500ms para fluidez em tempo real"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Precificação baseada em tempo de sessão, não em tokens",
+        "Barreira de entrada: infraestrutura de inferência em tempo real",
+        "Agentes que agem com você, não por você"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da interação não é um prompt — é uma presença."
+    }
+  ]
+}

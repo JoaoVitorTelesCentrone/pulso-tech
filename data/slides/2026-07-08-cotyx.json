@@ -1,0 +1,53 @@
+{
+  "title": "Grok 4.5: O 'Opus-Killer' de Elon Musk que Redefine a Economia da Inferência e Acirra a Guerra de Preços na IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Grok 4.5: O 'Opus-Killer' Chegou",
+      "subtext": "SpaceXAI lança modelo de fronteira mais rápido e barato, redefinindo a guerra de preços na IA.",
+      "image_prompt": "A futuristic, dark blue and neon green tech background with a glowing, abstract brain made of circuit boards and dollar signs, symbolizing AI performance and cost efficiency."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A corrida da IA sempre foi sobre benchmarks. Agora, a eficiência de custo se torna o novo campo de batalha. Enquanto Anthropic e OpenAI competem por qualidade, a SpaceXAI ataca por baixo: performance de fronteira com preço disruptivo.",
+      "highlight": "Custo por token é o novo benchmark."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Elon Musk anunciou o Grok 4.5, um modelo que promete performance equivalente ao Claude Opus, mas com velocidade superior e custo de inferência significativamente menor. É uma declaração de guerra econômica direta à Anthropic.",
+      "visual_hint": "Ícone de um gráfico de barras com uma seta verde apontando para baixo (custo) e outra seta azul apontando para cima (performance)."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas, o maior gargalo da IA em escala não é a qualidade, mas o custo operacional. Um modelo 'Opus-class' mais barato desbloqueia automação de alto volume antes inviável. Para o mercado, isso força uma reavaliação dos valuations bilionários de players como a Anthropic.",
+      "visual_hint": "Ilustração de uma engrenagem com cifrões sendo substituída por uma engrenagem mais leve e eficiente."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Performance 'Opus-class' a um custo 30-40% menor.",
+        "Velocidade de inferência superior (\"faster\") reduz latência em tempo real.",
+        "Pressão deflacionária imediata sobre preços de API da concorrência."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Anthropic e OpenAI serão forçadas a reduzir preços ou justificar prêmios inexistentes.",
+        "Adoção corporativa de agentes de IA em escala será acelerada.",
+        "Valuation de US$ 900 bi da Anthropic pode ser reavaliado para baixo."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "A corrida pela eficiência começou.",
+      "subtext": "Acompanhe o blog para análises exclusivas sobre o impacto do Grok 4.5 no mercado de IA."
+    }
+  ]
+}

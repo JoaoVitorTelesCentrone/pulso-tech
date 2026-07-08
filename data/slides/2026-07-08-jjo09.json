@@ -1,0 +1,53 @@
+{
+  "title": "GPT-Live: A Nova Geração de Voz da OpenAI que Redefine a Economia da Interação Humano-Máquina",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Voz que Escuta: GPT-Live e o Fim da Latência nas Conversas com IA",
+      "subtext": "Como a OpenAI transformou a interação humano-máquina em algo tão natural quanto respirar",
+      "image_prompt": "Futuristic digital human face made of sound waves and light particles, dark background with blue and purple neon accents, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 8 de julho de 2026, a OpenAI lançou o GPT-Live, um modelo de voz que opera diretamente no domínio de áudio, eliminando o pipeline tradicional de ASR, LLM e TTS. A promessa? Conversas fluidas, emocionais e em tempo real com máquinas.",
+      "highlight": "67% dos usuários abandonaram assistentes de voz por frustração — até agora."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-Live substitui a arquitetura de pipeline por um modelo unificado de áudio. Ele captura tom, ritmo, pausas e emoções diretamente, sem converter voz em texto e depois em voz novamente. O resultado: latência abaixo de 200ms e interações que podem ser interrompidas e retomadas como numa conversa humana.",
+      "visual_hint": "Ícone de onda sonora com seta direta de entrada para saída, sem etapas intermediárias"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A voz é a interface mais natural para humanos, mas a IA nunca conseguiu replicar sua fluidez. Agora, milhões de pessoas que não digitam bem podem interagir com IA de forma acessível e rápida. Em ambientes corporativos, a comunicação por voz é 3x mais rápida que a digitação — um salto de produtividade imediato.",
+      "visual_hint": "Ícone de gráfico de produtividade subindo com um microfone ao lado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Latência de resposta: menos de 200ms (comparável a uma conversa humana real)",
+        "67% dos usuários abandonaram assistentes de voz devido à má experiência",
+        "Voz é 3x mais rápida que digitação para comunicação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Call centers, educação e saúde mental podem escalar com qualidade humana",
+        "Assistentes de voz deixam de ser robóticos e se tornam emocionalmente inteligentes",
+        "Acessibilidade para pessoas com dificuldades de leitura ou digitação"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da interação humano-máquina não será digitado — será falado."
+    }
+  ]
+}

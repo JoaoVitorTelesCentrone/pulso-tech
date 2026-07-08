@@ -1,0 +1,16 @@
+{
+  "tldr": "Análise da OpenAI expõe que o benchmark SWE-Bench Pro, usado para avaliar agentes de código, sofre de vazamento de dados, ambiguidade nos testes e overfitting, distorcendo métricas de progresso e decisões de investimento bilionárias.",
+  "key_facts": [
+    "OpenAI publicou análise crítica do SWE-Bench Pro em 8 de julho de 2026.",
+    "Benchmark sofre de vazamento de dados de treinamento, testes insuficientes e overfitting estatístico.",
+    "15-20% das tarefas consideradas 'resolvidas' podem ter código semanticamente incorreto ou inseguro.",
+    "SWE-Bench é referência para investimentos bilionários em IA para código por empresas como Google, Microsoft e Amazon."
+  ],
+  "why_it_matters": "A notícia expõe que métricas aparentemente objetivas podem estar mascarando a real capacidade dos agentes de IA, levando a decisões equivocadas de investimento, contratação de ferramentas e alocação de P&D em um mercado de dezenas de bilhões de dólares.",
+  "watch_next": [
+    "Pressão para reformulação ou substituição do SWE-Bench Pro por benchmarks mais robustos e realistas.",
+    "Impacto imediato na avaliação de startups e modelos de IA para código, com possível reavaliação de valuations e rodadas de investimento.",
+    "Adoção de metodologias de avaliação mais transparentes e resistentes a overfitting pela indústria."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas reportar a crítica técnica, mas conectá-la diretamente à economia da IA, quantificando o risco de 'US$ 10 bilhões' e posicionando a análise como um 'terremoto silencioso' que recalibra o radar de desenvolvedores, gestores e investidores."
+}

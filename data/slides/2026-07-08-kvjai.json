@@ -1,0 +1,53 @@
+{
+  "title": "O Ruído Bilionário dos Benchmarks: Como a Nova Análise da OpenAI Expõe a Fragilidade Oculta do SWE-Bench e Redefine a Economia da Avaliação de Agentes de Código",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Ruído Bilionário dos Benchmarks",
+      "subtext": "Como a OpenAI expôs a fragilidade oculta do SWE-Bench e está redefinindo a economia dos agentes de código",
+      "image_prompt": "A massive, glowing digital brain floating over a cracked golden benchmark trophy, with data streams and binary code bleeding out, dark futuristic tech background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a OpenAI publicou uma análise cirúrgica do SWE-Bench Pro, o benchmark mais influente para agentes de IA de código. O estudo revela que métricas consideradas padrão ouro podem estar mascarando um problema de US$ 10 bilhões.",
+      "highlight": "US$ 10 bilhões em investimentos baseados em métricas potencialmente quebradas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI identificou três falhas sistêmicas no SWE-Bench Pro: vazamento de dados de treinamento, testes de unidade insuficientes e overfitting estatístico. Muitos agentes que 'passam' no benchmark são inúteis em cenários reais de produção.",
+      "visual_hint": "Ícone de lupa sobre um gráfico de barras com uma rachadura no meio"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como Google, Microsoft e Amazon usam esse benchmark para decidir investimentos bilionários e contratações de ferramentas. Se a métrica está contaminada, todo o ecossistema de avaliação de agentes de codificação está comprometido.",
+      "visual_hint": "Três engrenagens douradas conectadas, uma delas quebrada, com cifrões caindo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "15-20% dos casos no SWE-Bench têm testes insuficientes ou mal escritos",
+        "Modelos de fronteira podem ter visto soluções similares durante o pré-treinamento",
+        "Mercado de IA para engenharia de software ultrapassa dezenas de bilhões de dólares anuais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pesquisadores precisam recalibrar métricas para evitar ilusão de progresso",
+        "Investidores devem exigir validação em cenários reais, não apenas benchmarks",
+        "Startups que dependem exclusivamente do SWE-Bench podem perder credibilidade"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O terremoto silencioso na avaliação de agentes de IA está só começando. Não deixe sua estratégia ser guiada por ruído."
+    }
+  ]
+}

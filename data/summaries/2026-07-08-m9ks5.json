@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI lança modelos de voz com streaming bidirecional contínuo, eliminando a latência em conversas com IA e abrindo caminho para a automação de call centers, tradução simultânea e assistentes em tempo real.",
+  "key_facts": [
+    "OpenAI anunciou novos modelos de voz para sua API com capacidade de falar e ouvir simultaneamente.",
+    "O modelo opera em streaming bidirecional contínuo, eliminando a latência percebida de pipelines ASR-LLM-TTS.",
+    "A tecnologia permite interrupções, sobreposições e ritmo natural de conversa humana.",
+    "O custo computacional é maior que o modo de voz tradicional, mas viabiliza mercados como call centers e tradução simultânea."
+  ],
+  "why_it_matters": "A remoção da latência em conversas por IA é o gatilho para a automação total de interações humanas em tempo real, impactando diretamente setores como call centers (centenas de bilhões de dólares) e assistentes pessoais, além de forçar concorrentes como Google e Anthropic a acelerarem suas respostas.",
+  "watch_next": [
+    "Corrida entre OpenAI, Google (Gemini Live) e Anthropic para dominar a economia da conversação em tempo real.",
+    "Impacto imediato no mercado de call centers, com empresas testando automação total de voz.",
+    "Possível anúncio de modelos nativamente multimodais de áudio por concorrentes nos próximos meses."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no impacto econômico e na quebra de barreira técnica da latência, em vez de apenas listar features. A escolha se justifica por antecipar um movimento estratégico que redefine a viabilidade comercial da IA de voz em tempo real."
+}

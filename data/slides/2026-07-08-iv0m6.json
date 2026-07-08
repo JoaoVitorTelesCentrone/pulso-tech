@@ -1,0 +1,53 @@
+{
+  "title": "GPT-Live-1: A Revolução Silenciosa da OpenAI na Economia da Interação por Voz",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-Live-1: A Revolução Silenciosa",
+      "subtext": "O modelo que aprendeu a se calar e está redefinindo a economia da conversação com IA",
+      "image_prompt": "Futuristic digital brain with sound waves fading into silence, dark blue and neon green tones, abstract tech background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 8 de julho de 2026, a OpenAI lançou o GPT-Live-1, um modelo de voz que interrompe menos e espera você terminar de falar. Por trás da aparente cortesia, existe uma mudança tectônica na economia da inferência e na batalha pela adoção em massa de assistentes de voz.",
+      "highlight": "Menos interrupção, mais humanidade — o maior gargalo dos assistentes de voz está sendo quebrado."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-Live-1 foi projetado para tornar a interação mais natural — menos um interrogatório robótico e mais uma conversa entre duas pessoas. Ele espera que você continue falando se fizer uma pausa no meio de uma frase, resolvendo a frustração de ser cortado no meio de um pensamento.",
+      "visual_hint": "Ícone de duas pessoas conversando com um símbolo de pausa e um coração"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A qualidade percebida da interação justifica o custo computacional extra de manter a inferência ativa durante os silêncios. Isso ataca diretamente a fricção de uso — o maior gargalo de adoção para assistentes de voz. Se o ChatGPT finalmente 'soa humano', a barreira psicológica para usá-lo em tarefas cotidianas cai drasticamente.",
+      "visual_hint": "Gráfico de adoção de assistentes de voz com uma curva ascendente acentuada"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelo treinado especificamente para dinâmica de conversação oral",
+        "Decisões de inferência em frações de segundo sobre silêncio vs. fim da fala",
+        "Integração da detecção de fala diretamente no loop de inferência do LLM"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Google, Apple e Amazon correm para dominar o 'modo conversacional'",
+        "OpenAI sai da fase de capacidades brutas para refinamento da experiência",
+        "Adoção em massa de assistentes de voz em tarefas cotidianas (agenda, compras, pesquisas)"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O silêncio do GPT-Live-1 pode ser o som mais alto da revolução da IA."
+    }
+  ]
+}

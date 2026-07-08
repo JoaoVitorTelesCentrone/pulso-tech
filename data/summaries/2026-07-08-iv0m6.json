@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI lança GPT-Live-1, modelo de voz que reduz interrupções e espera pausas naturais, resolvendo um dos maiores gargalos de adoção de assistentes de voz e sinalizando uma mudança estratégica da empresa para refinamento de experiência.",
+  "key_facts": [
+    "GPT-Live-1 foi anunciado em 8 de julho de 2026 como reformulação do modo de voz do ChatGPT.",
+    "O modelo interrompe menos e espera o usuário continuar falando após pausas, integrando detecção de fala no loop de inferência do LLM.",
+    "A atualização envolve um novo modelo de fundação treinado especificamente para timing, pausas e turnos de fala.",
+    "A mudança resolve o problema antigo de segmentação de fala (VAD) mal calibrada em assistentes de voz."
+  ],
+  "why_it_matters": "A notícia importa porque ataca diretamente a fricção de uso dos assistentes de voz — o maior obstáculo para adoção em massa. Se o ChatGPT soar mais humano ao conversar, a barreira psicológica para usá-lo em tarefas cotidianas cai drasticamente, intensificando a concorrência com Google, Apple e Amazon no mercado de assistentes conversacionais.",
+  "watch_next": [
+    "Google, Apple e Amazon devem responder com atualizações similares em seus assistentes de voz (Gemini Live, Siri, Alexa+).",
+    "A OpenAI pode expandir o GPT-Live-1 para outras aplicações de voz em tempo real, como call centers ou dispositivos domésticos.",
+    "O custo computacional extra do modelo pode levar a novos planos de precificação ou otimizações de inferência."
+  ],
+  "editorial_angle": "O artigo se diferencia ao ir além do anúncio superficial ('ChatGPT aprendeu a não interromper') e analisar as três camadas de impacto: economia da inferência de voz, batalha por assistentes e maturidade estratégica da OpenAI. Foi escolhido por oferecer uma visão técnica e de negócios rara sobre um lançamento que muitos tratariam como mera cortesia robótica."
+}
