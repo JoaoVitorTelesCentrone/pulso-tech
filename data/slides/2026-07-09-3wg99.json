@@ -1,0 +1,53 @@
+{
+  "title": "O Acordo Invisível: Como o Governo dos EUA Decidiu que o Modelo de Fronteira da OpenAI Era Seguro — e o que Isso Revela Sobre a Nova Economia da Regulação de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Acordo Invisível",
+      "subtext": "Como Washington decide o que é seguro — e o mercado ainda não precificou esse risco",
+      "image_prompt": "A dark, abstract digital landscape with a glowing, translucent wall between a futuristic city and a government building, symbolizing an invisible agreement and regulatory opacity."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O governo dos EUA criou um processo formal de revisão para modelos de fronteira de IA, mas os critérios, métodos e participantes desse 'júri' permanecem nebulosos. A decisão sobre a liberação do último modelo da OpenAI foi tomada em um diálogo opaco entre Washington e o Vale do Silício.",
+      "highlight": "O diálogo entre governo, OpenAI e Anthropic permanece 'não claro' — segundo o TechCrunch."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O governo não precisa aprovar formalmente um modelo — ele pode simplesmente não se opor. Mas o custo de uma oposição é o banimento ou restrição severa. Isso cria uma nova 'licença social para operar', baseada em concessões privadas que o mercado desconhece.",
+      "visual_hint": "Ícone de um cadeado com uma balança de justiça ao lado, representando decisões secretas com impacto público."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se o governo pode travar a liberação de um modelo por razões não públicas, o risco regulatório de qualquer empresa de IA de fronteira é incalculável. O banimento do modelo Fable 5 da Anthropic mostrou que o poder de veto estatal é real e abrupto.",
+      "visual_hint": "Gráfico de linha mostrando uma queda abrupta, com um ponto de interrogação sobre o eixo X."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Valuations da OpenAI e Anthropic: centenas de bilhões de dólares baseados em regulação previsível.",
+        "Modelo Fable 5 da Anthropic: banido pelo governo dos EUA sem critérios públicos detalhados.",
+        "Mercado de IA de fronteira: movimenta centenas de bilhões, mas o risco regulatório não está precificado."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Condicionamento de liberação a termos como percentual de receita para fundos de segurança.",
+        "Abertura obrigatória de capacidades para auditoria pública.",
+        "Criação de uma nova classe de ativos: a 'licença social para operar' — e o mercado ainda não sabe como avaliá-la."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O acordo invisível está sendo escrito agora. Quem não lê as entrelinhas, paga o preço."
+    }
+  ]
+}

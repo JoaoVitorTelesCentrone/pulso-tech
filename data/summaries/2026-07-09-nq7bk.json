@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI lança o ChatGPT Work, um agente de IA autônomo e persistente, junto com a liberação pública do GPT-5.6 após aval do governo Trump, sinalizando uma mudança radical no mercado de trabalho corporativo.",
+  "key_facts": [
+    "Governo Trump libera o GPT-5.6 para lançamento público após duas semanas de acesso limitado.",
+    "OpenAI anuncia o ChatGPT Work, um agente que pode executar tarefas por horas em múltiplos aplicativos.",
+    "New York Times apresenta moção de sanções contra a OpenAI por suposta ocultação de evidências em julgamento de direitos autorais.",
+    "Anúncio gerou 270 pontos e 116 comentários no Hacker News em poucas horas."
+  ],
+  "why_it_matters": "O ChatGPT Work resolve o gargalo da persistência temporal em agentes de IA, reduzindo o custo de reinicialização de contexto e tornando a substituição de trabalho intelectual (estagiários, analistas) uma realidade financeira imediata para empresas.",
+  "watch_next": [
+    "Desfecho do julgamento do New York Times contra a OpenAI e possíveis sanções que exponham datasets de treinamento.",
+    "Reação dos concorrentes (Anthropic, Google) e possível aceleração de seus próprios agentes persistentes.",
+    "Adoção corporativa do ChatGPT Work e impacto em métricas de produtividade e terceirização."
+  ],
+  "editorial_angle": "O artigo se destaca ao conectar o marco regulatório (liberação pelo governo Trump) com o lançamento do agente persistente, mostrando que a OpenAI não apenas avançou tecnicamente, mas também navegou o cenário político para entregar um produto que redefine a economia do trabalho intelectual."
+}

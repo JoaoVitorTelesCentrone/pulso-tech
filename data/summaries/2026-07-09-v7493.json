@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI lança o GPT-5.5 Bio Bug Bounty, um programa de recompensas de até US$ 1 milhão para pesquisadores que identificarem riscos biológicos no modelo, terceirizando a auditoria de segurança e criando um novo mercado de avaliação de riscos catastróficos.",
+  "key_facts": [
+    "O programa paga pesquisadores para encontrar maneiras de usar o GPT-5.5 na criação ou amplificação de ameaças biológicas.",
+    "As recompensas chegam a US$ 1 milhão por descoberta crítica, valor 10x maior que programas tradicionais de bug bounty.",
+    "O programa tem três níveis de severidade, variando de US$ 1.000 a US$ 1.000.000, dependendo do potencial de dano.",
+    "O anúncio ocorre semanas antes de uma audiência crucial no Senado dos EUA sobre o Secure AI Framework."
+  ],
+  "why_it_matters": "A notícia sinaliza que a indústria de IA reconhece que seus métodos atuais de segurança são insuficientes para modelos de fronteira, abrindo um novo mercado de auditoria externa de riscos catastróficos e pressionando outras empresas a adotarem medidas similares.",
+  "watch_next": [
+    "Possível adoção de programas similares por outras empresas de IA (Google DeepMind, Anthropic) como resposta regulatória.",
+    "Criação de um mercado de consultoria especializada em segurança biológica de IA, com certificações e padrões próprios.",
+    "Debate sobre a eficácia real do programa e se ele será suficiente para mitigar riscos existenciais ou apenas uma jogada de relações públicas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não no anúncio em si, mas na economia da confiança e na fragilidade estrutural dos métodos atuais de alignment, posicionando o bug bounty como um sintoma de uma crise de credibilidade na segurança de IA de fronteira."
+}

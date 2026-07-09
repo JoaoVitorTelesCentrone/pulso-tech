@@ -1,0 +1,16 @@
+{
+  "tldr": "Microsoft oficializou o GPT-5.6 como motor principal do Microsoft 365 Copilot, terceirizando o cérebro do Office para a OpenAI e consolidando o maior bloco de inferência corporativa do mundo.",
+  "key_facts": [
+    "GPT-5.6 é agora o modelo preferencial do Microsoft 365 Copilot para Word, Excel, PowerPoint, Outlook, Teams e Cowork.",
+    "Microsoft já investiu mais de US$ 13 bilhões na OpenAI desde 2023.",
+    "Mais de 400 mil empresas pagantes usam o Copilot, que gera US$ 67 bilhões em receita anual para a Microsoft.",
+    "O custo de inferência do GPT-5.6 é 40% menor que o do GPT-5, viabilizando a substituição do modelo híbrido anterior."
+  ],
+  "why_it_matters": "A notícia marca a consolidação do oligopólio de inferência de modelos de fronteira, valida o modelo de plataforma da OpenAI com receita corporativa recorrente e fecha o mercado corporativo para concorrentes como Anthropic e Google, que agora precisam competir com a inércia de centenas de milhões de usuários já integrados ao GPT-5.6.",
+  "watch_next": [
+    "Impacto nos valuations de concorrentes (Anthropic, Google) e possível reação do mercado de APIs corporativas.",
+    "Desdobramentos regulatórios sobre a dependência da Microsoft de um fornecedor externo para o core do Office.",
+    "Próximos passos da OpenAI rumo ao IPO, agora ancorada em receita recorrente corporativa."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar a decisão não como uma atualização técnica, mas como uma terceirização estratégica do cérebro do produto mais lucrativo da Microsoft, revelando a nova economia do SaaS corporativo onde a inteligência virou commodity fornecida pelo melhor player externo."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.6 Está no Ar: O Dia em que a OpenAI Deixou de Ser uma Empresa de Chatbots para se Tornar uma Plataforma de Infraestrutura",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-5.6 Está no Ar: O Dia em que a OpenAI Deixou de Ser uma Empresa de Chatbots para se Tornar uma Plataforma de Infraestrutura",
+      "subtext": "O lançamento silencioso que reconfigura a economia da inferência e acelera a comoditização dos modelos de fronteira.",
+      "image_prompt": "A futuristic digital brain network transforming into a vast server infrastructure, glowing blue and orange data streams, dark tech background, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 9 de julho de 2026, a OpenAI lançou globalmente a família de modelos GPT-5.6, não como um único modelo, mas como um conjunto de variantes otimizadas para diferentes perfis de uso, custo e latência. O anúncio foi operacional, quase burocrático, mas marca uma virada estratégica.",
+      "highlight": "Não é um modelo. É uma plataforma de infraestrutura."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI está replicando a estratégia da Nvidia: segmentar o mercado por capacidade de processamento e preço. O GPT-5.6 é uma família de modelos, com roteamento inteligente que decide em tempo real qual variante usar para cada requisição, baseado em complexidade, latência e custo.",
+      "visual_hint": "Ícone de roteamento de dados com múltiplos caminhos e engrenagens"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A guerra de benchmarks acabou. Agora a competição é no eixo 'infraestrutura de inferência'. A OpenAI está se transformando em uma plataforma de middleware, vendendo não um produto, mas um sistema operacional para IA. O custo de inferência se torna a variável crítica para desenvolvedores e empresas.",
+      "visual_hint": "Gráfico de barras comparando custo vs. capacidade das variantes do modelo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Família de modelos com múltiplas variantes de tamanho e custo",
+        "Sistema de roteamento interno decide a variante ideal em tempo real",
+        "Inferência adaptativa: tarefas simples usam modelos menores e mais baratos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Comoditização acelerada dos modelos de fronteira",
+        "Empresas precisarão repensar estratégias de pricing e otimização",
+        "A OpenAI se torna uma empresa de infraestrutura de IA, rivalizando com Google e Amazon"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está no modelo, mas em como ele é entregue, integrado e operado."
+    }
+  ]
+}

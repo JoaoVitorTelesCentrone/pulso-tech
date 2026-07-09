@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.5 Bio Bug Bounty: A Aposta de US$ 1 Bilhão da OpenAI na Segurança Biológica e o Novo Mercado de Auditoria de Riscos Catastróficos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-5.5 Bio Bug Bounty: A Aposta de US$ 1 Bilhão da OpenAI na Segurança Biológica",
+      "subtext": "O maior programa de recompensa por bugs da história não mira código, mas a capacidade do modelo de acelerar uma pandemia.",
+      "image_prompt": "A futuristic digital DNA helix intertwined with glowing code, dark background with neon blue and red accents, high tech biosecurity concept"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado discute IPOs e benchmarks, a OpenAI silenciosamente criou o maior programa de recompensa por bugs da história. O alvo não é código, mas a própria capacidade do modelo de acelerar uma pandemia.",
+      "highlight": "US$ 1 milhão por descoberta crítica — 10x mais que Google e Microsoft"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI lançou o GPT-5.5 Bio Bug Bounty, pagando pesquisadores externos para encontrar maneiras pelas quais seu modelo de fronteira poderia ser usado para criar ou amplificar ameaças biológicas. É uma terceirização da auditoria de segurança para a comunidade global.",
+      "visual_hint": "Ícone de um microscópio com um cadeado digital sobreposto"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A OpenAI admite que seus próprios testes de segurança não são suficientes. Se precisa de um bug bounty biológico, significa que nenhum método atual de alignment ou safety é confiável para garantir que o modelo não será usado como arma.",
+      "visual_hint": "Gráfico de risco crescente com uma linha vermelha ultrapassando o limite seguro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Teto de US$ 1 milhão por descoberta crítica — maior bug bounty de IA da história",
+        "3 níveis de severidade: de US$ 1.000 (baixo) a US$ 1.000.000 (crítico)",
+        "Google paga até US$ 150 mil; Microsoft, US$ 100 mil — OpenAI aposta 10x mais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novo mercado de auditoria de riscos catastróficos: segurança biológica vira commodity",
+        "Pressão regulatória aumenta: audiência no Senado dos EUA sobre Secure AI Framework",
+        "Indústria inteira exposta: se a OpenAI precisa de ajuda externa, ninguém está seguro"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da confiança em sistemas de fronteira está sendo reescrita — e você precisa entender os riscos."
+    }
+  ]
+}

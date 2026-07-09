@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI lança GPT-5.6 com um safety paper de 50 páginas, sinalizando que capacidade e confiabilidade estão em rota de colisão e que a economia da confiança em IA está mudando.",
+  "key_facts": [
+    "OpenAI lançou o GPT-5.6 em 9 de julho de 2026.",
+    "O lançamento incluiu um deploy safety paper de 50 páginas como parte central do anúncio.",
+    "O anúncio foi feito pelo executivo Levie no X/Twitter e rapidamente se tornou o tópico mais quente do Hacker News com mais de 730 pontos.",
+    "O safety paper documenta taxas de alucinação, comportamento sob jailbreak, viés e limitações conhecidas do modelo."
+  ],
+  "why_it_matters": "O artigo mostra que a confiança em IA está se tornando um custo operacional e um ativo competitivo: empresas que souberem interpretar o safety paper terão vantagem sobre as que apenas consomem o modelo, enquanto ignorar suas recomendações pode gerar riscos legais e bilionários.",
+  "watch_next": [
+    "Empresas começam a criar departamentos internos de auditoria de safety papers para modelos de fronteira.",
+    "Reguladores usam o safety paper do GPT-5.6 como referência para novas exigências de transparência em IA.",
+    "Concorrentes como Anthropic e Google DeepMind adotam estratégia similar de publicar safety papers junto com lançamentos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o safety paper não como um detalhe técnico, mas como o verdadeiro produto e contrato comercial do lançamento, invertendo a narrativa tradicional de que modelos melhores são automaticamente mais seguros."
+}

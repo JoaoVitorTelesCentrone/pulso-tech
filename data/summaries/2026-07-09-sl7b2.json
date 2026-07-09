@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI descontinua o navegador Atlas após menos de um ano, revelando que a economia dos agentes de IA autônomos enfrenta gargalos estruturais de confiabilidade e custo que nem a empresa mais valiosa do setor conseguiu superar.",
+  "key_facts": [
+    "OpenAI lançou o navegador Atlas em outubro de 2025 e o descontinuou em julho de 2026, sem alarde.",
+    "O Atlas sofria de problemas crônicos de confiabilidade (agentes travando em páginas dinâmicas, dificuldade com autenticação em dois fatores).",
+    "O custo de inferência por tarefa variava de US$ 0,50 a US$ 15 por usuário ativo, tornando o modelo de negócio insustentável.",
+    "A base estimada era de 200 mil usuários ativos mensais, com baixo engajamento (média de 3 tarefas por semana entre assinantes Plus)."
+  ],
+  "why_it_matters": "O fracasso do Atlas mostra que a promessa dos agentes de IA autônomos esbarra em problemas fundamentais de execução na web real e em custos computacionais proibitivos, colocando em xeque a viabilidade de todo o segmento, mesmo para empresas com recursos ilimitados.",
+  "watch_next": [
+    "Impacto no mercado de agentes concorrentes (Anthropic, Google, startups) — se a OpenAI falhou, investidores podem reavaliar o setor.",
+    "Possível pivot da OpenAI para agentes corporativos mais controlados (como o ChatGPT Work), abandonando o mercado de consumo em massa.",
+    "Debate sobre a necessidade de uma 'web para agentes' — padrões ou protocolos que reduzam a complexidade de navegação automatizada."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na economia real dos agentes de IA — custos de inferência, engajamento e modelo de negócio — em vez de apenas relatar o fracasso técnico, oferecendo uma análise crítica sobre a sustentabilidade do setor."
+}

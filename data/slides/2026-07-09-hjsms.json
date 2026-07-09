@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.6: O Modelo que a OpenAI Não Quer Que Você Use sem Supervisão — e a Nova Economia da Delegação de Confiança",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-5.6: O Modelo que a OpenAI Não Quer Que Você Use sem Supervisão",
+      "subtext": "O safety paper de 50 páginas é o verdadeiro produto. A economia da confiança em IA está mudando de mãos.",
+      "image_prompt": "A futuristic glowing AI brain with a padlock and warning symbols, dark blue and purple tones, cinematic lighting, digital art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a OpenAI lançou o GPT-5.6 — seu modelo mais capaz até hoje. Pela primeira vez, o deploy safety paper de 50 páginas foi lançado junto com o modelo, não como um anexo posterior.",
+      "highlight": "O anúncio explodiu no Hacker News com mais de 730 pontos."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI está admitindo que capacidade e confiabilidade estão em rota de colisão. O safety paper documenta onde o modelo pode quebrar, mentir ou agir de forma imprevisível. É um manual de instruções — e um alerta.",
+      "visual_hint": "Ícone de um manual aberto com um cadeado e um ponto de exclamação vermelho"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo da confiança está subindo. Agora, validar um modelo exige auditoria de comportamento, testes adversários e análise de falhas. Quem entende o safety paper de 50 páginas tem vantagem competitiva sobre quem apenas lê o resumo.",
+      "visual_hint": "Gráfico de linha ascendente com um ícone de lupa e um escudo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "50 páginas de deploy safety paper — o maior já publicado pela OpenAI",
+        "730+ pontos no Hacker News em menos de 24h",
+        "3 links no anúncio: modelo, API e safety paper (pela primeira vez)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas que ignorarem o safety paper assumem riscos bilionários",
+        "Surge um novo mercado: os que entendem os riscos vs. os que só usam o modelo",
+        "O safety paper vira documento legal e comercial — o novo contrato da IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A nova economia da delegação de confiança está só começando. Não fique para trás."
+    }
+  ]
+}

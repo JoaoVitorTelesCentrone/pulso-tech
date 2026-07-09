@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.6 e ChatGPT Work: O Dia em que a OpenAI Deixou de Ser um Produto e Virou um Funcionário",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-5.6 e ChatGPT Work: O Dia em que a OpenAI Deixou de Ser um Produto e Virou um Funcionário",
+      "subtext": "Enquanto o governo Trump libera o modelo mais poderoso da OpenAI, a empresa anuncia o 'ChatGPT Work' — um agente que promete executar tarefas por horas. O mercado de trabalho corporativo nunca mais será o mesmo.",
+      "image_prompt": "A futuristic digital brain merging with a corporate office desk, glowing blue circuits, dark background, cinematic lighting, high contrast, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Duas semanas de drama regulatório e acesso limitado ao GPT-5.6. Agora, a administração Trump dá sinal verde para o lançamento público. Sam Altman chama o modelo de 'o melhor que já construímos'.",
+      "highlight": "A corrida regulatória não vai frear a inovação americana em IA."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI anuncia o ChatGPT Work: um agente que pode agir em seus aplicativos e arquivos, permanecer em um projeto por horas se necessário, e transformar um objetivo em trabalho concluído. No Hacker News, o anúncio acumulou 270 pontos e 116 comentários em poucas horas.",
+      "visual_hint": "Ícone de um robô sentado em uma cadeira de escritório, com telas flutuantes ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Até agora, agentes de IA corporativos eram promessas — ferramentas que executavam tarefas curtas, precisavam de supervisão constante e travavam em qualquer desvio do roteiro. O ChatGPT Work resolve o gargalo da persistência temporal: reduz o custo de reinicialização de contexto a zero.",
+      "visual_hint": "Gráfico de linha mostrando produtividade vs. tempo, com um salto abrupto após a introdução do ChatGPT Work"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "270 pontos e 116 comentários no Hacker News em poucas horas",
+        "2 semanas de 'limited preview' como gesto político, não barreira real",
+        "ROI da adoção de IA corporativa sai da especulação para os balanços financeiros"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "ChatGPT Work pode substituir estagiários, analistas juniores e assistentes de pesquisa por fração do custo",
+        "Concorrentes (Anthropic, Google) ficam para trás — OpenAI conseguiu aprovação regulatória e lançou o agente mais ambicioso na mesma semana",
+        "Nuvem jurídica do NYT sobre ocultação de evidências pode forçar abertura de datasets de treinamento"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O mercado de trabalho corporativo nunca mais será o mesmo. Prepare-se."
+    }
+  ]
+}

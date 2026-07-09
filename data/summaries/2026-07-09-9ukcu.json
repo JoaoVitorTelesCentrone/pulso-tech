@@ -1,0 +1,15 @@
+{
+  "tldr": "OpenAI lança família de modelos GPT-5.6, sinalizando uma mudança estratégica de competir por qualidade de modelo para competir como plataforma de infraestrutura de inferência, com roteamento inteligente e precificação segmentada.",
+  "key_facts": [
+    "OpenAI lançou globalmente a família de modelos GPT-5.6 em 9 de julho de 2026, tanto no ChatGPT quanto na API.",
+    "A família inclui variantes otimizadas para diferentes perfis de uso, custo e latência, segmentando o mercado como a Nvidia faz com GPUs.",
+    "A OpenAI desenvolveu um sistema de roteamento interno que decide em tempo real qual variante do modelo usar para cada requisição, baseado em complexidade, histórico, latência e custo."
+  ],
+  "why_it_matters": "A notícia importa porque marca a comoditização dos modelos de fronteira e a transformação da OpenAI em uma plataforma de middleware de IA, onde o diferencial competitivo passa a ser a infraestrutura de inferência, o roteamento inteligente e o custo, e não mais a qualidade bruta do modelo.",
+  "watch_next": [
+    "Concorrentes como Google, Anthropic e Meta devem anunciar estratégias similares de famílias de modelos e roteamento inteligente.",
+    "O mercado de APIs de IA pode passar por uma guerra de preços, com foco em eficiência de inferência e pricing dinâmico.",
+    "Empresas que dependem de um único modelo de fronteira podem precisar repensar suas arquiteturas para se adaptar a múltiplas variantes e custos variáveis."
+  ],
+  "editorial_angle": "O artigo se diferencia ao interpretar o lançamento não como uma atualização técnica, mas como um movimento estratégico que redefine o posicionamento da OpenAI — de empresa de chatbots para plataforma de infraestrutura —, destacando a 'inferência adaptativa' e a comoditização como tendências centrais para o mercado de IA."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Fim do ChatGPT Atlas: O Que a Morte do Navegador da OpenAI Revela Sobre a Economia Real dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim do ChatGPT Atlas",
+      "subtext": "O que a morte do navegador da OpenAI revela sobre a economia real dos agentes de IA",
+      "image_prompt": "A futuristic browser interface crumbling into digital dust, with the OpenAI logo fading in the background, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em outubro de 2025, a OpenAI lançou o Atlas: um navegador que prometia agir como um assistente autônomo na web. Nove meses depois, em julho de 2026, o produto foi silenciosamente descontinuado.",
+      "highlight": "Menos de um ano de vida — e nenhuma despedida."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Atlas falhou não por falta de inteligência, mas por problemas estruturais: a web não foi projetada para agentes. Sites dinâmicos, autenticação em dois fatores e CAPTCHas tornaram a execução de tarefas simples cara e imprevisível.",
+      "visual_hint": "Ícone de engrenagem quebrada sobre um globo digital"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se a OpenAI — com os melhores modelos, capital ilimitado e maior base de usuários — não conseguiu fazer o Atlas funcionar, o que isso diz sobre as chances de todos os outros? O sonho dos agentes autônomos esbarra na realidade do custo e da confiabilidade.",
+      "visual_hint": "Gráfico de linha descendente com um ponto de interrogação no final"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Cada tarefa no Atlas consumia entre 5.000 e 50.000 tokens de contexto",
+        "Custo de inferência por tarefa: até US$ 0,50 — inviável para massa",
+        "Usuários ativos mensais: apenas 200 mil, com 3 tarefas por semana"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A corrida por agentes autônomos precisará repensar modelos de negócio",
+        "A web precisará se adaptar — ou os agentes continuarão caros e frágeis",
+        "Empresas como Anthropic e Google enfrentam os mesmos gargalos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos agentes de IA ainda está sendo escrito — e os próximos capítulos prometem reviravoltas."
+    }
+  ]
+}
