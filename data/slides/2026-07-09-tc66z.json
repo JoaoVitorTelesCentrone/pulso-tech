@@ -1,0 +1,53 @@
+{
+  "title": "O Efeito Arreio: Como o Design de Orquestração Está Criando o Próximo Gargalo de US$ 100 Bilhões na Economia dos Agentes de IA Corporativos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Efeito Arreio: O Gargalo Invisível de US$ 100 Bilhões",
+      "subtext": "O design de orquestração está queimando seu ROI em agentes de IA — e você nem percebeu.",
+      "image_prompt": "A futuristic digital harness made of glowing data streams and token chains, constricting a massive corporate AI agent, dark tech background with neon blue and red highlights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv revela que o custo real por tarefa em agentes corporativos de IA está sendo mascarado pela queda nos preços por token. O problema não é o modelo — é o arreio que o prende.",
+      "highlight": "Custo real por tarefa pode estar 3x a 10x maior do que o estimado."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper define o 'Efeito Arreio': a diferença entre o custo teórico mínimo de uma tarefa e o custo real em produção, causado por um design de orquestração ineficiente. Equipes estão em um regime de 'token maxing' — jogando mais tokens no problema sem gerar valor proporcional.",
+      "visual_hint": "Ícone de um cavalo com arreio apertado, soltando faíscas de tokens queimados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para CTOs, VPs de Engenharia e investidores: o ROI de cada implementação de agente está sendo drenado por desperdício sistêmico. A próxima fronteira de otimização não é o modelo, mas como você projeta o loop de interação do seu agente.",
+      "visual_hint": "Gráfico de duas curvas: uma descendo (preço por token) e outra subindo (custo real por tarefa), com um gap crescente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo por tarefa pode estar subestimado por um fator de 3x a 10x.",
+        "Contexto replay inflacionário: custo de contexto cresce quadraticamente com o número de interações.",
+        "Tool payload expansion: schemas completos de ferramentas são reenviados a cada chamada, mesmo quando desnecessários."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Repensar arquiteturas de orquestração será tão crítico quanto escolher o modelo base.",
+        "Ferramentas de profiling de tokens por tarefa se tornarão padrão em pipelines corporativos.",
+        "Startups que otimizarem o 'arreio' terão vantagem competitiva massiva."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo gargalo de US$ 100 bilhões está na sua orquestração. Não espere até sentir o aperto."
+    }
+  ]
+}

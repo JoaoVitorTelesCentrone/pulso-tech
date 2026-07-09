@@ -1,0 +1,53 @@
+{
+  "title": "Large Tabular Models: A Revolução Silenciosa que Expõe o Gargalo de US$ 100 Bilhões dos LLMs em Dados Estruturados",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Large Tabular Models: A Revolução Silenciosa",
+      "subtext": "Enquanto o mercado corre atrás de chatbots, um novo paper do IEEE Spectrum revela o gargalo de US$ 100 bilhões dos LLMs em dados estruturados.",
+      "image_prompt": "A futuristic digital landscape with glowing data tables and charts, contrasting a small, overwhelmed LLM icon against a massive, efficient LTM engine, dark blue and neon cyan tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O IEEE Spectrum publicou uma análise sobre Large Tabular Models (LTMs), uma nova classe de IA projetada para dados estruturados. Enquanto LLMs dominam texto e imagem, 90% dos sistemas corporativos rodam em tabelas — e os LLMs falham nisso.",
+      "highlight": "90% dos sistemas corporativos dependem de dados tabulares"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "LTMs como Nexus-7B e TabularAI superam LLMs em tarefas de tabelas com precisão até 40% superior. Empresas de finanças, seguros e e-commerce já reduziram erros de churn em 35% e aumentaram detecção de fraudes em 28%.",
+      "visual_hint": "Ícone de tabela com seta verde para cima vs. LLM com seta vermelha para baixo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Mais de US$ 100 bilhões são gastos anualmente em infraestrutura de dados corporativos. Empresas que investiram pesado em LLMs para análise de tabelas podem estar desperdiçando recursos — o ROI real está nos modelos especializados.",
+      "visual_hint": "Gráfico de barras mostrando US$ 100B vs. investimento em LLMs"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Precisão até 40% superior em benchmarks como TabBench e ForestCover",
+        "Redução de 35% em erros de previsão de churn com LTMs",
+        "Aumento de 28% na acurácia de detecção de fraudes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas que investiram em LLMs para dados estruturados podem estar desperdiçando recursos",
+        "ROI de IA em finanças, saúde e logística será maior com LTMs",
+        "Nova corrida de capital de risco em modelos especializados, não generalistas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O paper do IEEE Spectrum não é só curiosidade acadêmica — é um alerta para CTOs e investidores. Não fique para trás."
+    }
+  ]
+}

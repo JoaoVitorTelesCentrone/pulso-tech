@@ -1,0 +1,15 @@
+{
+  "tldr": "Paper do arXiv revela que integrar LLMs como motores de raciocínio em modelos baseados em agentes (ABMs) para simulação de políticas públicas enfrenta um gargalo de custo computacional explosivo, inviabilizando economicamente a adoção em larga escala.",
+  "key_facts": [
+    "Paper arXiv:2607.06757 propõe substituir regras fixas de ABMs por decisões contextuais de LLMs.",
+    "Mercado global de modelagem e simulação para políticas públicas é estimado em US$ 10 bilhões anuais.",
+    "Custo de inferência para uma simulação com 1 milhão de agentes pode chegar a centenas de milhares de dólares por rodada.",
+    "Simulações de políticas públicas exigem centenas de milhares de rodadas para calibração e validação."
+  ],
+  "why_it_matters": "A notícia expõe um gargalo econômico crítico que pode frear a promessa de simulações adaptativas em tempo real para políticas públicas, planejamento urbano e gestão de crises, áreas que dependem de modelos precisos e escaláveis.",
+  "watch_next": [
+    "Surgimento de técnicas de otimização de inferência (ex.: fine-tuning, modelos menores, caching) para reduzir custos em ABMs.",
+    "Debate sobre viabilidade econômica versus ganhos de precisão em simulações governamentais e de infraestrutura."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no custo computacional como o verdadeiro gargalo, em vez de apenas celebrar a inovação técnica, conectando diretamente a fragilidade dos modelos tradicionais (exposta na pandemia) com a inviabilidade econômica da solução LLM."
+}

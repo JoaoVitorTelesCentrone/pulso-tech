@@ -1,0 +1,15 @@
+{
+  "tldr": "Paper do arXiv propõe agentes de IA que usam SageMath como calculadora externa, superando LLMs puros em até 40% em matemática computacional e expondo um gargalo de US$ 10 bilhões em P&D.",
+  "key_facts": [
+    "Paper 'Evaluating SageMath-Augmented LLM Agents for Computational and Experimental Mathematics' (2607.06820) propõe framework ReAct-style que combina LLMs com SageMath.",
+    "Abordagem híbrida supera LLMs puros em até 40% em tarefas de manipulação simbólica, como teoria dos números e geometria algébrica.",
+    "Indústria de IA gastou US$ 80 bilhões em treinamento em 2025, mas subutiliza sistemas de álgebra computacional (CAS) como SageMath, Mathematica e Maple."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o artigo revela que a corrida por modelos de raciocínio matemático puro ignora uma solução mais barata e eficaz: integrar CAS como backend. Isso pode redirecionar investimentos de P&D, reduzir custos de inferência e acelerar descobertas em áreas como engenharia, finanças e criptografia.",
+  "watch_next": [
+    "Startups de IA matemática podem pivotar para arquiteturas híbridas LLM + CAS, gerando nova onda de ferramentas de automação científica.",
+    "Grandes players (Google, OpenAI, Meta) podem integrar SageMath ou Mathematica em seus agentes, tornando obsoletos modelos focados apenas em raciocínio simbólico.",
+    "Mercado de P&D farmacêutico e simulações físicas pode adotar agentes SageMath-LLM para reduzir custos de inferência em até 90%."
+  ],
+  "editorial_angle": "O artigo se diferencia ao expor um gargalo econômico e técnico ignorado pela mídia de IA, que foca em benchmarks de raciocínio. Em vez de celebrar avanços em LLMs, ele critica a subutilização de ferramentas maduras e propõe uma mudança de paradigma — de 'modelos que pensam' para 'orquestradores de ferramentas'. Foi escolhido por seu potencial de redefinir a economia da automação científica."
+}

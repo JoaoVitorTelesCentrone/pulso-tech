@@ -1,0 +1,53 @@
+{
+  "title": "RAG na Saúde Pública: O Novo Paper do arXiv que Expõe o Gargalo de US$ 50 Bilhões na Confiabilidade de LLMs Clínicos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 50 Bilhões na Confiabilidade de LLMs Clínicos",
+      "subtext": "Um novo paper do arXiv revela que a verdadeira barreira para a IA na saúde não é o raciocínio, mas a recuperação de informação.",
+      "image_prompt": "A futuristic digital brain made of medical data streams and glowing nodes, with a subtle red warning pulse in the background, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de IA em saúde deve ultrapassar US$ 200 bilhões até 2030, mas a adoção em sistemas públicos de saúde é drasticamente lenta. O motivo? O risco de um LLM 'alucinar' uma recomendação clínica é inaceitável.",
+      "highlight": "US$ 200 bi até 2030, mas adoção travada por falta de confiança"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe uma arquitetura RAG calibrada para saúde pública, focando em eliminar alucinações e obsolescência de diretrizes. O estudo mostra que modelos de fronteira falham quando confrontados com protocolos que mudam semanalmente.",
+      "visual_hint": "Ícone de um cérebro com engrenagens e um escudo de verificação"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para governos, hospitais e agências como OMS e CDC, uma alucinação não é um bug — é um risco legal e reputacional. O paper expõe que o verdadeiro valor não está em modelos maiores, mas em sistemas de recuperação de informação confiáveis e economicamente viáveis.",
+      "visual_hint": "Gráfico de adoção vs. confiança, com uma seta apontando para o gap"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: gargalo estimado pela incapacidade de LLMs se manterem atualizados sem RAG",
+        "3 problemas resolvidos: fragmentação semântica, relevância temporal e verificação cruzada",
+        "Modelos treinados em 2024 podem recomendar protocolos desatualizados em 2025"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A corrida não é mais por 'qual modelo alucina menos', mas por 'qual sistema de RAG elimina alucinações de forma viável'",
+        "Infraestrutura de dados curados em tempo real se torna o novo diferencial competitivo",
+        "Adoção em saúde pública pode acelerar se a confiabilidade for resolvida"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA na saúde não está nos modelos, mas na orquestração da informação."
+    }
+  ]
+}

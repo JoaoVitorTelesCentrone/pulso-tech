@@ -1,0 +1,53 @@
+{
+  "title": "SageMath + LLMs: O Gargalo de US$ 10 Bilhões que a Matemática Experimental Está Ignorando",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "SageMath + LLMs: O Gargalo de US$ 10 Bilhões",
+      "subtext": "Enquanto o mercado foca em raciocínio simbólico, um novo paper revela o elo perdido da automação matemática.",
+      "image_prompt": "A futuristic digital landscape with a glowing neural network intertwined with geometric shapes and algebraic symbols, dark blue and neon orange tones, high contrast, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria de IA gastou US$ 80 bilhões em treinamento de modelos em 2025, focando em raciocínio matemático puro. Mas LLMs sozinhos são péssimos em matemática computacional de verdade — alucinam derivadas e falham em precisão simbólica.",
+      "highlight": "US$ 80 bilhões gastos, mas o elo mais óbvio foi ignorado."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram no arXiv um framework ReAct-style que combina LLMs com o SageMath — um dos CAS mais poderosos e open source. O LLM decide o que calcular, e o SageMath executa com precisão absoluta. Sem alucinações.",
+      "visual_hint": "Ícone de engrenagem com cérebro digital ao centro, setas indicando fluxo de decisão e execução"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Mercados como engenharia, finanças quantitativas, criptografia e P&D farmacêutico queimam bilhões em inferência de LLMs que poderiam ser resolvidos com uma fração do custo usando CAS como backend. A abordagem híbrida supera em até 40% a acurácia de LLMs isolados.",
+      "visual_hint": "Gráfico de barras comparando acurácia: LLM puro vs. LLM + SageMath, com destaque no ganho de 40%"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 80 bi gastos em treinamento de LLMs em 2025",
+        "Até 40% mais acurácia com SageMath + LLM vs. LLM puro",
+        "US$ 10 bi em P&D desperdiçados por ignorar CAS"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "LLMs deixam de 'pensar' matemática e passam a orquestrar ferramentas",
+        "Automação de descobertas em teoria dos números, geometria algébrica e cálculo simbólico",
+        "Redução drástica de custos em inferência para problemas matemáticos reais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da matemática experimental não está em modelos maiores, mas em ferramentas mais inteligentes."
+    }
+  ]
+}

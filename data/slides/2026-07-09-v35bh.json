@@ -1,0 +1,53 @@
+{
+  "title": "Nvidia e Hugging Face Abrem o Código dos Dados para Agentes de IA: O Gargalo de US$ 100 Bilhões que a Indústria Preferiu Ignorar",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 100 Bilhões que a Indústria Preferiu Ignorar",
+      "subtext": "Nvidia e Hugging Face abrem o código dos dados para agentes de IA — e mudam o jogo para sempre",
+      "image_prompt": "A futuristic digital landscape with a massive glowing bottleneck shape in the center, surrounded by scattered data streams and AI agent silhouettes, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado corre para construir modelos maiores e mais rápidos, a realidade da implantação de agentes de IA tem sido brutal. Empresas descobrem que agentes alucinam em tarefas simples, não generalizam e quebram com frequência.",
+      "highlight": "O problema não é de computação — é de dados."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Em 8 de julho de 2026, Nvidia e Hugging Face publicaram o repositório 'Data for Agents': um conjunto de dados abertos, curados e prontos para treinar agentes de IA autônomos. Não é um novo modelo ou chip — é algo mais estratégico.",
+      "visual_hint": "Ícone de engrenagem com um banco de dados aberto ao centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Os melhores modelos do mundo (GPT-5, Claude Sonnet 5, Gemini Spark) falham em tarefas de agente em ambientes não vistos. O gargalo não é arquitetura — é a qualidade e diversidade dos dados de interação. Agora, qualquer pesquisador pode treinar agentes sem depender de dados proprietários.",
+      "visual_hint": "Gráfico de barras mostrando desempenho de modelos caindo em tarefas do mundo real"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA avaliado em US$ 100 bilhões",
+        "Dados abertos incluem trajetórias de navegação web, interações simuladas e benchmarks multi-etapas",
+        "Até hoje, os melhores dados estavam trancados nos cofres de gigantes como OpenAI e Anthropic"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Curadoria de dados se torna o novo campo de batalha — não mais 'qual modelo é mais rápido?'",
+        "Pesquisadores e empresas podem treinar agentes sem depender de dados proprietários",
+        "Abertura catalisa um ecossistema onde agentes realmente funcionam em tarefas do mundo real"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo de US$ 100 bilhões finalmente tem solução — e ela é aberta."
+    }
+  ]
+}

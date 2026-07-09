@@ -1,0 +1,53 @@
+{
+  "title": "Raciocínio de LLMs em Modelagem Baseada em Agentes: O Gargalo de US$ 10 Bilhões que a Simulação de Políticas Públicas Está Ignorando",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 10 Bilhões na Simulação de Políticas Públicas",
+      "subtext": "LLMs prometem revolução, mas o custo computacional pode inviabilizar tudo",
+      "image_prompt": "A futuristic city simulation with millions of glowing agents, each connected by data streams, with a central AI brain processing decisions, dark tech aesthetic, digital art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv propõe usar LLMs como 'cérebros' de agentes em simulações de políticas públicas. A ideia: substituir regras fixas por decisões contextuais e adaptativas. O mercado global de modelagem e simulação movimenta US$ 10 bilhões anuais.",
+      "highlight": "US$ 10 bilhões anuais em modelagem e simulação"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores integraram LLMs a modelos baseados em agentes (ABMs) para criar simulações adaptativas. Cada agente agora raciocina com prompts contextuais, gerando ações realistas em tempo real. O problema? O custo de inferência explode: uma única simulação com 1 milhão de agentes pode custar centenas de milhares de dólares.",
+      "visual_hint": "Ícone de cérebro conectado a uma rede de pontos (agentes)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Governos, bancos centrais e agências de saúde dependem desses modelos para decisões que afetam bilhões de pessoas. A pandemia de COVID-19 mostrou a fragilidade dos modelos tradicionais. Se os LLMs tornarem as simulações adaptativas, o impacto é imediato: políticas mais eficientes e respostas mais rápidas a crises. Mas o custo pode inviabilizar a adoção em larga escala.",
+      "visual_hint": "Gráfico de linha mostrando custo de simulação crescendo exponencialmente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: mercado global de modelagem e simulação para políticas públicas",
+        "1 milhão de agentes: escala típica de uma simulação urbana",
+        "Centenas de milhares de dólares: custo estimado de uma única rodada com LLMs"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Simulações mais realistas, mas com custo proibitivo para muitos governos",
+        "Pressão por LLMs mais eficientes e especializados para simulação",
+        "Risco de concentração de tecnologia em poucos players com recursos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da simulação de políticas públicas está em jogo — e o custo pode ser o maior obstáculo"
+    }
+  ]
+}

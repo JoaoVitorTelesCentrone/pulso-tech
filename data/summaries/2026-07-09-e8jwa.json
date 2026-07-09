@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo paper do arXiv revela que o verdadeiro gargalo para a generalização de agentes de IA não é técnico, mas econômico: os métodos que funcionam no benchmark ARC-AGI-1 são caros demais para escalar comercialmente, ameaçando o ROI do mercado de agentes corporativos.",
+  "key_facts": [
+    "O paper 'Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1' foi publicado no arXiv.",
+    "Dois regimes dominantes no ARC-AGI-1 são identificados: heavy test-time compute e treinamento específico para o benchmark.",
+    "O custo por problema resolvido com test-time compute pesado pode chegar a US$ 100, inviabilizando aplicações empresariais em escala.",
+    "Modelos treinados especificamente para o benchmark falham em generalizar para tarefas do mundo real."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, a notícia expõe uma falha crítica na promessa de agentes autônomos: o custo do raciocínio em tempo real pode tornar o mercado de US$ 100 bilhões em agentes corporativos economicamente inviável, forçando uma reavaliação de estratégias de investimento e desenvolvimento.",
+  "watch_next": [
+    "Empresas de IA podem anunciar novas abordagens de inferência eficiente para reduzir custos de test-time compute.",
+    "O mercado de agentes corporativos pode enfrentar uma correção se os custos não forem resolvidos, com startups focadas em generalização barata ganhando destaque.",
+    "Publicação de novos benchmarks que testem não apenas precisão, mas também eficiência econômica de agentes de IA."
+  ],
+  "editorial_angle": "Este artigo se diferencia ao conectar um resultado técnico de pesquisa (paper do arXiv) com uma análise econômica direta do mercado de agentes de IA, revelando um gargalo de US$ 10 bilhões que a maioria das coberturas ignora. Foi escolhido por oferecer uma perspectiva crítica e pouco explorada sobre a viabilidade comercial da IA generativa."
+}

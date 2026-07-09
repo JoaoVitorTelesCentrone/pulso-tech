@@ -1,0 +1,15 @@
+{
+  "tldr": "Paper do arXiv revela que o design de orquestração de agentes de IA, e não o modelo base, é o principal responsável pelo desperdício de tokens, criando um gargalo econômico que pode custar US$ 100 bilhões às empresas.",
+  "key_facts": [
+    "O paper 'The Harness Effect' mede o impacto econômico do design de orquestração de agentes, não apenas a performance dos modelos.",
+    "O custo real por tarefa útil não cai na mesma proporção que o preço por token devido ao desperdício sistêmico na arquitetura.",
+    "Quatro mecanismos amplificam o efeito: Contexto Replay Inflacionário, Tool Payload Expansion, e outros dois não detalhados no trecho.",
+    "O custo de inferência pode estar subestimado por um fator de 3x a 10x devido ao 'arreio' (harness) construído em volta do modelo."
+  ],
+  "why_it_matters": "Para gestores e investidores, é um alerta sobre o ROI real de agentes corporativos; para desenvolvedores, um chamado para repensar a arquitetura de orquestração como a próxima fronteira de otimização de custos.",
+  "watch_next": [
+    "Empresas de infraestrutura de IA lançarem ferramentas de diagnóstico e otimização de orquestração baseadas nos princípios do paper.",
+    "Provedores de modelos (OpenAI, Anthropic) incorporarem métricas de eficiência de orquestração em suas ofertas empresariais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na economia invisível do design de orquestração, em vez de benchmarks de modelos, oferecendo uma lupa sobre o desperdício financeiro que está sendo mascarado pela queda nos preços dos tokens."
+}

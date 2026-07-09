@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo paper do arXiv propõe uma arquitetura RAG calibrada para saúde pública, revelando que o gargalo de US$ 50 bilhões na adoção de LLMs clínicos não é a capacidade de raciocínio, mas a confiabilidade e atualização da informação recuperada.",
+  "key_facts": [
+    "Paper 'Healthier LLMs: Retrieval-Augmented Generation for Public Health Question Answering' (arXiv:2607.06641) aborda alucinações e obsolescência de diretrizes em LLMs clínicos.",
+    "Mercado de IA em saúde deve ultrapassar US$ 200 bilhões até 2030, mas adoção em saúde pública é lenta devido a riscos reputacionais e legais de alucinações.",
+    "Arquitetura RAG proposta foca em fragmentação semântica, relevância temporal e verificação cruzada para mitigar alucinações.",
+    "Estudo quantifica a degradação de performance de LLMs quando confrontados com diretrizes desatualizadas após a data de corte de treinamento."
+  ],
+  "why_it_matters": "A notícia importa porque redireciona o foco da indústria de IA/Tech do tamanho dos modelos para a infraestrutura de dados curados em tempo real, apontando que o verdadeiro valor comercial e de adoção está em sistemas RAG confiáveis, não em LLMs maiores.",
+  "watch_next": [
+    "Empresas de IA e startups de saúde devem anunciar parcerias ou produtos focados em RAG para saúde pública, visando capturar o gargalo de US$ 50 bilhões.",
+    "Agências como OMS e CDC podem publicar diretrizes oficiais ou padrões para validação de sistemas RAG em contextos clínicos.",
+    "Surgimento de benchmarks específicos para avaliar a confiabilidade temporal e a verificação cruzada em sistemas RAG de saúde."
+  ],
+  "editorial_angle": "O artigo se diferencia por não ser apenas mais um benchmark de LLM, mas sim uma análise crítica do gargalo econômico e técnico que impede a adoção real de IA em saúde pública, conectando um paper acadêmico a um problema de mercado de bilhões de dólares e oferecendo um arcabouço prático para gestores e investidores."
+}

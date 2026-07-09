@@ -1,0 +1,14 @@
+{
+  "tldr": "Large Tabular Models (LTMs) superam LLMs em dados estruturados, expondo um gargalo de US$ 100 bilhões no mercado corporativo.",
+  "key_facts": [
+    "LTMs alcançam precisão até 40% superior em benchmarks como TabBench e ForestCover comparado a LLMs.",
+    "Empresas como NexusML e TabularAI lideram a adoção de LTMs, com redução de 35% em erros de previsão de churn e aumento de 28% na detecção de fraudes.",
+    "Mais de US$ 100 bilhões são gastos anualmente em infraestrutura de dados corporativos que depende de análise de tabelas."
+  ],
+  "why_it_matters": "A notícia desafia a crença de que LLMs são soluções universais, alertando CTOs e investidores sobre o desperdício de recursos em modelos inadequados para o motor econômico real das empresas: dados estruturados.",
+  "watch_next": [
+    "Aumento de investimentos de capital de risco em startups de LTMs, como NexusML e TabularAI.",
+    "Empresas de finanças, saúde e logística migrando de LLMs para LTMs em análises críticas."
+  ],
+  "editorial_angle": "O artigo se destaca ao expor a ironia do hype em LLMs multimodais versus a negligência com dados tabulares, baseando-se em um paper do IEEE Spectrum com dados quantitativos e casos de uso reais, funcionando como um alerta estratégico para o mercado."
+}

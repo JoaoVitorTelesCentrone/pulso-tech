@@ -1,0 +1,53 @@
+{
+  "title": "O Custo Esquecido do Raciocínio: Como um Novo Paper do arXiv Expõe o Gargalo de US$ 10 Bilhões na Generalização de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Custo Esquecido do Raciocínio",
+      "subtext": "Como um novo paper do arXiv expõe o gargalo de US$ 10 bilhões na generalização de agentes de IA",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways, partially obscured by a dark, heavy chain made of dollar signs, symbolizing the hidden cost of reasoning in AI agents, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria corre para construir agentes de IA mais rápidos e baratos. Mas um novo estudo revela que o verdadeiro gargalo não é a velocidade — é a capacidade de pensar sobre o que não se sabe.",
+      "highlight": "O gargalo não é técnico, é econômico."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1' expõe dois regimes dominantes: heavy test-time compute sobre modelos de fronteira e treinamento específico para o benchmark. Ambos são economicamente insustentáveis para aplicações reais.",
+      "visual_hint": "Ícone de um cérebro com um cifrão no centro, rachado ao meio"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas gastam bilhões em agentes de IA que falham diante de situações novas. O ROI projetado para o mercado de US$ 100 bilhões em agentes corporativos pode evaporar se eles não conseguirem generalizar além dos dados de treinamento.",
+      "visual_hint": "Gráfico de barras com uma barra 'ROI Esperado' alta e outra 'ROI Real' despencando"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 0,01 a US$ 0,10 por chamada de API em modelos de fronteira",
+        "1.000 tentativas para resolver um único problema do ARC-AGI-1",
+        "US$ 10 a US$ 100 por problema resolvido — em escala, centenas de milhares de dólares por dia"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes que 'pensam' demais se tornam inviáveis financeiramente",
+        "Treinamento específico cria agentes que são 'sábios' apenas no laboratório",
+        "O mercado de agentes corporativos precisa repensar o custo real da inferência"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está em pensar mais, mas em pensar melhor — e mais barato."
+    }
+  ]
+}
