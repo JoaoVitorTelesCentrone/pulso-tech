@@ -1,0 +1,53 @@
+{
+  "title": "O Espelho de US$ 10 Bilhões: Como o Novo Dashboard 'Reflect' da Anthropic Está Vendendo a Dependência de IA Para Corporações — e Por Que Isso É um Sinal de Alarme",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Espelho de US$ 10 Bilhões",
+      "subtext": "Como a Anthropic está transformando dependência em ROI corporativo — e por que isso é um alerta para o futuro do trabalho",
+      "image_prompt": "A futuristic dashboard interface reflecting a human face, glowing blue and neon lines, corporate boardroom atmosphere, dark background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Anthropic lançou o Reflect, um dashboard que mostra em tempo real como equipes usam o Claude. A proposta? Vender sutilmente a ideia de que sua empresa já depende do assistente de IA.",
+      "highlight": "O produto não é o modelo. O produto é a dependência."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Reflect não é analytics comum. É uma máquina de persuasão silenciosa: gráficos de uso, horas economizadas, trajetórias de dependência. Tudo desenhado para justificar orçamento corporativo e bloquear concorrentes.",
+      "visual_hint": "Ícone de gráfico com seta ascendente e um cadeado ao lado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Modelos de IA estão se tornando commodities. O verdadeiro diferencial agora é o lock-in psicológico e operacional. Reflect transforma uso em justificativa financeira — e faz o CFO pensar duas vezes antes de cancelar a assinatura.",
+      "visual_hint": "Engrenagens conectadas a um gráfico de pizza corporativo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Valuação da Anthropic ultrapassa US$ 900 bilhões no mercado secundário",
+        "Reflect mostra que times de engenharia economizam 'X horas' — números feitos para reuniões de diretoria",
+        "Uso do Claude cresce 3x em semanas, segundo trajetórias do próprio dashboard"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Decisões de TI serão guiadas por dashboards que medem dependência, não produtividade",
+        "Concorrentes terão que criar suas próprias 'máquinas de ROI' para não perderem contratos",
+        "Usuários individuais viram peças de um sistema que quantifica e justifica o próprio uso"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra pela alma do usuário corporativo de IA mudou de patamar. Você ainda está no controle?"
+    }
+  ]
+}

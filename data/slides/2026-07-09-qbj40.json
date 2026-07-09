@@ -1,0 +1,53 @@
+{
+  "title": "Context.dev: A API que Pode Desbloquear (ou TravAr) o Mercado de US$ 100 Bilhões em Agentes de IA com Dados Estruturados",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível dos Agentes de IA",
+      "subtext": "Uma API pode destravar (ou travar) o mercado de US$ 100 bilhões?",
+      "image_prompt": "A futuristic digital lock made of code and data streams, with a glowing keyhole, dark background, neon blue and purple lighting, high tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA evoluíram em raciocínio, mas ainda são cegos para a web real. Sites legados, autenticação, CAPTCHAs e estruturas inconsistentes travam a automação em escala.",
+      "highlight": "A web não foi feita para máquinas — e isso custa bilhões."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Context.dev, startup do YC S26, lançou uma API que transforma qualquer página web em JSON limpo. Em vez de parsers frágeis, ela promete 'entender' sites e devolver dados prontos para agentes de IA.",
+      "visual_hint": "Ícone de engrenagem com seta saindo de um site e entrando em um banco de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas gastam milhões mantendo pipelines de scraping que quebram a cada redesign. Startups de agentes perdem semanas com conectores frágeis. Se a Context.dev resolver isso, desbloqueia um segmento inteiro da economia de automação.",
+      "visual_hint": "Gráfico de barra mostrando 'custo de manutenção' vs 'valor gerado'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA corporativos: US$ 100 bilhões",
+        "60% das necessidades comuns cobertas pela API (e-commerce, empregos, notícias)",
+        "Abordagem híbrida: renderização headless + visão computacional + LLMs"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de IA poderão agir no mundo digital sem fricção técnica",
+        "Risco de monopólio de infraestrutura: quem controla a API controla o acesso aos dados",
+        "Empresas precisarão repensar estratégias de dados e dependência de terceiros"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A web está prestes a se tornar legível para máquinas — ou refém de uma única API."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Meta lança o Muse Spark 1.1 e uma API dedicada, entrando na guerra de modelos de código com uma estratégia de preços agressiva que pode reconfigurar a economia de ferramentas de desenvolvimento baseadas em IA.",
+  "key_facts": [
+    "Meta anunciou o Muse Spark 1.1, modelo de código proprietário, junto com a Meta Model API.",
+    "O modelo é posicionado para competir diretamente com GPT-5.5 Instant, Claude Sonnet 5 e Gemini Spark.",
+    "A Meta Model API foi projetada como substituta direta de APIs concorrentes, reduzindo custo de troca para desenvolvedores.",
+    "O lançamento ocorre em meio a uma guerra de preços no mercado de modelos de código, com cortes de custo por token por parte de OpenAI, Anthropic e Google."
+  ],
+  "why_it_matters": "A Meta está saindo do nicho open source para competir diretamente pelo mercado de APIs de código, usando sua infraestrutura verticalizada para oferecer preços que concorrentes dificilmente igualarão, o que pode pressionar ainda mais os custos para baixo e comoditizar fornecedores de modelo.",
+  "watch_next": [
+    "Reação de preços de OpenAI, Anthropic e Google ao novo competidor Meta.",
+    "Adoção da Meta Model API por ferramentas como Cursor, Continue.dev e IDEs tradicionais.",
+    "Possível impacto na receita de GitHub Copilot e outras plataformas de dev tools baseadas em IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na estratégia econômica e de plataforma da Meta (API como cavalo de Troia e eficiência de inferência), em vez de apenas comparar benchmarks, explicando por que este lançamento é um movimento silencioso que pode reconfigurar o mercado de dev tools."
+}

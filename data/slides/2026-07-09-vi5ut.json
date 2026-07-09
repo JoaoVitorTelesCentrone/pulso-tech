@@ -1,0 +1,53 @@
+{
+  "title": "Meta Muse Spark 1.1: O Contra-Ataque Silencioso na Guerra dos Modelos de Código e a Reconfiguração da Economia de Dev Tools",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Meta Muse Spark 1.1: O Contra-Ataque Silencioso",
+      "subtext": "Enquanto todos olhavam para OpenAI vs. Anthropic, a Meta reconfigurou a economia dos dev tools — e o preço que você paga por token.",
+      "image_prompt": "A futuristic, dark tech battlefield with glowing blue and orange code streams, a silent figure in the center holding a glowing key, digital rain, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Meta anunciou o Muse Spark 1.1, seu modelo de linguagem focado em programação, junto com a nova Meta Model API. O movimento sinaliza uma mudança radical: a empresa está saindo do gueto open source e competindo diretamente pelo bolso dos desenvolvedores.",
+      "highlight": "A Meta está entrando em um mercado onde o custo por token está em queda livre."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Muse Spark 1.1 é um modelo proprietário 'pronto para competir' com GPT-5.5 Instant, Claude Sonnet 5 e Gemini Spark. Mas o verdadeiro produto é a Meta Model API: uma API drop-in replacement que reduz o custo de troca para desenvolvedores a praticamente zero.",
+      "visual_hint": "Ícone de engrenagem com setas de substituição, simbolizando troca de provedor com um clique"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Meta possui uma das infraestruturas de data center mais verticalizadas do planeta, com chips próprios (MTIA) e otimizações de software. Isso permite oferecer preços de API que concorrentes não conseguem igualar sem queimar margem. O resultado: uma comoditização do fornecedor de modelo que pressiona ainda mais os preços.",
+      "visual_hint": "Gráfico de barras comparando custo por token entre provedores, com a Meta na posição mais baixa"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de dev tools baseados em IA movimenta dezenas de bilhões de dólares anualmente",
+        "OpenAI reduziu preços do GPT-5.5 Instant em 40% em relação ao antecessor",
+        "Anthropic e Google também reduziram preços em meio à guerra de preços"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Desenvolvedores ganham poder de barganha com múltiplos provedores de API",
+        "Ferramentas como Cursor e Continue.dev podem trocar de modelo com poucas linhas de código",
+        "A Meta se posiciona como player dominante na economia de dev tools, não apenas em modelos abertos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O contra-ataque silencioso da Meta pode redefinir quem controla o futuro da programação assistida por IA. Fique de olho."
+    }
+  ]
+}

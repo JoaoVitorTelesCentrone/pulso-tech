@@ -1,0 +1,16 @@
+{
+  "tldr": "A Anthropic lançou o Reflect, um dashboard que quantifica o uso do Claude para criar lock-in corporativo ao transformar dependência em justificativa de ROI.",
+  "key_facts": [
+    "Anthropic lançou o Reflect, dashboard integrado ao Claude que mostra métricas de uso em tempo real.",
+    "A feature visa vender sutilmente a ideia de que o usuário já depende do Claude, criando um ciclo de feedback.",
+    "O Reflect é direcionado a gestores e decisores de orçamento, não apenas ao usuário individual.",
+    "A Anthropic busca justificar seu valuation de centenas de bilhões de dólares ao se posicionar como infraestrutura corporativa essencial."
+  ],
+  "why_it_matters": "A commoditização dos modelos de IA torna a dependência corporativa o novo diferencial competitivo; o Reflect mostra como a Anthropic está usando dados de uso para criar lock-in psicológico e operacional, algo que redefine a guerra de plataformas no setor.",
+  "watch_next": [
+    "OpenAI e Google devem lançar dashboards similares para competir com o lock-in da Anthropic.",
+    "Reguladores podem investigar práticas de lock-in psicológico em ferramentas de IA corporativa.",
+    "O Reflect pode evoluir para recomendar expansões de uso, gerando receita adicional via upsell."
+  ],
+  "editorial_angle": "O artigo vai além do anúncio técnico ao expor a estratégia de dependência quantificada como novo modelo de negócio, conectando psicologia comportamental, economia corporativa e a guerra de plataformas na IA — um ângulo crítico e pouco explorado pela cobertura mainstream."
+}

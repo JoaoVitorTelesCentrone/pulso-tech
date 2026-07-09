@@ -1,0 +1,17 @@
+{
+  "tldr": "Um novo artigo do arXiv argumenta que os benchmarks de IA estão saturados e não conseguem mais medir inteligência acima do nível humano, criando um gargalo de validação que ameaça a economia de US$ 1 trilhão do setor.",
+  "key_facts": [
+    "Artigo 'Measuring Intelligence Beyond Human Scale' publicado no arXiv em 9 de julho de 2026 (ID: 2607.07040).",
+    "Benchmarks atuais sofrem de saturação: modelos atingem 90%+ de acerto, perdendo poder discriminatório.",
+    "Taxa de saturação de novos benchmarks caiu de ~18 meses para ~3 meses entre 2023 e 2026.",
+    "Quando um modelo supera o desempenho humano, examinadores humanos perdem a capacidade de verificar respostas corretas.",
+    "O paper não propõe solução, mas diagnostica um problema inerente à medição de inteligência em escala absoluta."
+  ],
+  "why_it_matters": "A notícia expõe uma crise de validação que afeta diretamente investimentos, comparações entre modelos (GPT vs. Claude vs. Gemini) e promessas de superinteligência, tornando métricas de desempenho potencialmente enganosas para os modelos mais avançados.",
+  "watch_next": [
+    "Possível corrida por novos métodos de avaliação (auto-verificação, benchmarks gerados por IA) para substituir os saturados.",
+    "Impacto nos valuations de startups de IA, caso investidores passem a desconfiar de métricas tradicionais.",
+    "Debate regulatório sobre como certificar segurança de modelos sem métricas confiáveis."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico de medição (saturação de benchmarks) com um impacto econômico concreto de US$ 1 trilhão, indo além do debate acadêmico e atingindo o cerne das decisões de mercado e investimento em IA."
+}

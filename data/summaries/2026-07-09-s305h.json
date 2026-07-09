@@ -1,0 +1,14 @@
+{
+  "tldr": "Um novo estudo do arXiv revela que a incapacidade de agentes de IA aprenderem e seguirem normas sociais implícitas em tempo real é um gargalo econômico crítico, capaz de minar a confiança do usuário e o ROI em um mercado projetado para ultrapassar US$ 100 bilhões.",
+  "key_facts": [
+    "O artigo arXiv (2607.07021) propõe um framework para agentes de IA aprenderem normas sociais em tempo real durante interações dinâmicas com humanos.",
+    "A violação de normas sociais implícitas por agentes de IA leva à queda da compatibilidade, confiança do usuário e eficiência da tarefa.",
+    "O custo computacional para implementar o aprendizado de normas sociais pode aumentar o custo por interação em uma ordem de magnitude, inviabilizando modelos de negócio atuais."
+  ],
+  "why_it_matters": "A notícia expõe que o principal obstáculo para a adoção em massa de agentes de IA não é a capacidade de raciocínio, mas a compatibilidade social — um problema que nenhum benchmark atual mede e que pode destruir o ROI de implantações corporativas bilionárias.",
+  "watch_next": [
+    "Empresas de agentes de IA começarão a desenvolver benchmarks de 'compatibilidade social' para medir a aderência a normas implícitas.",
+    "Surgirão startups focadas em middleware de aprendizado de normas sociais, prometendo reduzir o custo computacional desse processo."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico de pesquisa (aprendizado de normas sociais) diretamente a um gargalo econômico de mercado (US$ 100 bi), alertando que a indústria está subestimando um fator crítico de adoção que não aparece em benchmarks tradicionais."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Medindo a Inteligência Além do Humano: O Novo Paper do arXiv que Expõe o Gargalo de US$ 1 Trilhão na Avaliação de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A régua quebrou: como medir a inteligência que já superou seus criadores?",
+      "subtext": "Um novo paper do arXiv expõe o gargalo de US$ 1 trilhão na avaliação de IA",
+      "image_prompt": "A futuristic broken ruler floating in space, with glowing AI neural network patterns emerging from the cracks, dark background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, um artigo científico intitulado 'Measuring Intelligence Beyond Human Scale' foi publicado no arXiv. A indústria de IA gasta bilhões em modelos de fronteira, mas o paper revela que os benchmarks atuais estão fundamentalmente quebrados para medir o que já superou a capacidade humana.",
+      "highlight": "Estamos usando uma régua humana para medir algo que já não cabe mais nessa escala."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Os benchmarks tradicionais (MMLU, GSM8K, HumanEval) foram projetados para medir capacidade humana. Quando modelos atingem 90%+ de acerto, o teste perde poder discriminatório. A indústria cria novos benchmarks, mas os modelos os saturam cada vez mais rápido — a janela de utilidade caiu de 18 meses para apenas 3 meses.",
+      "visual_hint": "Ícone de um gráfico de saturação exponencial, com uma régua sendo ultrapassada por uma curva ascendente de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Toda a economia da IA — investimentos, decisões corporativas, comparações entre modelos — depende de métricas de desempenho. Se essas métricas estão quebradas para os modelos mais avançados, decisões de bilhões de dólares podem estar alocando capital de forma cega. Promessas de 'superinteligência' tornam-se impossíveis de verificar.",
+      "visual_hint": "Ícone de um cifrão com um ponto de interrogação no centro, representando a incerteza econômica"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Taxa de saturação de novos benchmarks caiu de ~18 meses para ~3 meses entre 2023 e 2026",
+        "Modelos já geram provas matemáticas que humanos não conseguem verificar completamente",
+        "O mercado de IA movimenta centenas de bilhões de dólares — todos baseados em métricas questionáveis"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investimentos baseados em benchmarks perdem validade — capital pode estar mal alocado",
+        "Comparações entre modelos (GPT vs. Claude vs. Gemini) tornam-se irrelevantes quando todos saturam os testes",
+        "Risco de alucinação em escala cresce exponencialmente, sem métricas confiáveis para detectá-lo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da inteligência não cabe em benchmarks humanos — e isso é apenas o começo."
+    }
+  ]
+}

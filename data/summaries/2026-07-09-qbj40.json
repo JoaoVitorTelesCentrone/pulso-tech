@@ -1,0 +1,15 @@
+{
+  "tldr": "Context.dev, startup do YC S26, lança API que converte qualquer página web em dados estruturados para agentes de IA, atacando o gargalo de extração de dados que trava o mercado de automação corporativa de US$ 100 bilhões.",
+  "key_facts": [
+    "Context.dev é uma startup do Y Combinator S26 fundada por Yahia.",
+    "A API promete transformar qualquer URL em JSON limpo, eliminando a necessidade de pipelines de scraping frágeis.",
+    "O mercado de agentes de IA corporativos está avaliado em centenas de bilhões de dólares em meados de 2026.",
+    "A abordagem é híbrida: combina renderização headless, visão computacional e LLMs para mapear conteúdo a schemas estruturados."
+  ],
+  "why_it_matters": "A notícia importa porque revela que o principal entrave para a adoção em massa de agentes de IA não é a capacidade de raciocínio dos LLMs, mas a infraestrutura de dados. Se a Context.dev conseguir escalar, ela pode desbloquear um segmento inteiro da economia de automação; se falhar ou se tornar um monopólio, pode criar um novo gargalo de dependência.",
+  "watch_next": [
+    "A Context.dev conseguirá manter a confiabilidade nos 40% de sites mais complexos (autenticação, CAPTCHAs, conteúdo dinâmico)?",
+    "Grandes players (Google, AWS) ou concorrentes do YC lançarão APIs similares, fragmentando o mercado ou forçando uma consolidação?"
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o lançamento não como uma simples novidade de dev tools, mas como um potencial ponto de inflexão para toda a economia de agentes de IA, destacando tanto a promessa de desbloqueio quanto o risco de criação de um novo monopólio de infraestrutura."
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "Anthropic lança Claude Wrapped, uma retrospectiva de uso que transforma dados de interação em ferramenta de retenção, sinalizando que a guerra da IA migrou da performance técnica para o engajamento baseado em dados de uso.",
+  "key_facts": [
+    "Claude Wrapped é uma funcionalidade opt-in que oferece métricas personalizadas como total de conversas, tópicos frequentes, horários de pico e 'estilo de conversa'.",
+    "O recurso segue a tendência do Spotify Wrapped, já adotada por YouTube e Uber, e visa combater o churn de 30-50% nos primeiros 90 dias de uso.",
+    "A Anthropic busca diversificar receitas além do pricing por token corporativo, usando o Wrapped como mecanismo de psicologia comportamental para transformar usuários casuais em engajados de longo prazo."
+  ],
+  "why_it_matters": "A notícia importa porque revela que a competição em IA está se deslocando da inteligência do modelo para a experiência do usuário e retenção baseada em dados. O Claude Wrapped é um movimento estratégico que pode redefinir como assistentes de IA constroem hábitos e monetizam interações, além de sinalizar uma nova camada de diferenciação em um mercado cada vez mais commoditizado.",
+  "watch_next": [
+    "Outros assistentes de IA (ChatGPT, Gemini) devem lançar funcionalidades similares de retrospectiva para não perderem engajamento social e viralidade.",
+    "A Anthropic pode expandir o Wrapped para versões trimestrais ou mensais, transformando dados de uso em um produto contínuo de auto-conhecimento e fidelização.",
+    "O recurso pode gerar debates sobre privacidade e uso de dados, especialmente se a interpretação do 'estilo de conversa' for usada para personalização agressiva ou monetização futura."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o Claude Wrapped não como uma cópia sazonal, mas como um movimento estratégico que expõe o gargalo oculto da economia dos assistentes de IA: a retenção baseada em dados de uso. A análise conecta o recurso a problemas estruturais de churn e commoditização, oferecendo uma visão crítica sobre como a Anthropic está transformando dados brutos em moeda de engajamento e valor de marca."
+}

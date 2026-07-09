@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Invisível da Coordenação Humano-IA: Como Normas Sociais Estão se Tornando o Novo Campo de Batalha de US$ 100 Bilhões para Agentes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível da Coordenação Humano-IA",
+      "subtext": "Como normas sociais estão se tornando o novo campo de batalha de US$ 100 bilhões para agentes de IA",
+      "image_prompt": "A futuristic digital landscape with a human silhouette and an AI agent silhouette facing each other, connected by glowing, invisible threads of light, dark tech background, neon blue and purple tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a indústria foca em benchmarks de raciocínio e capacidade bruta, um novo paper do arXiv revela o calcanhar de Aquiles econômico dos agentes de IA: a incapacidade de aprender e seguir normas sociais implícitas em interações dinâmicas.",
+      "highlight": "US$ 100 bilhões em risco por um gargalo que nenhum benchmark atual está medindo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo artigo (arXiv 2607.07021) mostra que agentes de IA falham na coordenação com humanos por não compreenderem normas sociais implícitas — como preferências de horário, formalidade ou pausas entre tarefas. O estudo propõe um framework onde o agente aprende essas normas em tempo real, ajustando seu comportamento para maximizar a compatibilidade.",
+      "visual_hint": "Ícone de engrenagem quebrada com um laço social tentando conectá-la"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Um agente tecnicamente brilhante que ignora normas sociais perde a confiança do usuário, a eficiência da tarefa e o ROI da implantação. Essa falha não é um bug menor — é uma característica fundamental de como os LLMs são treinados hoje: otimizados para responder perguntas, não para aprender normas em tempo real.",
+      "visual_hint": "Gráfico de adoção caindo após um pico inicial, com um ícone de 'confiança' quebrado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes corporativos projetado para ultrapassar US$ 100 bilhões",
+        "Cada iteração de aprendizado de normas consome tokens — milhões de dólares em inferência em escala",
+        "Nenhum benchmark atual mede compatibilidade social entre humanos e IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Custo por interação pode inviabilizar modelos de negócio atuais",
+        "Empresas precisarão investir em camadas de aprendizado social em tempo real",
+        "A confiança do usuário se torna o novo KPI crítico para adoção de agentes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo invisível que pode definir o futuro dos agentes de IA — e você ainda não está medindo."
+    }
+  ]
+}

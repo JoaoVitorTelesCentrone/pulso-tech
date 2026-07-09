@@ -1,0 +1,15 @@
+{
+  "tldr": "O marco de quatro reatores nucleares nos EUA expõe o gargalo energético de US$ 1 trilhão que a indústria de IA enfrenta, com a demanda por energia limpa e contínua superando a capacidade de expansão da infraestrutura nuclear.",
+  "key_facts": [
+    "Quatro reatores nucleares nos EUA atingiram um marco crítico de extensão de vida útil e aumento de capacidade em 4 de julho de 2026.",
+    "Data centers de IA podem consumir até 10% da eletricidade global até 2030.",
+    "Construção de um reator nuclear leva de 7 a 15 anos, enquanto modelos de IA dobram de capacidade a cada 12-18 meses.",
+    "Empresas como Microsoft, Amazon e Google já fecham acordos de compra de energia nuclear (PPAs) para data centers."
+  ],
+  "why_it_matters": "A energia, e não os chips, está se tornando o verdadeiro gargalo da IA, e a nuclear emerge como a única fonte escalável e livre de carbono para operação contínua, impactando diretamente o custo e a viabilidade da próxima década de expansão da IA.",
+  "watch_next": [
+    "Aceleração de acordos corporativos de energia nuclear (PPAs) por big techs e possíveis fusões com operadoras de reatores.",
+    "Pressão regulatória nos EUA para encurtar prazos de licenciamento de novos reatores modulares (SMRs) voltados para data centers."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um marco técnico e pouco noticiado da indústria nuclear com o debate estratégico sobre o custo energético da IA, revelando um descompasso temporal crítico entre a velocidade da inovação em IA e a lentidão da infraestrutura energética."
+}

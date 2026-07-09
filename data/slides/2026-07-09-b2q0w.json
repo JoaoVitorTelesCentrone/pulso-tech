@@ -1,0 +1,53 @@
+{
+  "title": "O Marco Nuclear que a Economia da IA Ignora: Quatro Reatores nos EUA e o Gargalo Energético de US$ 1 Trilhão",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível da IA: 4 Reatores Nucleares e uma Conta de US$ 1 Trilhão",
+      "subtext": "Enquanto o Vale do Silício disputa modelos de fronteira, a energia que os alimenta pode ser o verdadeiro freio da corrida.",
+      "image_prompt": "A dark, futuristic data center interior with glowing blue server racks, connected by a massive glowing power cable to a nuclear reactor core in the background, neon lights, high-tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 4 de julho de 2026, quatro reatores nucleares nos EUA atingiram um marco crítico de extensão de vida útil. A notícia passou despercebida, mas sinaliza o início de uma corrida energética que a indústria tech prefere ignorar.",
+      "highlight": "A energia nuclear, dada como morta, está sendo redescoberta como a única fonte escalável e livre de carbono para a IA."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Quatro reatores existentes tiveram sua vida útil estendida e capacidade aumentada. Não são novos — mas representam a única resposta rápida para a demanda explosiva de data centers de IA, que já consomem energia equivalente a milhares de residências por mês.",
+      "visual_hint": "Ícone de um reator nuclear com um gráfico de linha ascendente representando consumo de energia"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O gargalo real da IA não é computacional — é energético. Sem energia estável 24/7, nenhum modelo treina, nenhum agente infere. Renováveis são intermitentes. A nuclear emerge como a única candidata viável, mas construir um reator leva de 7 a 15 anos.",
+      "visual_hint": "Relógio de areia com chips de IA de um lado e uma torre de resfriamento nuclear do outro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Data centers de IA podem consumir até 10% da eletricidade global até 2030",
+        "Um cluster de 10.000 GPUs H100 consome ~7 MW — e treina por meses",
+        "Construir um reator nuclear leva de 7 a 15 anos; modelos de IA dobram a cada 12-18 meses"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas como Microsoft, Amazon e Google já fecham acordos de compra de energia nuclear (PPAs)",
+        "O custo da energia se torna variável estratégica de decisão de onde construir data centers",
+        "O descompasso temporal entre demanda e oferta pode frear a corrida de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não será escrito apenas em código — mas em megawatts. Fique por dentro."
+    }
+  ]
+}
