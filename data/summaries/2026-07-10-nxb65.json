@@ -1,0 +1,15 @@
+{
+  "tldr": "O ImagingBench, um novo benchmark para imageamento computacional, revela que modelos de visão-linguagem de ponta falham em tarefas que exigem compreensão física, com desempenho até 3x pior que métodos clássicos, colocando em risco bilhões em aplicações industriais e médicas.",
+  "key_facts": [
+    "O ImagingBench testa VLMs em tarefas de imageamento computacional, como reconstrução a partir de dados brutos de sensores e correção de aberrações ópticas.",
+    "Modelos de fronteira apresentaram taxa de erro até 3x maior que pipelines tradicionais baseados em física.",
+    "O benchmark expõe a incapacidade dos VLMs de modelar processos físicos inversos, essenciais para áreas como diagnóstico médico, manufatura e sensoriamento remoto."
+  ],
+  "why_it_matters": "A notícia importa porque questiona a base de confiança para a automação de processos críticos com IA, mostrando que o hype em torno de VLMs pode esconder falhas fundamentais em aplicações de alto valor, onde erros podem custar vidas ou bilhões de dólares.",
+  "watch_next": [
+    "Empresas de IA podem anunciar parcerias com institutos de pesquisa para criar datasets específicos de imageamento físico.",
+    "Surgimento de benchmarks híbridos que combinam avaliação semântica e física para modelos de visão-linguagem.",
+    "Pressão regulatória para que sistemas de IA em diagnóstico médico e inspeção industrial comprovem compreensão dos processos físicos subjacentes."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não em falhas genéricas de IA, mas em um gap técnico específico e mensurável — a modelagem de processos físicos inversos — que tem implicações diretas em indústrias de bilhões de dólares, oferecendo uma análise crítica baseada em dados de um benchmark acadêmico recente."
+}

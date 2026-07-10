@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI reafirma que o GPT-5.6 será o modelo preferido do Microsoft Copilot, expondo a dependência tecnológica e financeira da Microsoft, que enfrenta custos bilionários para trocar de modelo.",
+  "key_facts": [
+    "OpenAI declarou publicamente que o GPT-5.6 é o 'modelo preferido' para o Microsoft Copilot 365.",
+    "A Microsoft investiu US$ 13 bilhões na OpenAI e o Copilot representa US$ 30 bilhões anuais.",
+    "Trocar o modelo do Copilot custaria entre US$ 2 bilhões e US$ 5 bilhões e levaria de 6 a 12 meses.",
+    "O anúncio ocorre em meio a rumores de que a Microsoft busca alternativas como Mistral ou Meta."
+  ],
+  "why_it_matters": "A notícia revela que a dependência da Microsoft em relação à OpenAI não é apenas contratual, mas técnica e econômica, com implicações diretas para o futuro do software corporativo e a concorrência com Google e Anthropic.",
+  "watch_next": [
+    "Possível anúncio de investimento da Microsoft em modelos próprios ou parcerias alternativas.",
+    "Movimento da OpenAI para posicionar o GPT-5.6 como plataforma de infraestrutura, não apenas chatbot.",
+    "Reação do Google e Anthropic com ofertas para clientes corporativos que buscam independência."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na assimetria da relação Microsoft-OpenAI e no custo oculto da dependência tecnológica, em vez de apenas repercutir o anúncio como uma simples continuidade de contrato."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Selo de Transparência do Google: Como um Label de 'Feito com IA' Está Criando um Novo Mercado de Confiança e o Risco Regulatório de US$ 100 Bilhões na Publicidade Digital",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Selo que Vale US$ 100 Bilhões",
+      "subtext": "Como um simples rótulo de 'Feito com IA' está reconfigurando o mercado de publicidade digital e criando um novo risco regulatório",
+      "image_prompt": "A futuristic digital advertising billboard with a glowing 'Made with AI' stamp, surrounded by data streams and regulatory warning signs, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, o Google anunciou um novo selo nos anúncios da Pesquisa, Discover e YouTube: 'criado ou editado com IA'. A medida, voluntária por enquanto, chega em um momento em que 30% a 40% dos anúncios digitais já utilizam IA generativa.",
+      "highlight": "30-40% dos anúncios digitais já usam IA generativa"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Google está implementando um sistema de autodeclaração que permite aos anunciantes especificar o grau de intervenção da IA — desde geração completa até edição parcial. O selo não é binário e fica armazenado nos metadados do anúncio.",
+      "visual_hint": "Ícone de um anúncio com um selo digital 'AI' e uma lupa sobre ele"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A medida cria uma assimetria competitiva: anunciantes que usam IA precisam sinalizar, enquanto conteúdo 100% humano ganha um selo implícito de autenticidade. Isso pode reconfigurar estratégias de branding e pricing, além de expor fragilidades na cadeia de verificação.",
+      "visual_hint": "Balança com um lado 'Humano' (pesado) e outro 'IA' (leve), simbolizando a assimetria"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 600 bilhões: tamanho do mercado global de publicidade digital",
+        "US$ 100 bilhões: risco regulatório estimado para o setor com a nova rotulagem",
+        "30-40%: proporção de anúncios que já usam IA generativa na criação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Autodeclaração vulnerável: risco de falsos negativos intencionais e não intencionais",
+        "Novo campo de batalha para auditores e reguladores de conteúdo sintético",
+        "Autenticidade se torna um diferencial premium no mercado publicitário"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da publicidade está sendo escrito agora. Não fique de fora."
+    }
+  ]
+}

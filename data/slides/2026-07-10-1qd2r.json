@@ -1,0 +1,53 @@
+{
+  "title": "Jet-Long: O Novo Mecanismo de Atenção que Pode Economizar Bilhões em Inferência de Contexto Longo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Jet-Long: O Fim do Gargalo de Contexto em IA",
+      "subtext": "Um novo mecanismo de atenção que promete economizar bilhões e estender LLMs para 1M+ tokens sem retreinamento.",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways expanding outward into infinity, dark blue and neon green color palette, high tech abstract background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos como GPT-4.5 e Claude 3.5 já suportam janelas de 128k a 200k tokens, mas o custo de inferência explode quadraticamente com o tamanho do contexto. Agentes de IA corporativos, que acumulam histórico e chamadas de ferramentas, são os mais afetados.",
+      "highlight": "Cada token adicional custa O(n²) em atenção — dobrar o contexto quadruplica o custo."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper Jet-Long (arXiv:2607.07740) propõe o Dynamic Bifocal RoPE, que combina RoPE com um mecanismo de foco dinâmico: atenção de alta resolução para tokens próximos e baixa resolução para tokens distantes, reduzindo drasticamente operações sem perder precisão.",
+      "visual_hint": "Ícone de binóculo ou lente de aumento com dois focos (local e global) sobre uma linha do tempo de tokens."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de agentes de IA corporativos é estimado em US$ 100 bilhões até 2028. Sem contextos longos eficientes, agentes não conseguem manter estado de tarefas complexas ou raciocinar sobre documentação extensa. Jet-Long pode ser aplicado a modelos existentes sem retreinamento, acelerando a adoção em escala.",
+      "visual_hint": "Gráfico de barras mostrando custo de inferência caindo drasticamente com Jet-Long vs. atenção tradicional."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de atenção tradicional: O(n²) — contexto de 200k tokens exige 40 bilhões de operações.",
+        "Jet-Long reduz operações em até 90% em contextos de 1M+ tokens.",
+        "Mercado de agentes de IA: US$ 100 bilhões até 2028."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "LLMs existentes poderão ser estendidos para 1M+ tokens sem fine-tuning caro.",
+        "Agentes de IA poderão manter históricos completos de interações e ferramentas sem custo proibitivo.",
+        "A economia de inferência pode chegar a bilhões de dólares anuais em data centers."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA é longo — e barato. Não fique para trás."
+    }
+  ]
+}

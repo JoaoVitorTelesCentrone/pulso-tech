@@ -1,0 +1,14 @@
+{
+  "tldr": "OpenAI lança a família de modelos GPT-5.6, substituindo o modelo monolítico por variantes especializadas por tarefa, reduzindo custos e abrindo a economia de infraestrutura de IA.",
+  "key_facts": [
+    "GPT-5.6 é uma família de modelos especializados, não um único modelo monolítico.",
+    "Inclui variante focada em cibersegurança, otimizando parâmetros para tarefas específicas.",
+    "Resposta à guerra de preços (Grok 4.5, DeepSeek-V4) e à demanda corporativa por previsibilidade e certificação."
+  ],
+  "why_it_matters": "A especialização por tarefa reduz custos de inferência e melhora o ROI corporativo, posicionando a OpenAI como plataforma de infraestrutura de IA, não apenas fabricante de chatbots.",
+  "watch_next": [
+    "Expansão da família para outros setores verticais (compliance, saúde, finanças).",
+    "Reação dos concorrentes (Google, Anthropic) com estratégias similares de especialização."
+  ],
+  "editorial_angle": "O artigo destaca a mudança estratégica da OpenAI de modelo único para linha de produção especializada, conectando isso às pressões de mercado e à oportunidade no setor de cibersegurança (US$ 50 bi até 2028)."
+}

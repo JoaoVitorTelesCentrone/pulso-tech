@@ -1,0 +1,16 @@
+{
+  "tldr": "O Jet-Long introduz o Dynamic Bifocal RoPE, um mecanismo de atenção que estende o contexto de LLMs sem custo quadrático, prometendo economizar bilhões em inferência para agentes de IA e RAG.",
+  "key_facts": [
+    "Paper arXiv:2607.07740 propõe o Dynamic Bifocal RoPE para estender contexto de LLMs.",
+    "Mecanismo combina atenção local de alta resolução com atenção global de baixa resolução.",
+    "Pode ser aplicado a modelos pré-treinados sem retreinamento extensivo, permitindo contextos de 1M+ tokens.",
+    "Ataca o custo O(n²) da atenção tradicional, reduzindo operações ao focar seletivamente em regiões relevantes."
+  ],
+  "why_it_matters": "O custo de inferência para contextos longos é o principal gargalo econômico para agentes de IA corporativos e sistemas RAG. O Jet-Long promete viabilizar aplicações que exigem janelas de centenas de milhares de tokens sem explosão de custos, destravando um mercado estimado em US$ 100 bilhões até 2028.",
+  "watch_next": [
+    "Testes independentes de benchmarks de contexto longo (como o RULER ou o Needle-in-a-Haystack) para validar as alegações de eficiência.",
+    "Adoção por provedores de API de LLMs (OpenAI, Anthropic, Google) como otimização de custo para clientes enterprise.",
+    "Impacto em frameworks de agentes (LangChain, CrewAI) que dependem de memória de longo prazo e histórico de ferramentas."
+  ],
+  "editorial_angle": "Diferente de abordagens que exigem mudanças arquiteturais profundas ou fine-tuning caro, o Jet-Long foca em uma extensão prática e econômica para modelos existentes, conectando diretamente a inovação técnica ao impacto financeiro e de mercado — um ângulo raro em coberturas de papers acadêmicos."
+}

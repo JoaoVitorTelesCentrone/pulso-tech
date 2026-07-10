@@ -1,0 +1,15 @@
+{
+  "tldr": "Omni-Sleep é um modelo de fundação multimodal que unifica sinais do sistema nervoso central e autônomo para redefinir o diagnóstico e monitoramento de distúrbios do sono, visando um mercado de US$ 100 bilhões.",
+  "key_facts": [
+    "Modelo usa aprendizado contrastivo hierárquico em múltiplas escalas temporais (macro, meso, micro) para capturar correlações entre EEG, EOG, EMG, ECG e respiração.",
+    "Treinado com dados reais de coortes hospitalares, não sintéticos, combinando neurociência clínica e machine learning.",
+    "Mercado global de medicina do sono é de ~US$ 100 bilhões, com cada polissonografia custando entre US$ 1.000 e US$ 5.000 nos EUA."
+  ],
+  "why_it_matters": "Enquanto a IA mainstream foca em chatbots e código, este artigo revela um avanço silencioso em um dos maiores mercados verticais de saúde, mostrando como modelos de fundação podem resolver a fragmentação de dados clínicos e gerar economia bilionária em diagnósticos e tratamentos personalizados.",
+  "watch_next": [
+    "Parcerias com fabricantes de wearables para integrar o modelo em dispositivos de monitoramento contínuo do sono.",
+    "Publicação de benchmarks comparativos com métodos tradicionais e validação em ensaios clínicos para aprovação regulatória (FDA/ANVISA).",
+    "Expansão do aprendizado contrastivo hierárquico para outros domínios fisiológicos (cardiopatia, neurologia)."
+  ],
+  "editorial_angle": "O artigo se destaca por conectar uma inovação técnica específica (aprendizado contrastivo hierárquico em múltiplas escalas) a um problema de mercado concreto e de alto impacto econômico, indo além do hype de IA geral para mostrar aplicação vertical com potencial real de transformar a medicina do sono."
+}

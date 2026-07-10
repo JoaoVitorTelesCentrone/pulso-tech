@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe DeepSearch-World, método que usa auto-destilação e aprendizado por reforço em ambientes verificáveis para treinar agentes de IA a partir dos próprios erros, eliminando a dependência de professores externos e reduzindo custos de pós-treinamento.",
+  "key_facts": [
+    "DeepSearch-World combina auto-destilação com aprendizado por reforço em ambientes verificáveis.",
+    "O método permite que agentes gerem e aprendam com suas próprias trajetórias de busca, sem necessidade de curadoria humana ou modelos maiores.",
+    "O paper ataca o gargalo de US$ 10 bilhões em pós-treinamento de agentes, que atualmente depende de trajetórias geradas por modelos como GPT-5.6 ou Claude.",
+    "A abordagem resolve três problemas: dependência de fornecedor, custo duplicado de inferência e estagnação do modelo aluno."
+  ],
+  "why_it_matters": "Esta notícia importa porque propõe uma mudança estrutural na economia do treinamento de agentes de IA, reduzindo custos e dependências externas, e potencialmente acelerando a autonomia e escalabilidade de agentes em tarefas complexas como busca em bases de dados e navegação web.",
+  "watch_next": [
+    "Aplicação do DeepSearch-World em tarefas do mundo real, como consultas SQL e navegação web, para validar a escalabilidade.",
+    "Possível adoção por empresas de IA que buscam reduzir custos de pós-treinamento e dependência de APIs de terceiros.",
+    "Reações da indústria, especialmente de fornecedores de modelos como OpenAI e Anthropic, que podem ser impactados pela redução da demanda por dados de treinamento externos."
+  ],
+  "editorial_angle": "O artigo se diferencia por focar no gargalo econômico do pós-treinamento, um tema subestimado em comparação com pré-treinamento e inferência, e por apresentar uma solução técnica que promete autonomia e redução de custos, alinhada com a tendência de agentes de IA mais independentes."
+}

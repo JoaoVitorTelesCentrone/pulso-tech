@@ -1,0 +1,53 @@
+{
+  "title": "ImagingBench: O Teste de Fogo que Expõe a Fragilidade de US$ 10 Bilhões da IA em Imagens Técnicas",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IA de US$ 10 Bilhões: Cega para a Física do Mundo Real",
+      "subtext": "Modelos de fronteira falham em imageamento técnico. O ImagingBench expõe o abismo.",
+      "image_prompt": "A futuristic microscope scanning a complex industrial circuit board, with digital data streams and error warnings in red, dark tech lab background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de visão-linguagem (VLMs) dominam tarefas cotidianas como reconhecer gatos e paisagens. Mas quando o desafio é imageamento científico e industrial — diagnóstico médico, inspeção de manufatura, sensoriamento remoto — o desempenho despenca. O ImagingBench, novo benchmark do arXiv, revela que a IA não entende a física por trás da imagem.",
+      "highlight": "Erro 3x maior que métodos clássicos em tarefas de reconstrução de imagem."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O ImagingBench testa VLMs em problemas inversos de imageamento computacional: reconstruir imagens a partir de dados brutos de sensores, corrigir aberrações ópticas e estimar parâmetros físicos. Resultado: modelos de fronteira falham miseravelmente. Eles reconhecem padrões, mas não compreendem como a luz ou radiação interage com objetos e sensores.",
+      "visual_hint": "Ícone de cérebro com engrenagens quebradas ao lado de um gráfico de barras com desempenho baixo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O imageamento computacional sustenta indústrias de dezenas de bilhões de dólares: diagnóstico médico, manufatura avançada, defesa, agricultura de precisão. Automatizar a análise dessas imagens com IA promete redução de custos e aceleração de descobertas. Mas o ImagingBench mostra que essa promessa pode ser uma miragem. Empresas que confiam em VLMs sem validar o entendimento físico correm o risco de decisões críticas baseadas em alucinações visuais.",
+      "visual_hint": "Ícone de gráfico de setas para cima com um ponto de interrogação vermelho sobreposto"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Taxa de erro em reconstrução: 3x maior que pipelines tradicionais otimizados.",
+        "Mercado projetado para IA em imageamento técnico: dezenas de bilhões de dólares.",
+        "VLMs falham em modelar processos físicos inversos — o coração do imageamento computacional."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Gargalo de confiança: empresas precisarão de validação física antes de automatizar.",
+        "Necessidade de novos modelos que integrem física e aprendizado de máquina.",
+        "Oportunidade para startups que unirem simulação física a VLMs."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A IA ainda não entende o mundo real. Até quando?"
+    }
+  ]
+}

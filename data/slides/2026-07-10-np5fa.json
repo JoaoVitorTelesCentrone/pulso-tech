@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.6 no Copilot: O Acordo Silencioso que Mantém a Microsoft Refém da OpenAI e Redefine a Economia do Software Corporativo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-5.6 no Copilot: O Acordo Silencioso",
+      "subtext": "Como a Microsoft se tornou refém da OpenAI e o que isso significa para o futuro do software corporativo",
+      "image_prompt": "A futuristic digital landscape showing a giant Microsoft logo intertwined with a glowing OpenAI symbol, connected by a fragile chain, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI anuncia que o GPT-5.6 será o 'modelo preferido' do Microsoft Copilot 365. O anúncio chega em meio a rumores de um possível divórcio bilionário entre as duas gigantes.",
+      "highlight": "US$ 30 bilhões anuais em jogo"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI reafirma publicamente o contrato com a Microsoft, mas o recado é duplo: para o mercado, sinal de continuidade; para a Microsoft, um lembrete de sua dependência tecnológica e da falta de alternativa no curto prazo.",
+      "visual_hint": "Ícone de aperto de mãos com corrente digital"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Trocar o modelo do Copilot custaria entre US$ 2 e US$ 5 bilhões e levaria de 6 a 12 meses. Cada app do Office foi reescrito para a API da OpenAI. A Microsoft financia seu próprio concorrente sem ter para onde correr.",
+      "visual_hint": "Engrenagens quebradas e cifrões"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 13 bilhões investidos pela Microsoft na OpenAI",
+        "US$ 30 bilhões anuais de receita do Copilot",
+        "US$ 2 a 5 bilhões para trocar de modelo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Microsoft acelera planos B com Mistral e Meta",
+        "OpenAI se posiciona como plataforma de infraestrutura, não só chatbot",
+        "Clientes corporativos enfrentam riscos de dependência única"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia do software corporativo está sendo reescrita. Você está pronto?"
+    }
+  ]
+}
