@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo paper do arXiv propõe um auditor físico para agentes de IA em descoberta científica automatizada, evitando que modelos matematicamente precisos, mas fisicamente inválidos, desperdicem bilhões em P&D.",
+  "key_facts": [
+    "Paper arXiv:2607.07379, 'Physics-Audited Agentic Discovery in Scientific Machine Learning', propõe um auditor físico no loop de agentes de IA.",
+    "Modelos de IA podem ter baixo erro de treinamento, mas violar leis da física (termodinâmica, Navier-Stokes).",
+    "O framework recompensa agentes apenas quando o modelo passa tanto em métricas de erro quanto em consistência física.",
+    "Modelos não auditados falham em simulações de dinâmica de fluidos e propagação de ondas."
+  ],
+  "why_it_matters": "A descoberta científica automatizada por agentes de IA está em alta, mas sem validação física, o pipeline pode gerar resultados irreais, multiplicando o desperdício em P&D (ex.: indústria farmacêutica gasta US$ 50 bi/ano em falhas).",
+  "watch_next": [
+    "Empresas como OpenAI e Anthropic podem integrar auditores físicos em seus agentes científicos.",
+    "Startups de P&D automatizado podem adotar o framework para reduzir riscos de validação.",
+    "O paper pode gerar debate sobre métricas de avaliação em Scientific Machine Learning."
+  ],
+  "editorial_angle": "O artigo expõe um gargalo crítico e pouco discutido na automação científica — a diferença entre precisão matemática e validade física —, conectando-o diretamente ao ROI de P&D e ao hype dos agentes de IA."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "O GPT-5.6 Sol Ultra, da OpenAI, provou formalmente a Conjectura do Cycle Double Cover, um problema aberto de teoria dos grafos desde a década de 1970, marcando a primeira vez que uma IA produziu uma contribuição original e verificável para a matemática de fronteira.",
+  "key_facts": [
+    "A prova foi publicada em 10 de julho de 2026 pela OpenAI, em um PDF de 47 páginas com raciocínio matemático formal.",
+    "O GPT-5.6 Sol Ultra combina transformer com atenção de contexto longo, verificador formal integrado (Lean 4) e reinforcement learning para exploração de árvores de demonstração.",
+    "O modelo gerou 14 variantes de prova, descartou 13 por inconsistências e refinou a 14ª até todos os lemas serem demonstrados em 1.247 passos lógicos.",
+    "A Conjectura do Cycle Double Cover é um problema fundamental em topologia combinatória, com implicações para teoria de redes, otimização e design de circuitos."
+  ],
+  "why_it_matters": "Esta notícia redefine o papel da IA na pesquisa científica, mostrando que modelos de fronteira podem não apenas auxiliar, mas realizar descobertas originais em matemática pura, um domínio antes considerado exclusivamente humano. Isso acelera o ritmo da ciência e levanta questões sobre o futuro da colaboração entre humanos e máquinas.",
+  "watch_next": [
+    "OpenAI pode divulgar o custo computacional da prova e detalhes sobre o treinamento do modelo Sol Ultra.",
+    "A comunidade matemática deve validar a prova de forma independente, o que pode gerar debates sobre a aceitação de provas geradas por IA.",
+    "Outros problemas abertos em matemática (como a Conjectura de Hadwiger ou a Hipótese de Riemann) podem se tornar alvos de modelos similares."
+  ],
+  "editorial_angle": "O artigo se destaca por não apenas relatar o feito técnico, mas contextualizá-lo como um 'marco ontológico' — a transição da IA de ferramenta para agente criativo. A análise do mecanismo interno (raciocínio simbólico híbrido) e a comparação com marcos históricos (AlphaGo, provas parciais) elevam o texto de uma simples notícia para uma reflexão sobre o futuro da ciência."
+}

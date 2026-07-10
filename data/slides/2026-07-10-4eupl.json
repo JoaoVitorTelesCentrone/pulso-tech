@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.6 Sol Ultra Prova a Conjectura do Cycle Double Cover: O Dia em que a IA Deixou de Ser uma Ferramenta para se Tornar um Matemático",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Dia em que a IA Deixou de Ser uma Ferramenta para se Tornar um Matemático",
+      "subtext": "GPT-5.6 Sol Ultra prova a Conjectura do Cycle Double Cover — um problema que desafiou humanos por décadas.",
+      "image_prompt": "A futuristic digital brain made of glowing mathematical symbols and graph cycles, floating in a dark cybernetic space with neon blue and purple lights, cinematic, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 10 de julho de 2026, a OpenAI publicou um PDF com 47 páginas de uma prova formal da Conjectura do Cycle Double Cover, um problema de teoria dos grafos proposto por W. T. Tutte nos anos 1970. A notícia explodiu no Hacker News em horas.",
+      "highlight": "134 pontos e 122 comentários no Hacker News — a comunidade técnica reconheceu o marco."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-5.6 Sol Ultra produziu uma prova completa e verificada da Conjectura do Cycle Double Cover, que afirma que todo grafo 2-aresta-conexo pode ser coberto por ciclos onde cada aresta aparece exatamente duas vezes. O modelo gerou 14 variantes, descartou 13 e refinou a 14ª com 1.247 passos lógicos.",
+      "visual_hint": "Ícone de grafo com ciclos sobrepostos e um selo de verificação formal (Lean 4)."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, uma IA resolveu um problema de fronteira da matemática pura, que exigiria anos de treinamento especializado de um humano. Isso redefine o papel da IA na pesquisa científica — de ferramenta para colaborador criativo.",
+      "visual_hint": "Ilustração de uma mão robótica e uma mão humana segurando juntas um teorema matemático."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "47 páginas de prova formal, com lemas e corolários",
+        "1.247 passos lógicos verificados em tempo real",
+        "14 variantes geradas; 13 descartadas por inconsistências"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "IA se torna parceira ativa em descobertas matemáticas e científicas",
+        "Aceleração na resolução de problemas abertos em teoria dos grafos e otimização",
+        "Novo padrão para verificação formal e raciocínio simbólico em modelos de fronteira"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da matemática não será escrito apenas por humanos."
+    }
+  ]
+}

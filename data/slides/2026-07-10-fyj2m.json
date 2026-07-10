@@ -1,0 +1,53 @@
+{
+  "title": "MIRA-Math: O Novo Benchmark que Expõe o Gargalo de US$ 10 Bilhões no Raciocínio Matemático de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "MIRA-Math: O Benchmark Que Revela o Gargalo de US$ 10 Bilhões no Raciocínio Matemático da IA",
+      "subtext": "Modelos que 'passam' em exames de matemática falham quando falta informação — e isso custa caro.",
+      "image_prompt": "A futuristic digital brain with missing puzzle pieces, glowing red warning signals, and a dark tech background with financial data streams"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a indústria celebra modelos que atingem 85%+ em benchmarks como MATH e GSM8K, um novo estudo revela que essa performance é uma miragem. O MIRA-Math expõe que, em situações reais com dados incompletos, o desempenho despenca para menos de 45%.",
+      "highlight": "Queda de mais de 50 pontos percentuais em cenários realistas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O MIRA-Math (Minimal Information Requesting and Mathematical Reasoning) omite dados cruciais dos problemas. O modelo precisa identificar o que falta e solicitar ativamente a informação — algo que nenhum benchmark tradicional exige. Resultado: modelos de ponta falham miseravelmente.",
+      "visual_hint": "Ícone de um ponto de interrogação dentro de um círculo vazio, com setas indicando busca por dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Agentes de IA que não sabem o que não sabem são perigosos. Em finanças, engenharia e ciência, um modelo que não pergunta quando falta informação pode gerar resultados catastróficos com alta confiança. O custo do 'falso positivo' em capacidade já ultrapassa US$ 10 bilhões em inferência e fine-tuning mal direcionados.",
+      "visual_hint": "Gráfico de barras comparando desempenho em benchmarks tradicionais vs. MIRA-Math, com uma seta vermelha apontando para baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos top: 85%+ no MATH, mas apenas 30-45% no MIRA-Math",
+        "US$ 10 bilhões em custos de inferência mal direcionados",
+        "Benchmark cobre álgebra, geometria, probabilidade, teoria dos números e combinatória"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Avaliação de IA precisará incluir capacidade de solicitar informações faltantes",
+        "Empresas terão que repensar investimentos em fine-tuning e implantação",
+        "Novos modelos precisarão ser treinados para 'saber o que não sabem'"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está em responder tudo — está em saber perguntar."
+    }
+  ]
+}

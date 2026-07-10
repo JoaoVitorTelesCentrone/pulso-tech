@@ -1,0 +1,53 @@
+{
+  "title": "O Fim do Atlas: Como a OpenAI Enterrou o Navegador para Nascer como Infraestrutura Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim do Atlas: Como a OpenAI Enterrou o Navegador para Nascer como Infraestrutura Corporativa",
+      "subtext": "O navegador com IA da OpenAI não durou um ano. Mas o que parece um fracasso é, na verdade, o sinal mais claro de que a empresa está trocando a guerra de produtos pela briga real: o controle da produtividade corporativa.",
+      "image_prompt": "A futuristic, dark tech-themed background with a glowing, fragmented browser logo dissolving into a network of corporate data streams and AI nodes, cinematic lighting, high contrast, digital art style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI está descontinuando o Atlas, seu navegador web com inteligência artificial integrada, menos de 12 meses após o lançamento. O projeto ambicioso prometia integrar agentes de IA diretamente na navegação, mas não sobreviveu ao primeiro aniversário.",
+      "highlight": "Menos de 12 meses de vida"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI redirecionou a equipe e os recursos do Atlas para duas frentes: o aplicativo desktop do ChatGPT e uma extensão para Chrome. As funcionalidades de navegação agêntica serão incorporadas a esses produtos, abandonando a ideia de um navegador próprio.",
+      "visual_hint": "Ícone de navegador sendo substituído por engrenagens e um ícone de extensão"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A OpenAI está fazendo uma aposta estratégica clara: o futuro dos agentes de IA não está em um navegador novo, mas em infiltrar-se nos fluxos de trabalho existentes. Em vez de competir pelo navegador, a empresa quer competir pelo seu tempo de trabalho.",
+      "visual_hint": "Ilustração de um funil invertido, com o navegador no topo e a produtividade corporativa na base"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo estimado de desenvolvimento de um navegador: centenas de milhões de dólares anuais",
+        "Tempo de vida do Atlas: menos de 12 meses",
+        "OpenAI já queima bilhões em treinamento e inferência de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A OpenAI recua de uma guerra de produtos (browsers) para uma guerra de infraestrutura (agentes corporativos)",
+        "O foco se desloca do consumo para a produtividade corporativa",
+        "A estratégia agora é integração, não substituição de ferramentas existentes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O fim do Atlas não é sobre tecnologia. É sobre distribuição e custo de aquisição de usuários."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "O IPO de US$ 26,5 bilhões da SK Hynix na NYSE sinaliza que o gargalo da IA está migrando dos GPUs para a memória de alta largura de banda (HBM), reposicionando a empresa como peça central na cadeia de suprimentos de IA.",
+  "key_facts": [
+    "SK Hynix estreou na NYSE em 10 de julho de 2026, levantando US$ 26,5 bilhões com ações a US$ 170.",
+    "A empresa é a principal fornecedora de memória HBM para os aceleradores de IA da Nvidia.",
+    "O valuation da SK Hynix na Coreia já ultrapassava a marca de 1 trilhão de won antes do IPO americano.",
+    "A demanda por HBM é impulsionada por modelos como GPT-5.6, Claude Sonnet 5 e DeepSeek-V4, que exigem enorme largura de banda de memória."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, este IPO revela que o próximo gargalo da indústria não será computacional, mas de memória — e que empresas como SK Hynix, Samsung e Micron se tornam tão estratégicas quanto a Nvidia para o avanço dos modelos de linguagem de grande escala.",
+  "watch_next": [
+    "Possível aumento de preços e escassez de HBM, afetando prazos de entrega de GPUs da Nvidia.",
+    "Movimentos da Samsung e Micron para expandir capacidade de produção de HBM e capturar fatia de mercado.",
+    "Impacto no valuation de startups de chips de IA que dependem de acesso prioritário a memória de alto desempenho."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no deslocamento da economia da IA dos chips de computação para os chips de memória, explicando tecnicamente por que a largura de banda da memória é o novo limitador da inferência de LLMs, e não apenas os FLOPS dos GPUs."
+}

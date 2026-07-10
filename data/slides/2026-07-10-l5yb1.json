@@ -1,0 +1,53 @@
+{
+  "title": "O Físico no Comando: Como Agentes de IA Estão Aprendendo a Validar Descobertas com Leis da Natureza e Redefinindo a Economia da Ciência Automatizada",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Físico no Comando: IA que Aprende a Respeitar as Leis da Natureza",
+      "subtext": "Como agentes de IA estão aprendendo a validar descobertas científicas com leis da física — e redefinindo a economia da ciência automatizada",
+      "image_prompt": "A futuristic AI agent inspecting a glowing 3D physics simulation of fluid dynamics, with digital particles obeying natural laws, dark tech background, neon blue and orange highlights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de IA que aprendem com dados, mas ignoram as leis da física, podem gerar resultados tecnicamente precisos, mas fisicamente impossíveis. Um novo paper do arXiv expõe esse gargalo oculto na descoberta científica automatizada.",
+      "highlight": "Bilhões em P&D desperdiçado por modelos que violam princípios básicos da termodinâmica"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores propõem um 'auditor físico' no loop do agente de IA. Em vez de confiar apenas em métricas de erro, o agente só é recompensado quando o modelo passa tanto no teste de erro quanto no teste de consistência física — validando leis como conservação de momentum e Navier-Stokes.",
+      "visual_hint": "Ícone de um olho ou escudo sobreposto a equações matemáticas e partículas físicas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como OpenAI e Anthropic correm para automatizar P&D científico. Sem validação física, agentes podem otimizar para artefatos estatísticos, não para realidade física — multiplicando o desperdício em descobertas de materiais, medicamentos e energia.",
+      "visual_hint": "Gráfico de barras mostrando P&D desperdiçado vs. validado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões anuais em P&D farmacêutico que falha",
+        "Modelos com erro baixíssimo podem prever campos fisicamente impossíveis",
+        "Agentes auditados mantêm precisão e validade física em simulações de fluidos e ondas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pipelines de descoberta automatizada precisarão de auditores físicos integrados",
+        "ROI de P&D pode saltar com validação em tempo real contra leis da natureza",
+        "Startups de SciML terão que repensar métricas de sucesso — erro não basta mais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A física não perdoa — e agora a IA também não vai perdoar modelos que a ignoram."
+    }
+  ]
+}

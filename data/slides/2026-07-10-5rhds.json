@@ -1,0 +1,54 @@
+{
+  "title": "SK Hynix Estreia na Bolsa com US$ 26,5 Bilhões: O Fornecedor de RAM da Nvidia que Vale um Trilhões e a Nova Economia da Memória para IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível da IA: Memória",
+      "subtext": "SK Hynix levanta US$ 26,5 bi na NYSE e revela a nova economia dos chips de memória para inteligência artificial",
+      "image_prompt": "Futuristic semiconductor factory interior with glowing blue HBM memory modules floating in a dark server room, neon lights reflecting on silicon wafers, cinematic tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A SK Hynix, principal fornecedora de memória HBM para a Nvidia, estreou na NYSE com um IPO de US$ 26,5 bilhões. A empresa já vale mais de US$ 1 trilhão na Coreia do Sul e agora busca investidores globais para capitalizar o boom da IA.",
+      "highlight": "IPO do ano para semicondutores"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A SK Hynix fabrica os módulos de memória de alta largura de banda (HBM) essenciais para os aceleradores de IA da Nvidia. Sem esses chips, os GPUs mais poderosos do mundo são inúteis. A empresa é uma das únicas três capazes de produzir essa tecnologia em escala global.",
+      "visual_hint": "Ícone de chip HBM conectado a um GPU Nvidia, com setas de fluxo de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O gargalo da próxima geração de IA não será apenas computacional — será de memória. Modelos como GPT-5.6 e Claude Sonnet 5 exigem largura de banda de memória absurda para inferência em contextos longos. A velocidade da IA agora depende da RAM, não apenas dos FLOPS.",
+      "visual_hint": "Gráfico de barras comparando largura de banda de memória vs. poder computacional ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 26,5 bilhões levantados no IPO da SK Hynix na NYSE",
+        "Abertura das ações a US$ 170 por papel",
+        "Valuation de mais de US$ 1 trilhão (em won) na Coreia do Sul",
+        "Apenas 3 empresas no mundo produzem HBM em volume: SK Hynix, Samsung e Micron"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Escassez estrutural de memória HBM pode limitar a expansão da IA",
+        "Investidores globais agora têm acesso direto ao mercado de memória para IA",
+        "A cadeia de suprimentos de IA se desloca dos GPUs para os chips de memória"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da IA está mudando — e o próximo trilhão de dólares está na memória."
+    }
+  ]
+}

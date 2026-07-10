@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo benchmark MIRA-Math expõe que LLMs de ponta falham em raciocínio matemático quando precisam solicitar informações ausentes, revelando um gargalo de US$ 10 bilhões em custos de inferência e implantação.",
+  "key_facts": [
+    "MIRA-Math omite dados cruciais dos problemas, forçando o modelo a identificar e solicitar a informação faltante.",
+    "Modelos como GPT-5.6, Claude Sonnet 5 e Gemini Spark caem de 85%+ no MATH para 30-45% no MIRA-Math.",
+    "Benchmark cobre álgebra, geometria, probabilidade, teoria dos números e combinatória.",
+    "Avaliação em duas etapas: diagnóstico (solicitação de informação) e resolução (cálculo final)."
+  ],
+  "why_it_matters": "A notícia revela que a indústria de IA pode estar superestimando a capacidade de raciocínio matemático dos LLMs, levando a investimentos bilionários em modelos que falham em cenários realistas de informação incompleta — um risco crítico para aplicações financeiras, científicas e de engenharia.",
+  "watch_next": [
+    "Pressão para que empresas de IA integrem mecanismos de 'solicitação ativa' em seus modelos.",
+    "Possível correção no mercado de ações de empresas de IA se o benchmark for amplamente adotado.",
+    "Surgimento de benchmarks similares para outras áreas (raciocínio lógico, jurídico, médico)."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico (benchmark) diretamente a um impacto econômico concreto (US$ 10 bilhões), expondo uma falha estrutural na avaliação de IA que afeta decisões de investimento e implantação, indo além da cobertura superficial de 'modelos passam em exames'."
+}

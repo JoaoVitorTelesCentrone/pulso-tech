@@ -1,0 +1,53 @@
+{
+  "title": "Deutsche Telekom Vira uma Telco Nativa em IA: O Modelo que Pode Redefinir a Economia das Operadoras de Telecom",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Deutsche Telekom: A Primeira Telco Nativa em IA",
+      "subtext": "Como a maior operadora da Europa está reescrevendo seu core business com a OpenAI — e o que isso significa para o futuro das telecomunicações",
+      "image_prompt": "Futuristic telecommunications control room with glowing AI neural network overlays, blue and purple neon lights, data streams flowing through transparent screens, Deutsche Telekom magenta accents, hypermodern design"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O setor de telecomunicações enfrenta uma crise de identidade econômica: operadoras se tornaram commodities de infraestrutura, com margens comprimidas e receita por usuário estagnada. A guerra de preços se intensifica enquanto serviços de valor agregado seguem difíceis de monetizar.",
+      "highlight": "240 milhões de clientes em 50 países — e uma aposta bilionária em IA para sair da armadilha da commoditização"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Deutsche Telekom anunciou uma parceria estratégica com a OpenAI para reescrever quatro pilares fundamentais do negócio: atendimento ao cliente com IA generativa, automação de workflows internos, operações de rede inteligentes e assistentes de voz com raciocínio contextual. Não é um piloto — é uma reestruturação completa da arquitetura operacional.",
+      "visual_hint": "Ícone de engrenagem com circuitos integrados e um cérebro digital no centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se uma operadora consegue oferecer atendimento 10x mais rápido, rede que se autorregula e assistentes que realmente entendem contexto, ela deixa de ser uma 'tubulação burra' e se torna uma plataforma de serviços inteligentes. O risco? Dependência externa da OpenAI e custos de inferência em escala que podem corroer ganhos de eficiência.",
+      "visual_hint": "Gráfico de seta ascendente saindo de um ícone de torre de telecom para um ícone de nuvem inteligente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Centenas de milhões de chamadas de atendimento processadas por ano",
+        "Redução de 30 segundos no tempo médio de chamada = centenas de milhões de euros anuais em economia",
+        "Contrato enterprise com OpenAI pode ultrapassar US$ 100 milhões/ano só em APIs de inferência"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Modelos de IA treinados especificamente para jargão de telecom, protocolos de rede (SS7, SIP, 5G NR) e regulações locais (GDPR, TKG)",
+        "Integração profunda de LLMs aos sistemas OSS/BSS que gerenciam rede e faturamento",
+        "Agentes de voz com memória de longo prazo que reduzem drasticamente o tempo de resolução de problemas técnicos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A Deutsche Telekom está redefinindo o que significa ser uma operadora de telecom na era dos agentes inteligentes. O futuro da conectividade nunca foi tão estratégico."
+    }
+  ]
+}
