@@ -1,0 +1,53 @@
+{
+  "title": "O Efeito Invisível de Três Camadas: Como o Novo Paper do arXiv Expõe o Gargalo de US$ 10 Bilhões na Segurança de Agentes Multi-Agentes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível de US$ 10 Bilhões na Segurança de Agentes Multi-Agentes",
+      "subtext": "Como um novo paper do arXiv revela que medimos segurança do jeito errado — e o risco escondido em cada pipeline corporativo",
+      "image_prompt": "A dark futuristic control room with multiple holographic AI agent interfaces, red warning glows, interconnected data streams, cinematic lighting, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo estudo do arXiv (julho de 2026) expõe que a forma como avaliamos segurança em sistemas multi-agente está fundamentalmente quebrada. O chamado 'efeito do pipeline' confunde três mecanismos distintos, mascarando riscos reais em implantações corporativas que já movimentam bilhões.",
+      "highlight": "A indústria trata segurança multi-agente como extensão de modelos únicos — mas o estudo prova que os riscos se multiplicam, não se somam."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper revela que o 'efeito do pipeline' — a diferença de segurança entre um prompt direto e um pipeline planner-executor — é ininterpretável. Ele esconde três mecanismos distintos: reframing operacional, delegação com aprovação e a interação entre eles. Sem desacoplar esses efeitos, as avaliações atuais superestimam a segurança real.",
+      "visual_hint": "Diagrama de três engrenagens sobrepostas, cada uma com um rótulo diferente, mostrando que o efeito total não é a soma das partes"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas que colocam agentes multi-agente em produção — suporte ao cliente, automação financeira, logística — as avaliações de segurança atuais podem estar cegas para vulnerabilidades críticas. Um planner seguro pode delegar para um executor inseguro, ou a interação entre eles pode criar brechas que nenhum dos dois teria sozinho.",
+      "visual_hint": "Ícone de cadeado quebrado com múltiplos elos, representando falhas em cascata"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: valor estimado do gargalo de segurança em implantações multi-agente corporativas",
+        "3 mecanismos distintos confundidos em um único 'efeito do pipeline' — tornando métricas atuais enganosas",
+        "Risco multiplicado: interação entre agentes cria vulnerabilidades que não existem em modelos isolados"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Avaliações de segurança precisarão desacoplar reframing operacional, delegação e interação entre agentes",
+        "A abordagem Approval-Framed Delegation (AFD) surge como novo padrão para verificação explícita em pipelines",
+        "Empresas que ignorarem esses mecanismos podem expor bilhões em riscos operacionais e de compliance"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da segurança em IA multi-agente está sendo reescrito agora — não fique para trás."
+    }
+  ]
+}

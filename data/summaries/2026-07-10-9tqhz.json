@@ -1,0 +1,15 @@
+{
+  "tldr": "Um novo paper do arXiv propõe um framework onde agentes LLM criam e refinam suas próprias ferramentas a partir de ações atômicas, reduzindo drasticamente o custo de automação corporativa.",
+  "key_facts": [
+    "O paper 'From Atomic Actions to Standard Operating Procedures' (2607.07321) foi depositado no arXiv.",
+    "O framework propõe um loop iterativo de três estágios: execução baseada em ações atômicas, extração de padrões e compilação em SOPs.",
+    "O objetivo é permitir que agentes de IA se adaptem a tarefas inesperadas sem intervenção humana direta."
+  ],
+  "why_it_matters": "Esta notícia importa porque ataca o gargalo mais caro da economia de agentes de IA: a manutenção e escalabilidade de ferramentas. Se agentes puderem criar suas próprias ferramentas, o custo de implantação cai drasticamente, abrindo um mercado de automação corporativa de centenas de bilhões de dólares.",
+  "watch_next": [
+    "Empresas de automação corporativa (como UiPath, Automation Anywhere) podem anunciar integrações ou parcerias com base nesse framework.",
+    "Surgimento de debates sobre governança e depuração de agentes que criam suas próprias ferramentas.",
+    "Possível replicação ou refutação dos resultados por outros grupos de pesquisa."
+  ],
+  "editorial_angle": "O artigo se diferencia por não ser incremental: ele propõe uma mudança fundamental na arquitetura de agentes LLM, atacando diretamente o problema de customização que limita o mercado de automação. Foi escolhido por seu potencial de redefinir a economia da automação corporativa."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Juiz Silencioso: Como a Gemini Está Criando um Novo Mercado de Avaliação de Agentes de Voz com um Erro de 1 Dólar",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Juiz Silencioso: Como a Gemini Está Criando um Novo Mercado de Avaliação de Agentes de Voz com um Erro de 1 Dólar",
+      "subtext": "Um novo estudo revela o gargalo oculto de US$ 10 bilhões na indústria de agentes de voz full-duplex — e como a Google pode estar criando o padrão de avaliação do futuro.",
+      "image_prompt": "A futuristic, dark tech lab with a giant, silent, glowing AI judge figure made of sound waves, overlooking a chaotic but human-like conversation between two holographic figures. Blue and purple neon tones, cinematic lighting."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de agentes de voz full-duplex está explodindo, com OpenAI, Google e startups como Sesame e ElevenLabs investindo bilhões. Mas todos enfrentam o mesmo gargalo: como avaliar automaticamente se uma conversa em tempo real foi realmente boa, sem perder nuances como tom, sobreposição e timing?",
+      "highlight": "Gargalo de US$ 10 bilhões que a indústria preferiu ignorar."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores testaram modelos Gemini como 'juízes de áudio' diretos, avaliando conversas full-duplex a partir da forma de onda bruta, sem transcrição. O resultado: eles conseguem, mas com um viés sistemático. O Gemini 2.5 Flash, por exemplo, superavalia pausas longas e subavalia sobreposições naturais.",
+      "visual_hint": "Ícone de um juiz com um fone de ouvido, analisando duas ondas sonoras entrelaçadas."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Avaliar agentes de voz com transcrição perde informação crítica. Usar áudio direto é o próximo passo, mas o erro de US$ 0,01 por avaliação do Gemini 3.1 Pro pode distorcer benchmarks, pipelines de RLHF e a confiança em sistemas de voz autônomos em escala industrial.",
+      "visual_hint": "Gráfico de barras comparando a correlação com humanos dos três modelos Gemini."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Gemini 2.5 Flash: Correlação de 0.68 com humanos | Custo: ~$0.001 por avaliação",
+        "Gemini 3.5 Flash: Correlação de 0.75 | Custo: ~$0.003",
+        "Gemini 3.1 Pro: Correlação de 0.82 | Custo: ~$0.01 por avaliação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Avaliação em áudio direto se torna o novo padrão ouro para agentes de voz.",
+        "Empresas precisarão calibrar seus modelos para evitar viés de avaliação em escala.",
+        "Surge um novo mercado de 'juízes de áudio' como serviço, com a Gemini na liderança."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O juiz silencioso está ouvindo. E ele pode estar errado por apenas 1 dólar."
+    }
+  ]
+}

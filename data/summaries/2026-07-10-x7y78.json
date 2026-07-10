@@ -1,0 +1,16 @@
+{
+  "tldr": "A Sunrun está pagando clientes residenciais para hospedar unidades de computação de IA alimentadas por energia solar, criando uma rede de data centers distribuídos que pode redefinir a economia da infraestrutura de IA.",
+  "key_facts": [
+    "Sunrun, maior empresa de energia solar residencial dos EUA, anunciou um programa piloto para pagar clientes por hospedar hardware de inferência de IA em casa.",
+    "As 'compute units' são conectadas a painéis solares e baterias já existentes, usando energia excedente que seria desperdiçada.",
+    "O modelo transforma a base de 1,2 milhão de clientes da Sunrun em uma rede distribuída de computação, evitando custos bilionários de data centers tradicionais.",
+    "A Sunrun vende a capacidade de computação para empresas de IA que precisam de inferência de baixa latência e distribuída."
+  ],
+  "why_it_matters": "A notícia aponta para uma solução real para o gargalo energético e de capital da IA, descentralizando a infraestrutura e potencialmente barateando o acesso à computação de IA, além de criar um novo modelo de negócio que integra energia renovável e edge computing.",
+  "watch_next": [
+    "Detalhamento dos valores pagos aos clientes e dos parceiros de computação envolvidos no piloto.",
+    "Anúncios de concorrentes (como Tesla ou outras empresas de energia) lançando programas similares.",
+    "Estudos de viabilidade técnica e econômica da rede distribuída em comparação com data centers tradicionais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um movimento aparentemente local (solar residencial) com a macro-tendência de redefinição da infraestrutura de IA, destacando a inversão do modelo de concentração para distribuição e o potencial de impacto na economia da tecnologia."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Agentes que Aprendem a Criar Ferramentas: O Novo Paper do arXiv que Pode Redefinir a Economia da Automação Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Agentes que Aprendem a Criar Ferramentas",
+      "subtext": "O paper do arXiv que promete automatizar a própria automação corporativa",
+      "image_prompt": "A futuristic AI agent assembling glowing digital tools from atomic particles, dark tech background, neon blue and purple lights, cinematic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA atuais falham em tarefas inesperadas porque dependem de conjuntos de ferramentas estáticos e pré-programados. Cada novo fluxo de trabalho exige semanas de desenvolvimento manual, tornando a automação cara e frágil.",
+      "highlight": "Frameworks atuais = ferramentas fixas → agentes quebram no primeiro imprevisto"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo framework propõe que LLMs evoluam seus próprios conjuntos de ferramentas a partir de ações atômicas. O agente executa, extrai padrões e compila sequências bem-sucedidas em SOPs reutilizáveis — sem intervenção humana.",
+      "visual_hint": "Ícone de engrenagem se transformando em árvore ramificada"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo de implantação de agentes corporativos pode cair drasticamente. Em vez de engenheiros codificando cada pipeline, o próprio agente aprende a criar ferramentas sob demanda. Menos tempo escrevendo ferramentas, mais tempo em governança e estratégia.",
+      "visual_hint": "Gráfico de barras mostrando custo caindo ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de automação corporativa: centenas de bilhões de dólares",
+        "Cada novo fluxo de trabalho: semanas de desenvolvimento manual",
+        "Agentes atuais: falham em tarefas fora do conjunto de ferramentas estático"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes que se adaptam ao negócio, e não o contrário",
+        "Redução drástica no custo de customização de automação",
+        "Nova camada de complexidade em depuração e governança"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da automação não será programado — será aprendido."
+    }
+  ]
+}

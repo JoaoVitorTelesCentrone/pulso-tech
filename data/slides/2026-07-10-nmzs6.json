@@ -1,0 +1,53 @@
+{
+  "title": "Anthropic Lança 'Reflection': O Espelho de US$ 10 Bilhões que Quer Te Convencer a Não Usar IA — e a Nova Economia da Autoconsciência Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Espelho de US$ 10 Bilhões",
+      "subtext": "A Anthropic lança uma ferramenta que te convida a não usar IA. E isso pode ser o movimento mais inteligente do mercado.",
+      "image_prompt": "A futuristic mirror reflecting a corporate boardroom, with digital data streams and a subtle AI glow, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a Anthropic lança o Reflection, um recurso que permite rastrear e revisar toda a atividade do Claude. Mas, em vez de incentivar o uso, ele sugere quando você deve parar de usar IA.",
+      "highlight": "\"Use menos, mas use melhor.\""
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Reflection não é um dashboard de analytics comum. É um sistema de metacognição corporativa que analisa cada interação com o Claude e gera um 'Score de Reflexão' — medindo a qualidade da delegação e recomendando pausas quando o desempenho é baixo.",
+      "visual_hint": "Ícone de um espelho com engrenagens internas e um gráfico de score"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O maior gargalo para adoção corporativa de IA não é capacidade técnica — é o medo do erro confiante. Reflection transforma auditoria em vantagem competitiva, vendendo responsabilidade em vez de onipresença.",
+      "visual_hint": "Ilustração de um CEO olhando para um painel de controle com um botão de pausa brilhante"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: valor de mercado da aposta da Anthropic em confiança",
+        "Score de 0 a 100: métrica que mede a 'qualidade da delegação'",
+        "Limiar ajustável: sistema sugere parar de usar IA quando o score cai abaixo do esperado"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas adotarão IA com base em auditoria, não em hype",
+        "Confiança se torna a nova moeda da economia de IA corporativa",
+        "Concorrentes serão forçados a repensar métricas de sucesso (de tempo de uso para qualidade de uso)"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Reflection é o começo de uma nova era: a economia da autoconsciência corporativa. O espelho está ligado. Você vai olhar?"
+    }
+  ]
+}

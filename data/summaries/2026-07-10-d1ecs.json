@@ -1,0 +1,15 @@
+{
+  "tldr": "Anthropic mapeou um 'espaço oculto' dentro do Claude onde o modelo realiza raciocínio abstrato antes de responder, abrindo caminho para auditabilidade e mudando a economia da confiança em IA.",
+  "key_facts": [
+    "Pesquisadores da Anthropic identificaram um subespaço latente no Claude onde o modelo simula e pondera conceitos abstratos antes de gerar respostas.",
+    "A descoberta foi publicada em parceria com a MIT Technology Review e envolve técnicas de intervenção causal e análise de ativação de neurônios.",
+    "O espaço oculto é uma propriedade emergente da arquitetura, não um artefato de treinamento, sugerindo que 'pensar antes de falar' pode ser intrínseco a modelos grandes."
+  ],
+  "why_it_matters": "A falta de interpretabilidade é o maior gargalo regulatório e de confiança para adoção de IA em sistemas críticos; esta descoberta pode redefinir o valor de mercado da governança de IA e expor riscos de caixa-preta que ninguém monitorava.",
+  "watch_next": [
+    "Possível corrida regulatória para exigir auditabilidade interna em modelos de fronteira.",
+    "Impacto no valuation de startups de interpretabilidade e na estratégia de concorrentes como OpenAI e Google.",
+    "Debate ético sobre privacidade e controle ao se 'enxergar' o pensamento interno de IAs."
+  ],
+  "editorial_angle": "O artigo conecta uma descoberta técnica de ponta (interpretabilidade mecanística) com implicações econômicas e de governança, oferecendo uma análise que vai além do anúncio e posiciona a notícia como um divisor de águas para a indústria."
+}

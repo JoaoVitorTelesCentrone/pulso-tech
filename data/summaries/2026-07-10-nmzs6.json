@@ -1,0 +1,14 @@
+{
+  "tldr": "Anthropic lança Reflection, uma ferramenta que audita o uso do Claude e sugere quando não usar IA, trocando consumo de tokens por confiança corporativa.",
+  "key_facts": [
+    "Reflection é um recurso beta que rastreia todo o histórico de interações com o Claude e gera um score de confiança.",
+    "A ferramenta usa o próprio Claude para analisar a qualidade das delegações e recomendar pausas no uso quando o desempenho é baixo.",
+    "O lançamento ocorre em 10 de julho de 2026, em um mercado onde concorrentes focam em aumentar o tempo de plataforma."
+  ],
+  "why_it_matters": "Reflection ataca o maior gargalo da adoção corporativa de IA — o medo do erro — ao oferecer auditoria e um mecanismo de desligamento baseado em dados, posicionando a Anthropic como a opção 'responsável' em um mercado de hype.",
+  "watch_next": [
+    "Concorrentes como OpenAI e Google podem lançar ferramentas similares de auditoria para não perderem participação no segmento corporativo.",
+    "O Reflection pode se tornar um padrão de governança de IA, influenciando regulamentações e exigências de compliance."
+  ],
+  "editorial_angle": "O artigo se destaca ao tratar o movimento contraintuitivo da Anthropic não como filantropia, mas como uma aposta calculada em confiança como moeda e diferenciação de marca, oferecendo uma análise técnica do mecanismo de meta-cognição corporativa."
+}

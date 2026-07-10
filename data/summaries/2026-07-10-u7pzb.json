@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv revela que modelos Gemini como juízes de áudio para agentes de voz full-duplex têm correlação de até 0.82 com humanos, mas apresentam viés sistemático que pode distorcer benchmarks e pipelines de RLHF, criando um gargalo de US$ 10 bilhões na indústria.",
+  "key_facts": [
+    "O Gemini 2.5 Flash teve correlação de 0.68 com avaliadores humanos, enquanto o 3.1 Pro atingiu 0.82.",
+    "O estudo testou 1.200 conversas full-duplex em cinco dimensões (naturalidade, fluência, engajamento, clareza, adequação contextual).",
+    "Custo por avaliação varia de ~$0.001 (2.5 Flash) a ~$0.01 (3.1 Pro), com tempos de 2.3s a 4.7s.",
+    "O viés do 2.5 Flash superavalia pausas longas como 'reflexivas' e subavalia sobreposições naturais como 'caóticas'."
+  ],
+  "why_it_matters": "A avaliação automática de agentes de voz é o gargalo crítico para a escalabilidade de assistentes de voz em tempo real (como GPT-Live e Gemini integrado a chamadas). Sem um juiz confiável, a indústria não consegue validar qualidade em escala, comprometendo RLHF, benchmarks e a confiança do consumidor em sistemas autônomos.",
+  "watch_next": [
+    "Google pode lançar uma API de avaliação de áudio baseada no Gemini 3.1 Pro, criando um novo mercado de 'juízes de IA' para startups de voz.",
+    "Concorrentes (OpenAI, Anthropic) devem publicar papers similares com seus próprios modelos de áudio, intensificando a corrida por benchmarks de voz.",
+    "Surgimento de startups focadas em fine-tuning de LALMs para reduzir o viés de avaliação em cenários full-duplex."
+  ],
+  "editorial_angle": "O artigo se diferencia por expor a fragilidade oculta dos sistemas de avaliação automática — um problema que a indústria prefere ignorar — e por quantificar o custo do erro (US$ 10 bilhões), conectando um paper técnico a uma oportunidade de mercado. A escolha editorial reflete o timing: o boom de agentes de voz full-duplex torna este gargalo o próximo grande desafio de infraestrutura em IA."
+}

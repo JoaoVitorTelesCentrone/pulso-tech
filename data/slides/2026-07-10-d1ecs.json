@@ -1,0 +1,53 @@
+{
+  "title": "A Sala Secreta de Claude: O Mapa do Pensamento que a Anthropic Acaba de Revelar e a Nova Economia da Caixa-Preta da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Sala Secreta de Claude",
+      "subtext": "O mapa do pensamento que a Anthropic revelou — e a nova economia da caixa-preta da IA",
+      "image_prompt": "A dark, futuristic control room with a glowing neural network map in the center, abstract blue and purple light beams connecting nodes, high-tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de fronteira como Claude, GPT e Gemini sempre foram caixas-pretas: sabemos o que entra e o que sai, mas o que acontece entre esses pontos é um mistério. A falta de interpretabilidade é o maior gargalo regulatório e de confiança da indústria.",
+      "highlight": "Pela primeira vez, a Anthropic conseguiu enxergar o 'espaço oculto' onde Claude realmente pensa."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores da Anthropic mapearam uma região interna da rede neural de Claude onde o modelo não apenas prevê a próxima palavra, mas simula, compara e pondera ideias em um 'espaço conceitual' — uma espécie de sala de reuniões interna dos neurônios artificiais.",
+      "visual_hint": "Ícone de um cérebro digital com uma lupa sobre uma região interna iluminada"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Essa descoberta de interpretabilidade mecanística pode redefinir o valor de mercado da IA. Se podemos auditar o 'pensamento' do modelo, a confiança em sistemas críticos — saúde, finanças, defesa — deixa de ser um obstáculo e se torna um ativo econômico.",
+      "visual_hint": "Ilustração de uma balança com um cadeado aberto de um lado e um gráfico de crescimento do outro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de interpretabilidade de IA estimado em US$ 10 bilhões anuais (valor conservador)",
+        "Pela primeira vez, um modelo de fronteira teve seu 'pensamento deliberativo' mapeado",
+        "Descoberta é uma propriedade emergente da arquitetura, não um artefato de treinamento"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novos padrões de auditabilidade para modelos de fronteira",
+        "Redução do risco regulatório e aceleração da adoção em setores críticos",
+        "Reavaliação do valor de mercado de empresas de IA com base na transparência interna"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A caixa-preta da IA nunca mais será a mesma — e você pode estar por dentro dessa revolução."
+    }
+  ]
+}
