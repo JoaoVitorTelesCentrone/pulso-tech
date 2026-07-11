@@ -1,0 +1,53 @@
+{
+  "title": "Infinity-Parser2: O Gargalo de US$ 10 Bilhões da Estrutura de Dados que a Indústria de Agentes de IA Preferiu Ignorar",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 10 Bilhões que a Indústria de Agentes de IA Ignorou",
+      "subtext": "Enquanto todos focam em benchmarks de raciocínio, um problema prosaico queima bilhões em produtividade corporativa.",
+      "image_prompt": "A futuristic digital tunnel made of flowing data streams and document fragments, glowing blue and orange, with a subtle dollar sign symbol in the center, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Infinity-Parser2, um modelo multimodal grande (LMM), foi lançado para resolver o calcanhar de Aquiles da automação corporativa: o parsing de documentos mal estruturados. Cerca de 80% dos dados corporativos estão em PDFs, escaneamentos e formulários, mas a maioria dos LLMs trata esse universo como 'texto plano'.",
+      "highlight": "80% dos dados corporativos são não estruturados"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Infinity-Parser2 é um sistema end-to-end que combina síntese controlada de dados com aprendizado por reforço multitarefa. Ele gera seus próprios exemplos de treinamento com variações de fontes, layouts e ruídos, otimizando precisão em múltiplos tipos de documento simultaneamente.",
+      "visual_hint": "Ícone de engrenagem com setas circulares e um documento sendo 'lido' por raios laser"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se um agente de IA não consegue ler corretamente uma fatura, um contrato ou um laudo médico, todo o workflow de automação desmorona. O Infinity-Parser2 ataca a raiz do problema: a escassez de datasets de qualidade para treinar modelos de parsing com precisão cirúrgica.",
+      "visual_hint": "Gráfico de barras mostrando queda de eficiência em workflows quebrados por falha de parsing"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de automação de documentos: US$ 10 bilhões anuais (UiPath, Hyperscience, ABBYY)",
+        "Custo estimado de falha de parsing: 30% da produtividade perdida em workflows corporativos",
+        "Modelos tradicionais (LayoutLM, DocTR) resolvem tarefas isoladas; Infinity-Parser2 otimiza múltiplos objetivos simultaneamente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes corporativos finalmente poderão ler documentos complexos com precisão cirúrgica",
+        "Redução drástica de erros em automação de faturas, contratos e laudos médicos",
+        "Mudança de paradigma: de 'texto plano' para estrutura hierárquica real (tabelas, cabeçalhos, notas)"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O parsing de documentos é o novo petróleo da IA corporativa. Não fique para trás."
+    }
+  ]
+}

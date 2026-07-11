@@ -1,0 +1,14 @@
+{
+  "tldr": "Go está se consolidando como a linguagem padrão para agentes de IA em produção, com Microsoft e Google liderando a adoção, enquanto OpenAI e Anthropic ainda dependem de Python.",
+  "key_facts": [
+    "Microsoft e Google estão apoiando Go para desenvolvimento de agentes de IA.",
+    "Go oferece vantagens de performance, concorrência e baixa latência em relação ao Python para sistemas em produção.",
+    "Ferramentas de infraestrutura como Kubernetes, Docker e Terraform já são escritas em Go, facilitando a integração com agentes de IA."
+  ],
+  "why_it_matters": "A escolha da linguagem para agentes de IA impacta diretamente a escalabilidade, custo operacional e competitividade; empresas que ignorarem a migração para Go podem perder eficiência e precisar reescrever sistemas.",
+  "watch_next": [
+    "Frameworks e SDKs para agentes de IA começarem a ser escritos primariamente em Go.",
+    "Startups que usam Python para orquestração de agentes enfrentarem pressão para migrar ou perderem vantagem competitiva."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na mudança de camada (de protótipo para produção) e no impacto estratégico da escolha da linguagem, em vez de apenas reportar a adoção técnica."
+}

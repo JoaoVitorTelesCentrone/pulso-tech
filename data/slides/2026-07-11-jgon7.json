@@ -1,0 +1,53 @@
+{
+  "title": "VectorizationLLM: O Fim do Abismo entre o Ensino de Matemática e a Prática de Engenharia com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "VectorizationLLM: A Ponte que a Engenharia Esperava",
+      "subtext": "Como um modelo especializado do Google está transformando o abismo entre teoria e prática em um atalho de US$ 10 bilhões.",
+      "image_prompt": "A futuristic digital bridge made of mathematical symbols and circuit traces connecting a university building to a high-tech engineering lab, glowing blue and orange, dark background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Existe um abismo silencioso entre o que se ensina nas universidades e o que se pratica na engenharia de IA. Modelos como GPT-4 e Gemini falham em problemas que exigem raciocínio matemático estruturado, como análise vetorial e transformadas de Fourier.",
+      "highlight": "O gargalo da formação técnica pode valer dezenas de bilhões de dólares."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores do Google publicaram o VectorizationLLM, um modelo de linguagem especializado em vetorização inteligente, análise de Fourier e equações diferenciais. Diferente de um tutor genérico, ele entende o contexto de problemas reais de engenharia.",
+      "visual_hint": "Ícone de cérebro com engrenagens matemáticas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para estudantes, é um tutor que explica o 'porquê' de cada passo. Para engenheiros, reduz o tempo de debugging de modelos complexos. Para empresas, é um atalho para reduzir o custo de onboarding técnico em áreas que exigem fundamentos matemáticos sólidos.",
+      "visual_hint": "Gráfico de linha ascendente com pico de eficiência"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelo fine-tunado sobre os open-weight LLMs do Google (família Gemma)",
+        "Treinado com abordagem de raciocínio estruturado (chain-of-thought especializado)",
+        "Mercado de educação técnica assistida por IA: dezenas de bilhões de dólares"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim do abismo entre teoria acadêmica e prática de engenharia",
+        "Redução drástica no tempo de debugging de modelos matemáticos",
+        "Novo padrão para ferramentas de aprendizado técnico assistido por IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da engenharia não será escrito por quem sabe fórmulas, mas por quem sabe aplicá-las com IA."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "A IA Contra a Fome na Cadeia de Suprimentos: O Modelo que Une Economia e Biologia para Prever Colapsos Agrícolas",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IA Contra a Fome: O Gêmeo Digital que Preve Colapsos Agrícolas",
+      "subtext": "Enquanto o Vale do Silício briga por chatbots, um paper do arXiv une economia e biologia para proteger os US$ 8 trilhões da segurança alimentar global.",
+      "image_prompt": "A futuristic digital twin of a global agricultural supply chain, glowing network nodes connecting farms to cities, with a subtle overlay of crop growth data and economic graphs, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Cadeias de suprimentos agrícolas são frágeis e fragmentadas. Modelos econômicos ignoram a biologia das lavouras, enquanto modelos biológicos tratam a economia como ruído. Essa desconexão custa caro e gera volatilidade que afeta do produtor ao consumidor.",
+      "highlight": "US$ 8 trilhões: o valor do mercado global de alimentos anualmente."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo sistema de IA integra o modelo econômico GTAP (Global Trade Analysis Project) com o modelo biofísico APSIM (Agricultural Production Systems Simulator). A IA atua como 'tradutor' entre escalas de campo (metros, dias) e escalas de país (anos), criando um gêmeo digital da cadeia de suprimentos agrícola global.",
+      "visual_hint": "Ícone de dois hemisférios cerebrais se conectando: um com gráficos econômicos, outro com folhas e dados de solo."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, formuladores de políticas, traders e seguradoras podem simular cenários com granularidade de safra e alcance macroeconômico. Perguntas como 'O que acontece com o PIB da Argentina se o El Niño reduzir a produtividade do milho no Brasil?' ganham respostas precisas, permitindo ações preventivas contra a fome e a volatilidade.",
+      "visual_hint": "Mapa-múndi com setas de impacto conectando uma geada no Brasil a um aumento de preço na Ásia."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 8 trilhões: tamanho do mercado global de alimentos.",
+        "US$ 100-200 bilhões: custo anual da má alocação de recursos por falta de integração de dados.",
+        "15%: queda na produtividade do milho que pode ser simulada para prever impactos no PIB de países inteiros."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Criação de um novo mercado: o de 'previsão integrada de resiliência agrícola'.",
+        "Decisões de plantio, estoque e comércio baseadas em simulações climático-econômicas em tempo real.",
+        "Mitigação de choques antes que eles cheguem ao preço do pão na mercearia."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da comida está sendo escrito em código. Não perca o próximo capítulo."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe 'Context Graphs' para substituir agentes de IA reativos por sistemas proativos que antecipam problemas corporativos, prometendo multiplicar o ROI da automação empresarial.",
+  "key_facts": [
+    "Agentes atuais com RAG e frameworks agenticos são fundamentalmente reativos, exigindo consulta humana para agir.",
+    "Context Graphs modelam o estado operacional da empresa em tempo real (prazos, commits, orçamentos) para permitir ações proativas.",
+    "O paper estima que agentes proativos podem entregar de 1 a 1,5 FTE de produtividade, contra 0,3 FTE dos reativos.",
+    "A arquitetura proposta tem três camadas: extração de contexto, raciocínio proativo e camada de ação autônoma."
+  ],
+  "why_it_matters": "A promessa de agentes autônomos corporativos não se concretizou; este artigo expõe o gargalo econômico (US$ 100 bi) e oferece uma solução arquitetural concreta que pode redefinir o ROI da IA empresarial, transformando chatbots caros em verdadeiros automatizadores de workflows.",
+  "watch_next": [
+    "Implementações práticas de Context Graphs por grandes players (Microsoft, Salesforce, ServiceNow) nos próximos 12 meses.",
+    "Debate sobre governança e limites éticos de agentes que agem sem consulta humana prévia.",
+    "Comparações de benchmarks entre agentes reativos e proativos em ambientes corporativos reais."
+  ],
+  "editorial_angle": "O artigo se diferencia por não ser apenas mais um hype de IA, mas sim uma análise crítica baseada em um paper acadêmico que identifica um problema econômico real (a promessa não cumprida de produtividade) e propõe uma arquitetura viável, com métricas de ROI claras, em vez de conceitos vagos."
+}

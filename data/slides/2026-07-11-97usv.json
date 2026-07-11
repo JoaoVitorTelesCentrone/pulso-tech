@@ -1,0 +1,53 @@
+{
+  "title": "Go Assume o Trono da Infraestrutura: Microsoft e Google Abraçam a Linguagem para Agentes de IA — e OpenAI Fica Para Trás",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Go Assume o Trono da Infraestrutura",
+      "subtext": "Microsoft e Google Abraçam Go para Agentes de IA — e OpenAI Fica Para Trás",
+      "image_prompt": "A futuristic digital throne made of glowing code and cloud infrastructure, with the Go gopher mascot sitting on it, surrounded by Microsoft and Google logos, dark tech background, neon blue and green lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Go, a linguagem criada pelo Google em 2009, consolidou-se como a lingua franca da infraestrutura em nuvem. Agora, Microsoft e Google estão adotando Go como a linguagem de escolha para construir agentes de IA, enquanto OpenAI e Anthropic ainda dependem fortemente do ecossistema Python.",
+      "highlight": "Go está se tornando o padrão invisível da infraestrutura de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Microsoft se juntou ao Google no suporte oficial a Go para o desenvolvimento de agentes de IA. A mudança sinaliza uma transição da era dos protótipos em Python para a era da produção em Go, onde baixa latência, concorrência eficiente e deploy em escala são essenciais.",
+      "visual_hint": "Ícone de engrenagem com o símbolo do Go ao centro, setas de conexão para logos da Microsoft e Google"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Python é excelente para experimentação, mas sofre em produção: GIL, alto consumo de memória e latência imprevisível. Go foi projetado para resolver esses problemas com goroutines leves, compilação rápida e gerenciamento eficiente de memória. Para agentes que orquestram múltiplas chamadas de API em tempo real, Go é a escolha racional.",
+      "visual_hint": "Gráfico comparativo de desempenho: Python vs Go em latência e concorrência"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Go é usado em Kubernetes, Docker, Prometheus, Terraform e Vault — a espinha dorsal da computação moderna",
+        "Goroutines em Go permitem gerenciar milhares de conexões simultâneas com custo mínimo de memória",
+        "Empresas que escolherem Python para orquestração de agentes podem precisar reescrever tudo em até 2 anos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Frameworks e SDKs para agentes de IA serão escritos primariamente em Go",
+        "Startups que ignorarem Go perderão competitividade em escalabilidade e custo operacional",
+        "OpenAI e Anthropic precisarão se adaptar ou ficarão para trás na corrida de infraestrutura"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A era dos protótipos acabou. A produção em Go é o futuro dos agentes de IA."
+    }
+  ]
+}

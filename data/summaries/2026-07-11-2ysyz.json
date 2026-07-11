@@ -1,0 +1,15 @@
+{
+  "tldr": "O Infinity-Parser2 é um modelo multimodal que resolve o gargalo de US$ 10 bilhões na extração de dados de documentos mal estruturados, usando síntese de dados controlável e aprendizado por reforço multitarefa para superar a falta de datasets de qualidade.",
+  "key_facts": [
+    "O Infinity-Parser2 é um LMM end-to-end que combina síntese de dados controlável com RL multitarefa para parsing de documentos.",
+    "Documentos representam cerca de 80% dos dados corporativos, mas a maioria dos LLMs ignora sua estrutura hierárquica.",
+    "O mercado de automação de documentos é estimado em US$ 10 bilhões anuais, com empresas como UiPath, Hyperscience e ABBYY enfrentando o mesmo gargalo."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, este artigo destaca um problema crítico e subestimado que limita a eficácia de agentes corporativos: a incapacidade de extrair dados estruturados de documentos complexos. O Infinity-Parser2 oferece uma abordagem inovadora que pode desbloquear bilhões em produtividade e viabilizar workflows de automação mais robustos.",
+  "watch_next": [
+    "Comparação do Infinity-Parser2 com modelos como LayoutLM e Donut em benchmarks públicos de parsing.",
+    "Adoção do modelo por empresas de automação documental e impacto no mercado de RPA.",
+    "Publicação de datasets sintéticos gerados pelo pipeline do Infinity-Parser2 para a comunidade de pesquisa."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar em um problema prosaico mas caro (parsing de documentos) que a indústria de agentes de IA ignora, em vez de benchmarks de raciocínio ou chatbots. Ele foi escolhido por revelar uma inovação técnica (síntese controlável + RL multitarefa) com potencial de impacto econômico direto e por questionar a priorização do mercado."
+}

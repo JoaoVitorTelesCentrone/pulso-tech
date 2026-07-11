@@ -1,0 +1,53 @@
+{
+  "title": "O Fim da Reatividade: Como os 'Context Graphs' Estão Criando Agentes Corporativos que Antecipam (e Não Apenas Reagem)",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim da Reatividade: Agentes que Antecipam",
+      "subtext": "Como os 'Context Graphs' estão redefinindo a economia da automação empresarial",
+      "image_prompt": "A futuristic corporate control room with glowing neural network graphs overlaying data streams, dark blue and neon green tones, high tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes corporativos atuais, mesmo com RAG e frameworks agenticos, são fundamentalmente reativos: esperam passivamente por uma consulta humana. Empresas gastaram fortunas em automação que, na prática, apenas terceiriza o trabalho cognitivo para o funcionário.",
+      "highlight": "US$ 100 bilhões investidos em agentes que ainda precisam que você saiba o que perguntar"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe os 'Context Graphs' — uma estrutura de dados dinâmica que modela o estado operacional, prazos e intenções da organização em tempo real. O agente não espera a pergunta: ele já sabe que o prazo é amanhã, que o repositório está parado e que o custo estourou. Ele age antes.",
+      "visual_hint": "Ícone de grafo com nós pulsando em tempo real, conectando calendário, código e métricas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O agente proativo identifica gargalos, sugere ações e executa correções antes que o humano perceba o problema. Isso transforma o ROI da IA corporativa: de 0,3 FTE de economia para 1 a 1,5 FTE. Não é mais um chatbot com APIs — é um verdadeiro orquestrador de workflows.",
+      "visual_hint": "Gráfico de barras comparando produtividade: agente reativo vs. proativo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo médio de um agente corporativo: US$ 50 mil/ano por implantação",
+        "Agente reativo entrega economia de 0,3 FTE",
+        "Agente proativo com Context Graph multiplica por 3x a 5x o valor, entregando 1 a 1,5 FTE"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Funcionários deixam de ser 'tradutores' de perguntas para máquinas",
+        "Automação deixa de ser reativa e passa a ser preditiva e corretiva",
+        "Empresas que adotarem Context Graphs terão vantagem competitiva direta em produtividade"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da automação não espera você perguntar — ele já sabe."
+    }
+  ]
+}

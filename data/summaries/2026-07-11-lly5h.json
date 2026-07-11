@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper propõe a Epistemologia Social Adversarial (ASE) como framework para entender e mitigar a manipulação de confiança em sistemas onde humanos e LLMs interagem, criando um novo mercado de auditoria de integridade epistêmica.",
+  "key_facts": [
+    "O artigo 'Adversarial Social Epistemology for Assemblies of Humans and Large Language Models' (arXiv:2607.07760) introduz o conceito de ASE.",
+    "ASE trata declarações públicas como nós em redes de testemunho, inferência e certificação, assumindo que agentes podem explorar falhas para manipular crenças.",
+    "O framework identifica três mecanismos de ataque: cadeias de testemunho, certificação institucional e confiança tácita.",
+    "A confiança é estimada em US$ 100 bi (publicidade digital), US$ 50 bi (mercados de previsão) e US$ 1 tri (decisão corporativa baseada em IA)."
+  ],
+  "why_it_matters": "A indústria de IA foca em alinhamento individual dos modelos, mas a ASE revela que o verdadeiro risco está na interação adversarial entre múltiplos agentes (humanos e IA), exigindo novas soluções de auditoria e governança para proteger a integridade epistêmica em larga escala.",
+  "watch_next": [
+    "Surgimento de startups de auditoria de confiança especializadas em detectar ataques epistêmicos em sistemas multi-agente.",
+    "Regulamentações exigindo certificações de robustez epistêmica para agentes de IA em mercados financeiros e plataformas de conteúdo.",
+    "Desenvolvimento de protocolos formais de verificação de cadeias de testemunho em tempo real."
+  ],
+  "editorial_angle": "Diferencia-se ao tratar a confiança não como um problema técnico de alinhamento, mas como uma commodity econômica vulnerável a ataques sistêmicos, mapeando um novo mercado de governança que ainda não é discutido pela mídia mainstream de tecnologia."
+}

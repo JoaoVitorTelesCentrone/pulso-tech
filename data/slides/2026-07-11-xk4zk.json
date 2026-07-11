@@ -1,0 +1,53 @@
+{
+  "title": "O Novo Mercado de US$ 50 Bilhões: Como a OpenAI Está Transformando o ChatGPT em um Membro da Família",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Novo Mercado de US$ 50 Bilhões: Como a OpenAI Está Transformando o ChatGPT em um Membro da Família",
+      "subtext": "Enquanto a indústria corre para vender IA para corporações, a OpenAI aposta que o verdadeiro ouro está dentro de casa.",
+      "image_prompt": "A futuristic living room with a warm, glowing holographic AI assistant interacting with a multi-generational family, digital art, cyberpunk family vibe, neon accents, cozy atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI publicou uma vaga de emprego para um Product Manager dedicado a construir experiências para famílias, cuidadores e idosos no ChatGPT. O objetivo é transformar o assistente em um 'membro confiável da dinâmica familiar'.",
+      "highlight": "A OpenAI quer que o ChatGPT ajude crianças com lição de casa e idosos com lembretes de medicação."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Enquanto Google, Microsoft e Meta disputam o mercado corporativo de agentes de IA, a OpenAI está silenciosamente construindo a ponte para o mercado consumidor de massa. A vaga de Product Manager para famílias não é um projeto paralelo: é a criação de uma nova vertical de produto.",
+      "visual_hint": "Ícone de uma casa com um cérebro digital no centro, representando a IA como parte do lar"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado consumidor de assistentes pessoais pode chegar a US$ 150 bilhões até 2028, com margens maiores que o corporativo. A dinâmica familiar cria um vínculo emocional e prático que torna a troca de plataforma proibitiva. Dados familiares são o ativo mais valioso da próxima década.",
+      "visual_hint": "Gráfico de barras comparando mercado corporativo (US$ 100B) vs. consumidor (US$ 150B)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado corporativo de agentes de IA: ~US$ 100 bilhões até 2028",
+        "Mercado consumidor de assistentes pessoais: ~US$ 150 bilhões no mesmo período",
+        "ChatGPT já tem centenas de milhões de usuários ativos — base para segmentação familiar"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Famílias se tornam o novo campo de batalha da IA, com foco em educação e cuidados com idosos",
+        "A infraestrutura de voz madura (GPT-Live) permite interações naturais no lar",
+        "Quem conquistar o mercado familiar primeiro terá uma vantagem competitiva quase impossível de replicar"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está nas empresas — está na sua sala de estar."
+    }
+  ]
+}
