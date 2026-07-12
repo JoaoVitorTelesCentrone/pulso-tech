@@ -1,0 +1,14 @@
+{
+  "tldr": "Empresas estão migrando de modelos de IA gigantes para modelos compactos e especializados, criando um novo mercado de US$ 50 bilhões ao reduzir custos de inferência em até 150x sem perda significativa de precisão para a maioria das tarefas corporativas.",
+  "key_facts": [
+    "Modelos compactos (ex.: Llama 3.2 3B, Mistral 7B) custam US$ 0,10 a US$ 0,50 por milhão de tokens, contra US$ 15 a US$ 75 dos modelos de fronteira.",
+    "Modelos pequenos entregam 95% da precisão dos grandes para 80% das tarefas corporativas, com latência de 200-500 ms (vs. 3-10 s dos grandes).",
+    "A migração é impulsionada pelo choque de custos ao escalar chamadas de API para dezenas de milhares por dia."
+  ],
+  "why_it_matters": "A narrativa de que 'maior é melhor' está sendo desafiada por uma otimização econômica real: o custo, a latência e a complexidade dos modelos gigantes os tornam inviáveis para a maioria dos casos de uso empresarial. Isso reconfigura a cadeia de valor da IA, favorecendo provedores de modelos compactos e especializados.",
+  "watch_next": [
+    "Grandes provedores (OpenAI, Anthropic, Google) podem lançar versões 'lite' ou otimizadas para inferência de baixo custo para reter clientes corporativos.",
+    "Startups focadas em fine-tuning e deployment de SLMs (Small Language Models) devem atrair investimento significativo, criando um ecossistema paralelo ao dos modelos de fronteira."
+  ],
+  "editorial_angle": "O artigo se destaca por não tratar a migração como um evento isolado, mas como um padrão de mercado baseado em dados de custo e ROI, contrastando com a cobertura habitual focada em benchmarks e lançamentos de modelos. A escolha editorial reflete a necessidade de cobrir a economia real da IA, não apenas a hype tecnológica."
+}

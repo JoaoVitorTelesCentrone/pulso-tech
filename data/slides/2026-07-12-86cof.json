@@ -1,0 +1,53 @@
+{
+  "title": "O Contra-Ataque dos Pequenos: Como Modelos de IA Compactos Estão Criando um Novo Mercado de US$ 50 Bilhões na Periferia da Economia Tech",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Contra-Ataque dos Pequenos",
+      "subtext": "Como modelos de IA compactos estão criando um novo mercado de US$ 50 bilhões na periferia da economia tech",
+      "image_prompt": "A giant Swiss Army knife towering over a city, with small specialized tools glowing in neon blue at the edges, cyberpunk style, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Clientes corporativos estão migrando de modelos gigantes como GPT-5.6 e Claude Sonnet 5 para modelos menores e especializados. O motivo? Para 80% das tarefas, um canivete suíço é caro demais, lento demais e complexo demais.",
+      "highlight": "80% das tarefas corporativas não precisam de modelos de fronteira"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Empresas que usavam GPT-5.6 para tarefas simples — classificar e-mails, extrair dados, responder FAQs — estão descobrindo que modelos com 1/50 dos parâmetros entregam 95% da precisão por 5% do custo. A 'fatura incompreensível' está impulsionando a migração.",
+      "visual_hint": "Ícone de balança: de um lado um modelo gigante pesado, do outro um modelo pequeno leve, com cifrões caindo do lado pequeno"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Não é um retrocesso técnico, é uma otimização econômica. A diferença entre capacidade máxima e capacidade necessária custa caro: em inferência, latência, complexidade e energia. Modelos pequenos viabilizam aplicações em tempo real que antes eram inviáveis.",
+      "visual_hint": "Gráfico de barras comparando 'Capacidade Máxima' vs 'Capacidade Necessária', com um abismo de custo entre elas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de inferência: US$ 15-75 por milhão de tokens (grandes) vs US$ 0,10-0,50 (pequenos) — redução de 30x a 150x",
+        "Latência: 3-10 segundos (grandes) vs 200-500 milissegundos (pequenos) — 10x mais rápido",
+        "Fine-tuning: modelos pequenos podem ser especializados em um dia, com orçamento acessível"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novo mercado de US$ 50 bilhões na periferia da economia tech, focado em inferência especializada",
+        "Reconfiguração da cadeia de valor: quem domina modelos pequenos e eficientes ganha vantagem",
+        "Democratização da IA: empresas de médio porte podem competir com soluções sob medida e de baixo custo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é maior. É mais inteligente, mais rápido e mais barato."
+    }
+  ]
+}

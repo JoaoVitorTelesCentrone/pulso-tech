@@ -1,0 +1,53 @@
+{
+  "title": "Mindwalk: O Mapa 3D que Transforma Agentes de Codificação em Infraestrutura Auditável e Redefine a Economia do Debug de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Mindwalk: O Mapa 3D que Transforma Agentes de Codificação em Infraestrutura Auditável",
+      "subtext": "Enquanto a indústria corre para construir agentes mais rápidos, um projeto open source expõe o gargalo esquecido: como auditar o que um agente fez no seu código?",
+      "image_prompt": "A futuristic 3D cityscape made of code files and folders, with a glowing ghost-like agent navigating through the structure, dark tech aesthetic, neon blue and purple lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "No domingo, 12 de julho de 2026, o projeto Mindwalk alcançou o topo do Hacker News com 64 pontos e 29 comentários. Desenvolvido por cosmtrek, a ferramenta promete algo simples em conceito, mas revolucionário na prática: reproduzir sessões de agentes de codificação em um mapa 3D da sua base de código.",
+      "highlight": "64 pontos no HN — o mercado está sedento por auditabilidade"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Mindwalk captura o rastro de ações de agentes de IA — arquivos modificados, funções criadas, testes executados — e os projeta em uma visualização tridimensional interativa da estrutura do projeto. Em vez de um log textual ou um diff estático, você literalmente vê o agente se movendo pelo seu código, como um fantasma navegando por uma cidade de arquivos e diretórios.",
+      "visual_hint": "Ícone de mapa 3D com um rastro luminoso percorrendo diretórios"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Quando um desenvolvedor humano comete um erro, ele pode explicar o raciocínio. Quando um agente de IA comete um erro — e eles cometem, frequentemente — o rastro é um diff gigante ou um log de tokens que ninguém lê. Mindwalk resolve isso transformando a navegação do agente em algo que o cérebro humano entende naturalmente: espaço tridimensional e movimento. Para CTOs, isso é um divisor de águas: a resistência à adoção de agentes não é técnica — é de confiança.",
+      "visual_hint": "Ícone de cérebro humano conectado a um cubo 3D"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de codificação pode ultrapassar US$ 50 bilhões até 2028",
+        "Mindwalk alcançou 64 pontos e 29 comentários no Hacker News em 24h",
+        "Ferramenta captura ações de Claude Code, GPT-5.6, Copilot, Cursor e mais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Auditabilidade visual se torna requisito para adoção corporativa de agentes de IA",
+        "Desenvolvedores ganham uma terceira via entre confiar cegamente ou rejeitar tudo",
+        "Anomalias visuais expõem alucinações e raciocínios incorretos dos agentes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Mindwalk não é apenas uma ferramenta de visualização bonita — é o primeiro passo para transformar sessões de agentes em infraestrutura verificável."
+    }
+  ]
+}

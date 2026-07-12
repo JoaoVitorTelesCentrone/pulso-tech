@@ -1,0 +1,14 @@
+{
+  "tldr": "A Ollama levantou US$ 65 milhões e atingiu 9 milhões de usuários, sinalizando que o controle da infraestrutura de IA está migrando de APIs centralizadas para execução local open source.",
+  "key_facts": [
+    "Ollama levantou US$ 65 milhões em Série A liderada pela Benchmark Capital.",
+    "A startup atingiu 9 milhões de usuários, 176 mil estrelas e 17 mil forks no GitHub.",
+    "Estados alemães estão trocando SharePoint por alternativas open source, reforçando a tendência de soberania digital."
+  ],
+  "why_it_matters": "A rodada da Ollama mostra que o mercado está precificando o valor do controle local sobre IA, desafiando o modelo de APIs caras e centralizadas, e abrindo caminho para descentralização, privacidade e custos reduzidos para desenvolvedores e empresas.",
+  "watch_next": [
+    "Empresas de API de IA (OpenAI, Anthropic) podem responder com modelos locais ou redução de preços.",
+    "Grandes provedores de nuvem (AWS, Azure) podem adquirir ou competir com soluções de inferência local."
+  ],
+  "editorial_angle": "O artigo conecta um evento de startup de dev tools a uma mudança tectônica na economia da infraestrutura de IA, destacando a comoditização de modelos, custos de API e demanda por soberania digital — um ângulo estratégico que vai além do hype de modelos de fronteira."
+}

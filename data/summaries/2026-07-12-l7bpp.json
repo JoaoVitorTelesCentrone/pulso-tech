@@ -1,0 +1,16 @@
+{
+  "tldr": "Mindwalk é uma ferramenta open source que cria mapas 3D interativos das ações de agentes de codificação IA, transformando sessões opacas em infraestrutura auditável e visual.",
+  "key_facts": [
+    "Mindwalk alcançou o topo do Hacker News com 64 pontos e 29 comentários em 12 de julho de 2026.",
+    "A ferramenta captura o rastro de agentes como Claude Code, GPT-5.6, Copilot e Cursor, projetando ações em um mapa 3D da base de código.",
+    "O mercado de agentes de codificação pode ultrapassar US$ 50 bilhões até 2028, mas a auditabilidade é um gargalo crítico.",
+    "Mindwalk permite replay visual da sessão do agente, identificando anomalias como alucinações ou raciocínio incorreto."
+  ],
+  "why_it_matters": "Para CTOs, gestores de engenharia e desenvolvedores que adotam agentes de IA, a falta de auditabilidade é o maior obstáculo à confiança. Mindwalk oferece uma solução visual e imediata para verificar o que o agente fez, reduzindo o custo cognitivo do debug e viabilizando a adoção em larga escala.",
+  "watch_next": [
+    "Integração do Mindwalk com plataformas de CI/CD para auditoria automatizada de sessões de agentes.",
+    "Surgimento de padrões abertos de rastreamento de agentes, como extensões do MCP ou novos protocolos de logging.",
+    "Adoção por grandes empresas de tecnologia como parte de seus fluxos de revisão de código com IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no problema estrutural de confiança e auditabilidade, em vez de apenas descrever a ferramenta. Ele conecta a inovação técnica a um gargalo de mercado bilionário, posicionando Mindwalk como um marco para a economia dos agentes de codificação."
+}

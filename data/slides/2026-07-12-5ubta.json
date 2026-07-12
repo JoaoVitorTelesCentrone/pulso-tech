@@ -1,0 +1,54 @@
+{
+  "title": "O Paradoxo da Segurança Nacional: Como a Guerra Contra a Imigração Está Criando um Novo Risco Sistêmico para a Infraestrutura de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Paradoxo da Segurança Nacional",
+      "subtext": "Como a guerra contra a imigração está criando um novo risco sistêmico para a infraestrutura de IA",
+      "image_prompt": "A futuristic data center with a subtle, ominous shadow of a border patrol agent looming over server racks, dark blue and red neon lighting, cinematic, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Sob o regime de Segurança Nacional, o ICE opera com agressividade crescente, patrulhando tribunais de imigração como uma força armada. O que parece uma questão de política migratória é, na verdade, um gargalo invisível de US$ 100 bilhões na cadeia de suprimentos de talento técnico da indústria de IA.",
+      "highlight": "ICE não é apenas uma força armada. É um gargalo invisível de US$ 100 bilhões."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Mais de 70% dos doutorandos em IA nos EUA são estrangeiros. O ambiente de hostilidade institucional — personificado pelo ICE — está criando um efeito dissuasório mensurável: engenheiros de IA estão optando por não vir para os EUA, preferindo Canadá, Reino Unido ou Cingapura.",
+      "visual_hint": "Ícone de um cérebro com um visto carimbado como 'negado'"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como Google, Meta e OpenAI dependem de vistos H-1B e O-1 para trazer talento global. Com a taxa de aprovação caindo de 85% para 68%, startups de IA enfrentam um novo risco sistêmico: a impossibilidade de contratar os melhores engenheiros do mundo.",
+      "visual_hint": "Gráfico de linha descendente representando aprovação de vistos"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "70% dos doutorandos em IA nos EUA são estrangeiros",
+        "Pedidos de visto H-1B caíram 12% desde 2023",
+        "Taxa de aprovação para tech caiu de 85% para 68%",
+        "Gap de talento em IA custa US$ 80 bi/ano em produtividade perdida"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fuga de capital humano reversa: engenheiros escolhem Canadá, Reino Unido e Cingapura",
+        "Empresas como Anthropic e OpenAI abrem escritórios no exterior como hedge",
+        "Custo do gap de talento pode chegar a US$ 150 bilhões até 2028"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está apenas nos chips — está nas pessoas que ousam cruzar fronteiras."
+    }
+  ]
+}

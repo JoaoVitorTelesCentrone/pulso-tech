@@ -1,0 +1,53 @@
+{
+  "title": "Fundamentum e o Sinal de US$ 200 Mi para a Economia de Venture Capital em IA na Índia",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Mestre dos Dados Sai de Cena",
+      "subtext": "Nandan Nilekani deixa o comando do Fundamentum — e expõe a nova economia do capital de risco em IA na Índia",
+      "image_prompt": "A futuristic Indian city skyline at dusk, glowing digital data streams, a silhouette of a leader stepping away from a control panel, neon blue and orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Nandan Nilekani, arquiteto do Aadhaar e cofundador da Infosys, está deixando o cargo de General Partner no Fundamentum. A transição coincide com o lançamento do terceiro fundo da gestora, de US$ 200 milhões, focado em startups de IA e fintech na Índia.",
+      "highlight": "US$ 200 Mi — o novo fundo do Fundamentum para IA e fintech indianas"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Nilekani permanece como anchor investor, mas cede o comando operacional a uma nova geração de GPs. O movimento não é uma aposentadoria — é o sinal mais claro de que o capital de risco indiano está amadurecendo para uma fase onde a tese de IA precisa de executores, não apenas de visionários.",
+      "visual_hint": "Ícone de bastão sendo passado entre duas mãos, com gráfico de crescimento ao fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A saída de Nilekani sinaliza três movimentos: a tese de IA na Índia deixou de ser experimental; o mercado de VC indiano está se fragmentando em fundos setoriais; e o timing é estratégico — com o governo Modi digitalizando serviços públicos e o custo de desenvolvimento de IA 60% menor que nos EUA.",
+      "visual_hint": "Mapa da Índia com pontos de luz representando hubs de IA e fintech"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Financiamento de venture capital em IA na Índia cresceu 47% no último ano (NASSCOM)",
+        "UPI processa mais de 10 bilhões de transações por mês",
+        "Custo de desenvolvimento de modelos de IA na Índia é 60% menor do que nos EUA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fundos de VC indianos se especializam em IA, fintech, healthtech e climatetech",
+        "Startups de IA focadas em problemas locais (inclusão financeira, agricultura, logística) ganham tração",
+        "Nilekani atua como ponte entre políticas públicas e inovação privada"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O ecossistema indiano de IA está apenas começando — e os próximos movimentos do Fundamentum vão definir o ritmo."
+    }
+  ]
+}

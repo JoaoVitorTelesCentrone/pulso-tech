@@ -1,0 +1,53 @@
+{
+  "title": "O Nopia Synth Está 'Praticamente Pronto': A Análise de um Fenômeno que Revela a Nova Economia da Manufatura de Hardware na Era da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Nopia Synth: 3 Anos de Hype, 1 Lição para a Economia do Hardware",
+      "subtext": "Como um protótipo viral revelou os gargalos da manufatura na era da IA",
+      "image_prompt": "A mint green synthesizer prototype glowing on a dark, futuristic workbench, with holographic circuit traces floating above it, cyberpunk aesthetic, high contrast lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 2023, um vídeo de um protótipo de sintetizador mint green quebrou a internet. Três anos depois, o Nopia Synth finalmente está 'praticamente pronto' — um ciclo de desenvolvimento que expõe a dura realidade da produção física em um mundo dominado por software e IA.",
+      "highlight": "3 anos para transformar um protótipo viral em produto final"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Martin Grieco e Rocío Gal, criadores do Nopia, levaram uma unidade funcional ao MusicRadar após mais de três anos de desenvolvimento. O produto, que gerou demanda orgânica massiva em 2023, enfrentou o 'abismo da manufatura': DFM, cadeia de suprimentos, certificações e capital de giro.",
+      "visual_hint": "Ícone de engrenagem com um relógio e um chip de silício ao centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Em um mercado obcecado por SaaS e APIs, o Nopia prova que produtos físicos ainda geram desejo viral. Mas a jornada revela o verdadeiro custo: hardware nichado exige paciência, capital e resiliência que a economia tech moderna raramente discute.",
+      "visual_hint": "Gráfico de linha mostrando pico de hype em 2023 e platô de produção em 2026"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "2023: Pico de demanda viral não endereçada — milhares de interessados, zero unidades vendidas",
+        "3 anos: Tempo total do protótipo ao produto 'praticamente pronto'",
+        "Fases críticas: DFM, cadeia de suprimentos, certificações (CE/FCC), capital de giro"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Startups de hardware precisam planejar ciclos de 3+ anos, não meses",
+        "Validação viral não substitui engenharia de manufatura e capital de giro",
+        "A IA e o software são ferramentas, não o produto final — o hardware nichado exige outra economia"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Nopia é só o começo. Entenda como a nova economia da manufatura está sendo reescrita."
+    }
+  ]
+}

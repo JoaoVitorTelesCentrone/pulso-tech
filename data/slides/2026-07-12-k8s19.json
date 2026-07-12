@@ -1,0 +1,53 @@
+{
+  "title": "Reed Jobs e Yosemite: A Nova Economia do Venture Capital em Biotech e o Sinal de que a IA Está Redefinindo a Cura do Câncer",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Reed Jobs e Yosemite: O Venture Capital que Quer Curar o Câncer",
+      "subtext": "Como a IA está reconfigurando a biotech em um mercado de US$ 200 bilhões prestes a ser canibalizado",
+      "image_prompt": "Futuristic biotech lab with glowing DNA helix and AI neural network overlays, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Três anos após o lançamento, o fundo de Reed Jobs não é mais uma aposta de nome — é um termômetro de como o capital de risco está migrando para a interseção entre biologia computacional, patentes farmacêuticas e o timing perfeito de um mercado de US$ 200 bilhões.",
+      "highlight": "17 pessoas. Um escritório. Uma missão: curar o câncer."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Reed Jobs revelou que a Yosemite está surfando uma onda silenciosa: o fim do ciclo de patentes de medicamentos oncológicos e autoimunes. Isso cria um vale de destruição criativa — e uma demanda massiva por novas moléculas descobertas por IA.",
+      "visual_hint": "Ícone de calendário com patentes expirando em 2026-2030, ao lado de um chip de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O modelo tradicional de P&D farmacêutico — 10 a 15 anos e US$ 2,6 bilhões por droga — está sendo desafiado por startups que usam LLMs e modelos generativos para simular interações moleculares em meses. Yosemite financia essa fronteira.",
+      "visual_hint": "Gráfico de barras comparando tempo e custo: tradicional vs. IA-assisted"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 200 bilhões: mercado de blockbuster drugs prestes a perder patente",
+        "2026-2030: pico de expiração de patentes oncológicas e autoimunes",
+        "17 pessoas: equipe enxuta da Yosemite, operando com capital cirúrgico"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redescoberta de alvos moleculares a partir de dados reais de pacientes",
+        "Simulação de toxicidade antes dos ensaios clínicos, cortando custos",
+        "Otimização de moléculas para criar novo IP e substituir blockbusters"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A cura do câncer pode estar em um modelo de IA que ainda não foi treinado."
+    }
+  ]
+}

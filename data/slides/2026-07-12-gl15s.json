@@ -1,0 +1,53 @@
+{
+  "title": "Ollama e o Sinal de US$ 65 Milhões: O Mercado de Open Source em IA Está Mostrando Quem Realmente Controla a Infraestrutura de Desenvolvimento",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Open Source Está Tomando o Controle da Infraestrutura de IA",
+      "subtext": "Ollama levanta US$ 65 milhões e mostra que o futuro da execução de modelos é local, descentralizado e soberano.",
+      "image_prompt": "A futuristic digital landscape with glowing network nodes representing decentralized AI infrastructure, dark blue and neon green tones, abstract technology background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto OpenAI e Google disputam modelos de fronteira na nuvem, a startup open source Ollama acaba de levantar US$ 65 milhões e alcançar 9 milhões de usuários. O movimento sinaliza uma mudança tectônica: o controle da infraestrutura de execução está migrando para o open source.",
+      "highlight": "US$ 65 milhões — Série A liderada pela Benchmark Capital"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Ollama criou uma camada de orquestração que permite a qualquer desenvolvedor baixar e executar modelos de IA localmente com um único comando. Não cria modelos, mas se torna o gateway para todo o ecossistema open source de IA — de Llama 3 a Mistral e Gemma.",
+      "visual_hint": "Ícone de engrenagem conectada a múltiplos modelos de IA, com setas indicando fluxo local"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para desenvolvedores, a barreira de experimentação caiu. Para empresas, rodar modelos localmente elimina custos variáveis de API e garante privacidade de dados sensíveis. Para investidores, o open source deixou de ser ideologia e se tornou um mercado real com receita real.",
+      "visual_hint": "Gráfico de barras comparando custo de API vs. inferência local, com ícone de cadeado ao lado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "9 milhões de usuários ativos na plataforma Ollama",
+        "176 mil estrelas e 17 mil forks no GitHub",
+        "Metade das empresas da Fortune 500 já usa Hugging Face"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas reduzirão dependência de APIs de terceiros para inferência de IA",
+        "Setores regulados (saúde, finanças, governo) adotarão modelos on-premise",
+        "Estados alemães já abandonam SharePoint por alternativas open source — soberania digital vira vetor econômico"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O open source não é apenas o futuro da IA — é o presente que está redefinindo quem controla a infraestrutura."
+    }
+  ]
+}
