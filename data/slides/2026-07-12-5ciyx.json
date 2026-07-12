@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.6 na Produção: 2,2x Mais Rápido, 27% Mais Barato — O Marco que Enterra a Guerra de Chatbots e Abre a Economia da Inferência Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-5.6 na Produção: 2,2x Mais Rápido, 27% Mais Barato",
+      "subtext": "O marco que enterra a guerra de chatbots e abre a economia da inferência corporativa",
+      "image_prompt": "Futuristic data center with glowing blue server racks and a sleek AI interface floating in the air, digital speed lines and cost reduction graphs, dark cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado discute benchmarks e alucinações, um dado concreto de produção de um agente de IA migrado para o GPT-5.6 expõe a verdadeira fronteira econômica: a eficiência de inferência está se tornando o campo de batalha decisivo, e não a capacidade bruta do modelo.",
+      "highlight": "Eficiência de inferência é o novo campo de batalha"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um engenheiro publicou no Hacker News o relato detalhado da migração de um agente de IA em produção para o GPT-5.6. Os números são cirúrgicos: 2,2x mais rápido na execução e 27% mais barato por chamada de API, comparado ao modelo anterior.",
+      "visual_hint": "Ícone de gráfico de barras com setas para cima (velocidade) e para baixo (custo)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O case não vem de um laboratório de pesquisa. É um agente real processando cargas de trabalho reais. Para CTOs e CFOs, a métrica que importa é custo por tarefa útil. O GPT-5.6 entrega mais velocidade e menos custo — uma combinação que quebra a dicotomia entre capacidade e economia.",
+      "visual_hint": "Ícone de engrenagem com cifrão no centro, representando eficiência operacional"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "2,2x mais rápido na execução de agentes em produção",
+        "27% mais barato por chamada de API",
+        "Primeiro relato público de migração corporativa combinando ganho de performance com redução de custo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A conta de inferência — que crescia exponencialmente — pode finalmente encontrar um teto",
+        "Startups e departamentos de engenharia ganham fôlego para escalar agentes de IA",
+        "OpenAI sinaliza que entendeu o principal gargalo de adoção corporativa: custo por tarefa útil"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da inferência corporativa está apenas começando. Não fique para trás."
+    }
+  ]
+}

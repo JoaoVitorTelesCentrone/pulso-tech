@@ -1,0 +1,16 @@
+{
+  "tldr": "Relato de produção mostra que o GPT-5.6 é 2,2x mais rápido e 27% mais barato que modelos anteriores, sinalizando que a eficiência de inferência, e não a capacidade bruta, é a nova fronteira competitiva da IA corporativa.",
+  "key_facts": [
+    "Engenheiro publicou no Hacker News o relato de migração de um agente de IA em produção para o GPT-5.6.",
+    "Os ganhos reportados são de 2,2x mais velocidade e 27% menos custo por chamada de API.",
+    "O case é da empresa Ploy.ai, com métricas coletadas em ambiente de produção real.",
+    "O artigo sugere que os ganhos vêm de maior eficiência por token e/ou menor geração de tokens para a mesma resposta."
+  ],
+  "why_it_matters": "Para CTOs e CFOs que aprovam orçamentos de API, o artigo mostra que a conta de inferência de agentes de IA pode finalmente encontrar um teto, tornando a adoção em escala mais viável economicamente e mudando o foco da competição de benchmarks para custo por tarefa útil.",
+  "watch_next": [
+    "Outras empresas publicarão relatos semelhantes de migração para o GPT-5.6, validando ou contestando os números da Ploy.ai.",
+    "A OpenAI pode ajustar sua estratégia de precificação e compressão de modelos para consolidar a liderança em economia de inferência.",
+    "Concorrentes como Anthropic e Google podem responder com otimizações próprias de custo e latência."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar em dados concretos de produção (não benchmarks sintéticos) e ao conectar ganhos técnicos de performance a uma tese econômica mais ampla: a eficiência de inferência como o verdadeiro campo de batalha da IA corporativa, enterrando a 'guerra de chatbots' baseada apenas em capacidade bruta."
+}

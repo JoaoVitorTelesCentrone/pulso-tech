@@ -1,0 +1,16 @@
+{
+  "tldr": "A qualidade da recuperação de dados, e não os modelos de IA, é o gargalo crítico e subestimado que ameaça o mercado de agentes de IA corporativos, projetado para ultrapassar US$ 100 bilhões.",
+  "key_facts": [
+    "A maioria das falhas em agentes de IA corporativos decorre da má qualidade do contexto recuperado, não do raciocínio do modelo.",
+    "Sistemas de RAG tradicionais falham em cenários reais devido à fragmentação de dados, ruído informacional e falta de escalabilidade.",
+    "O mercado de agentes de IA corporativos está projetado para ultrapassar US$ 100 bilhões nos próximos três anos, mas depende de recuperação confiável.",
+    "Empresas estão perdendo dezenas de bilhões de dólares em projetos abandonados, retrabalho e perda de confiança devido a esse gargalo."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, este artigo expõe que o verdadeiro desafio da adoção de agentes de IA não é o modelo de fronteira, mas a infraestrutura de dados subjacente — um problema que pode inviabilizar o ROI de investimentos bilionários e redefinir prioridades de arquitetura.",
+  "watch_next": [
+    "Empresas de infraestrutura de dados (como Databricks, Snowflake e startups de RAG) devem lançar soluções focadas em qualidade de recuperação para agentes.",
+    "Grandes provedores de modelos (OpenAI, Google, Anthropic) podem integrar camadas de recuperação proprietárias para contornar o gargalo.",
+    "Relatórios de falhas de agentes em produção devem aumentar, pressionando o mercado a priorizar retrieval sobre geração."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar a recuperação de dados não como um detalhe técnico, mas como uma questão econômica de primeira ordem, com estimativas de custo e análise estrutural do mecanismo de falha — algo raro em coberturas focadas apenas em modelos ou benchmarks."
+}

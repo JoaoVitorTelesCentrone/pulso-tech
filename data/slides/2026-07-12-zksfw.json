@@ -1,0 +1,53 @@
+{
+  "title": "O Treinamento de 20 Mil Pessoas em Claude: O Sinal Mais Forte de que a Economia da IA Corporativa Está Mudando de Mãos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "20 Mil Pessoas Treinadas em Claude",
+      "subtext": "O movimento silencioso da Anthropic que pode valer mais que qualquer modelo de fronteira",
+      "image_prompt": "A massive corporate training hall filled with thousands of professionals, holographic AI interfaces floating above them, dark blue and neon purple lighting, futuristic yet realistic, cinematic wide shot"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em benchmarks e preços de API, a Anthropic fechou um acordo que reestrutura a força de trabalho inteira de uma gigante global de 30 mil funcionários. A UST, parceira de Google, Microsoft e Nike, está apostando seu modelo de negócios em Claude.",
+      "highlight": "66% da força de trabalho da UST será treinada em Claude como plataforma central de trabalho"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Anthropic anunciou sua segunda parceria Global Premier com a UST — um compromisso de treinar 20 mil funcionários para usar Claude como infraestrutura de trabalho. Não é sobre API ou licenciamento. É sobre incorporar o modelo no DNA operacional da empresa.",
+      "visual_hint": "Ícone de engrenagem com silhuetas humanas conectadas por linhas de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O gargalo real da IA corporativa não é tecnologia — é adoção humana. A Anthropic está atacando esse gargalo de frente: quanto mais pessoas treinadas em Claude, mais a ferramenta vira padrão interno, mais dados são gerados e mais difícil fica a substituição por concorrentes.",
+      "visual_hint": "Gráfico de adoção em curva S com destaque no ponto de inflexão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "20 mil funcionários treinados — 66% da força de trabalho total da UST",
+        "UST: US$ 4 bi de receita, 30 países, clientes como Google e Nike",
+        "Segunda parceria Global Premier em apenas 2 meses (após Accenture)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas de serviços de TI vão competir por certificação em plataformas de IA",
+        "O valor de um modelo será medido pela profundidade da adoção humana, não por benchmarks",
+        "Trocar de plataforma custará caro — literalmente, retreinar 20 mil pessoas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da IA corporativa está mudando de mãos — e o treinamento em massa é o novo campo de batalha."
+    }
+  ]
+}

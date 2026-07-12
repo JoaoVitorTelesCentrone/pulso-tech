@@ -1,0 +1,54 @@
+{
+  "title": "O Legado Secreto do Apple Car: Como um Projeto Fracassado de US$ 10 Bilhões Forjou o Chip de IA Mais Poderoso do Mundo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fracasso de US$ 10 Bi que Criou o Chip de IA Mais Poderoso do Mundo",
+      "subtext": "Como o Apple Car, um projeto morto, forjou silenciosamente o futuro da inferência local.",
+      "image_prompt": "Futuristic Apple Car prototype in a dark, high-tech lab, with a glowing circuit board brain floating above it, cinematic lighting, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Apple Car (Projeto Titan) consumiu mais de uma década e US$ 10 bilhões em investimento. Nunca foi lançado. Mas, ao tentar resolver o problema da latência em carros autônomos, a Apple criou algo que mudou o jogo: a arquitetura do Neural Engine.",
+      "highlight": "US$ 10 bilhões em P&D que geraram um subproduto mais valioso que o produto original."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Apple desenvolveu o chip 'M7 Ultra' para o carro, combinando CPU, GPU e NPU em um único die com memória unificada. Esse design foi transplantado para os chips M1, M2, M3 e M4. O resultado? A capacidade de rodar modelos de IA localmente com eficiência energética sem precedentes.",
+      "visual_hint": "Diagrama de um chip com três núcleos (CPU, GPU, NPU) conectados a um único pool de memória, com setas indicando fluxo de dados sem latência."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A corrida por inferência local está se tornando tão estratégica quanto a corrida por modelos de fronteira. Enquanto a Nvidia domina data centers, a Apple está construindo silenciosamente o monopólio da inferência em dispositivo. Isso descentraliza a economia da IA, tirando poder da nuvem.",
+      "visual_hint": "Ícone de um chip com um cadeado, simbolizando segurança e processamento local, ao lado de um ícone de nuvem sendo 'cortado' por uma linha."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: Investimento total no Apple Car (Projeto Titan).",
+        "38 TOPS: Desempenho do Neural Engine do M4 (trilhões de operações por segundo).",
+        "800 GB/s: Largura de banda da memória unificada no M4 Ultra.",
+        "100-500ms: Latência evitada ao não depender da nuvem para inferência."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A inferência local pode se tornar dominante para 80% dos casos de uso corporativo.",
+        "Apple captura valor que hoje flui para AWS, Azure e Google Cloud.",
+        "Dispositivos de borda (iPhones, Macs, iPads) se tornam supercomputadores de IA autônomos."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O fracasso de hoje pode ser a infraestrutura do amanhã. Fique de olho no que ninguém está vendo."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Mundo Real é o Novo Dataset: Por Que o CEO da GameData Acredita que Videogames São o Treinamento Definitivo para a AGI",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Mundo Real é o Novo Dataset",
+      "subtext": "Por que o CEO da GameData acredita que videogames são o treinamento definitivo para a AGI",
+      "image_prompt": "A futuristic digital brain emerging from a glowing video game controller, with abstract data streams and neon circuits in dark blue and purple tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a indústria queima bilhões em dados da internet, uma tese radical ganha força: o melhor treinamento para uma inteligência geral não está na Wikipedia ou no Reddit, mas sim em mundos virtuais com física, causalidade e consequências.",
+      "highlight": "Modelos de linguagem atingiram um platô fundamental — eles falham em compreender como as coisas se movem no espaço e no tempo."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A GameData propõe usar dados de videogames — logs de interação, físicas do motor, trajetórias de objetos — para treinar modelos que entendam causa e efeito, espaço tridimensional e cronologia. Dados tradicionais (texto, imagens, vídeos) são estáticos e não ensinam causalidade.",
+      "visual_hint": "Ícone de um controle de videogame conectado a um cérebro digital com setas de causa e efeito"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se a tese estiver correta, empresas gastando US$ 100 bilhões em clusters de treinamento com dados da internet podem estar construindo castelos de areia. O próximo salto em IA pode vir de simulações interativas, não de mais parâmetros ou mais texto.",
+      "visual_hint": "Gráfico de uma curva de aprendizado que se achata (LLMs) e outra que dispara (simulação)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: investimento atual em clusters de treinamento com dados da internet",
+        "0: capacidade de LLMs de prever trajetórias físicas simples (ex: xícara caindo)",
+        "Milhões de frames causais gerados por segundo em jogos como Half-Life 2 e Zelda: Tears of the Kingdom"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Dados sintéticos de simulação substituem dados estáticos da web como principal fonte de treinamento",
+        "Modelos de IA ganham 'modelo de mundo' coerente — entendem gravidade, inércia e causalidade",
+        "Startups de jogos se tornam os novos provedores de infraestrutura para AGI"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O mundo real é o novo dataset — e os videogames são a chave para destravá-lo."
+    }
+  ]
+}

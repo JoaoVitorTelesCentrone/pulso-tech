@@ -1,0 +1,14 @@
+{
+  "tldr": "A indústria de IA enfrenta um gargalo de US$ 10 bilhões: 90% dos projetos nunca chegam à produção, e o hype em torno de MCP como substituto de APIs esconde que o verdadeiro desafio está na engenharia de sistemas, dados reais e custos previsíveis.",
+  "key_facts": [
+    "Entre 70% e 90% dos projetos de IA corporativos nunca chegam à produção.",
+    "Demos impressionam stakeholders, mas falham na produção devido a dados sujos, latência e escalabilidade.",
+    "MCP não substitui APIs, mas cria uma nova camada de orquestração para integração caótica entre agentes, modelos e sistemas legados."
+  ],
+  "why_it_matters": "Para CTOs, gestores de tecnologia e investidores, este artigo sinaliza o fim da era do 'demo fácil' e a necessidade de focar em engenharia de produção, não em demonstrações de conceito, para evitar capital queimado e expectativas frustradas.",
+  "watch_next": [
+    "Empresas de ferramentas de produção de IA (como plataformas de MLOps e observabilidade) devem ganhar destaque e investimento.",
+    "O mercado pode ver uma correção no valuation de startups que ainda vivem de demos, sem tração real em produção."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar dois tópicos aparentemente distintos — a baixa taxa de produção de projetos de IA e o debate MCP vs APIs — para revelar um problema econômico sistêmico, em vez de apenas técnico, oferecendo uma visão crítica e realista que contrasta com o hype dominante."
+}

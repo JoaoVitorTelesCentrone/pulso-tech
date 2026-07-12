@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Invisível de US$ 1 Trilhão: Por Que a Qualidade da Recuperação de Dados Está se Tornando o Calcanhar de Aquiles da Economia dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível de US$ 1 Trilhão",
+      "subtext": "Por que a recuperação de dados é o calcanhar de Aquiles dos agentes de IA",
+      "image_prompt": "A dark digital tunnel with data streams flowing into a massive bottleneck, glowing red warning indicators, futuristic tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA corporativos estão falhando silenciosamente. A culpa não é dos modelos — é do sistema de recuperação de dados que ninguém quer admitir que está quebrado.",
+      "highlight": "Falhas em agentes de IA não estão no raciocínio, mas na qualidade do contexto recebido"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Sistemas agentivos dependem de duas funções: construir contexto e gerar ação. A geração recebeu bilhões em investimento. A recuperação ainda opera com técnicas que não escalam para o mundo real.",
+      "visual_hint": "Ícone de funil invertido com dados fragmentados entrando e contexto incompleto saindo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas investem milhões em modelos de fronteira — GPT-5.6, Claude Sonnet 5, Gemini Spark — apenas para ver agentes falharem em tarefas básicas. O custo: dezenas de bilhões em projetos abandonados, retrabalho e perda de confiança.",
+      "visual_hint": "Gráfico de barras mostrando investimento em modelos vs. retorno real"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA corporativos projetado para ultrapassar US$ 100 bilhões em 3 anos",
+        "Maioria das falhas está na etapa de recuperação de dados, não na geração",
+        "Empresas médias têm dezenas de fontes de dados fragmentadas e incompatíveis"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Qualidade da recuperação se torna o diferencial competitivo decisivo",
+        "Sistemas de RAG tradicionais precisam ser repensados para ambientes reais",
+        "Investimento em infraestrutura de dados supera investimento em modelos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo invisível está exposto. A pergunta é: quem vai resolvê-lo primeiro?"
+    }
+  ]
+}
