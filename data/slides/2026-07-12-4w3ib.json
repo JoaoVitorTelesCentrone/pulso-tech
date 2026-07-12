@@ -1,0 +1,53 @@
+{
+  "title": "O Erro de US$ 1 Bilhão: Por Que 500 Startups Falham e o Que Isso Revela Sobre a Economia do Capital de Risco em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Erro de US$ 1 Bilhão",
+      "subtext": "O padrão oculto por trás da falência de 500 startups — e o que ele revela sobre a bolha de IA",
+      "image_prompt": "A futuristic cityscape with glowing neon lines, a giant dollar sign crumbling into digital dust, and a faint AI brain network in the sky, dark cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Charles Hudson, da Precursor Ventures, analisou mais de 500 investimentos e descobriu um padrão repetitivo de erros fatais. O mercado de IA vive um paradoxo: capital abundante, mas mortes precoces em massa.",
+      "highlight": "Startups de IA que não chegam ao Series A cresceram 40% entre 2024 e 2026."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Founders confundem tecnologia com produto. Modelos de fronteira viram commodities em meses, enquanto o custo de inferência cai 10x a cada 18 meses. Construir um MVP com IA hoje leva dias, não meses — mas isso não é um negócio.",
+      "visual_hint": "Ícone de engrenagem brilhante se desfazendo em partículas, com um cifrão ao fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O erro não é técnico: é estrutural. Founders ignoram distribuição, go-to-market e ciclos de venda B2B. O resultado? Bilhões queimados em produtos que ninguém compra. Para investidores e gestores, este é um mapa de minas terrestres.",
+      "visual_hint": "Gráfico de barras caindo em queda livre, com uma linha vermelha de alerta"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "500+ startups analisadas por Hudson — padrão de erro repetitivo identificado",
+        "40% mais startups de IA morrem antes do Series A desde 2024",
+        "Ciclo médio de vendas B2B para IA em 2026: 9 a 12 meses"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Founders precisam priorizar distribuição sobre fine-tuning de modelos",
+        "Investidores devem exigir prova de mercado, não apenas demo técnica",
+        "Capital de risco em IA vai se concentrar ainda mais nos poucos vencedores"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo bilhão não será de quem tem o melhor modelo — mas de quem entende o mercado."
+    }
+  ]
+}

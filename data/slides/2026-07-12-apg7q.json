@@ -1,0 +1,53 @@
+{
+  "title": "A Armadilha de US$ 40 Bilhões: Por Que o Elogio de Musk à Anthropic Soa Mais Como uma Ameaça do Que Como um Acordo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Armadilha de US$ 40 Bilhões",
+      "subtext": "O elogio de Musk à Anthropic não é um acordo — é uma declaração de poder sobre a infraestrutura que sustenta a IA",
+      "image_prompt": "A futuristic digital landscape with glowing neural network tracks and a giant shadow of a hand hovering over a small AI chip, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Elon Musk elogiou publicamente os modelos Mythos e Fable da Anthropic e prometeu não cortar o acesso da empresa à infraestrutura da xAI. A declaração ocorre dias após o governo bloquear o próprio modelo de Musk por questões de segurança nacional.",
+      "highlight": "US$ 40 bilhões em receita da Anthropic estão em jogo, dependentes de um concorrente direto."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Musk não está sendo generoso — está criando dependência. Ao prometer 'não cortar', ele lembra à Anthropic que tem o poder de fazê-lo. A economia da IA mudou: controlar a infraestrutura agora vale mais do que controlar o modelo.",
+      "visual_hint": "Ícone de um cadeado aberto sobre trilhos de trem digitais"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para investidores e CTOs, a corrida da IA não é mais sobre quem tem o melhor modelo, mas sobre quem controla os trilhos. Musk está construindo esses trilhos — e pode cobrar pedágio a qualquer momento.",
+      "visual_hint": "Ilustração de um pedágio digital em uma rodovia de dados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 40 bilhões: receita da Anthropic em risco por dependência de infraestrutura de terceiros",
+        "6 a 18 meses: tempo estimado para migrar toda a operação se o acesso for cortado",
+        "US$ 900 bilhões: valuation estimado da Anthropic em 2026"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Dependência estratégica: empresas de IA precisarão de garantias contratuais de acesso à infraestrutura",
+        "Regulação emergente: governos podem intervir para evitar monopólios de infraestrutura de IA",
+        "Coleta de inteligência: hospedar concorrentes dá acesso a dados de uso e gargalos técnicos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A infraestrutura de IA é o novo campo de batalha. Não fique para trás."
+    }
+  ]
+}

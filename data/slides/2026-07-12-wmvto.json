@@ -1,0 +1,53 @@
+{
+  "title": "O Vácuo no Topo da OpenAI: A Saída de Fidji Simo e o Sinal de Alarme para o IPO e a Corrida Corporativa Contra a Anthropic",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Vácuo no Topo da OpenAI",
+      "subtext": "A saída de Fidji Simo acende o alerta para o IPO e a guerra corporativa contra a Anthropic",
+      "image_prompt": "A dark, futuristic boardroom with an empty executive chair at the head of a long glass table, glowing blue data streams and AI neural network patterns in the background, cinematic lighting, high contrast, tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Fidji Simo, número 2 da OpenAI e ex-CEO da Instacart, deixou o cargo em tempo integral após uma licença médica prolongada. Sua saída ocorre no momento em que a empresa se prepara para um IPO bilionário e enfrenta uma guerra comercial acirrada no mercado corporativo contra a Anthropic.",
+      "highlight": "IPO bilionário + guerra corporativa = momento crítico"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Simo era a executiva responsável por traduzir a visão de Sam Altman em execução operacional — desde a disciplina de escala até a estratégia de vendas enterprise. Sua ausência prolongada criou um vácuo de liderança que a OpenAI agora precisa preencher urgentemente.",
+      "visual_hint": "Ícone de cadeira vazia em um organograma corporativo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para investidores institucionais, a falta de uma liderança operacional sólida é um sinal de risco em um IPO. Enquanto isso, a Anthropic avança com contratos de longo prazo e uma narrativa de segurança que conquista conselhos cautelosos. A OpenAI pode perder terreno justamente na hora de mostrar maturidade de governança.",
+      "visual_hint": "Gráfico de duas curvas: uma subindo (Anthropic) e outra oscilando (OpenAI)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Fidji Simo era a número 2 na hierarquia da OpenAI",
+        "IPO da OpenAI pode ser um dos maiores da história da tecnologia",
+        "Anthropic cresce no mercado enterprise com Claude Sonnet 5 e Fable 5"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pressão para encontrar um substituto com perfil raro: operações em hipercrescimento + credibilidade enterprise + cultura de engenharia",
+        "Possível adiamento ou reavaliação do cronograma do IPO",
+        "Aceleração da vantagem competitiva da Anthropic no mercado corporativo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O vácuo no topo da OpenAI é apenas o começo de uma nova fase na corrida da IA corporativa."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Invisível de US$ 10 Bilhões: Como a Revisão de Código se Tornou o Novo Pesadelo da Engenharia na Era dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível de US$ 10 Bilhões",
+      "subtext": "Como a revisão de código se tornou o novo pesadelo da engenharia na era dos agentes de IA",
+      "image_prompt": "A dark, abstract digital tunnel with code lines flowing into a bottleneck, glowing red warning lights, futuristic tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA geram código 10x mais rápido, mas 85% dos engenheiros apontam que o verdadeiro colapso está no processo humano de revisão. A conta chegou — e ela é bilionária.",
+      "highlight": "85% dos engenheiros afirmam que a revisão de código se tornou o novo gargalo do desenvolvimento"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Agentes de codificação geram um volume de código que a infraestrutura humana de revisão simplesmente não consegue absorver. Filas de PRs crescem, revisores ficam sobrecarregados e a qualidade cai — paradoxalmente reduzindo a velocidade de entrega efetiva.",
+      "visual_hint": "Ícone de funil com engrenagens quebradas e código saindo em excesso"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada merge é um contrato. Quando código gerado por IA chega à branch principal, ele se torna a fundação sobre a qual outras equipes constroem. Erros semânticos se propagam como um vírus, multiplicando custos exponencialmente.",
+      "visual_hint": "Ilustração de uma corrente quebrando no elo mais fraco, com código sendo derramado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "85% dos engenheiros dizem que code review é o novo gargalo",
+        "Tempo médio de revisão aumentou 40-60% com agentes de IA",
+        "Código gerado por IA tem taxa de rejeição 2x maior em code review"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Assimetria de produção: IA gera 5-10x mais código que humanos conseguem revisar",
+        "Viés de confiança: revisores aprovam código bem formatado, mas com erros lógicos profundos",
+        "Fragmentação do conhecimento: agentes de IA não têm contexto organizacional"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo invisível está aqui. Como sua equipe vai lidar com ele?"
+    }
+  ]
+}

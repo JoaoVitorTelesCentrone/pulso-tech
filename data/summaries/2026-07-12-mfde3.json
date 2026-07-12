@@ -1,0 +1,16 @@
+{
+  "tldr": "O artigo revela que a adoção de agentes de IA para codificação criou um gargalo bilionário na revisão de código, com 85% dos engenheiros apontando que o processo humano de revisão não acompanha o volume gerado pelas ferramentas.",
+  "key_facts": [
+    "85% dos engenheiros afirmam que a revisão de código se tornou o novo gargalo do desenvolvimento.",
+    "Agentes de IA geram código 5x a 10x mais rápido, mas revisores humanos leem apenas 200-400 linhas por hora.",
+    "Código gerado por IA tem taxa de rejeição 2x maior em code review e o tempo médio de revisão aumentou 40-60%.",
+    "Erros semânticos da IA se propagam rapidamente quando o código é integrado à branch principal."
+  ],
+  "why_it_matters": "A notícia expõe uma falha crítica na promessa de produtividade dos agentes de IA: o ganho na geração de código é anulado pelo colapso no processo de revisão, impactando diretamente a velocidade de entrega, a qualidade do software e os custos operacionais das empresas de tecnologia.",
+  "watch_next": [
+    "Surgimento de ferramentas de IA focadas em automação de code review e detecção de erros semânticos.",
+    "Mudanças nas práticas de engenharia para equilibrar a assimetria entre geração e revisão de código.",
+    "Debate sobre o 'contrato social' da branch principal e novas políticas de merge para código gerado por IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no elo esquecido da cadeia — a revisão humana — em vez de apenas celebrar a velocidade dos agentes de IA, oferecendo uma análise quantitativa e mecanicista do colapso, com dados concretos e uma perspectiva crítica sobre o viés de confiança em código gerado por IA."
+}

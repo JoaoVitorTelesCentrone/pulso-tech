@@ -1,0 +1,55 @@
+{
+  "title": "Oracle + SK Hynix: O Efeito Dominó de US$ 26,5 Bilhões que Está Reconfigurando a Geopolítica dos Chips de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "US$ 26,5 Bilhões: O IPO que Mudou o Jogo da IA",
+      "subtext": "Não é software, não é design — é memória. E o centro de gravidade da inteligência artificial está se deslocando para a fábrica.",
+      "image_prompt": "A futuristic semiconductor factory interior with glowing blue and orange lights, robotic arms assembling HBM memory modules, a massive SK Hynix logo in the background, cinematic lighting, dark tech aesthetic, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a SK Hynix realizou o maior IPO estrangeiro da história dos EUA: US$ 26,5 bilhões. A empresa sul-coreana é a fornecedora dominante de memória HBM para as GPUs da Nvidia. Enquanto isso, o governo americano pressiona para que a construção de novas fábricas ocorra em solo americano, num movimento direto de reconfiguração geopolítica.",
+      "highlight": "Maior IPO estrangeiro da história dos EUA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A SK Hynix detém ~50% do mercado de HBM, a memória essencial para treinar e rodar LLMs. Cada GPU H100 precisa de 6 a 8 módulos HBM. O IPO não é para crescer — é para construir fabs nos EUA sob pressão do governo, num momento de guerra tecnológica com a China.",
+      "visual_hint": "Ícone de chip com setas de fluxo conectando Coreia do Sul aos EUA, destacando a dependência logística"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem a memória HBM, o data center mais poderoso do mundo é apenas uma sala vazia com ventilação potente. O movimento orquestrado para trazer a fabricação para os EUA reduz a dependência asiática e redefine a cadeia de valor da IA — do design à produção física.",
+      "visual_hint": "Gráfico de dominós caindo, com o primeiro representando 'IPO SK Hynix' e o último 'Geopolítica dos Chips'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 26,5 bilhões: maior IPO estrangeiro da história dos EUA",
+        "50% do mercado global de HBM dominado pela SK Hynix",
+        "US$ 10-20 bilhões: custo estimado de uma única fab de última geração",
+        "US$ 300 milhões: captação da startup quântica Oratomic (20 mil qubits)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A fabricação de memória HBM se torna o novo gargalo crítico da IA",
+        "Governo americano acelera pressão por autossuficiência em semicondutores",
+        "Capital de risco aposta em computação quântica, mas silício clássico ainda domina o curto prazo",
+        "Cadeia de valor da IA migra do design para a produção física e memória"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O efeito dominó está apenas começando. A próxima fronteira da IA não será desenhada — será fabricada."
+    }
+  ]
+}

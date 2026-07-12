@@ -1,0 +1,16 @@
+{
+  "tldr": "O IPO recorde de US$ 26,5 bilhões da SK Hynix nos EUA e o aporte de US$ 300 milhões na startup quântica Oratomic sinalizam uma mudança geopolítica e de capital na infraestrutura de IA, com foco migrando do design de chips para a fabricação física e memória.",
+  "key_facts": [
+    "SK Hynix realizou o maior IPO estrangeiro da história dos EUA, levantando US$ 26,5 bilhões.",
+    "A empresa detém ~50% do mercado de memória HBM, essencial para GPUs de IA como as da Nvidia.",
+    "Governo dos EUA pressiona para que a SK Hynix construa fábricas em solo americano, reduzindo dependência asiática.",
+    "Startup Oratomic levantou US$ 300 milhões para construir um computador quântico de 20 mil qubits."
+  ],
+  "why_it_matters": "A notícia revela que o gargalo crítico da IA não está mais apenas no design de chips, mas na fabricação e na memória física, redefinindo a geopolítica dos semicondutores e os fluxos de capital para infraestrutura de próxima geração.",
+  "watch_next": [
+    "Decisão da SK Hynix sobre onde construir novas fabs nos EUA e os custos envolvidos (US$ 10-20 bilhões por fábrica).",
+    "Reação da Nvidia e de outros players (Samsung, Micron) à pressão por nacionalização da cadeia de suprimentos.",
+    "Se a Oratomic conseguirá atingir a meta de 20 mil qubits e se isso atrairá mais investimentos em computação quântica."
+  ],
+  "editorial_angle": "O artigo conecta dois eventos aparentemente distintos (IPO de memória e investimento quântico) para mostrar uma tese única: a infraestrutura de IA está mudando de mãos, com a fabricação física e a memória se tornando os novos centros de gravidade geopolíticos e econômicos, indo além do hype de modelos de fronteira."
+}

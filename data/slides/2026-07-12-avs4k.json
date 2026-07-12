@@ -1,0 +1,53 @@
+{
+  "title": "O Agente que Levantou US$ 100 Milhões: Lyzr e o Fim do Fundraiser Humano",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Agente que Levantou US$ 100 Milhões",
+      "subtext": "Quando uma startup de IA usa seu próprio produto para captar uma Série C, o mercado de Venture Capital nunca mais será o mesmo.",
+      "image_prompt": "A futuristic boardroom with a holographic AI agent shaking hands with a shadowy investor, digital data streams flowing between them, dark blue and neon cyan tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Lyzr, startup de agentes de IA para empresas, delegou a captação de uma rodada Série C de US$ 100 milhões a um de seus próprios agentes. O agente conduziu reuniões, negociou termos e fechou o acordo com supervisão humana mínima.",
+      "highlight": "US$ 100 milhões captados por um software"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Lyzr transformou o processo de captação em um experimento ao vivo de confiança institucional. Investidores aceitaram negociar com um agente de IA como interlocutor principal, provando que a fronteira entre o 'humano demais' e a 'rotina' está se deslocando.",
+      "visual_hint": "Ícone de um robô apertando a mão de um cifrão dourado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se um agente pode levantar US$ 100 milhões, ele pode automatizar qualquer processo de vendas B2B de alto valor. Para gestores, a pergunta incômoda é: se ele levanta capital, pode gerenciar fundos, avaliar startups ou participar de boards?",
+      "visual_hint": "Gráfico de linha ascendente com um ponto de inflexão marcado como 'IA toma a frente'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 milhões captados por um agente de IA em rodada Série C",
+        "Due diligence, negociação de termos e fechamento executados pelo agente",
+        "Investidores institucionais preferiram não se identificar publicamente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Venture Capital começa a aceitar agentes em transações financeiras de alto valor",
+        "Infraestrutura de agentes de IA madura para cenários reais de alto risco",
+        "A pergunta não é mais 'se' agentes vão assumir processos críticos, mas 'quando' e com que supervisão"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da confiança corporativa está sendo escrito agora. Não fique de fora."
+    }
+  ]
+}

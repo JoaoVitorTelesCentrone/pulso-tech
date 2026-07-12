@@ -1,0 +1,53 @@
+{
+  "title": "O Vazamento que Abala a Confiança no Capital de Risco: Fizz vs. Sidechat e o Preço do Segredo na Economia das Startups de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Vazamento que Abala a Confiança no Capital de Risco",
+      "subtext": "Quando uma rodada de fundraising vira arma competitiva, o sistema que sustenta o venture capital começa a rachar.",
+      "image_prompt": "A cracked glass screen with glowing digital data streams leaking through the cracks, dark background with neon blue and red highlights, high contrast, cinematic lighting, tech noir style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O aplicativo universitário Fizz ampliou seu processo judicial contra o rival Sidechat, alegando que um sócio da Maveron compartilhou informações confidenciais obtidas durante uma reunião de captação de recursos. A denúncia expõe uma violação grave do código de conduta que rege as relações entre founders e investidores.",
+      "highlight": "Informações estratégicas, métricas de crescimento e planos de produto teriam sido repassados ao concorrente."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Durante um processo de fundraising, a Fizz compartilhou dados sensíveis com a Maveron sob confidencialidade. Esses dados, segundo a ação, foram repassados ao Sidechat, permitindo que o concorrente ajustasse sua estratégia com vantagem informacional injusta.",
+      "visual_hint": "Ícone de cadeado quebrado com setas de dados fluindo entre duas empresas concorrentes"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O sistema de financiamento de startups — especialmente em IA — depende de um pacto de sigilo entre empreendedores e investidores. Se esse pacto for quebrado, o custo de captação sobe, a seleção adversa aumenta e o modelo de 'smart money' se erosiona.",
+      "visual_hint": "Gráfico de confiança em queda livre com ícone de balança desequilibrada"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Startups em estágio inicial (Série A/B) precisam abrir seus livros para demonstrar tração — e ficam vulneráveis.",
+        "O vazamento transforma o investidor de aliado em risco competitivo direto.",
+        "Fundos com reputação questionável podem ser excluídos de rodadas promissoras, concentrando capital em poucos players."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Custo de captação sobe: mais due diligence reversa, NDAs mais robustos e menos compartilhamento de informações.",
+        "Seleção adversa: apenas fundos 'confiáveis' e estabelecidos terão acesso a rodadas promissoras.",
+        "Erosão do 'smart money': o valor do investidor se transforma em passivo se a confiança for quebrada."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O preço do segredo na economia das startups de IA está mais alto do que nunca. Fique por dentro."
+    }
+  ]
+}
