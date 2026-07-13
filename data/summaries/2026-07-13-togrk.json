@@ -1,0 +1,14 @@
+{
+  "tldr": "O benchmark MedRealMM revela que LLMs de ponta perdem de 15% a 25% de desempenho em consultas médicas reais com dados multimodais, expondo um gargalo crítico que pode estar queimando bilhões em investimentos em telemedicina com IA.",
+  "key_facts": [
+    "MedRealMM é um benchmark multimodal construído a partir de dados reais de consultas médicas online na China, incluindo imagens enviadas por pacientes.",
+    "Modelos como GPT-4 e Claude apresentam queda de 15% a 25% de desempenho quando avaliados em dados reais versus benchmarks sintéticos tradicionais.",
+    "O mercado global de telemedicina foi avaliado em US$ 87 bilhões em 2025 e deve ultrapassar US$ 200 bilhões até 2032."
+  ],
+  "why_it_matters": "A notícia importa porque expõe que a indústria de IA para saúde está sendo construída sobre benchmarks artificiais que não medem competência clínica real, colocando em risco centenas de milhões de dólares em P&D e a confiança em sistemas de triagem e diagnóstico automatizados.",
+  "watch_next": [
+    "Empresas de healthtech e big tech podem ser forçadas a recalibrar seus modelos com dados reais e multimodais, gerando uma corrida por novos datasets clínicos autênticos.",
+    "Reguladores e investidores podem passar a exigir benchmarks realistas como o MedRealMM para aprovação e financiamento de soluções de telemedicina com IA."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas reportar um novo benchmark, mas por conectá-lo diretamente ao risco financeiro e estratégico da indústria, transformando um resultado acadêmico em um alerta de negócios sobre a desconexão entre métricas de laboratório e valor real de mercado."
+}

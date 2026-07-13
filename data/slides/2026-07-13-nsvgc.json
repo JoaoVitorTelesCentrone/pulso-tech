@@ -1,0 +1,53 @@
+{
+  "title": "KV-PRM: O Truque de Cache que Pode Economizar Bilhões em Inferência Multi-Agente",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Cache que Vale Bilhões",
+      "subtext": "Como um truque de transferência de memória pode cortar custos de IA multi-agente pela metade",
+      "image_prompt": "Futuristic digital network with glowing nodes and data streams, representing AI agents sharing a cache, dark blue and neon green tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Sistemas multi-agente são o futuro da automação corporativa, mas cada agente consome recursos computacionais caros. O gargalo econômico da IA hoje não é o treinamento — é a inferência em tempo real.",
+      "highlight": "Cada query a um LLM custa dinheiro real"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o KV-PRM, uma arquitetura que permite que agentes compartilhem seu KV-Cache — a 'memória de trabalho' do modelo — em vez de recalcular tudo do zero. É como um time que herda o trabalho já feito pelo colega.",
+      "visual_hint": "Ícone de engrenagens conectadas por um raio, simbolizando transferência de cache entre agentes"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas que implantam dezenas ou centenas de agentes, o custo de inferência explode linearmente. Com o KV-PRM, a economia pode chegar a 47% — o que, em larga escala, representa bilhões de dólares anuais em redução de TCO.",
+      "visual_hint": "Gráfico de barras mostrando custo antes e depois, com uma seta para baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "47% de redução no custo de inferência em benchmarks multi-passo",
+        "3 estratégias de compressão: uniforme (60% redução), adaptativa (70% redução) e fine-tuning leve",
+        "Compressão adaptativa mantém 95% da qualidade com 70% menos cache"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "PRMs se tornam viáveis para aplicações em tempo real, acelerando adoção em produção",
+        "Arquitetura de orquestração de agentes migra de competitiva para cooperativa",
+        "Empresas podem escalar sistemas multi-agente sem dobrar custos a cada novo agente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA é colaborativo — e mais barato. Não fique de fora."
+    }
+  ]
+}

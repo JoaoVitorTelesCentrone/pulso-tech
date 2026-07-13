@@ -1,0 +1,53 @@
+{
+  "title": "MedRealMM: O Benchmark que Expõe o Gargalo de US$ 10 Bilhões da Telemedicina com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 10 Bilhões da Telemedicina com IA",
+      "subtext": "Benchmarks sintéticos estão cegando a indústria. Um novo estudo revela o abismo entre o laboratório e a realidade clínica.",
+      "image_prompt": "A futuristic medical consultation interface with a blurred human silhouette and glowing AI diagnostic data streams, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado global de telemedicina ultrapassou US$ 87 bilhões em 2025 e deve chegar a US$ 200 bilhões até 2032. Startups e gigantes da tecnologia investem centenas de milhões em IA para diagnóstico, mas a régua de medição do desempenho real está quebrada.",
+      "highlight": "US$ 87 bi em 2025 → US$ 200 bi até 2032"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o MedRealMM, um benchmark multimodal construído a partir de consultas médicas reais — com imagens, exames e relatos autênticos de pacientes. Os resultados são alarmantes: modelos como GPT-4 e Claude perdem de 15% a 25% de desempenho quando testados em dados reais vs. benchmarks sintéticos.",
+      "visual_hint": "Ícone de gráfico de barras com queda acentuada"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A confiança na IA para triagem e diagnóstico depende de métricas precisas. Se os benchmarks ignoram a ambiguidade, a multimodalidade e a imprevisibilidade dos pacientes reais, o ROI de bilhões em P&D é uma incógnita. O MedRealMM expõe que estamos construindo um castelo de cartas.",
+      "visual_hint": "Ícone de alvo com um ponto cego"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Queda de 15% a 25% no desempenho de GPT-4 e Claude em dados reais vs. sintéticos",
+        "Mercado de telemedicina: US$ 87 bi (2025) → US$ 200 bi (2032)",
+        "Centenas de milhões de dólares em P&D podem estar mal direcionados"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investidores e gestores de healthtech precisam exigir benchmarks realistas antes de alocar capital",
+        "Modelos de IA precisam ser treinados e validados com dados multimodais reais, não apenas texto",
+        "Startups que ignorarem a lacuna entre laboratório e clínica real perderão relevância e confiança"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da telemedicina depende de métricas que enxergam o mundo real. Não deixe sua estratégia no escuro."
+    }
+  ]
+}

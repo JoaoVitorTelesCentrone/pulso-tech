@@ -1,0 +1,53 @@
+{
+  "title": "O Juiz Silencioso da Mudança: Como o Scoped Verification Expõe o Gargalo de US$ 1 Trilhão dos Agentes de Longo Prazo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Juiz Silencioso da Mudança",
+      "subtext": "Como a Verificação com Escopo Expõe o Gargalo de US$ 1 Trilhão dos Agentes de Longo Prazo",
+      "image_prompt": "A futuristic digital courtroom with a silent judge made of light, overseeing a vast network of AI agents in a dark tech environment, glowing blue and orange tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA que operam por horas ou dias em produção estão falhando silenciosamente. Um novo paper do arXiv propõe uma saída — e o mercado deveria prestar atenção.",
+      "highlight": "Falha silenciosa: o maior risco invisível dos agentes autônomos"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift' propõe um mecanismo para auditar, em tempo real, se a evolução do contexto de um agente ainda é válida e segura. Não é um novo modelo, mas uma camada de governança operacional.",
+      "visual_hint": "Ícone de escudo com um olho digital no centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem verificação de contexto, cada agente de longo prazo é uma aposta. E apostas não escalam. O gargalo da confiabilidade em longa duração está travando um mercado estimado em US$ 1 trilhão: o de agentes corporativos autônomos que substituem funções inteiras.",
+      "visual_hint": "Gráfico de linha mostrando confiabilidade caindo ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: mercado travado de agentes corporativos autônomos",
+        "48 horas: tempo de operação onde o contexto pode ser atualizado dezenas de vezes",
+        "100%: agentes que falham silenciosamente sem verificação de escopo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de longa duração se tornam confiáveis e escaláveis",
+        "Empresas podem automatizar funções inteiras sem medo de erros silenciosos",
+        "A verificação com escopo vira padrão de governança operacional em IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O juiz silencioso já está julgando. Você está preparado?"
+    }
+  ]
+}

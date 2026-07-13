@@ -1,0 +1,53 @@
+{
+  "title": "A Guerra Interna por GPUs: Por Que Até o Chefe de Automotivo da Nvidia Precisa Brigar por Compute",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Guerra Interna por GPUs",
+      "subtext": "Até o chefe de automotivo da Nvidia precisa brigar por compute — dentro da própria empresa.",
+      "image_prompt": "A futuristic war room inside a GPU chip, glowing blue circuits, intense red and blue factions fighting over a central glowing core, cinematic lighting, digital art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Xinzhou Wu, head de automotivo da Nvidia, revelou que sua divisão precisa disputar acesso aos chips mais avançados contra outras áreas da empresa. A demanda interna por GPUs é tão feroz quanto a externa.",
+      "highlight": "\"Até mesmo dentro da Nvidia, há uma guerra por compute.\""
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Nvidia não é só fabricante de chips — é também consumidora massiva deles. Cada divisão (data center, gaming, automotivo, robótica) compete por uma fatia do silício da TSMC. A divisão automotiva perde prioridade para data centers e IA.",
+      "visual_hint": "Ícone de um chip com várias setas puxando para lados diferentes"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Montadoras que dependem da plataforma Drive da Nvidia podem enfrentar atrasos não por falhas técnicas, mas por uma crise de alocação interna. O gargalo de hardware é mais profundo e estrutural do que a maioria supõe.",
+      "visual_hint": "Gráfico de barras mostrando alocação de wafers por divisão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Cada wafer 4N custa entre US$ 18.000 e US$ 20.000",
+        "Um chip H100 para IA gera US$ 30.000 a US$ 40.000 por unidade",
+        "Um chip Drive Thor para automotivo gera US$ 1.000 a US$ 2.000"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investidores: escalar IA depende de quem compra e para quê, não só de oferta",
+        "Montadoras: atrasos em veículos autônomos podem ser por alocação, não por tecnologia",
+        "Mercado: a escassez de chips é estrutural e vai além de oferta vs. demanda"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra por compute está só começando — e você está no meio dela."
+    }
+  ]
+}

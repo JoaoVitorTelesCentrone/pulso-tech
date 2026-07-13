@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe o KV-PRM, uma arquitetura que permite transferir KV-Cache entre agentes em sistemas multi-agente, reduzindo custos de inferência em até 47% sem perda significativa de qualidade.",
+  "key_facts": [
+    "KV-PRM reutiliza KV-Cache entre agentes em vez de cada um recalcular do zero.",
+    "Redução de custo de inferência de até 47% em benchmarks de raciocínio multi-passo.",
+    "Três estratégias de compressão do cache: amostragem uniforme, adaptativa por importância e fine-tuning leve.",
+    "Técnica viabiliza uso de Process Reward Models (PRMs) em tempo real, antes considerados caros demais."
+  ],
+  "why_it_matters": "O gargalo econômico da IA migrou do treinamento para a inferência, e sistemas multi-agente multiplicam esse custo. O KV-PRM pode cortar o TCO desses sistemas pela metade, acelerando a adoção de PRMs em produção e mudando a arquitetura de orquestração de agentes para um modelo cooperativo.",
+  "watch_next": [
+    "Validação da técnica em implantações corporativas de larga escala e benchmarks adicionais.",
+    "Desenvolvimento de ferramentas de orquestração que incorporem a transferência de cache como padrão.",
+    "Possível impacto em frameworks multi-agente populares (LangChain, AutoGen, CrewAI) e surgimento de startups focadas em otimização de inferência."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma inovação técnica específica (transferência de KV-Cache) a um impacto econômico concreto e bilionário, indo além do hype de multi-agentes para mostrar um caminho prático de redução de custos. A escolha se justifica pelo timing: o mercado busca soluções para viabilizar sistemas multi-agente em produção."
+}

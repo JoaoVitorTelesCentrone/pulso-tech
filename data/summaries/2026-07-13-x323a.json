@@ -1,0 +1,14 @@
+{
+  "tldr": "O Waze está se transformando em um laboratório de mobilidade com IA ao integrar o Gemini, criando um mapa preditivo que visa dominar a economia de US$ 1 trilhão do deslocamento urbano.",
+  "key_facts": [
+    "Waze anunciou funcionalidades alimentadas pelo Gemini, incluindo navegação preditiva contextual, relatos de trânsito gerados por IA e personalização dinâmica da interface.",
+    "A integração conecta Waze ao ecossistema Google (Calendar, Maps, Search) para sugerir horários de partida otimizados.",
+    "O Google adquiriu o Waze por US$ 1,3 bilhão em 2013 e agora o integra profundamente ao Gemini, seu modelo de IA de fronteira."
+  ],
+  "why_it_matters": "Esta notícia importa porque demonstra a primeira aplicação em larga escala de um modelo de fronteira (Gemini) em um produto de consumo com milhões de usuários, transformando o Waze de um mapa reativo em um mapa preditivo. Isso redefine a competição no mercado de navegação (Apple Maps, TomTom) e revela como o Google está fechando o ciclo de dados do consumidor, conectando busca local, navegação e assistência pessoal para dominar a economia da mobilidade.",
+  "watch_next": [
+    "Apple Maps e concorrentes devem anunciar parcerias ou atualizações de IA para não perderem terreno no mercado de navegação preditiva.",
+    "O Google pode usar os dados do Waze+Gemini para lançar novos produtos de seguros, logística urbana ou publicidade contextual baseada em deslocamentos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao ir além do anúncio superficial de features, revelando a estratégia oculta do Google de usar o Waze como um 'campo de provas' para IA contextual em mobilidade e destacando o mecanismo de aprendizado por reforço em tempo real, algo que a maioria das coberturas ignora."
+}

@@ -1,0 +1,14 @@
+{
+  "tldr": "Paper do arXiv propõe 'verificação com escopo' para auditar a evolução do contexto de agentes de IA de longa duração, expondo um gargalo de confiabilidade que trava um mercado estimado em US$ 1 trilhão.",
+  "key_facts": [
+    "Paper 'Scoped Verification for Reliable Long-Horizon Agentic Context Evolution under Distribution Shift' publicado no arXiv em 13/07/2026 (ID: 2607.09175).",
+    "O problema central é o 'agentic context' — instruções e dados que guiam o LLM — que se torna obsoleto ou perigoso sob mudanças de cenário (distribution shift) em operações de horas ou dias.",
+    "A solução proposta é uma camada de governança operacional que verifica em tempo real se cada atualização de contexto é coerente com o escopo original, rejeitando atualizações inseguras ou pausando o agente."
+  ],
+  "why_it_matters": "A euforia atual em torno de agentes de IA ignora que a maioria falha silenciosamente em horizontes longos (dias/semanas). Sem verificação de contexto, agentes corporativos autônomos são apostas arriscadas, travando um mercado de US$ 1 trilhão em automação de funções inteiras.",
+  "watch_next": [
+    "Empresas de agentes (startups e big techs) devem anunciar parcerias ou implementações da técnica de scoped verification em seus produtos.",
+    "Surgimento de benchmarks públicos para medir a confiabilidade de agentes em longa duração, impulsionado por este paper."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico profundo (evolução do contexto sob distribution shift) a um impacto econômico concreto (gargalo de US$ 1 trilhão), indo além do hype dos agentes e alertando para o risco de 'falha silenciosa' que o mercado ignora."
+}

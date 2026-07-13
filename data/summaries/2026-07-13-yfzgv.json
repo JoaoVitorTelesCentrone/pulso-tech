@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo protocolo no arXiv propõe tornar agentes de IA científica auditáveis e rastreáveis, potencialmente desbloqueando um mercado de US$ 50 bilhões em descoberta científica ao resolver o gargalo da falta de transparência.",
+  "key_facts": [
+    "Pesquisadores publicaram o paper 'Toward Auditable AI Scientists' (arXiv:2607.09195) propondo um protocolo formal para auditoria de agentes de IA.",
+    "O protocolo inclui rastreamento de proveniência de hipóteses, justificação contrafactual e métricas de confiança calibradas.",
+    "O mercado de P&D farmacêutico global é de US$ 250 bilhões anuais, com US$ 50 bilhões em estágios iniciais de descoberta onde agentes de IA podem causar maior impacto.",
+    "Sem auditabilidade, resultados de agentes de IA são tratados como 'sugestões', não como evidências primárias para patentes ou publicações revisadas por pares."
+  ],
+  "why_it_matters": "Esta notícia importa porque a falta de auditabilidade é o principal gargalo para a adoção de agentes de IA em P&D científico, especialmente em setores regulados como farmacêutico. O protocolo proposto pode reduzir riscos regulatórios, acelerar investimentos e transformar agentes de IA de 'sugestões' em 'evidências primárias', desbloqueando um mercado bilionário.",
+  "watch_next": [
+    "Adoção do protocolo por grandes players como Anthropic e OpenAI em seus agentes científicos.",
+    "Reação de órgãos reguladores como FDA e EMA à possibilidade de aceitar resultados auditáveis de IA como evidência.",
+    "Surgimento de startups focadas em infraestrutura de auditoria para IA científica, atraindo capital de venture capital."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico específico (o protocolo de hipóteses auditáveis) diretamente a uma oportunidade de mercado quantificada (US$ 50 bilhões), oferecendo uma análise prática para investidores e gestores de biotech/IA, em vez de apenas reportar o paper acadêmico."
+}

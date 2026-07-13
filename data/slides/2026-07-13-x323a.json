@@ -1,0 +1,53 @@
+{
+  "title": "Waze + Gemini: O Mapa de US$ 1 Trilhão que o Google Está Desenhando na Mobilidade com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Waze + Gemini: O Mapa de US$ 1 Trilhão",
+      "subtext": "Como o Google está transformando um app de trânsito no laboratório de IA que dominará a mobilidade urbana",
+      "image_prompt": "Futuristic city map with glowing digital roads and AI neural network connections overlaying a night skyline, neon blue and purple tones, high tech"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Waze, adquirido por US$ 1,3 bilhão em 2013, sempre foi o 'filho rebelde' do Google. Agora, a integração com o Gemini não é apenas uma atualização — é o movimento mais estratégico para dominar a economia do deslocamento urbano.",
+      "highlight": "Mercado de navegação digital: US$ 25 bilhões anuais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Waze anuncia funcionalidades alimentadas pelo Gemini: navegação preditiva contextual, relatos de trânsito gerados por IA, personalização dinâmica da interface e integração total com o ecossistema Google (Calendar, Maps, Search).",
+      "visual_hint": "Ícone de engrenagem com cérebro digital e setas de rota"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O Waze se transforma de um 'mapa que reage' em um 'mapa que antecipa'. Para o Google, fecha o triângulo estratégico entre busca local, navegação em tempo real e assistência pessoal. Para concorrentes como Apple Maps e TomTom, é um alerta.",
+      "visual_hint": "Triângulo conectando ícones de Maps, Waze e Gemini"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1,3 bilhão: valor da aquisição do Waze pelo Google em 2013",
+        "US$ 25 bilhões: mercado anual de navegação digital",
+        "US$ 1 trilhão: valor potencial em eficiência logística, tempo recuperado e dados comportamentais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Google conecta busca local, navegação em tempo real e IA pessoal em um único ecossistema",
+        "Apple Maps e concorrentes B2B (TomTom, HERE) perdem vantagem competitiva",
+        "Waze se torna o campo de provas da Google para IA contextual em mobilidade em larga escala"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O mapa do futuro já está sendo desenhado — e ele aprende sozinho."
+    }
+  ]
+}

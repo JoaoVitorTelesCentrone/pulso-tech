@@ -1,0 +1,16 @@
+{
+  "tldr": "Chefe automotivo da Nvidia revela que sua divisão disputa internamente acesso a GPUs com outras áreas, evidenciando que o gargalo de hardware é estrutural e afeta até mesmo a própria fabricante.",
+  "key_facts": [
+    "Xinzhou Wu, head automotivo da Nvidia, afirmou em podcast que há uma 'guerra por compute' dentro da empresa.",
+    "A divisão automotiva compete por GPUs com data centers, gaming e robótica, perdendo prioridade para chips de maior margem como H100 e B200.",
+    "Um chip H100 gera receita de US$ 30-40 mil por unidade, enquanto um Drive Thor gera US$ 1-2 mil, explicando a hierarquia interna de alocação.",
+    "Montadoras que dependem da plataforma Drive podem sofrer atrasos não por questões técnicas, mas por crise de alocação de recursos na Nvidia."
+  ],
+  "why_it_matters": "A revelação expõe que a escassez de GPUs não é apenas um problema de oferta externa, mas uma disputa interna de alocação que pode atrasar projetos de veículos autônomos e mostrar que mesmo a Nvidia prioriza clientes de IA sobre seu próprio braço automotivo.",
+  "watch_next": [
+    "Montadoras podem buscar alternativas a chips da Nvidia, como soluções da Qualcomm ou Mobileye, diante da incerteza de fornecimento.",
+    "A Nvidia pode ser pressionada a aumentar a transparência sobre alocação interna de wafers, afetando sua relação com parceiros automotivos.",
+    "Investidores devem monitorar se a divisão automotiva conseguirá crescer receita o suficiente para ganhar prioridade interna na alocação de chips."
+  ],
+  "editorial_angle": "O artigo se diferencia ao revelar um ângulo pouco explorado da crise de chips: a competição interna na Nvidia, mostrando que até a empresa mais valiosa do mundo sofre com gargalos estruturais, indo além da narrativa simplista de oferta e demanda."
+}
