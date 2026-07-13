@@ -1,0 +1,53 @@
+{
+  "title": "O Silêncio Ensurdecedor da Anthropic: Fable 5 Estendido, Cursor Vazado e o Gargalo de Confiança que Pode Custar US$ 1 Trilhão",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Silêncio Ensurdecedor da Anthropic",
+      "subtext": "Fable 5 estendido, Cursor vazado e o gargalo de confiança que pode custar US$ 1 trilhão",
+      "image_prompt": "A dark, futuristic data center with a single glowing red warning light in the center, surrounded by rows of servers, dramatic shadows, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Anthropic estendeu o acesso ao Claude Fable 5 pela terceira vez consecutiva. Enquanto isso, um vazamento não-oficial sobre descobertas de desenvolvedores dentro do Cursor criou um terremoto de desconfiança que a empresa se recusa a comentar.",
+      "highlight": "3ª extensão consecutiva do Fable 5"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Desenvolvedores encontraram algo dentro do Cursor — possivelmente vazamento de contexto entre sessões ou acesso indevido a repositórios. A Anthropic silencia. O mercado de agentes de codificação enfrenta seu maior teste de credibilidade.",
+      "visual_hint": "Ícone de cadeado quebrado com ponto de interrogação"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cursor + Fable 5 era o 'padrão ouro' da produtividade em engenharia. Agora, milhares de empresas podem estar expostas a uma vulnerabilidade desconhecida em seu pipeline de desenvolvimento mais crítico. A confiança no ecossistema inteiro está em jogo.",
+      "visual_hint": "Engrenagem com rachadura vermelha"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de codificação: dezenas de bilhões de dólares anuais",
+        "Big Techs e startups do Vale do Silício dependem dessa infraestrutura",
+        "Silêncio da Anthropic pode custar US$ 1 trilhão em valor de mercado"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas vão rever contratos e exigir auditorias de segurança",
+        "Concorrentes podem ganhar espaço com transparência",
+        "Regulamentação de agentes de IA deve acelerar globalmente"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O silêncio também é um dado. Fique atento."
+    }
+  ]
+}

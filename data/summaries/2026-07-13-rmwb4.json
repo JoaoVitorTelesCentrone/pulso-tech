@@ -1,0 +1,16 @@
+{
+  "tldr": "O benchmark DaDaDa propõe padronizar a precificação de dados em marketplaces, potencialmente desbloqueando US$ 100 bilhões na economia da IA ao transformar a aquisição de dados de um processo ad hoc em uma ciência econômica previsível.",
+  "key_facts": [
+    "Pesquisadores publicaram o DaDaDa (Dataset for Data Pricing in Data Marketplaces) no arXiv, um benchmark para precificação de dados.",
+    "Marketplaces como AWS Marketplace, Databricks e Datarade carecem de modelos de precificação padronizados.",
+    "Dados têm características únicas (não-rivalidade, externalidades de informação, assimetria de informação, valor contingente) que dificultam a precificação tradicional.",
+    "O benchmark provavelmente engloba abordagens como Shapley Value, leilões e outras métricas de contribuição marginal."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, a precificação padronizada de dados reduz o risco e a incerteza em projetos de IA, permitindo calcular com precisão o custo de fine-tuning e treinamento, além de modelar o ROI de aquisição de dados como um ativo financeiro, tornando o custo de dados previsível e escalável.",
+  "watch_next": [
+    "Adoção do DaDaDa por grandes marketplaces de dados (AWS, Databricks) como padrão de precificação.",
+    "Surgimento de startups focadas em ferramentas de precificação de dados baseadas em Shapley Value ou leilões.",
+    "Impacto no custo de treinamento de modelos de IA, com possível redução de barreiras para pequenas empresas e desenvolvedores."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico acadêmico (benchmark DaDaDa) a um impacto econômico concreto e quantificado (US$ 100 bilhões), destacando a transição do gargalo da IA de computação/modelos para dados e precificação, com implicações diretas para investidores, gestores e desenvolvedores."
+}

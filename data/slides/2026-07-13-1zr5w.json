@@ -1,0 +1,53 @@
+{
+  "title": "LongMedBench: O Gargalo de US$ 10 Bilhões na Decisão Clínica de Longo Prazo que os Agentes de IA Ignoram",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 10 Bilhões na Decisão Clínica",
+      "subtext": "Agentes de IA que acertam 90% no teste, mas falham na UTI real",
+      "image_prompt": "A futuristic hospital room with a glowing AI interface showing a patient timeline, split between a perfect multiple-choice test and a chaotic real-world clinical decision tree, dark blue and neon green tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de IA em saúde deve ultrapassar US$ 100 bilhões até 2030. Mas os benchmarks atuais medem apenas conhecimento estático, não a tomada de decisão clínica real, que exige raciocínio ao longo de semanas.",
+      "highlight": "US$ 100 bi em mercado, mas métricas que não refletem a realidade hospitalar"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores lançaram o LongMedBench, um benchmark baseado em prontuários reais que simula decisões clínicas ao longo de múltiplas interações. Agentes que brilham em testes de múltipla escolha colapsam em cenários sequenciais.",
+      "visual_hint": "Ícone de um gráfico de linha caindo abruptamente após um pico"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Um médico não responde perguntas isoladas — ele acompanha o paciente por dias, ajusta diagnósticos e lida com incertezas. Modelos que ignoram esse fluxo temporal podem ser perigosamente incompetentes em decisões reais.",
+      "visual_hint": "Ícone de um estetoscópio sobreposto a um relógio quebrado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "GPT-5.6: >90% no MedQA, mas <60% no LongMedBench",
+        "Benchmark usa dados reais de EHR com complexidade e ambiguidade clínica",
+        "ROI prometido por fornecedores pode estar inflado por métricas erradas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investidores precisam exigir benchmarks de decisão sequencial",
+        "Produtos de IA médica terão que provar desempenho em contexto longo",
+        "O gargalo técnico: memória de contexto longo e raciocínio multi-turno"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA na saúde não está em prompts, mas em horizontes clínicos de semanas."
+    }
+  ]
+}

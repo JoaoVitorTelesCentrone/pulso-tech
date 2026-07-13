@@ -1,0 +1,14 @@
+{
+  "tldr": "LongMedBench, um novo benchmark baseado em prontuários reais, expõe que agentes de IA médicos falham em decisões clínicas de longo prazo, revelando um gargalo de US$ 10 bilhões no mercado de saúde.",
+  "key_facts": [
+    "LongMedBench avalia agentes de IA em decisões clínicas sequenciais ao longo de múltiplas interações, usando dados reais de EHR.",
+    "Modelos com alta performance em benchmarks estáticos (ex.: MedQA) caem para menos de 60% de precisão no LongMedBench.",
+    "O mercado de IA em saúde deve ultrapassar US$ 100 bilhões até 2030, com agentes autônomos sendo o segmento de maior valor e risco."
+  ],
+  "why_it_matters": "A notícia expõe que o ROI prometido por fornecedores de agentes médicos pode estar inflado por métricas irreais, alertando investidores e gestores sobre a fragilidade dos modelos em contextos clínicos reais e sequenciais.",
+  "watch_next": [
+    "Fornecedores de agentes médicos podem ter que revisar seus benchmarks e promessas de desempenho.",
+    "Pesquisas em memória de contexto longo e raciocínio multi-turno devem se intensificar para resolver o gargalo."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gap entre benchmarks estáticos e a realidade clínica dinâmica, usando dados concretos de desempenho e projeções de mercado para destacar um risco estrutural ignorado pela indústria."
+}

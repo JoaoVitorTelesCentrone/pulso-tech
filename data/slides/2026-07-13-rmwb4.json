@@ -1,0 +1,53 @@
+{
+  "title": "DaDaDa: O Mercado de Dados Finalmente Tem um Preço — e Isso Pode Desbloquear US$ 100 Bilhões na Economia da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Dados Agora Têm Preço: O Gargalo da IA Acabou de Ser Resolvido",
+      "subtext": "Como um benchmark pode desbloquear US$ 100 bilhões e transformar a economia dos dados",
+      "image_prompt": "A futuristic digital marketplace with glowing data streams and AI neural networks, dark blue and neon green tones, abstract financial graphs floating in space"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Dados são o novo petróleo, mas ninguém sabia quanto custam. Empresas gastam bilhões em aquisição de dados sem transparência, enquanto fornecedores não têm referência de valor justo. O resultado: um mercado opaco e ineficiente que freia a economia da IA.",
+      "highlight": "US$ 100 bilhões em valor podem ser desbloqueados com precificação padronizada"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores lançaram o DaDaDa (Dataset for Data Pricing in Data Marketplaces), o primeiro benchmark para precificar dados de forma justa e eficiente. Ele permite testar e comparar modelos de precificação, transformando a negociação de dados em uma ciência econômica.",
+      "visual_hint": "Ícone de balança digital sobreposto a gráficos de rede de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores de IA, o custo de aquisição de dados se torna previsível e escalável. Para cientistas de dados, o custo de fine-tuning pode ser calculado com precisão. Para investidores, o ROI de dados vira um ativo financeiro modelável.",
+      "visual_hint": "Gráfico de barras mostrando custo de dados antes e depois da padronização"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Dados são o ativo mais valioso da IA, mas o menos padronizado em valor de mercado",
+        "Plataformas como AWS, Databricks e Datarade operam sem modelo de precificação unificado",
+        "DaDaDa cria as bases para marketplaces de dados com transparência, liquidez e eficiência"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Custo de treinamento de modelos se torna previsível e auditável",
+        "Marketplaces de dados operam como mercados financeiros, com oferta e demanda claras",
+        "Empresas podem modelar aquisição de dados como investimento, não como custo fixo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA será escrito por quem souber precificar seus dados. Você está pronto?"
+    }
+  ]
+}

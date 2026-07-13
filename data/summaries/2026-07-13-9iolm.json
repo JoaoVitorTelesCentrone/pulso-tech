@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe sistema multi-agente com compressão hierárquica de contexto para automatizar worldbuilding coerente, sinalizando uma reestruturação na economia de jogos e entretenimento.",
+  "key_facts": [
+    "Sistema usa múltiplos LLMs especializados (geógrafo, historiador, etc.) com compressão hierárquica de contexto para gerenciar lore extenso.",
+    "Inclui revisão iterativa com agentes 'editores' e 'verificadores de continuidade' para garantir consistência interna.",
+    "Mercado global de jogos projetado para US$ 300 bi até 2030; produção audiovisual soma US$ 250 bi.",
+    "Demonstra que o gargalo atual não é geração, mas coordenação e consistência em larga escala entre agentes de IA."
+  ],
+  "why_it_matters": "Mostra que a automação de worldbuilding pode reduzir drasticamente custos de pré-produção, acelerar ciclos de desenvolvimento de franquias e democratizar a criação de mundos complexos para estúdios independentes, redefinindo a economia da indústria criativa.",
+  "watch_next": [
+    "Grandes estúdios de games e streaming começarem a integrar sistemas multi-agente em pipelines de produção.",
+    "Surgimento de startups focadas em ferramentas de worldbuilding automatizado para estúdios independentes.",
+    "Debate sobre propriedade intelectual e autoria em mundos gerados por IA multi-agente."
+  ],
+  "editorial_angle": "O artigo não apenas descreve uma inovação técnica, mas a conecta diretamente a um impacto econômico mensurável em indústrias bilionárias, destacando a transição do gargalo de geração para o de coordenação entre agentes — um insight estratégico para leitores de tecnologia e negócios."
+}

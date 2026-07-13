@@ -1,0 +1,53 @@
+{
+  "title": "O Vazamento de US$ 1 Trilhão: Como o Processo da Apple Contra a OpenAI Expõe a Guerra Mais Suja da Economia da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Vazamento de US$ 1 Trilhão",
+      "subtext": "Como o processo da Apple contra a OpenAI expõe a guerra mais suja da economia da IA",
+      "image_prompt": "A dramatic digital courtroom scene with Apple and OpenAI logos facing each other, shattered glass effect, dark blue and neon orange lighting, futuristic tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na segunda-feira, 13 de julho de 2026, a Apple protocolou uma ação judicial bombástica contra a OpenAI, acusando a startup de roubo sistemático de segredos comerciais. O caso já está sendo chamado de 'o caso do século na economia tech'.",
+      "highlight": "US$ 1 trilhão em jogo — o valuation que pode ruir com a quebra de confiança"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Apple alega que a OpenAI institucionalizou a espionagem industrial: engenheiros eram pressionados a levar componentes e amostras de produtos não lançados durante entrevistas de emprego. Piadas internas sobre acesso não autorizado aos sistemas da Apple se tornaram evidência.",
+      "visual_hint": "Ícone de um cadeado quebrado com engrenagens e um chip de computador sendo extraído"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este não é um caso de 'grande empresa processando startup'. A OpenAI se prepara para um IPO histórico, e a acusação atinge o coração do modelo de negócios: a capacidade de atrair talentos sem herdar passivos legais. O custo da confiança na economia de agentes de IA dispara.",
+      "visual_hint": "Gráfico de uma montanha-russa com uma linha vermelha despencando, representando o valuation em queda"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: valor potencial do mercado de agentes de IA corporativos em risco",
+        "Centenas de bilhões: valuation da OpenAI ameaçado pelo processo",
+        "Milhares de engenheiros: o custo de aquisição de talento pode disparar com novos passivos legais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "IPO da OpenAI pode ser adiado ou reavaliado drasticamente",
+        "Contratações predatórias se tornam alvo de escrutínio legal em todo o setor",
+        "A linha entre 'inspiração' e 'apropriação' na IA será redefinida pelos tribunais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O caso do século está só começando — e pode redefinir o futuro da inteligência artificial."
+    }
+  ]
+}

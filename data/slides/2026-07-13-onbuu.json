@@ -1,0 +1,53 @@
+{
+  "title": "OpenProver: O Agente de Teoremas que Pode Desbloquear o Mercado de US$ 1 Trilhões da Prova Formal",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Agente de Teoremas que Pode Desbloquear um Mercado de US$ 1 Trilhões",
+      "subtext": "Enquanto o mercado se distrai com chatbots, um paper silencioso no arXiv pode ter resolvido o gargalo mais caro da engenharia de software.",
+      "image_prompt": "A futuristic digital brain made of geometric proofs and glowing Lean 4 code, floating above a city skyline, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Testes unitários verificam exemplos de comportamento. Prova formal verifica todo o comportamento possível — mas sempre foi cara, lenta e exigia PhDs em lógica. O custo da falta de verificação em software crítico é estimado em centenas de bilhões de dólares anuais.",
+      "highlight": "Prova formal: o Santo Graal da engenharia de software, agora automatizável."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o OpenProver, um sistema open-source que usa LLMs para prova automatizada de teoremas, integrado ao verificador formal Lean 4. Ele usa uma arquitetura Planner-Worker-Verifier que elimina alucinações: cada passo é verificado matematicamente.",
+      "visual_hint": "Ícone de engrenagem com checkmark dourado sobre fundo de código Lean 4"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, a IA pode explorar bilhões de caminhos de prova, mas apenas os corretos são aceitos. Isso resolve o problema central de agentes autônomos em aplicações críticas: confiança sem compromisso. Aviação, contratos financeiros, infraestrutura crítica e agentes de IA agora podem ser verificados formalmente em escala industrial.",
+      "visual_hint": "Diagrama de três círculos conectados: Planner (LLM), Worker (LLM + Ferramentas), Verifier (Lean 4)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: mercado potencial da prova formal automatizada",
+        "Centenas de bilhões de dólares: custo anual da falta de verificação em software crítico",
+        "Zero alucinações: o verificador Lean 4 rejeita qualquer prova incorreta"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica de recalls e falhas de segurança em software crítico",
+        "Agentes de IA autônomos poderão operar com garantias matemáticas de correção",
+        "A prova formal deixa de ser um luxo acadêmico e se torna uma ferramenta de engenharia acessível"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da confiabilidade de software está sendo escrito agora — e é formalmente verificado."
+    }
+  ]
+}

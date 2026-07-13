@@ -1,0 +1,14 @@
+{
+  "tldr": "Anthropic estende acesso ao Claude Fable 5 pela terceira vez enquanto se recusa a comentar sobre vazamento no Cursor, gerando crise de confiança no mercado de agentes de codificação.",
+  "key_facts": [
+    "Anthropic estendeu acesso ao Claude Fable 5 para assinantes pagantes até 19 de julho, pela terceira vez consecutiva.",
+    "Desenvolvedores descobriram algo preocupante dentro do Cursor, mas a Anthropic se recusa a comentar.",
+    "O silêncio da empresa levanta suspeitas sobre vulnerabilidades graves ou falta de transparência."
+  ],
+  "why_it_matters": "A credibilidade da Anthropic e de todo o ecossistema de agentes de codificação está em jogo, afetando a confiança de milhares de empresas que dependem dessas ferramentas para desenvolvimento crítico.",
+  "watch_next": [
+    "Possível divulgação oficial da Anthropic sobre o vazamento no Cursor.",
+    "Reações de concorrentes e reguladores diante da crise de confiança no mercado de agentes de IA."
+  ],
+  "editorial_angle": "O artigo se destaca ao conectar um movimento corporativo aparentemente rotineiro (extensão de acesso) a um vazamento não confirmado, explorando o impacto sistêmico na economia de agentes de codificação e a falta de transparência como risco de bilhões de dólares."
+}

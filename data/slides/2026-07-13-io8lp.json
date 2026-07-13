@@ -1,0 +1,53 @@
+{
+  "title": "O Gêmeo Digital Coletivo: Como a Coordenação Eficiente de Agentes Físicos com LLMs Pode Redefinir a Economia da Automação Industrial",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gêmeo Digital Coletivo",
+      "subtext": "Como a coordenação eficiente de agentes físicos com LLMs pode redefinir a economia da automação industrial",
+      "image_prompt": "A futuristic factory floor with multiple robotic arms and autonomous vehicles, all connected by glowing digital twin interfaces and data streams, dark blue and neon orange lighting, cinematic wide shot"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em chatbots e agentes de software, um novo estudo do arXiv expõe o gargalo silencioso que pode custar bilhões à Indústria 4.0: a coordenação de robôs com diferentes LLMs em ambientes físicos reais.",
+      "highlight": "US$ 10 bilhões em gargalos de automação"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um framework inovador combina gêmeos digitais com redes de poder computacional para permitir que agentes robóticos heterogêneos — cada um com seu próprio LLM (GPT, Claude, Gemini) — colaborem em tempo real, sem silos de comunicação.",
+      "visual_hint": "Ícone de engrenagens conectadas por uma nuvem de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Hoje, fábricas que usam robôs da ABB com um LLM e AGVs da Siemens com outro precisam de middleware caro e frágil. O gêmeo digital atua como um hub de conhecimento compartilhado, eliminando tráfego O(n²) e reduzindo latência e custos operacionais.",
+      "visual_hint": "Gráfico de rede mostrando conexões caóticas vs. hub centralizado"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: custo estimado da falta de coordenação entre agentes heterogêneos",
+        "O(n²): tráfego de comunicação em sistemas multi-agente tradicionais",
+        "Milhares de dólares por segundo: custo de paradas não programadas em fábricas inteligentes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Projetos-piloto de robótica com LLMs finalmente escalam para produção real",
+        "Redução drástica de middleware customizado e frágil",
+        "Novo padrão de eficiência econômica para a automação industrial"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA física não está nos chatbots — está na coordenação inteligente de agentes reais."
+    }
+  ]
+}

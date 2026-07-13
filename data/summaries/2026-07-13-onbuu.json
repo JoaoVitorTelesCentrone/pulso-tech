@@ -1,0 +1,17 @@
+{
+  "tldr": "OpenProver é um sistema open-source que combina LLMs com o verificador formal Lean 4 para automatizar a prova de teoremas em escala industrial, resolvendo o gargalo da verificação formal de software crítico.",
+  "key_facts": [
+    "Publicado no arXiv em 13 de julho de 2026.",
+    "Arquitetura Planner-Worker-Verifier com verificação formal via Lean 4.",
+    "Elimina alucinações de LLMs ao usar um verificador formal como juiz final.",
+    "Permite colaboração humano-agente em tempo real.",
+    "Custo anual da falta de verificação formal é estimado em centenas de bilhões de dólares."
+  ],
+  "why_it_matters": "A notícia importa porque apresenta uma solução prática para o maior gargalo da engenharia de software crítico — a prova formal de teoremas —, combinando a criatividade dos LLMs com a confiabilidade inabalável da verificação formal, o que pode reduzir drasticamente falhas em aviação, finanças, infraestrutura crítica e agentes de IA autônomos.",
+  "watch_next": [
+    "Adoção do OpenProver por empresas de software crítico (aviação, finanças, defesa).",
+    "Comparações com sistemas concorrentes de ATP e impacto no mercado de verificação formal.",
+    "Desdobramentos regulatórios: governos podem exigir verificação formal em sistemas de IA autônomos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico de nicho (prova automatizada de teoremas) a um impacto econômico massivo (mercado de US$ 1 trilhão), destacando a arquitetura inovadora que resolve o problema de confiança em agentes de IA, em vez de apenas reportar o lançamento de mais um sistema open-source."
+}
