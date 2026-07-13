@@ -1,0 +1,16 @@
+{
+  "tldr": "O artigo apresenta o GATS, um novo algoritmo que reduz em 60-80% o custo de inferência de agentes de IA ao substituir chamadas repetidas ao LLM por um modelo de mundo leve e busca em grafo, atacando o gargalo econômico do planejamento multi-etapas.",
+  "key_facts": [
+    "O GATS combina um modelo de mundo em camadas (1/10 do tamanho do LLM principal) com busca aumentada por grafo para simular transições de estado sem consultar o LLM a cada passo.",
+    "Métodos tradicionais como LATS e ReAct geram custo exponencial com a profundidade do planejamento (ex.: 243 nós para 5 passos com 3 opções cada).",
+    "Experimentos iniciais indicam economia de 60-80% no custo de inferência para tarefas com profundidade de 5-7 passos.",
+    "O mercado de agentes de IA corporativos é projetado para US$ 50 bilhões até 2028, dependendo da viabilidade econômica da inferência em escala."
+  ],
+  "why_it_matters": "Esta notícia importa porque revela um gargalo crítico e pouco discutido na adoção de agentes de IA — o custo computacional do planejamento — e apresenta uma solução prática que pode viabilizar agentes mais profundos e capazes em produção, impactando diretamente a economia de empresas que dependem de inferência em larga escala.",
+  "watch_next": [
+    "Validação independente dos resultados do GATS por grupos de pesquisa ou empresas (ex.: OpenAI, Google DeepMind).",
+    "Adoção do GATS ou de variações por plataformas de agentes como LangChain, AutoGPT ou Microsoft Copilot.",
+    "Surgimento de benchmarks específicos para eficiência de planejamento em agentes, impulsionados por este paper."
+  ],
+  "editorial_angle": "O artigo se diferencia por expor um problema econômico concreto (custo de inferência em escala) que a maioria das coberturas sobre agentes de IA ignora, focando apenas em capacidades. Ele foi escolhido por oferecer uma análise técnica acessível com dados de mercado, conectando inovação em pesquisa a um impacto financeiro mensurável."
+}

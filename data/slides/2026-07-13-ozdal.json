@@ -1,0 +1,53 @@
+{
+  "title": "GATS: O Novo Algoritmo de Planejamento que Pode Economizar Bilhões em Inferência de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GATS: O Algoritmo que Pode Economizar Bilhões em Inferência de IA",
+      "subtext": "Enquanto a indústria corre para construir agentes mais capazes, um novo paper expõe o calcanhar de Aquiles que ninguém quer encarar: o custo do planejamento multi-etapas.",
+      "image_prompt": "A futuristic digital brain with branching tree structures being pruned by glowing graph nodes, dark blue and neon green tech aesthetic, abstract data flow"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Métodos populares como LATS e ReAct dependem de chamadas repetidas ao LLM durante o planejamento — a cada nó da árvore de decisão, o modelo é consultado. Isso gera um custo que escala exponencialmente com a profundidade do planejamento.",
+      "highlight": "O custo de inferência por tarefa pode inviabilizar operações em escala."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o paper 'GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning'. O algoritmo usa um modelo de mundo em camadas combinado com uma estrutura de grafo para reduzir drasticamente o número de inferências necessárias.",
+      "visual_hint": "Ícone de árvore sendo transformada em grafo com nós conectados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para uma empresa que processa 1 milhão de tarefas de planejamento por dia com métodos tradicionais, o custo de inferência pode chegar a valores insustentáveis. O GATS promete cortar esse custo pela raiz, viabilizando agentes mais profundos e inteligentes.",
+      "visual_hint": "Gráfico de barras comparando custo antes e depois do GATS"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Métodos tradicionais: 5 passos × 3 opções = 243 nós na árvore de busca",
+        "Cada nó exige uma inferência do LLM (~100ms cada)",
+        "GATS reduz chamadas ao LLM em 60-80% para profundidade de 5-7 passos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes poderão planejar mais passos à frente sem explodir o orçamento de inferência",
+        "Empresas poderão escalar operações de agentes de IA com custo viável",
+        "Mercado de agentes corporativos (projetado em US$ 50 bi até 2028) se torna mais realista"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O GATS pode ser a chave para desbloquear a próxima geração de agentes de IA eficientes. Não fique para trás."
+    }
+  ]
+}

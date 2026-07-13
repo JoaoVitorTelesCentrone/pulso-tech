@@ -1,0 +1,53 @@
+{
+  "title": "O Juiz Silencioso dos Grafos: Como o AgentKGV Está Criando o Novo Mercado de Auditoria de Conhecimento em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Juiz Silencioso dos Grafos",
+      "subtext": "AgentKGV: O framework que está criando o novo mercado de auditoria de conhecimento em IA",
+      "image_prompt": "A futuristic digital courtroom with a glowing, transparent knowledge graph as the judge's gavel, data streams flowing like evidence, dark blue and neon green color palette, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Knowledge Graphs são a espinha dorsal da IA corporativa, mas são construídos automaticamente e cheios de erros. Enquanto o mercado corre para criar agentes que geram, ninguém verifica os fatos que alimentam esses sistemas.",
+      "highlight": "Quem audita o conhecimento que alimenta a economia dos agentes de IA?"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper AgentKGV (arXiv:2607.09092) propõe um framework multi-agente que combina LLMs com RAG em dois estágios de treinamento para automatizar a verificação factual de Knowledge Graphs em escala industrial. Primeiro, detecta anomalias; depois, consulta fontes para corroborar ou refutar as alegações.",
+      "visual_hint": "Ícone de um grafo com um olho de vigilância no centro, linhas de conexão sendo verificadas por lentes de aumento"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada nó e aresta de um Knowledge Graph é uma afirmação factual. Um erro — como 'João é CEO da Empresa X' — gera uma cascata de alucinações em agentes downstream. O AgentKGV sinaliza o nascimento de um novo mercado: a auditoria de conhecimento para sistemas de IA.",
+      "visual_hint": "Diagrama de dominós caindo, com um nó de grafo sendo corrigido antes de derrubar os demais"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Knowledge Graphs bilionários alimentam sistemas de recomendação, busca e decisão automatizada",
+        "Erros factuais em KGs geram cascatas de alucinações em agentes downstream",
+        "AgentKGV é a primeira tentativa séria de automatizar a auditoria factual em escala industrial"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Surge o mercado de auditoria de conhecimento para IA, um gargalo de US$ 10 bilhões",
+        "Empresas precisarão certificar a qualidade dos dados estruturados que alimentam seus agentes",
+        "Frameworks como AgentKGV se tornarão padrão em pipelines de IA corporativa"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo gargalo da economia dos agentes de IA já está sendo construído. Você está preparado?"
+    }
+  ]
+}

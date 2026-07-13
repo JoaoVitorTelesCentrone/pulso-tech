@@ -1,0 +1,54 @@
+{
+  "title": "O Gargalo Esquecido do Aprendizado Contínuo: Como o Benchmark HERO Expõe a Fragilidade de US$ 10 Bilhões na IA Distribuída",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "US$ 10 Bilhões em IA Distribuída: O Gargalo que Ninguém Quer Ver",
+      "subtext": "HERO expõe a fragilidade do aprendizado contínuo federado — e por que estamos cegos para o maior desafio da escala.",
+      "image_prompt": "A futuristic digital brain split into multiple nodes connected by glowing data streams, with a crack forming in the center, dark tech background, neon blue and red accents, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Apple, Google, Meta e Microsoft já implantam sistemas que atualizam modelos em milhões de dispositivos sem centralizar dados. Mas a indústria gasta US$ 10 bilhões por ano em infraestrutura de aprendizado federado e contínuo sem um padrão para medir se esses sistemas realmente retêm conhecimento.",
+      "highlight": "US$ 10 bilhões/ano em infraestrutura de FCL — sem métricas confiáveis"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O novo benchmark HERO (arXiv) unifica 15 datasets, 8 estratégias de particionamento e 5 métricas em uma plataforma única. Pela primeira vez, é possível comparar técnicas de aprendizado contínuo federado de forma justa — e o resultado é alarmante: a maioria dos sistemas falha em cenários com heterogeneidade real de dispositivos.",
+      "visual_hint": "Ícone de torre de Babel se fragmentando em peças que se encaixam em uma base única"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sem padronização, empresas não conseguem distinguir inovação real de superficial. Pior: dispositivos reais (iPhone 15 vs. IoT, 5G vs. 3G) têm capacidades radicalmente diferentes, mas benchmarks ignoram essa heterogeneidade. Estamos perdendo conhecimento crítico sem detectar.",
+      "visual_hint": "Gráfico de barras comparando desempenho de modelos em dispositivos homogêneos vs. heterogêneos, com queda abrupta no segundo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: gasto anual em infraestrutura de aprendizado federado e contínuo",
+        "15 datasets unificados pelo HERO — de CIFAR-100 a dados de sensores e texto",
+        "8 estratégias de particionamento de tarefas: de mudanças abruptas a transições graduais",
+        "5 métricas de avaliação: acurácia média, esquecimento, transferência de conhecimento e mais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "HERO se torna o padrão-ouro para comparar técnicas de FCL — quem não usar, ficará invisível",
+        "Empresas serão forçadas a testar em cenários heterogêneos reais, expondo fragilidades ocultas",
+        "Inovação superficial perde espaço: só técnicas que passam no crivo da heterogeneidade sobrevivem"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo esquecido do aprendizado contínuo pode custar caro. Fique por dentro das próximas análises."
+    }
+  ]
+}

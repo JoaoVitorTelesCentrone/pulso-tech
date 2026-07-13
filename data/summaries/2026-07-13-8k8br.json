@@ -1,0 +1,15 @@
+{
+  "tldr": "O paper ARCANA propõe um framework multi-agente reflexivo para raciocínio sintético no benchmark ARC-AGI-2, operando sob restrições realistas de tempo e hardware, sinalizando uma mudança da escala bruta para a arquitetura inteligente de colaboração entre agentes.",
+  "key_facts": [
+    "ARCANA é um framework colaborativo multi-agente que decompõe problemas em quatro estágios: percepção, geração de hipóteses, execução simbólica e reflexão.",
+    "O framework foi projetado para operar sob 'strict test time and hardware constraints', ao contrário de sistemas de raciocínio simbólico tradicionais.",
+    "O benchmark ARC-AGI-2 testa a capacidade de inferir regras a partir de exemplos visuais mínimos, área onde LLMs monolíticos frequentemente falham."
+  ],
+  "why_it_matters": "O artigo importa porque aborda o gargalo econômico do raciocínio sintético, propondo uma alternativa viável à estratégia de escalar parâmetros e dados, com potencial para reduzir custos de inferência, melhorar auditabilidade e aumentar robustez — impactando desenvolvedores, gestores de produto e investidores.",
+  "watch_next": [
+    "Comparações de desempenho do ARCANA com modelos monolíticos de fronteira em benchmarks de raciocínio abstrato.",
+    "Adoção do framework por empresas que buscam reduzir custos de inferência em tarefas de raciocínio complexo.",
+    "Publicação de novos papers que expandam a abordagem reflexiva multi-agente para outros benchmarks ou domínios."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma inovação técnica (ARCANA) com uma tese econômica mais ampla sobre a migração da economia de IA da escala bruta para a arquitetura inteligente de colaboração, oferecendo uma análise que vai além do anúncio do paper e contextualiza seu impacto para o mercado e para a indústria."
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "O benchmark HERO expõe a falta de padronização e a negligência com a heterogeneidade em aprendizado federado contínuo, um gargalo crítico em um mercado de US$ 10 bilhões anuais.",
+  "key_facts": [
+    "Paper HERO foi publicado no arXiv em 13 de julho de 2026.",
+    "HERO unifica 15 datasets, 8 estratégias de particionamento e 5 métricas para avaliação de FCL.",
+    "Indústria gasta US$ 10 bilhões/ano em infraestrutura de aprendizado federado e contínuo.",
+    "Benchmarks atuais ignoram heterogeneidade real de dispositivos (capacidade, rede, dados)."
+  ],
+  "why_it_matters": "Sem benchmarks padronizados, empresas não conseguem comparar técnicas de FCL, arriscando perda de conhecimento em sistemas distribuídos que já operam em milhões de dispositivos, comprometendo privacidade e eficácia.",
+  "watch_next": [
+    "Adoção do HERO como padrão pela indústria (Apple, Google, Meta) para avaliação de FCL.",
+    "Surgimento de novas técnicas de FCL validadas contra o benchmark, expondo limitações de abordagens atuais.",
+    "Pressão regulatória para métricas de retenção de conhecimento em sistemas de IA distribuída."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico de benchmark (HERO) a um gargalo de mercado bilionário, destacando a 'cegueira' da indústria para a heterogeneidade real, em vez de apenas reportar o paper."
+}

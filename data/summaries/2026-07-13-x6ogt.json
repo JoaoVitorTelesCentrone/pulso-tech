@@ -1,0 +1,16 @@
+{
+  "tldr": "O paper AgentKGV propõe um framework multi-agente com treinamento em dois estágios para automatizar a verificação factual de Knowledge Graphs, sinalizando o nascimento de um mercado de auditoria de conhecimento para sistemas de IA.",
+  "key_facts": [
+    "O paper AgentKGV (arXiv:2607.09092) foi submetido ao arXiv em 13/07/2026.",
+    "O framework opera em dois estágios: detecção de anomalias em KGs e verificação factual via agentes RAG.",
+    "O trabalho é fruto de uma colaboração de pesquisadores com histórico em sistemas de conhecimento em larga escala.",
+    "O artigo aponta que a verificação factual em escala industrial é um gargalo crítico e pouco explorado no mercado de IA."
+  ],
+  "why_it_matters": "Esta notícia importa porque expõe o gargalo esquecido da qualidade dos dados estruturados que alimentam agentes de IA corporativos, indicando o surgimento de um novo mercado de auditoria de conhecimento — um potencial gargalo de US$ 10 bilhões — e posiciona o AgentKGV como a primeira tentativa séria de automatizar esse processo.",
+  "watch_next": [
+    "Empresas como Google, Amazon e Meta podem anunciar parcerias ou aquisições de startups focadas em verificação factual de KGs.",
+    "Surgimento de benchmarks e competições para avaliar a precisão de frameworks de auditoria de conhecimento.",
+    "Lançamento de produtos comerciais baseados no AgentKGV ou em frameworks similares para auditoria de infraestrutura de dados de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia por não tratar de mais um framework RAG genérico, mas sim de uma ferramenta de auditoria que ataca o calcanhar de Aquiles da economia dos agentes de IA: a confiabilidade dos dados estruturados. A escolha editorial se deve ao timing perfeito — em meio à corrida por agentes geradores, o artigo expõe o vácuo crítico da verificação factual e aponta para o próximo grande mercado."
+}

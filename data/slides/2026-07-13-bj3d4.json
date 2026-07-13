@@ -1,0 +1,54 @@
+{
+  "title": "O Anti-Selo de Luxo: Por Que a Crítica de Lorde aos Óculos Ray-Ban Meta Expõe o Gargalo de US$ 100 Bilhões na Economia da IA Vestível",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Anti-Selo de Luxo",
+      "subtext": "Como duas palavras de Lorde expõem o gargalo de US$ 100 bilhões na economia da IA vestível",
+      "image_prompt": "A dark, futuristic concert stage with a lone singer under a spotlight, facing a crowd where some people wear glowing smart glasses, creating a tense, divided atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 10 de julho de 2026, Lorde interrompeu seu show no Real Cool Festival, em Madri, para chamar os óculos inteligentes de 'não sexy'. A declaração viralizou instantaneamente, expondo o maior calcanhar de Aquiles da IA vestível: a rejeição cultural.",
+      "highlight": "\"Not sexy\" — o veredito de uma artista que construiu sua carreira em autenticidade e conexão humana."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Lorde não criticou especificações técnicas, mas sim o desejo aspiracional. O Ray-Ban Meta AI, líder de mercado com 3 milhões de unidades vendidas, enfrenta um problema existencial: transformar o rosto humano em um dispositivo de gravação permanente gera desconforto social que nenhuma melhoria de hardware resolve.",
+      "visual_hint": "Ícone de um rosto com um olho substituído por uma lente de câmera, sobre fundo vermelho de alerta"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de IA vestível está projetado para US$ 100 bilhões até 2030, mas esse número depende de aceitação social. A crítica de Lorde ecoa o fracasso do Google Glass em 2015: quando um produto é percebido como 'não sexy' e invasivo, ele morre no nicho de early adopters.",
+      "visual_hint": "Gráfico de uma montanha-russa com uma queda abrupta, simbolizando o potencial de mercado ameaçado pela rejeição cultural"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: projeção do mercado de IA vestível até 2030 (IDC/Gartner)",
+        "3 milhões de unidades do Ray-Ban Meta AI vendidas desde 2025",
+        "67% dos americanos se sentem desconfortáveis ao serem gravados por óculos inteligentes (Pew Research, 2025)",
+        "58% consideram o uso desses dispositivos em público 'rude' ou 'invasivo'"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A indústria precisa urgentemente de um redesign estético e social, não apenas técnico",
+        "Parcerias com marcas de luxo e influenciadores culturais se tornam obrigatórias, não opcionais",
+        "O gargalo não é hardware — é a percepção pública de que IA vestível é 'não sexy' e invasiva"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA vestível será decidido nas passarelas, não nos laboratórios."
+    }
+  ]
+}

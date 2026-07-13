@@ -1,0 +1,53 @@
+{
+  "title": "ARCANA: O Framework Multi-Agente que Pode Redefinir a Economia do Raciocínio Sintético em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "ARCANA: A Nova Economia do Raciocínio Sintético",
+      "subtext": "Enquanto a indústria busca modelos maiores, um framework multi-agente propõe uma revolução na eficiência da inferência.",
+      "image_prompt": "A futuristic digital network of interconnected glowing nodes forming a brain-like structure, with data streams flowing between them, dark blue and purple tones, high tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, o paper ARCANA foi publicado no arXiv, propondo uma abordagem radical para o benchmark ARC-AGI-2, um dos testes mais desafiadores de raciocínio abstrato para IA. O framework opera sob restrições realistas de tempo e hardware, desafiando a lógica de 'mais parâmetros é melhor'.",
+      "highlight": "ARC-AGI-2: um dos últimos redutos onde a IA ainda luta para igualar o desempenho humano em inferência de regras."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "ARCANA não é um modelo monolítico, mas um framework colaborativo multi-agente que decompõe problemas em quatro estágios iterativos: Percepção, Geração de Hipóteses, Execução Simbólica e Reflexão. Ele permite que agentes especializados colaborem e revisem suas próprias conclusões, em vez de tentar espremer todo o raciocínio em um único forward pass.",
+      "visual_hint": "Ícone de engrenagens interligadas com setas de feedback formando um ciclo."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo do raciocínio sintético é um dos maiores gargalos da economia de agentes de IA. ARCANA propõe um caminho alternativo: orquestrar múltiplos agentes especializados que colaboram e refletem, reduzindo custos de inferência, melhorando a auditabilidade e aumentando a robustez do sistema.",
+      "visual_hint": "Gráfico de barras comparando o custo de um modelo monolítico vs. um sistema multi-agente, com o segundo sendo significativamente menor."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "ARC-AGI-2: benchmark que exige inferência de regras a partir de exemplos visuais mínimos.",
+        "Modelos monolíticos custam bilhões em treinamento e inferência para tarefas de raciocínio abstrato.",
+        "ARCANA opera sob 'strict test time and hardware constraints', provando ser viável economicamente."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A próxima fronteira não será o tamanho do modelo, mas a arquitetura de colaboração entre agentes.",
+        "Redução drástica nos custos de inferência para tarefas complexas de raciocínio.",
+        "Sistemas de IA mais auditáveis e robustos, com capacidade de recuperação de erros parciais."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O ARCANA é um sinal de que a economia da inferência está migrando da escala bruta para a inteligência arquitetural."
+    }
+  ]
+}

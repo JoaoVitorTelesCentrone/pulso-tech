@@ -1,0 +1,53 @@
+{
+  "title": "Waze + Gemini: O Mapa de US$ 1 Trilhão que o Google Está Desenhando na Mobilidade com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Waze + Gemini: O Mapa de US$ 1 Trilhão",
+      "subtext": "Como o Google está transformando IA conversacional em receita na mobilidade urbana",
+      "image_prompt": "A futuristic city map with glowing digital roads and AI nodes connecting cars, data streams, and a glowing dollar sign in the center, dark blue and neon green tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Google anunciou a integração do Gemini no Waze, app com 140 milhões de usuários ativos. Não é só uma atualização: é o movimento mais concreto para transformar IA em motor de receita no mercado de mobilidade urbana, que vale mais de US$ 1 trilhão globalmente.",
+      "highlight": "US$ 1 trilhão: o valor do mercado de mobilidade urbana"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Quatro novas funcionalidades, duas com Gemini: comandos de voz contextuais (ex: 'me leve ao posto mais barato no caminho') e personalização de viagem com base em histórico e preferências. O modelo processa trânsito, clima e eventos em tempo real com baixa latência.",
+      "visual_hint": "Ícone de assistente de voz com ondas sonoras e um carro em movimento sobre um mapa digital"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O Waze é o laboratório de inovação do Google em mapas. Com Gemini, a navegação vira canal de vendas em tempo real: anúncios contextuais precisos ('Starbucks a 2 km com desconto') e coleta de dados sobre comportamento do motorista para alimentar todo o ecossistema de IA do Google.",
+      "visual_hint": "Diagrama mostrando dados do motorista → Gemini → anúncios personalizados → receita"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "140 milhões de usuários ativos mensais no Waze",
+        "70%+ de domínio do mercado de navegação móvel nos EUA (Waze + Google Maps)",
+        "Mercado de anúncios baseados em localização deve atingir US$ 42 bilhões em 2027"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Navegação vira assistente pessoal de mobilidade, não só GPS",
+        "Anúncios contextuais em tempo real transformam o app em canal de vendas",
+        "Dados de cada interação alimentam o treinamento de modelos de IA do Google"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O mapa do futuro está sendo desenhado agora. Não perca o próximo capítulo."
+    }
+  ]
+}

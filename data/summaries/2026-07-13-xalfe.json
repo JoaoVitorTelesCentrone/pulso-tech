@@ -1,0 +1,17 @@
+{
+  "tldr": "A integração do Gemini no Waze é o movimento mais concreto do Google para transformar IA conversacional em motor de receita no mercado de mobilidade urbana, que vale mais de US$ 1 trilhão.",
+  "key_facts": [
+    "O Google integrou o Gemini ao Waze, que tem 140 milhões de usuários ativos mensais.",
+    "Duas funcionalidades principais são alimentadas pelo Gemini: comandos de voz contextuais e personalização de viagem.",
+    "A integração exige processamento em tempo real com baixa latência, usando otimizações para dispositivos móveis e edge computing.",
+    "O Waze funciona como laboratório de inovação do Google para mapas, e a integração sinaliza que IA generativa será central na navegação.",
+    "O movimento é estratégico para defender a dominância de mercado (70% nos EUA), monetizar com anúncios contextuais (mercado de US$ 42 bi em 2027) e coletar dados de comportamento do motorista."
+  ],
+  "why_it_matters": "Esta notícia mostra como a IA generativa está saindo do hype para aplicações práticas e monetizáveis, transformando a navegação em um canal de vendas em tempo real e redefinindo a competição no mercado de mobilidade.",
+  "watch_next": [
+    "Google pode expandir a integração do Gemini para o Google Maps, replicando as funcionalidades testadas no Waze.",
+    "Concorrentes como Apple Maps, Mapbox e Here Technologies devem acelerar suas próprias integrações de IA para não perderem terreno.",
+    "A monetização via anúncios contextuais baseados em IA pode gerar novas polêmicas sobre privacidade e uso de dados dos motoristas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar a integração não como uma simples atualização de app, mas como um movimento estratégico de negócios, conectando tecnologia, mercado de US$ 1 trilhão e monetização futura, com análise técnica aprofundada das camadas de raciocínio contextual."
+}

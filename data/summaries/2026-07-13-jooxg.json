@@ -1,0 +1,16 @@
+{
+  "tldr": "O novo benchmark LHTB revela que agentes de IA state-of-the-art falham em tarefas que duram mais de 30 minutos, expondo um gargalo que pode superestimar o ROI corporativo em até 5x e atrasar a promessa de US$ 1 trilhão em automação.",
+  "key_facts": [
+    "O LHTB testa agentes em tarefas de terminal de longa duração (horas), com recompensas densas em vez de métricas binárias.",
+    "Agentes state-of-the-art (GPT, Claude, modelos open source) tiveram quedas de 40% a 70% em tarefas acima de 30 minutos.",
+    "Agentes treinados com recompensas densas no LHTB melhoraram de 23% a 35% em tarefas longas comparados a treinamento binário.",
+    "O ROI projetado para implantações de agentes pode estar superestimado em 2x a 5x segundo a análise do artigo."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, este artigo expõe que a corrida por agentes 'prontos para produção' ainda está longe do fim, impactando diretamente decisões de investimento, alocação de recursos em P&D e expectativas de automação corporativa — um alerta para gestores que baseiam estratégias em benchmarks enganosos.",
+  "watch_next": [
+    "Adoção do LHTB como novo padrão da indústria para avaliação de agentes, substituindo benchmarks curtos como SWE-Bench.",
+    "Corrida de laboratórios (OpenAI, Anthropic, Google) para treinar agentes com recompensas densas e melhorar desempenho em tarefas longas.",
+    "Impacto no mercado de US$ 50 bilhões projetado para agentes corporativos até 2028, com possíveis correções de valuation."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um benchmark acadêmico (LHTB) diretamente a um gargalo econômico de US$ 1 trilhão, usando dados concretos de queda de performance e superestimação de ROI. Ele não apenas reporta o paper, mas traduz suas implicações para gestores e investidores, com uma análise profunda sobre a dicotomia entre sucesso binário e progresso granular."
+}
