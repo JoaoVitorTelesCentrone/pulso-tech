@@ -1,0 +1,53 @@
+{
+  "title": "O Efeito Silencioso do Formato: Como a Estrutura da Mensagem em Agentes Multi-Salto Pode Redefinir uma Economia de US$ 100 Bilhões em Automação Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Formato da Mensagem Está Silenciosamente Destruindo Sua Automação",
+      "subtext": "Como a estrutura entre agentes de IA pode inflar ou quebrar uma economia de US$ 100 bilhões",
+      "image_prompt": "A dark, futuristic digital network with glowing nodes connected by fragile, glass-like threads, some threads cracking under pressure, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria de agentes de IA corporativos está projetada para ultrapassar US$ 100 bilhões. Empresas como Salesforce, Microsoft e OpenAI investem pesado em arquiteturas multi-agente. Mas um novo paper do arXiv revela um gargalo oculto: o formato da mensagem entre agentes não é neutro.",
+      "highlight": "US$ 100 bilhões em risco por um detalhe de implementação ignorado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper mostra que o formato da mensagem (JSON, XML, texto livre) afeta diretamente a fidelidade da informação transmitida entre agentes. Agentes em tiers mais altos repassam a informação sem correção; agentes em tiers baixos distorcem ou reinterpretam os dados. O formato não é engenharia — é uma decisão arquitetural.",
+      "visual_hint": "Ícone de corrente com elos quebrados ou distorcidos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores de tecnologia, o ROI projetado de implantações multi-agente pode estar baseado em suposições falsas sobre a integridade da informação. Para investidores, startups que prometem automação multi-agente podem estar vendendo uma solução frágil. O gargalo é silencioso e sistemático.",
+      "visual_hint": "Gráfico de barras com uma barra 'ROI Real' muito menor que 'ROI Projetado'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Economia de agentes corporativos: > US$ 100 bilhões nos próximos 3 anos",
+        "Cadeias testadas: de 2 a 5 saltos (hops) entre agentes",
+        "3 formatos testados: linguagem natural, JSON estruturado, semi-estruturado"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "O formato da mensagem vira decisão arquitetural crítica, não detalhe de engenharia",
+        "Empresas precisarão auditar a fidelidade informacional de suas cadeias de agentes",
+        "Startups que ignorarem isso podem perder credibilidade e mercado"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O formato certo pode salvar bilhões. O errado, silenciosamente, destruí-los."
+    }
+  ]
+}

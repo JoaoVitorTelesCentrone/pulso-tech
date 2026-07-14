@@ -1,0 +1,53 @@
+{
+  "title": "Siri AI Chega ao Beta Público: O Renascimento Silencioso da Apple na Economia dos Assistentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Siri AI: O Renascimento Silencioso da Apple",
+      "subtext": "Após anos de atraso, o beta público do iOS 27 chega para reconfigurar a economia dos assistentes de IA",
+      "image_prompt": "Futuristic glowing Apple logo emerging from dark digital waves, neon blue and silver tones, abstract tech background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Apple liberou o beta público do iOS 27 com a Siri AI, após múltiplos adiamentos desde 2024. O movimento não é apenas sobre um assistente melhor — é a reconfiguração estratégica de US$ 3 trilhões em valor de mercado.",
+      "highlight": "2 bilhões de dispositivos ativos prontos para receber IA generativa"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Siri AI é uma reformulação completa do assistente virtual com inteligência generativa. A Apple pulou as fases de hype e correção do mercado, entrando agora na fase de utilidade real, com respostas breves e processamento local no Neural Engine.",
+      "visual_hint": "Ícone de chip A19/M5 com engrenagens e ondas de dados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Apple coloca IA generativa em 2 bilhões de dispositivos da noite para o dia, criando a maior plataforma de agentes de IA do mundo. Privacidade, integração vertical e ecossistema fechado são vantagens que nenhum concorrente tem.",
+      "visual_hint": "Globo com dispositivos Apple conectados por linhas de dados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "2 bilhões de dispositivos ativos na base instalada da Apple",
+        "US$ 3 trilhões em valor de mercado em jogo",
+        "3 fases do mercado puladas: hype, correção, infraestrutura"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Apple se torna a maior plataforma de agentes de IA do mundo",
+        "Concorrentes perdem vantagem de distribuição e privacidade",
+        "Usuários ganham assistente integrado sem abrir mão da segurança"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O renascimento silencioso da Apple está apenas começando — e você não vai querer perder o próximo capítulo."
+    }
+  ]
+}

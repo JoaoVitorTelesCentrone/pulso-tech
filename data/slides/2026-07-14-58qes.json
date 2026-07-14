@@ -1,0 +1,53 @@
+{
+  "title": "O Formato Silencioso que Pode Inflar (ou Destruir) Benchmarks de IA: A Nova Métrica que Expõe a Fragilidade de US$ 1 Trilhão na Comparação de Modelos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Formato Silencioso que Pode Inflar (ou Destruir) Benchmarks de IA",
+      "subtext": "Uma simples quebra de linha pode reverter o ranking dos maiores modelos do mundo. E ninguém está controlando isso.",
+      "image_prompt": "A futuristic digital landscape with a giant leaderboard showing AI model names flickering and swapping positions, surrounded by subtle glitch effects and binary code rain, dark blue and neon cyan tones"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores do arXiv descobriram que a formatação do prompt wrapper — marcadores, quebras de linha, tokens especiais — pode alterar drasticamente a performance de LLMs em benchmarks. O estudo revela que a simples troca de um marcador de lista inverteu a ordem do leaderboard entre modelos concorrentes.",
+      "highlight": "Trocar '-' por '*' pode reverter o ranking de modelos que custam centenas de milhões para treinar."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper introduz duas métricas: Format Sensitivity Index (FSI) e Schema Compliance (SC). O FSI mede o quanto a variação de formato altera a pontuação; a SC mede o quão bem o modelo segue a estrutura esperada. Em 4 dos 7 benchmarks testados, a escolha do formato fez o segundo melhor modelo parecer o primeiro.",
+      "visual_hint": "Ícone de dois modelos trocando de posição em um pódio, com setas indicando a influência de um caractere invisível"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Decisões de compra, contratos corporativos e alocação de capital de risco estão sendo baseadas em comparações estatisticamente inválidas. Para desenvolvedores, a escolha de um provedor de API baseada em benchmarks públicos pode ser enganosa. Para investidores, valuations de US$ 1 trilhão estão sobre areia movediça.",
+      "visual_hint": "Gráfico de barras sendo distorcido por uma mão invisível, com cifrões caindo ao fundo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Variação de 3 a 12 pontos percentuais na acurácia dependendo do formato do prompt",
+        "4 dos 7 benchmarks testados tiveram inversão de ranking entre modelos",
+        "Modelos mais 'instruíveis' apresentaram maior sensibilidade ao formato"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Protocolos rigorosos de formatação serão necessários para qualquer comparação válida",
+        "A reprodutibilidade de benchmarks sofre mais um golpe significativo",
+        "Novas métricas (FSI e SC) devem se tornar padrão na avaliação de modelos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O ruído silencioso que pode estar virando o jogo da IA — e você nem percebeu."
+    }
+  ]
+}

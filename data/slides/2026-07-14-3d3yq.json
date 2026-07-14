@@ -1,0 +1,53 @@
+{
+  "title": "O Veredito Clínico da IA: Por Que o Benchmark de Resumos de Ensaios Clínicos Expõe o Gargalo de US$ 50 Bilhões na Confiança Médica",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Veredito Clínico da IA: O Gargalo de US$ 50 Bilhões na Confiança Médica",
+      "subtext": "Alucinação não é bug técnico — é o limite entre IA de brinquedo e IA que salva vidas",
+      "image_prompt": "Futuristic medical data visualization with glowing red and blue neural networks overlaid on a clinical trial document, dark high-tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo benchmark (arXiv 2607.09932) expõe que LLMs alucinam informações críticas ao resumir ensaios clínicos para diferentes públicos — médicos, pacientes e pagadores. O problema não é apenas técnico: é o gargalo que congela um mercado de US$ 50 bilhões em automação clínica.",
+      "highlight": "Mesmo os melhores modelos alucinam entre 8% e 15% em resumos para pacientes"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O estudo 'Faithful by Design' revela que modelos como GPT-4 e Claude 3.5 têm taxas de alucinação 3x maiores em resumos para pacientes do que em resumos técnicos. O mecanismo é a 'simplification hallucination': o modelo sacrifica precisão por clareza, criando imprecisões perigosas.",
+      "visual_hint": "Ícone de cérebro com áreas destacadas em vermelho (alucinação) e verde (fidelidade)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Um resumo que omite um efeito colateral grave ou superestima a eficácia pode levar a decisões clínicas catastróficas. Sem supervisão humana, a economia prometida pela IA desaparece. Agências como FDA e EMA já sinalizam que exigirão evidências de fidelidade antes de aprovar sistemas de IA para uso clínico.",
+      "visual_hint": "Gráfico de barras comparando 'Custo com supervisão humana' vs 'Custo sem supervisão'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: mercado global de automação de documentação clínica congelado",
+        "8-15%: taxa de alucinação em resumos para pacientes (vs 2-4% em resumos técnicos)",
+        "US$ 12 bilhões: apenas nos EUA, o custo anual de redação, revisão e tradução de documentação regulatória"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novos padrões regulatórios: FDA e EMA exigirão benchmarks de fidelidade como este",
+        "Arquiteturas 'Faithful by Design' substituirão modelos de pós-correção",
+        "O mercado de US$ 50 bilhões só será destravado com IA que não alucina em contextos clínicos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da medicina depende de IA que não mente — e o relógio está correndo."
+    }
+  ]
+}

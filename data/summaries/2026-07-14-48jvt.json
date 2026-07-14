@@ -1,0 +1,17 @@
+{
+  "tldr": "Paper YUKTI propõe arquitetura de três camadas que substitui otimização de ponto único por decisões robustas com certificado de arrependimento, resolvendo o gargalo de US$ 10 bilhões em falhas de agentes de IA corporativos causado por falsa precisão.",
+  "key_facts": [
+    "YUKTI foi publicado no arXiv em 14 de julho de 2026.",
+    "Pipelines atuais (NL4Opt, OptiMUS, ORLM) assumem parâmetros precisos extraídos de texto ambíguo, causando 90% de falha em implantações reais.",
+    "Arquitetura YUKTI tem três camadas: IR tipado por incerteza, Fronteiras de Pareto robusto a suposições e Certificado de Arrependimento.",
+    "Economia de agentes de IA corporativos está avaliada em mais de US$ 100 bilhões.",
+    "YUKTI classifica parâmetros em quatro tipos de incerteza: empírica, derivada, estrutural e de elicitação."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, YUKTI redefine o padrão de confiança em decisões automatizadas, transformando a incerteza de um bug em um recurso quantificável — essencial para qualquer empresa que aloca recursos reais com base em LLMs.",
+  "watch_next": [
+    "Adoção de YUKTI por plataformas de otimização empresarial como SAP ou Oracle.",
+    "Publicação de benchmarks comparando YUKTI com NL4Opt e OptiMUS em cenários reais de alocação de orçamento.",
+    "Surgimento de startups focadas em 'decisões com certificado de arrependimento' como novo padrão de compliance."
+  ],
+  "editorial_angle": "O artigo se diferencia ao expor o gargalo econômico (US$ 10 bi) por trás da falha técnica, conectando a fragilidade dos pipelines de otimização ao custo real de decisões cegas, e posiciona YUKTI como uma virada de paradigma — de 'precisão falsa' para 'incerteza honesta'."
+}

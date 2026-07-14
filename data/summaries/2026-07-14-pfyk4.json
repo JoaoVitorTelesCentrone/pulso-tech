@@ -1,0 +1,14 @@
+{
+  "tldr": "Pesquisa do arXiv mostra que o formato da mensagem entre agentes de IA em cadeias multi-salto afeta a fidelidade da informação de forma dependente do nível hierárquico do agente, criando um gargalo oculto de US$ 100 bilhões na automação corporativa.",
+  "key_facts": [
+    "O paper 2607.09678 do arXiv investiga como o formato da mensagem (livre, estruturado ou semi-estruturado) impacta a fidelidade da informação em cadeias multi-agente.",
+    "Agentes em tiers mais altos (que recebem informação processada) tendem a repassar a informação fielmente, enquanto agentes em tiers mais baixos (que lidam com dados brutos) são mais propensos a corrigir ou reinterpretar a mensagem.",
+    "A indústria de agentes de IA, projetada para ultrapassar US$ 100 bilhões, trata o formato da mensagem como detalhe de engenharia, não como problema fundamental de fidelidade informacional."
+  ],
+  "why_it_matters": "Para gestores de tecnologia e investidores, a descoberta revela que o ROI de implantações multi-agente pode estar baseado em suposições falsas sobre a integridade da informação, indicando que startups de automação multi-agente podem estar vendendo soluções frágeis para transmissão de dados críticos.",
+  "watch_next": [
+    "Empresas como Salesforce, Microsoft, Anthropic e OpenAI podem revisar suas arquiteturas multi-agente para incorporar o efeito de tier na escolha de formatos de mensagem.",
+    "Novos estudos podem explorar estratégias de formatação adaptativa por tier para mitigar distorções e melhorar a confiabilidade em cadeias longas."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um achado técnico específico (efeito do formato da mensagem por tier) a um impacto econômico massivo (US$ 100 bilhões), alertando que um detalhe de implementação ignorado pode comprometer todo o ecossistema de automação corporativa."
+}

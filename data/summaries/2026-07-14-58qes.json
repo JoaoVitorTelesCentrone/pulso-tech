@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores quantificam como variações na formatação de prompts (como marcadores e quebras de linha) podem alterar drasticamente a performance de LLMs em benchmarks, invertendo leaderboards e expondo fragilidades em comparações que movimentam trilhões de dólares.",
+  "key_facts": [
+    "O estudo introduz as métricas Format Sensitivity Index (FSI) e Schema Compliance (SC) para medir o impacto da formatação.",
+    "Variações simples, como trocar '-' por '*' em listas, podem inverter a ordem de modelos concorrentes em leaderboards.",
+    "A acurácia variou de 3 a 12 pontos percentuais dependendo do modelo e benchmark, com inversão de ranking em 4 de 7 testes.",
+    "Modelos testados incluem GPT-4o, Claude 3.5 Sonnet, Gemini 1.5 Pro e Llama 3 70B em benchmarks como MMLU, GSM8K e HumanEval."
+  ],
+  "why_it_matters": "A descoberta mina a confiabilidade dos benchmarks públicos de IA, que orientam decisões de compra, investimento e P&D. Se a formatação do prompt pode reverter resultados, comparações entre modelos tornam-se estatisticamente inválidas, colocando em risco valuations de US$ 1 trilhão e a reprodutibilidade de pesquisas.",
+  "watch_next": [
+    "Adoção do protocolo de controle de tokens proposto pelos pesquisadores como novo padrão da indústria.",
+    "Revisão de benchmarks históricos e leaderboards à luz da sensibilidade de formato, expondo decisões erradas do passado.",
+    "Pressão de investidores e reguladores por transparência nos métodos de avaliação de modelos de IA."
+  ],
+  "editorial_angle": "O artigo se destaca por conectar um problema técnico aparentemente obscuro (formatação de prompts) a consequências econômicas e estratégicas de grande escala, tornando acessível a um público amplo de tecnologia e negócios a fragilidade oculta nos benchmarks de IA."
+}

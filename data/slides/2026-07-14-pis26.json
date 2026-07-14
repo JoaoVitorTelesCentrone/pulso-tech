@@ -1,0 +1,53 @@
+{
+  "title": "ChatGPT Work: A Ferramenta que Está Reorganizando os Times de Dados e Redefinindo a Economia da Análise Corporativa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "ChatGPT Work: O Sistema Operacional da Análise Corporativa",
+      "subtext": "Enquanto o mercado busca agentes autônomos, a OpenAI silenciosamente transforma a espinha dorsal da tomada de decisão: os times de dados.",
+      "image_prompt": "Futuristic data center interior with glowing blue server racks and floating holographic analytics dashboards, dark tech aesthetic, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI Academy publicou um guia detalhado sobre como times de data science estão usando o ChatGPT Work para automatizar artefatos críticos do dia a dia corporativo. O foco não é substituir analistas, mas criar uma camada de automação para processos analíticos repetitivos e de alto valor.",
+      "highlight": "60-70% do tempo de um analista sênior é consumido por tarefas repetitivas que o ChatGPT Work automatiza."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Times de dados estão usando o ChatGPT Work para construir root-cause briefs, impact readouts, KPI memos, scoped analyses e dashboard specs. O assistente estrutura hipóteses, organiza evidências e formata documentos executivos — o analista valida e ajusta. O tempo de entrega cai de 4 horas para 45 minutos.",
+      "visual_hint": "Ícone de engrenagem com gráfico de barras ascendente e um relógio sendo reduzido"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O ChatGPT Work reorganiza a economia do trabalho analítico: ele eleva o patamar mínimo de entrega, permitindo que analistas seniores foquem em problemas estratégicos. Para gestores e investidores, o sinal é claro: o maior mercado de IA corporativa não está em agentes que 'pensam', mas em assistentes que produzem ROI imediato e auditável.",
+      "visual_hint": "Gráfico de pizza mostrando a redistribuição do tempo do analista antes e depois"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Root-Cause Briefs: de 4 horas para 45 minutos (redução de 81%)",
+        "KPI Memos: economia de 70% no tempo da primeira versão",
+        "Impact Readouts: antes exigia um analista dedicado por sprint, agora é feito em paralelo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Times de dados menores podem entregar o mesmo volume de análises com qualidade superior",
+        "Analistas seniores se tornam curadores de insights, não operadores de relatórios",
+        "Empresas que adotarem o ChatGPT Work ganham vantagem competitiva em velocidade de decisão"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A IA não está substituindo analistas — está redefinindo o que significa ser um."
+    }
+  ]
+}

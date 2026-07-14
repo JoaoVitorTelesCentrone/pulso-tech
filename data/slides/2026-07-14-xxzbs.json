@@ -1,0 +1,53 @@
+{
+  "title": "CLIR-Bench: O Benchmark que Expõe o Gargalo de US$ 10 Bilhões na Decisão Clínica com Dados Temporais Irregulares",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 10 Bilhões na Decisão Clínica",
+      "subtext": "LLMs multimodais falham quando dados clínicos são esparsos e assíncronos. O CLIR-Bench expõe a fragilidade.",
+      "image_prompt": "A futuristic hospital room with holographic patient vitals displaying irregular, asynchronous data streams, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pacientes não geram dados bonitos e sincronizados. Um ECG às 8h, exame de sangue às 10h, pressão arterial às 14h — todos esparsos e assíncronos. O mercado de IA em saúde clínica promete revolucionar diagnósticos, mas a realidade dos prontuários eletrônicos é caótica.",
+      "highlight": "Dados clínicos reais são irregulares — e a IA atual não lida bem com isso."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o CLIR-Bench, um benchmark que testa modelos multimodais em séries temporais clínicas irregulares. Os resultados iniciais mostram que modelos de fronteira perdem até 40% de desempenho quando a regularidade temporal é quebrada. A arquitetura Transformer padrão não consegue lidar com intervalos variáveis entre medições.",
+      "visual_hint": "Ícone de gráfico com linhas quebradas e pontos esparsos, representando dados temporais irregulares"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se a IA não consegue lidar com gaps de horas ou dias entre medições, todo o edifício de 'agentes clínicos' desaba. Sistemas de alerta precoce para sepse, parada cardíaca ou deterioração clínica podem gerar falsos positivos ou perder eventos críticos. O impacto econômico: US$ 10 bilhões em automação hospitalar ameaçados.",
+      "visual_hint": "Ícone de alerta vermelho pulsando sobre um gráfico de linha do tempo com lacunas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos perdem até 40% de desempenho com dados temporais irregulares vs. alinhados",
+        "Mercado de IA em saúde clínica estimado em dezenas de bilhões de dólares",
+        "CLIR-Bench expõe falha em amostragem assíncrona, esparsidade e raciocínio causal temporal"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Novas arquiteturas de atenção temporal serão necessárias para séries médicas",
+        "Fine-tuning e RAG clínico atuais estão sobre uma base frágil",
+        "Sistemas de alerta precoce podem gerar falsos negativos e custar vidas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA na saúde depende de resolver a irregularidade dos dados. Não fique para trás."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo benchmark revela que LLMs alucinam em 8-15% dos resumos de ensaios clínicos para pacientes, criando um gargalo de confiança que congela um mercado de US$ 50 bilhões em automação de documentação clínica.",
+  "key_facts": [
+    "Benchmark do arXiv (2607.09932) avalia fidelidade de resumos de ensaios clínicos gerados por LLMs para médicos, pacientes e pagadores.",
+    "Taxa de alucinação em resumos para pacientes é de 8-15%, contra 2-4% em resumos técnicos, devido ao fenômeno de 'simplification hallucination'.",
+    "Estudo propõe abordagem 'Faithful by Design' que força o modelo a ser fiel aos dados desde a geração, em vez de pós-correção.",
+    "Mercado global de automação de documentação clínica é estimado entre US$ 35-50 bilhões, mas permanece congelado por falta de padrões de fidelidade."
+  ],
+  "why_it_matters": "O artigo expõe que o maior obstáculo para a adoção em escala de IA na saúde não é técnico, mas econômico-regulatório: sem benchmarks de fidelidade aceitos por agências como FDA, o prometido corte de custos com automação clínica não se concretiza, mantendo bilhões de dólares em eficiência potencial inacessíveis.",
+  "watch_next": [
+    "Agências regulatórias (FDA, EMA) devem adotar benchmarks similares como pré-requisito para aprovação de sistemas de IA clínica.",
+    "Startups de health-tech focadas em documentação clínica precisarão pivotar para arquiteturas 'faithful by design' ou enfrentarão barreiras de adoção.",
+    "O fenômeno de 'simplification hallucination' pode se tornar um campo de pesquisa prioritário em segurança de IA aplicada."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico específico (alucinação em resumos clínicos) diretamente a um gargalo econômico mensurável (US$ 50 bi), tratando a confiança não como um valor abstrato, mas como uma variável de mercado. A escolha editorial reflete a tese de que o próximo salto da IA não virá de modelos maiores, mas de sistemas que provem fidelidade em contextos de alto risco."
+}
