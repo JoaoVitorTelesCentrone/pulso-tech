@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo paper do arXiv revela que a qualidade e o formato dos snippets retornados por search APIs criam uma 'superfície de decisão' que pode levar agentes de IA a decisões subótimas, queimando tokens ou ignorando fontes valiosas, mesmo quando a acurácia da API é a mesma.",
+  "key_facts": [
+    "Paper do arXiv mostra que a 'superfície de decisão' de agentes de IA é profundamente influenciada pela qualidade dos snippets de search APIs.",
+    "APIs tradicionais (Google, Bing) otimizam snippets para humanos, não para agentes, levando a decisões com informação parcial em ~40% dos casos.",
+    "Agentes podem ter a mesma acurácia em benchmarks, mas tomar decisões radicalmente diferentes com APIs de estruturas de evidência desiguais.",
+    "O gargalo gera dois problemas: falsos positivos caros (download de páginas irrelevantes) e falsos negativos fatais (descarte de fontes valiosas)."
+  ],
+  "why_it_matters": "Para engenheiros e líderes de produto que constroem agentes de IA em produção, este artigo expõe um ponto cego crítico e caro no pipeline: a camada de busca, tratada como commodity, pode corroer margens e destruir a confiança no agente, especialmente em um mercado projetado para US$ 100 bilhões até 2028.",
+  "watch_next": [
+    "Surgimento de search APIs otimizadas especificamente para agentes, com snippets mais longos e semanticamente completos.",
+    "Desenvolvimento de métricas de 'desigualdade de evidência' como novo padrão de avaliação de agentes, além da acurácia tradicional.",
+    "Corrida de provedores de API (Google, Bing, startups) para adaptar seus produtos ao consumo por agentes, não apenas por humanos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao ir além da crítica superficial às APIs, quantificando o problema com dados do paper e conectando-o diretamente ao custo operacional e à confiabilidade de agentes em produção, algo que a maioria das coberturas ignora ao focar apenas em benchmarks de acurácia."
+}

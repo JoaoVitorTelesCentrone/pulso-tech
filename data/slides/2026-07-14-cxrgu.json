@@ -1,0 +1,53 @@
+{
+  "title": "Codex Unificado: O Sinal de 8 Milhões de Usuários que Enterra a Guerra de Chatbots e Abre a Nova Economia da Plataforma de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "8 Milhões de Desenvolvedores: O Fim da Guerra de Chatbots",
+      "subtext": "Como a OpenAI unificou Codex e ChatGPT e redefiniu a economia do software corporativo",
+      "image_prompt": "Futuristic digital landscape with glowing code streams merging into a single bright portal, dark background, neon blue and purple tones, abstract tech art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a OpenAI anunciou que o Codex atingiu 8 milhões de usuários ativos, uma semana após o lançamento do GPT-5.6. A grande novidade foi a incorporação do Codex ao aplicativo unificado do ChatGPT, eliminando a separação entre chatbot geral e ferramenta de desenvolvimento.",
+      "highlight": "8 milhões de usuários ativos — um salto de 3 milhões no início de 2026"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI fundiu o Codex (ferramenta de codificação) com o ChatGPT (chatbot de propósito geral) em um único produto. Não é uma atualização de interface: é a consolidação de duas estratégias que antes competiam internamente. Codificar com IA deixou de ser nicho para se tornar a interface padrão do desenvolvimento de software.",
+      "visual_hint": "Ícone de fusão entre um chip de processador e um balão de diálogo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Com 8 milhões de desenvolvedores usando a ferramenta, a barreira de adoção corporativa caiu. O Codex não é mais experimental — é parte do kit padrão. Cada interação alimenta um monopólio de dados de código difícil de replicar. A guerra de chatbots terminou: a OpenAI agora compete como plataforma operacional do desenvolvimento de software.",
+      "visual_hint": "Gráfico de rede com nós se conectando, simbolizando efeito de rede de dados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "8 milhões de usuários ativos no Codex (julho/2026)",
+        "3 milhões de usuários no início de 2026 — crescimento de 167% em 6 meses",
+        "Lançamento do GPT-5.6 impulsionou a aceleração e a unificação das plataformas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Custo de treinamento e resistência cultural em empresas despencam — adoção em massa",
+        "Monopólio de dados de interação de código se consolida, dificultando concorrência",
+        "ChatGPT se torna o invólucro; Codex, o motor — a plataforma operacional do desenvolvimento"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A nova economia da plataforma de IA está apenas começando. Fique por dentro das próximas movimentações."
+    }
+  ]
+}

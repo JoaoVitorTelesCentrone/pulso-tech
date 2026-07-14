@@ -1,0 +1,15 @@
+{
+  "tldr": "Pesquisadores propõem usar coresets (subconjuntos representativos de prompts) para reduzir drasticamente o custo computacional de benchmarks de LLMs, mantendo a fidelidade dos rankings.",
+  "key_facts": [
+    "Paper arXiv:2607.09739 propõe seleção de prompts via coresets sem depender dos scores do modelo (evaluation-unsupervised).",
+    "Método pode reduzir o custo de avaliação para uma fração (ex.: 5% dos prompts) com margem de erro aceitável.",
+    "Custo de benchmarks abrangentes (MMLU, HumanEval, GSM8K) consome milhares de horas de GPU e dezenas de milhões de dólares por ciclo de treinamento."
+  ],
+  "why_it_matters": "A economia da avaliação de LLMs é um gargalo crescente; este método pode acelerar ciclos de iteração, reduzir custos para startups e democratizar a comparação de modelos, impactando diretamente a alocação de capital em P&D de IA.",
+  "watch_next": [
+    "Validação independente do método por terceiros (OpenAI, Google, Anthropic) em benchmarks reais.",
+    "Adoção do coreset como padrão em plataformas de avaliação (Hugging Face, LMSys) e surgimento de ferramentas open-source.",
+    "Debate sobre trade-offs entre fidelidade estatística e economia extrema, e possíveis vieses introduzidos pela seleção de prompts."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico (coresets) a um problema econômico concreto (custo de avaliação de LLMs), oferecendo uma narrativa que vai além do paper e explora o impacto na indústria, no timing e na competição por eficiência."
+}

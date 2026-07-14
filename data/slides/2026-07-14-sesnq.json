@@ -1,0 +1,53 @@
+{
+  "title": "O Dilema do ROI na Era dos Agentes: Como Medir o 'Trabalho Útil por Dólar' Está se Tornando a Nova Fronteira da Gestão de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Dilema do ROI na Era dos Agentes",
+      "subtext": "Como medir o 'Trabalho Útil por Dólar' está se tornando a nova fronteira da gestão de IA",
+      "image_prompt": "A futuristic boardroom with holographic data streams showing AI agents working, glowing blue and orange metrics floating in the air, dark tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI publicou um guia que aborda o problema que assombra CFOs e CTOs: como medir o retorno sobre o investimento em agentes de IA. A métrica central proposta é 'useful work per dollar' (trabalho útil por dólar).",
+      "highlight": "A próxima crise não será de capacidade técnica — mas de governança financeira."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Grandes corporações já operam dezenas de agentes em produção, mas o custo de inferência é opaco. Ferramentas como ChatGPT Work, Claude Cowork e agentes de código geram uma 'névoa de produtividade' difícil de auditar. A OpenAI assume o papel de consultora de governança.",
+      "visual_hint": "Ícone de lupa sobre gráfico de barras com névoa digital"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Métricas vagas como 'economizamos X horas' não respondem à pergunta do board: 'Estamos gastando mais ou menos do que valem os resultados?'. O guia força uma mudança de paradigma: de custo fixo para variável, de atividade para resultado, da promessa para a auditoria.",
+      "visual_hint": "Gráfico de seta apontando de 'horas economizadas' para 'valor gerado'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: o valor do campo minado de investimentos em IA",
+        "Dezenas de agentes em produção em bancos, seguradoras e varejo",
+        "Custo de inferência em queda, mas ainda opaco para gestores"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas precisarão criar sistemas de auditoria interna para agentes de IA",
+        "Orçamentos de TI migrarão de licenças fixas para gastos operacionais variáveis",
+        "O próximo ciclo de investimento em infraestrutura depende de ROI mensurável"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O dilema do ROI é só o começo. A era dos agentes exige novas métricas, nova governança e novas perguntas."
+    }
+  ]
+}

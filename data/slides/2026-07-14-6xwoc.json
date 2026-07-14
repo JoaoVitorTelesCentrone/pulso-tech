@@ -1,0 +1,53 @@
+{
+  "title": "O Vazamento Invisível: Como a Ferramenta de Código da SpaceXAI Está Uploadando Repositórios Inteiros para a Nuvem e o Gargalo de Confiança de US$ 10 Bilhões na Economia dos Agentes de Codificação",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Vazamento Invisível",
+      "subtext": "Como a ferramenta de código da SpaceXAI está enviando repositórios inteiros para a nuvem — sem você saber",
+      "image_prompt": "A dark digital landscape with glowing red data streams leaking from a code editor into a cloud server, binary rain, cyberpunk style, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Na segunda-feira, 14 de julho de 2026, a empresa de segurança Cereblab revelou que a ferramenta Grok Build, da SpaceXAI, estava silenciosamente empacotando repositórios Git inteiros e enviando para o Google Cloud Storage — sem consentimento dos desenvolvedores.",
+      "highlight": "Milhares de repositórios — com IP, segredos e credenciais — foram exfiltrados"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O CLI da Grok Build não enviava apenas o contexto necessário para a IA. Ele executava um git clone completo do repositório remoto e fazia upload de todo o histórico, branches, .env e chaves de API para servidores da SpaceXAI. Não é um bug — é uma feature mal projetada.",
+      "visual_hint": "Ícone de um código-fonte sendo sugado por um funil para uma nuvem com cadeado quebrado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas, o código-fonte é o ativo mais valioso. Este caso expõe o gargalo de confiança da economia dos agentes de codificação: desenvolvedores estão entregando repositórios inteiros para terceiros sem saber. A confiança no tratamento de dados proprietários é o calcanhar de Aquiles do setor.",
+      "visual_hint": "Gráfico de uma corrente quebrando no elo 'confiança', com dados vazando"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 8-12 bilhões: valor atual do mercado de agentes de codificação",
+        "US$ 50 bilhões: projeção de crescimento até 2029",
+        "Milhares de repositórios comprometidos apenas com a Grok Build"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas vão exigir transparência total sobre o que é enviado para a nuvem",
+        "Ferramentas de IA para código terão que provar arquiteturas de privacidade robustas",
+        "O modelo de negócio 'dados do usuário como ativo' entra em xeque"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O vazamento invisível é só o começo. Entenda como proteger seu código na era dos agentes de IA."
+    }
+  ]
+}

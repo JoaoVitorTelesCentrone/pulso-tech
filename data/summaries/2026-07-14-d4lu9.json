@@ -1,0 +1,16 @@
+{
+  "tldr": "Demis Hassabis propõe um órgão regulador independente para IA de fronteira inspirado na FINRA, o que na prática pode criar barreiras de entrada que favorecem gigantes como Google e DeepMind em um mercado estimado em US$ 1 trilhão.",
+  "key_facts": [
+    "Demis Hassabis, CEO da DeepMind, propôs a criação de um órgão de padrões independente para regular modelos de IA de fronteira, inspirado na FINRA.",
+    "A FINRA é uma organização privada autorizada pelo governo dos EUA a regular o setor financeiro, financiada pelas próprias empresas reguladas.",
+    "O governo dos EUA bloqueou recentemente o lançamento do modelo Fable 5 da Anthropic, gerando um vácuo regulatório.",
+    "O mercado de modelos de fronteira é estimado em US$ 1 trilhão nos próximos cinco anos."
+  ],
+  "why_it_matters": "A proposta de Hassabis não é sobre segurança, mas sobre controle econômico: quem define os padrões de teste e lançamento controla o acesso ao mercado mais valioso da tecnologia, potencialmente consolidando o poder das big techs em detrimento de startups.",
+  "watch_next": [
+    "Reação da Anthropic e de outras startups de IA à proposta, especialmente após o bloqueio do Fable 5.",
+    "Posicionamento do governo dos EUA e de órgãos reguladores sobre a criação de uma entidade híbrida público-privada para IA.",
+    "Detalhamento da proposta pela DeepMind, incluindo quem financiaria e definiria os benchmarks de segurança."
+  ],
+  "editorial_angle": "O artigo se diferencia ao expor a proposta de Hassabis como um movimento estratégico de poder econômico, e não apenas uma discussão técnica sobre segurança, conectando-a a precedentes históricos de regulação setorial e ao momento de vácuo regulatório após o bloqueio do Fable 5."
+}

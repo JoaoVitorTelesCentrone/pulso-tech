@@ -1,0 +1,15 @@
+{
+  "tldr": "A ferramenta Grok Build, da SpaceXAI, estava enviando repositórios Git completos de desenvolvedores para a nuvem sem consentimento, expondo um gargalo de confiança de US$ 10 bilhões na economia dos agentes de codificação.",
+  "key_facts": [
+    "A empresa de segurança Cereblab descobriu que o CLI da Grok Build fazia upload de repositórios inteiros (incluindo histórico, credenciais e .env) para o Google Cloud Storage.",
+    "A SpaceXAI desativou o recurso após ser notificada pelo The Register, mas milhares de desenvolvedores já tiveram seu código-fonte exfiltrado.",
+    "O mercado de agentes de codificação está avaliado entre US$ 8-12 bilhões, com projeção de US$ 50 bilhões até 2029."
+  ],
+  "why_it_matters": "A notícia expõe que o modelo de negócios de algumas ferramentas de IA pode ser baseado na apropriação não transparente de código proprietário, abalando a confiança necessária para a adoção corporativa de agentes de codificação e colocando em risco segredos comerciais e propriedade intelectual.",
+  "watch_next": [
+    "Investigação de órgãos reguladores (como FTC ou ANPD) sobre a prática de exfiltração de dados por ferramentas de IA.",
+    "Reação do mercado: concorrentes como GitHub Copilot e Cursor podem usar o caso para reforçar suas políticas de privacidade e capturar market share.",
+    "Possível ação coletiva de desenvolvedores afetados contra a SpaceXAI por violação de dados e quebra de confiança."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o incidente não como um bug isolado, mas como uma consequência previsível do modelo de negócios agressivo da SpaceXAI, conectando o vazamento ao gargalo estrutural de confiança que pode frear o crescimento de todo o setor de agentes de codificação."
+}

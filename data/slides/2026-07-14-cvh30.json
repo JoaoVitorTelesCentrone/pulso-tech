@@ -1,0 +1,53 @@
+{
+  "title": "A Superfície de Decisão Invisível: Como Search APIs Estão Silenciosamente Determinando o Fracasso ou o Sucesso de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível de US$ 10 Bilhões",
+      "subtext": "A camada de busca que todos tratam como commodity está silenciosamente sabotando seus agentes de IA",
+      "image_prompt": "A futuristic digital landscape with invisible decision surfaces, glowing data streams and AI agents navigating through a maze of search results, dark tech aesthetic with neon blue and purple highlights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo paper do arXiv revela que a qualidade das Search APIs é o ponto cego mais caro da indústria de agentes de IA. Dois sistemas podem ter a mesma acurácia em benchmarks, mas tomar decisões radicalmente diferentes quando expostos a APIs com estruturas de evidência desiguais.",
+      "highlight": "Agentes de IA corporativos devem movimentar US$ 100 bilhões até 2028"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Toda vez que um agente de IA precisa de informação externa, ele consulta uma search API. O problema? Essa 'superfície de decisão' é profundamente influenciada pela qualidade dos snippets retornados. Snippets otimizados para humanos, não para agentes, geram decisões subótimas em ~40% dos casos.",
+      "visual_hint": "Diagrama mostrando dois agentes idênticos recebendo snippets diferentes da mesma consulta, levando a decisões opostas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se você constrói agentes para suporte, pesquisa jurídica, análise de mercado ou automação corporativa, suas ferramentas de busca são o ponto cego mais crítico do pipeline. O resultado? Falsos positivos que queimam tokens e latência, e falsos negativos que levam a respostas erradas.",
+      "visual_hint": "Ícone de um iceberg com a ponta visível 'Benchmarks de Acurácia' e a parte submersa 'Qualidade da Search API'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "APIs tradicionais (Google, Bing): snippets otimizados para humanos resultam em decisões com informação parcial em ~40% dos casos",
+        "APIs especializadas (RAG interno): snippets mais longos, mas decisão de 'baixar ou não' continua sendo gargalo de token",
+        "O 'decision surface mismatch' faz um agente funcionar perfeitamente com uma API e falhar miseravelmente com outra"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Qualidade da Search API se torna diferencial competitivo, não commodity",
+        "Novas métricas de 'desigualdade de evidência' substituirão benchmarks tradicionais de acurácia",
+        "Surgimento de APIs especializadas para agentes, com snippets semanticamente completos e estruturados para tomada de decisão"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A superfície de decisão invisível está moldando o futuro dos agentes de IA. Você ainda está ignorando o gargalo de US$ 10 bilhões?"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI publica guia propondo métrica de 'trabalho útil por dólar' para medir ROI de agentes de IA, sinalizando que o próximo gargalo da adoção corporativa é econômico e de governança, não técnico.",
+  "key_facts": [
+    "OpenAI publicou artigo 'How to manage AI investments in the agentic era' propondo a métrica 'useful work per dollar'.",
+    "Grandes corporações já operam dezenas de agentes em produção, mas custos de inferência são opacos e métricas de produtividade são vagas.",
+    "O guia sugere migrar de métricas de atividade (tokens, queries) para métricas de resultado (tarefas completas e validadas).",
+    "A publicação surge em meio a um ciclo de investimento maciço em infraestrutura de IA que pode travar se ROI não for demonstrado."
+  ],
+  "why_it_matters": "A notícia importa porque aborda o calcanhar de Aquiles da adoção corporativa de IA: a falta de métricas confiáveis de ROI. Se empresas não conseguirem demonstrar retorno mensurável, o próximo ciclo de investimento em infraestrutura pode travar, afetando todo o ecossistema de IA.",
+  "watch_next": [
+    "Empresas de auditoria e consultoria (Big Four) lançarem frameworks de medição de 'trabalho útil por dólar' para agentes de IA.",
+    "Anthropic e Google responderem com métricas concorrentes ou dashboards de governança para agentes.",
+    "CFOs de grandes corporações começarem a exigir dashboards de ROI granular antes de aprovar novos projetos com agentes de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar o guia da OpenAI não como um manual técnico, mas como um movimento estratégico de governança financeira que pode definir o futuro do investimento em IA. A abordagem crítica sobre a 'névoa de produtividade' e o alerta sobre a bolha de infraestrutura trazem uma perspectiva de negócios rara em coberturas de tecnologia."
+}

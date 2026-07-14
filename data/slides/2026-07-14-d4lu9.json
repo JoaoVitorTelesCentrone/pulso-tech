@@ -1,0 +1,53 @@
+{
+  "title": "O Regulador Silencioso de US$ 1 Trilhão: Por que o CEO da DeepMind Quer um 'FINRA da IA' e o Que Isso Significa para a Economia dos Modelos de Fronteira",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Regulador Silencioso de US$ 1 Trilhão",
+      "subtext": "Demis Hassabis propõe uma 'FINRA da IA' — e isso pode definir quem controla o futuro dos modelos de fronteira",
+      "image_prompt": "A futuristic digital landscape with a massive, glowing regulatory seal hovering over a network of AI models, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O CEO da DeepMind, Demis Hassabis, propôs um órgão regulador independente para IA de fronteira, inspirado na FINRA. A proposta surge após o governo dos EUA bloquear o lançamento do modelo Fable 5 da Anthropic, criando um vácuo regulatório.",
+      "highlight": "US$ 1 trilhão em jogo nos próximos 5 anos"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Hassabis quer uma entidade privada autorizada pelo governo para testar, aprovar e auditar modelos de IA de fronteira — como GPT-5.6, Claude Fable 5 e Gemini. Na prática, quem define os padrões de segurança define quem pode competir.",
+      "visual_hint": "Ícone de balança com um chip de IA no centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Não é sobre segurança — é sobre poder econômico. Uma 'FINRA da IA' cria barreiras de entrada enormes para startups, enquanto gigantes como Google e OpenAI têm recursos para navegar o processo. O regulador vira uma arma competitiva.",
+      "visual_hint": "Gráfico de barreira de entrada com cifrões e portões"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: valor estimado do mercado de modelos de fronteira em 5 anos",
+        "2007: ano de criação da FINRA, modelo proposto para a IA",
+        "1 bloqueio recente: Fable 5 da Anthropic barrado pela Casa Branca"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Startups enfrentarão auditorias caras e demoradas para lançar modelos",
+        "Gigantes de tecnologia ganham vantagem ao definir os benchmarks de 'segurança'",
+        "O poder regulatório migra do governo para a própria indústria — nas mãos de quem já lidera"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Quem controla os padrões, controla o futuro. Fique de olho."
+    }
+  ]
+}

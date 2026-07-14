@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "updatedAt": "2026-07-14T15:29:41.513Z",
+  "updatedAt": "2026-07-14T20:12:49.551Z",
   "articles": [
     {
       "slug": "2026-07-14-pis26",
@@ -377,6 +377,171 @@
       ],
       "editorial_angle": "O artigo se diferencia ao conectar um problema técnico de engenharia (seleção de agentes) a um impacto econômico concreto e bilionário, expondo um gargalo que a indústria ignora. A escolha editorial se baseia na relevância prática para CTOs e líderes de produto, combinando análise de mercado com inovação acadêmica.",
       "generatedAt": "2026-07-14T15:29:41.512Z"
+    },
+    {
+      "slug": "2026-07-14-cxrgu",
+      "title": "Codex Unificado: O Sinal de 8 Milhões de Usuários que Enterra a Guerra de Chatbots e Abre a Nova Economia da Plataforma de IA",
+      "tags": [
+        "OpenAI",
+        "Codex",
+        "GPT-5.6",
+        "economia tech",
+        "dev tools",
+        "mercado de IA",
+        "programação"
+      ],
+      "image": "/images/2026-07-14-cxrgu.jpg",
+      "tldr": "OpenAI unifica Codex e ChatGPT, atingindo 8 milhões de usuários e sinalizando o fim da guerra de chatbots, consolidando-se como plataforma operacional do desenvolvimento de software.",
+      "key_facts": [
+        "Codex atingiu 8 milhões de usuários ativos em julho de 2026.",
+        "A OpenAI incorporou o Codex ao aplicativo unificado do ChatGPT após o lançamento do GPT-5.6.",
+        "O número representa um salto significativo em relação aos 3 milhões reportados no início de 2026.",
+        "A unificação elimina a fricção de adoção e expande o mercado endereçável para além de programadores profissionais."
+      ],
+      "why_it_matters": "A consolidação do Codex no ChatGPT marca a transição da IA de ferramenta experimental para infraestrutura padrão do desenvolvimento de software, alterando a economia do setor, a dinâmica de adoção corporativa e a competição entre plataformas de IA.",
+      "watch_next": [
+        "Impacto no mercado de trabalho: como a unificação acelera a automação de tarefas de codificação e redefine perfis de desenvolvedores.",
+        "Reação dos concorrentes: movimentos de Google, Anthropic e Microsoft para contrapor o monopólio de dados e distribuição da OpenAI.",
+        "Mudanças na precificação de APIs e modelos de assinatura corporativa com a nova plataforma unificada."
+      ],
+      "editorial_angle": "O artigo se diferencia ao interpretar o marco de 8 milhões não como uma métrica de vaidade, mas como um sinal estratégico de vitória na guerra de distribuição de software corporativo, destacando a unificação como movimento econômico e não apenas técnico.",
+      "generatedAt": "2026-07-14T20:09:01.399Z"
+    },
+    {
+      "slug": "2026-07-14-d4lu9",
+      "title": "O Regulador Silencioso de US$ 1 Trilhão: Por que o CEO da DeepMind Quer um 'FINRA da IA' e o Que Isso Significa para a Economia dos Modelos de Fronteira",
+      "tags": [
+        "regulação",
+        "DeepMind",
+        "economia tech",
+        "modelos de fronteira",
+        "governança"
+      ],
+      "image": "/images/2026-07-14-d4lu9.jpg",
+      "tldr": "Demis Hassabis propõe um órgão regulador independente para IA de fronteira inspirado na FINRA, o que na prática pode criar barreiras de entrada que favorecem gigantes como Google e DeepMind em um mercado estimado em US$ 1 trilhão.",
+      "key_facts": [
+        "Demis Hassabis, CEO da DeepMind, propôs a criação de um órgão de padrões independente para regular modelos de IA de fronteira, inspirado na FINRA.",
+        "A FINRA é uma organização privada autorizada pelo governo dos EUA a regular o setor financeiro, financiada pelas próprias empresas reguladas.",
+        "O governo dos EUA bloqueou recentemente o lançamento do modelo Fable 5 da Anthropic, gerando um vácuo regulatório.",
+        "O mercado de modelos de fronteira é estimado em US$ 1 trilhão nos próximos cinco anos."
+      ],
+      "why_it_matters": "A proposta de Hassabis não é sobre segurança, mas sobre controle econômico: quem define os padrões de teste e lançamento controla o acesso ao mercado mais valioso da tecnologia, potencialmente consolidando o poder das big techs em detrimento de startups.",
+      "watch_next": [
+        "Reação da Anthropic e de outras startups de IA à proposta, especialmente após o bloqueio do Fable 5.",
+        "Posicionamento do governo dos EUA e de órgãos reguladores sobre a criação de uma entidade híbrida público-privada para IA.",
+        "Detalhamento da proposta pela DeepMind, incluindo quem financiaria e definiria os benchmarks de segurança."
+      ],
+      "editorial_angle": "O artigo se diferencia ao expor a proposta de Hassabis como um movimento estratégico de poder econômico, e não apenas uma discussão técnica sobre segurança, conectando-a a precedentes históricos de regulação setorial e ao momento de vácuo regulatório após o bloqueio do Fable 5.",
+      "generatedAt": "2026-07-14T20:09:45.860Z"
+    },
+    {
+      "slug": "2026-07-14-cvh30",
+      "title": "A Superfície de Decisão Invisível: Como Search APIs Estão Silenciosamente Determinando o Fracasso ou o Sucesso de Agentes de IA",
+      "tags": [
+        "agentes de IA",
+        "search APIs",
+        "economia de tokens",
+        "ferramentas de IA",
+        "engenharia de agentes"
+      ],
+      "image": "/images/2026-07-14-cvh30.jpg",
+      "tldr": "Um novo paper do arXiv revela que a qualidade e o formato dos snippets retornados por search APIs criam uma 'superfície de decisão' que pode levar agentes de IA a decisões subótimas, queimando tokens ou ignorando fontes valiosas, mesmo quando a acurácia da API é a mesma.",
+      "key_facts": [
+        "Paper do arXiv mostra que a 'superfície de decisão' de agentes de IA é profundamente influenciada pela qualidade dos snippets de search APIs.",
+        "APIs tradicionais (Google, Bing) otimizam snippets para humanos, não para agentes, levando a decisões com informação parcial em ~40% dos casos.",
+        "Agentes podem ter a mesma acurácia em benchmarks, mas tomar decisões radicalmente diferentes com APIs de estruturas de evidência desiguais.",
+        "O gargalo gera dois problemas: falsos positivos caros (download de páginas irrelevantes) e falsos negativos fatais (descarte de fontes valiosas)."
+      ],
+      "why_it_matters": "Para engenheiros e líderes de produto que constroem agentes de IA em produção, este artigo expõe um ponto cego crítico e caro no pipeline: a camada de busca, tratada como commodity, pode corroer margens e destruir a confiança no agente, especialmente em um mercado projetado para US$ 100 bilhões até 2028.",
+      "watch_next": [
+        "Surgimento de search APIs otimizadas especificamente para agentes, com snippets mais longos e semanticamente completos.",
+        "Desenvolvimento de métricas de 'desigualdade de evidência' como novo padrão de avaliação de agentes, além da acurácia tradicional.",
+        "Corrida de provedores de API (Google, Bing, startups) para adaptar seus produtos ao consumo por agentes, não apenas por humanos."
+      ],
+      "editorial_angle": "O artigo se diferencia ao ir além da crítica superficial às APIs, quantificando o problema com dados do paper e conectando-o diretamente ao custo operacional e à confiabilidade de agentes em produção, algo que a maioria das coberturas ignora ao focar apenas em benchmarks de acurácia.",
+      "generatedAt": "2026-07-14T20:10:33.092Z"
+    },
+    {
+      "slug": "2026-07-14-6xwoc",
+      "title": "O Vazamento Invisível: Como a Ferramenta de Código da SpaceXAI Está Uploadando Repositórios Inteiros para a Nuvem e o Gargalo de Confiança de US$ 10 Bilhões na Economia dos Agentes de Codificação",
+      "tags": [
+        "segurança",
+        "agentes-de-codigo",
+        "privacidade",
+        "spacexai",
+        "economia-tech",
+        "programacao"
+      ],
+      "image": "/images/2026-07-14-6xwoc.jpg",
+      "tldr": "A ferramenta Grok Build, da SpaceXAI, estava enviando repositórios Git completos de desenvolvedores para a nuvem sem consentimento, expondo um gargalo de confiança de US$ 10 bilhões na economia dos agentes de codificação.",
+      "key_facts": [
+        "A empresa de segurança Cereblab descobriu que o CLI da Grok Build fazia upload de repositórios inteiros (incluindo histórico, credenciais e .env) para o Google Cloud Storage.",
+        "A SpaceXAI desativou o recurso após ser notificada pelo The Register, mas milhares de desenvolvedores já tiveram seu código-fonte exfiltrado.",
+        "O mercado de agentes de codificação está avaliado entre US$ 8-12 bilhões, com projeção de US$ 50 bilhões até 2029."
+      ],
+      "why_it_matters": "A notícia expõe que o modelo de negócios de algumas ferramentas de IA pode ser baseado na apropriação não transparente de código proprietário, abalando a confiança necessária para a adoção corporativa de agentes de codificação e colocando em risco segredos comerciais e propriedade intelectual.",
+      "watch_next": [
+        "Investigação de órgãos reguladores (como FTC ou ANPD) sobre a prática de exfiltração de dados por ferramentas de IA.",
+        "Reação do mercado: concorrentes como GitHub Copilot e Cursor podem usar o caso para reforçar suas políticas de privacidade e capturar market share.",
+        "Possível ação coletiva de desenvolvedores afetados contra a SpaceXAI por violação de dados e quebra de confiança."
+      ],
+      "editorial_angle": "O artigo se diferencia ao tratar o incidente não como um bug isolado, mas como uma consequência previsível do modelo de negócios agressivo da SpaceXAI, conectando o vazamento ao gargalo estrutural de confiança que pode frear o crescimento de todo o setor de agentes de codificação.",
+      "generatedAt": "2026-07-14T20:11:17.725Z"
+    },
+    {
+      "slug": "2026-07-14-sesnq",
+      "title": "O Dilema do ROI na Era dos Agentes: Como Medir o 'Trabalho Útil por Dólar' Está se Tornando a Nova Fronteira da Gestão de IA",
+      "tags": [
+        "economia-tech",
+        "agentes-ia",
+        "roi",
+        "gestao-corporativa",
+        "openai"
+      ],
+      "image": "/images/2026-07-14-sesnq.jpg",
+      "tldr": "OpenAI publica guia propondo métrica de 'trabalho útil por dólar' para medir ROI de agentes de IA, sinalizando que o próximo gargalo da adoção corporativa é econômico e de governança, não técnico.",
+      "key_facts": [
+        "OpenAI publicou artigo 'How to manage AI investments in the agentic era' propondo a métrica 'useful work per dollar'.",
+        "Grandes corporações já operam dezenas de agentes em produção, mas custos de inferência são opacos e métricas de produtividade são vagas.",
+        "O guia sugere migrar de métricas de atividade (tokens, queries) para métricas de resultado (tarefas completas e validadas).",
+        "A publicação surge em meio a um ciclo de investimento maciço em infraestrutura de IA que pode travar se ROI não for demonstrado."
+      ],
+      "why_it_matters": "A notícia importa porque aborda o calcanhar de Aquiles da adoção corporativa de IA: a falta de métricas confiáveis de ROI. Se empresas não conseguirem demonstrar retorno mensurável, o próximo ciclo de investimento em infraestrutura pode travar, afetando todo o ecossistema de IA.",
+      "watch_next": [
+        "Empresas de auditoria e consultoria (Big Four) lançarem frameworks de medição de 'trabalho útil por dólar' para agentes de IA.",
+        "Anthropic e Google responderem com métricas concorrentes ou dashboards de governança para agentes.",
+        "CFOs de grandes corporações começarem a exigir dashboards de ROI granular antes de aprovar novos projetos com agentes de IA."
+      ],
+      "editorial_angle": "O artigo se diferencia ao tratar o guia da OpenAI não como um manual técnico, mas como um movimento estratégico de governança financeira que pode definir o futuro do investimento em IA. A abordagem crítica sobre a 'névoa de produtividade' e o alerta sobre a bolha de infraestrutura trazem uma perspectiva de negócios rara em coberturas de tecnologia.",
+      "generatedAt": "2026-07-14T20:12:04.183Z"
+    },
+    {
+      "slug": "2026-07-14-a1oi7",
+      "title": "Coresets Antes dos Scores: O Método que Pode Economizar Bilhões em Benchmarks de LLM e Redefinir a Economia da Avaliação de IA",
+      "tags": [
+        "benchmarks",
+        "LLM",
+        "coreset",
+        "avaliação",
+        "economia de IA",
+        "otimização",
+        "pesquisa"
+      ],
+      "image": "/images/2026-07-14-a1oi7.jpg",
+      "tldr": "Pesquisadores propõem usar coresets (subconjuntos representativos de prompts) para reduzir drasticamente o custo computacional de benchmarks de LLMs, mantendo a fidelidade dos rankings.",
+      "key_facts": [
+        "Paper arXiv:2607.09739 propõe seleção de prompts via coresets sem depender dos scores do modelo (evaluation-unsupervised).",
+        "Método pode reduzir o custo de avaliação para uma fração (ex.: 5% dos prompts) com margem de erro aceitável.",
+        "Custo de benchmarks abrangentes (MMLU, HumanEval, GSM8K) consome milhares de horas de GPU e dezenas de milhões de dólares por ciclo de treinamento."
+      ],
+      "why_it_matters": "A economia da avaliação de LLMs é um gargalo crescente; este método pode acelerar ciclos de iteração, reduzir custos para startups e democratizar a comparação de modelos, impactando diretamente a alocação de capital em P&D de IA.",
+      "watch_next": [
+        "Validação independente do método por terceiros (OpenAI, Google, Anthropic) em benchmarks reais.",
+        "Adoção do coreset como padrão em plataformas de avaliação (Hugging Face, LMSys) e surgimento de ferramentas open-source.",
+        "Debate sobre trade-offs entre fidelidade estatística e economia extrema, e possíveis vieses introduzidos pela seleção de prompts."
+      ],
+      "editorial_angle": "O artigo se diferencia ao conectar um avanço técnico (coresets) a um problema econômico concreto (custo de avaliação de LLMs), oferecendo uma narrativa que vai além do paper e explora o impacto na indústria, no timing e na competição por eficiência.",
+      "generatedAt": "2026-07-14T20:12:49.551Z"
     }
   ]
 }
