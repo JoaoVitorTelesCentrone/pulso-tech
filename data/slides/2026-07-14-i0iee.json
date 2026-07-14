@@ -1,0 +1,53 @@
+{
+  "title": "O Mapa do Pensamento de Claude: Como a Anthropic Abriu a Caixa-Preta e Criou um Novo Mercado de Auditoria de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Mapa do Pensamento de Claude",
+      "subtext": "Como a Anthropic abriu a caixa-preta da IA e criou um novo mercado de auditoria",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways being scanned by a magnifying glass, dark blue and purple tones, high tech, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de fronteira como Claude, GPT-5.6 e Gemini sempre operaram como caixas-pretas: você fornece uma entrada, obtém uma saída, mas não sabe o que aconteceu no meio. Isso sempre foi o calcanhar de Aquiles da adoção corporativa em setores regulados como saúde, finanças e direito.",
+      "highlight": "Como confiar em um sistema que não consegue explicar suas decisões?"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Anthropic anunciou uma descoberta histórica: pela primeira vez, é possível identificar e interpretar representações internas de conceitos abstratos — desde 'engano' até 'raciocínio matemático' — dentro da arquitetura neural do Claude. A técnica mapeia padrões de ativação que correspondem a conceitos de alto nível, em escala e com alta fidelidade.",
+      "visual_hint": "Ícone de cérebro com setas de fluxo interno sendo rastreadas por um scanner"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Agora é possível auditar o processo de raciocínio de um modelo, não apenas seu resultado. Isso permite que empresas verifiquem se seus sistemas seguem regras de negócio, que governos exijam explicabilidade real, e que sistemas de segurança detectem tentativas de engano antes que causem danos.",
+      "visual_hint": "Três ícones: balança (regulação), escudo (segurança), aperto de mãos (confiança corporativa)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Dezenas de milhares de conceitos mapeados em modelos com centenas de bilhões de parâmetros",
+        "Precisão suficiente para prever o comportamento do modelo antes de ele produzir uma resposta",
+        "Potencial para desbloquear um mercado de US$ 1 trilhão em confiança corporativa e regulação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Governos agora têm um caminho técnico viável para exigir explicabilidade em sistemas de IA",
+        "Empresas podem auditar se seus modelos seguem regras de negócio e evitar riscos regulatórios",
+        "Sistemas de 'guarda-chuva' podem intervir antes que comportamentos indesejados se materializem"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A caixa-preta foi aberta. O que mais vamos descobrir sobre o pensamento das máquinas?"
+    }
+  ]
+}

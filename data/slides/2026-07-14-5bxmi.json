@@ -1,0 +1,53 @@
+{
+  "title": "OpenAI Exige Chave Física para Acessar Contas Corporativas: O Sinal de que a Economia da Segurança em IA Está Mudando de Mãos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "OpenAI Exige Chave Física para Acessar Contas Corporativas",
+      "subtext": "O primeiro movimento concreto de uma plataforma de US$ 1 trilhão para blindar sua infraestrutura contra o próximo gargalo: a credibilidade do acesso.",
+      "image_prompt": "A futuristic glowing key inserted into a digital lock, with abstract AI neural network patterns in the background, dark blue and neon orange tones, cinematic lighting, high contrast, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI anunciou que todos os membros do programa Trusted Access Cyber — pesquisadores e profissionais de segurança — agora são obrigados a usar chaves físicas (hardware-backed passkeys) para acessar contas do ChatGPT. A medida é um mandato, não uma opção.",
+      "highlight": "Qualquer membro que tentar acessar a conta sem a chave física será bloqueado."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI está exigindo chaves físicas FIDO2 (como as da Yubico) para login em contas de alto risco. A justificativa oficial é proteger contra ataques de phishing e sequestro de sessão. Na prática, a empresa está tratando esses acessos como portas de entrada para o sistema nervoso central da empresa.",
+      "visual_hint": "Ícone de uma chave USB dourada com um cadeado digital ao lado, sobre fundo de código binário"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A OpenAI está no centro de uma economia de IA que já vale centenas de bilhões de dólares. Um sequestro de conta de um pesquisador com acesso privilegiado não é apenas um problema de segurança — é um risco sistêmico que pode comprometer cadeias inteiras de valor. A medida sinaliza o fim da era 'senha + SMS' para acessos críticos.",
+      "visual_hint": "Gráfico de rede mostrando conexões entre empresas, governos e instituições, com um ponto central brilhante representando a OpenAI"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Centenas a milhares de membros no programa Trusted Access Cyber da OpenAI",
+        "Ataques 'adversary-in-the-middle' (AiTM) são a principal ameaça a contas corporativas hoje",
+        "Chaves físicas FIDO2 são imunes a phishing em tempo real, eliminando o vetor de ataque mais comum"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Criação de um novo padrão de segurança que outras plataformas de IA (Anthropic, Google, Meta) serão forçadas a seguir",
+        "Reconhecimento de que o maior risco para a economia da IA não é o modelo — é o acesso ao modelo",
+        "Empresas de segurança como Yubico ganham protagonismo na infraestrutura de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A segurança da IA está mudando de mãos. E a chave — literalmente — está com quem controla o acesso."
+    }
+  ]
+}

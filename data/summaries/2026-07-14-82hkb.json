@@ -1,0 +1,17 @@
+{
+  "tldr": "Um novo meta-framework matemático propõe tratar a memória de agentes de IA como um sistema de feedback contínuo em vez de um cache estático, prometendo reduzir drasticamente os custos de inferência de longo prazo.",
+  "key_facts": [
+    "Paper publicado no arXiv em 14 de julho de 2026 propõe a Feedback-Coupled Memory Systems (FCMS).",
+    "A arquitetura define quatro operadores abstratos, com dois deles (f_i e Ψ) deixados propositalmente indefinidos para funcionar como um meta-framework.",
+    "O modelo substitui 'memória como armazenamento' por 'memória como acoplamento dinâmico', usando equações diferenciais acopladas.",
+    "O custo de inferência pode se tornar constante ou logarítmico, em vez de linear com o tempo de contexto.",
+    "A abordagem ataca três problemas econômicos: custo crescente com contexto, perda de informação relevante e impossibilidade de aprendizado contínuo."
+  ],
+  "why_it_matters": "A memória de longo prazo é o gargalo silencioso de US$ 100 bilhões da indústria de IA, e a FCMS oferece uma solução formal que pode redefinir a economia da inferência para agentes que operam por horas ou dias, eliminando o custo linear do contexto e permitindo aprendizado contínuo sem retrabalho.",
+  "watch_next": [
+    "Implementações concretas dos operadores f_i e Ψ por grandes players (OpenAI, Google, Anthropic) para validar o framework.",
+    "Comparações empíricas de custo e desempenho entre FCMS e abordagens atuais (memória de contexto linear, RAG, memória compressiva) em benchmarks de agentes de longa duração.",
+    "Possível surgimento de startups focadas em middleware de memória contínua para agentes de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia por não ser apenas mais uma otimização incremental, mas sim uma proposta de mudança de paradigma — de cache estático para sistema dinâmico de feedback — que ataca diretamente o maior custo operacional da inferência de agentes. Foi escolhido por oferecer uma visão matematicamente rigorosa e potencialmente disruptiva para um problema prático e bilionário."
+}

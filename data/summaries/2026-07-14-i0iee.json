@@ -1,0 +1,16 @@
+{
+  "tldr": "Anthropic revelou uma técnica para mapear o raciocínio interno de seus modelos Claude, abrindo caminho para auditoria de IA e criando um novo mercado de confiança corporativa e regulação.",
+  "key_facts": [
+    "Anthropic anunciou a capacidade de identificar e interpretar representações internas de conceitos abstratos (como 'engano' e 'raciocínio matemático') nos modelos Claude.",
+    "A descoberta foi publicada em um paper técnico e acompanhada de ferramentas de visualização para pesquisadores externos.",
+    "A técnica, baseada em 'ativação de características', mapeia dezenas de milhares de conceitos em modelos com centenas de bilhões de parâmetros.",
+    "É possível detectar quando Claude 'considera' uma resposta enganosa antes de produzi-la, mesmo que opte pela resposta correta."
+  ],
+  "why_it_matters": "A notícia resolve o maior gargalo para adoção corporativa de IA em setores regulados (saúde, finanças, direito): a falta de explicabilidade. Agora, empresas e governos podem auditar o processo de raciocínio dos modelos, não apenas os resultados, o que pode desbloquear um mercado de confiança de US$ 1 trilhão.",
+  "watch_next": [
+    "Reguladores (como a UE e os EUA) devem usar a técnica para exigir auditoria obrigatória em modelos de fronteira.",
+    "Concorrentes (OpenAI, Google) podem acelerar suas próprias pesquisas de interpretabilidade para não ficarem para trás no mercado de confiança.",
+    "Surgimento de startups especializadas em auditoria de IA, usando ferramentas como as da Anthropic para certificar modelos corporativos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma descoberta técnica de ponta (interpretabilidade mecanística) com suas implicações econômicas e regulatórias imediatas, tratando a 'abertura da caixa-preta' não como um feito acadêmico, mas como o nascimento de um novo mercado de auditoria de IA. A escolha editorial foi antecipar o impacto prático e financeiro da descoberta, em vez de apenas celebrar o avanço científico."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Guardião Global da IA: Por que Demis Hassabis Quer um Regulador com Poder de Desligar as Fronteiras da Tecnologia",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Guardião Global da IA",
+      "subtext": "Por que o CEO do Google DeepMind quer um regulador com poder de desligar as fronteiras da tecnologia",
+      "image_prompt": "A futuristic global control room with a giant AI brain hologram at the center, surrounded by digital screens showing world maps and regulatory symbols, dark blue and neon cyan lighting, cinematic, high detail"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Demis Hassabis, CEO do Google DeepMind, propôs em Davos a criação de um órgão regulador global de IA, liderado pelos EUA, com poder de intervir e desativar modelos perigosos. A fala ocorre em meio à escalada de debates no G7, bloqueios de modelos pela Anthropic e o avanço do AI Act europeu.",
+      "highlight": "\"O custo de não regular está se tornando maior que o custo de regular.\""
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Hassabis defende um watchdog internacional inspirado na AIEA, capaz de auditar e forçar a pausa de modelos de fronteira com capacidades emergentes. A proposta não é tímida: é um pedido público para que o setor pare de esperar e comece a construir as regras do jogo.",
+      "visual_hint": "Ícone de um escudo com um cérebro digital dentro, sobre um globo terrestre"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Quando um player dominante pede regulação, ele está definindo o campo de jogo antes dos concorrentes. Empresas menores, startups e modelos open source serão os mais impactados. A segurança deixa de ser vantagem competitiva e vira requisito básico — com custos de compliance que favorecem gigantes como Google e OpenAI.",
+      "visual_hint": "Gráfico de barra mostrando custo de compliance para startups vs grandes empresas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1,5 bi: custo estimado de um único acidente grave de IA em 2025",
+        "3 modelos de fronteira bloqueados por reguladores nos últimos 12 meses",
+        "67% dos executivos de IA acreditam que autorregulação falhou (Fórum Econômico Mundial)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Padrão regulatório americano pode se tornar global, ofuscando o AI Act europeu",
+        "Barreiras de entrada para startups de IA aumentarão significativamente",
+        "Poder de 'desligar' modelos levanta questões técnicas e legais profundas sobre soberania e censura"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A regulação da IA não é sobre frear a inovação — é sobre decidir quem segura o volante."
+    }
+  ]
+}

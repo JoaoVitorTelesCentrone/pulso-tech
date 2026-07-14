@@ -1,0 +1,53 @@
+{
+  "title": "O Tradutor Silencioso de US$ 10 Bilhões: Como um Modelo de Fala Está Redefinindo a Economia da Soberania Linguística em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Tradutor Silencioso de US$ 10 Bilhões",
+      "subtext": "Como um modelo de fala está redefinindo a economia da soberania linguística em IA",
+      "image_prompt": "A futuristic digital globe with glowing speech bubbles in multiple languages, connected by neural network lines, dark background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado foca em benchmarks de raciocínio e agentes de código, um novo paper do arXiv expõe o gargalo mais caro e ignorado da IA global: a adaptação de modelos de fala multilíngues para contextos onde o inglês não é a língua franca.",
+      "highlight": "O 'imposto da língua' na economia da IA pode valer dezenas de bilhões de dólares."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram um método que usa adaptação eficiente de parâmetros (LoRA) e dados sintéticos para criar um SLM funcional para o ecossistema linguístico de Singapura — onde se fala inglês, mandarim, malaio e tâmil, frequentemente na mesma frase.",
+      "visual_hint": "Ícone de engrenagem com múltiplas bandeiras e um cérebro digital"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Modelos de fronteira são treinados predominantemente em inglês. O resto do mundo — mais de 6 bilhões de pessoas e economias que movimentam trilhões de dólares — fica com versões empobrecidas da tecnologia. A adaptação eficiente de SLMs prova que a soberania linguística é economicamente viável.",
+      "visual_hint": "Mapa-múndi com regiões destacadas em cores quentes e um ícone de voz"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de adaptação: apenas 5% a 10% do custo de um treinamento completo",
+        "Mercado potencial: mais de 6 bilhões de pessoas em economias emergentes",
+        "70% do mercado perdido em países como Índia, Indonésia, Nigéria e Brasil sem suporte multilíngue"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão adaptar modelos de fronteira para qualquer contexto linguístico sem acesso aos dados originais",
+        "Redução drástica de latência e custo de inferência com um único forward pass multilíngue",
+        "Abertura de um novo mercado de bilhões de dólares em soberania linguística para IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A era dos modelos de fala que entendem o mundo real — em qualquer língua — está apenas começando."
+    }
+  ]
+}

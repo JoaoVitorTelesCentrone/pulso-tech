@@ -1,0 +1,53 @@
+{
+  "title": "RouteRec: O Fim do Palpite na Seleção de Agentes de Recomendação — e o Gargalo de US$ 50 Bilhões que a Indústria Ignorou",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "RouteRec: O Fim do Palpite na Seleção de Agentes de Recomendação",
+      "subtext": "O gargalo de US$ 50 bilhões que a indústria ignorou — e a solução que pode redefinir a curadoria digital",
+      "image_prompt": "Futuristic digital network with glowing nodes and data streams, dark blue and neon orange tones, abstract representation of AI routing decisions"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Sistemas de recomendação movimentam centenas de bilhões de dólares em receita para Amazon, Netflix, Spotify e YouTube. Mas há um problema estrutural: ninguém sabe qual agente de IA usar para qual tarefa.",
+      "highlight": "15% a 30% das recomendações em larga escala são subótimas — bilhões perdidos por ano"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o RouteRec, um benchmark rigoroso que formaliza a seleção de agentes como um problema de roteamento ciente da tarefa. Pela primeira vez, métricas padronizadas substituem intuição e testes ad-hoc.",
+      "visual_hint": "Ícone de roteador digital com múltiplos caminhos e um sinal de 'check' verde"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas acumulam múltiplos modelos sem estratégia clara de uso — criando uma 'dívida de roteamento'. O custo de não rotear corretamente as consultas entre agentes heterogêneos é devastador para receita e retenção.",
+      "visual_hint": "Gráfico de barras mostrando queda de receita com roteamento incorreto"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de sistemas de recomendação: US$ 50 bilhões anuais",
+        "15% a 30% das recomendações são subótimas devido ao agente errado",
+        "Amazon: bilhões de dólares em vendas perdidas por ano"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim do palpite: métricas padronizadas para seleção de agentes",
+        "Redução drástica da dívida de roteamento em plataformas digitais",
+        "Novo padrão de eficiência e receita para curadoria digital"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "RouteRec não é só um paper — é o início de uma nova era na economia da recomendação."
+    }
+  ]
+}

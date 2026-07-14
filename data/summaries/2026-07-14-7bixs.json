@@ -1,0 +1,16 @@
+{
+  "tldr": "O paper RouteRec expõe o gargalo de US$ 50 bilhões na seleção inadequada de agentes de recomendação e propõe um benchmark rigoroso para roteamento ciente da tarefa, eliminando palpites na escolha de modelos de IA.",
+  "key_facts": [
+    "Pesquisadores publicaram o paper RouteRec (arXiv:2607.09908) que formaliza a seleção de agentes como um problema de roteamento ciente da tarefa.",
+    "Estima-se que 15% a 30% das recomendações em larga escala são subótimas devido à escolha errada do agente.",
+    "O mercado de sistemas de recomendação movimenta US$ 50 bilhões anuais, com impacto direto em receita, retenção e custos de infraestrutura.",
+    "O RouteRec estabelece métricas padronizadas para comparar estratégias de roteamento entre agentes heterogêneos (filtros colaborativos, LLMs, etc.)."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, esta notícia revela um problema estrutural e econômico oculto na indústria: a dívida de roteamento causada pela proliferação de agentes de IA. O RouteRec oferece uma solução prática para otimizar recomendações, impactando diretamente a eficiência de plataformas como Amazon, Netflix e Spotify, e abrindo caminho para novas abordagens de curadoria digital.",
+  "watch_next": [
+    "Adoção do benchmark RouteRec por grandes plataformas de recomendação e possíveis parcerias com os pesquisadores.",
+    "Surgimento de startups focadas em soluções de roteamento de agentes como serviço (RaaS).",
+    "Debate sobre a padronização de métricas de seleção de agentes em conferências de IA e sistemas de recomendação."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico de engenharia (seleção de agentes) a um impacto econômico concreto e bilionário, expondo um gargalo que a indústria ignora. A escolha editorial se baseia na relevância prática para CTOs e líderes de produto, combinando análise de mercado com inovação acadêmica."
+}

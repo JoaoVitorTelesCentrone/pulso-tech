@@ -1,0 +1,53 @@
+{
+  "title": "Feedback-Coupled Memory: A Arquitetura que Pode Economizar Bilhões em Inferência de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Feedback-Coupled Memory: A Arquitetura que Pode Economizar Bilhões em Inferência de Agentes de IA",
+      "subtext": "Um novo framework matemático propõe tratar a memória como um sistema de feedback contínuo — e isso pode redefinir a economia da inferência de longo prazo.",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways forming a closed feedback loop, dark background with blue and purple neon lights, abstract technology concept art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um paper publicado no arXiv em 14 de julho de 2026 propõe a Feedback-Coupled Memory Systems (FCMS), uma arquitetura formal que trata a memória de agentes de IA como um sistema de malha fechada em tempo contínuo, não como um banco de dados ou cache discreto.",
+      "highlight": "Memória como acoplamento dinâmico, não como armazenamento estático."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A FCMS define quatro operadores abstratos, onde a memória e o agente evoluem juntos em um sistema de equações diferenciais acopladas. A memória não é um snapshot do passado, mas um campo dinâmico que influencia e é influenciado pelo agente a cada instante.",
+      "visual_hint": "Ícone de engrenagens entrelaçadas com setas de feedback em loop"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O problema da memória de longo prazo é o gargalo silencioso de US$ 100 bilhões da indústria. Modelos como GPT-5.6, Claude Sonnet 5 e Gemini Spark lidam com memória de contexto de forma linear, gerando custos explosivos e perda de informação relevante.",
+      "visual_hint": "Gráfico de linha ascendente com um ponto de inflexão para baixo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de inferência cresce O(n) com o contexto — inviável para agentes de longa duração.",
+        "Truncamento descarta dados cruciais, gerando retrabalho e erros.",
+        "FCMS pode tornar o custo constante ou logarítmico, independentemente do tempo de operação."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes poderão aprender continuamente com sua própria experiência, sem armazenar histórico completo.",
+        "Economia de bilhões em inferência, viabilizando agentes autônomos de longa duração.",
+        "A memória se torna um campo adaptativo, não um arquivo estático — revolucionando a arquitetura de IA."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A era da memória como feedback contínuo começou. Não fique para trás."
+    }
+  ]
+}

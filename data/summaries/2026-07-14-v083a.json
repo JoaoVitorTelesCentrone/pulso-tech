@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo método de auto-destilação para geração de código usa a execução real do código como único sinal de feedback, eliminando juízes de IA que podem ser enganados por características superficiais.",
+  "key_facts": [
+    "O paper arXiv 2607.09709 introduz o conceito de 'Execution-Gated Self-Distillation'.",
+    "O método usa o fato de o código gerado executar ou não como o único sinal de feedback, sem juiz de IA.",
+    "O foco é a geração de jogos entre diferentes famílias de modelos e frameworks (Unity, Godot, etc.).",
+    "O método é computacionalmente barato e escalável em comparação com o pós-treinamento tradicional com juízes de IA."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, este artigo aborda um gargalo crítico na economia do treinamento de modelos de código: a diferença entre qualidade aparente (benchmarks) e qualidade real (código funcional). O método promete reduzir custos de treinamento e aumentar a confiabilidade de agentes de IA para programação, impactando diretamente os mercados de desenvolvimento de software e jogos.",
+  "watch_next": [
+    "Aplicação do método em outros domínios além de jogos, como geração de scripts ou automação de infraestrutura.",
+    "Comparações práticas entre modelos treinados com este método e modelos tradicionais em benchmarks de produção.",
+    "Potencial adoção por grandes empresas de IA (OpenAI, Google, Anthropic) para pós-treinamento de seus modelos de código."
+  ],
+  "editorial_angle": "O artigo se diferencia por atacar um problema estrutural e caro da indústria (o 'juiz aprendido' que pode ser enganado) com uma solução radicalmente simples e determinística, em vez de propor mais complexidade. A escolha editorial se justifica pela relevância prática para leitores que acompanham a evolução da geração de código e a economia do treinamento de IA."
+}

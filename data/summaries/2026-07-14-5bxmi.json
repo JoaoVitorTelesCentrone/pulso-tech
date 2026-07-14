@@ -1,0 +1,15 @@
+{
+  "tldr": "OpenAI exige chaves físicas FIDO2 para contas do programa Trusted Access Cyber, sinalizando uma mudança na economia de segurança da IA ao tratar acesso privilegiado como risco sistêmico.",
+  "key_facts": [
+    "OpenAI mandata hardware-backed passkeys (chaves físicas Yubico) para todos os membros do programa Trusted Access Cyber.",
+    "A medida é obrigatória e bloqueia acessos sem a chave física, visando proteger contra phishing e sequestro de sessão.",
+    "O programa Trusted Access Cyber conecta a OpenAI a pesquisadores de segurança que testam vulnerabilidades nos modelos de IA."
+  ],
+  "why_it_matters": "A decisão eleva o padrão de segurança para toda a indústria de IA, tratando contas privilegiadas como infraestrutura crítica e forçando concorrentes a adotarem medidas similares para evitar riscos sistêmicos.",
+  "watch_next": [
+    "Anthropic, Google e Meta podem anunciar políticas semelhantes para programas de bug bounty e acesso corporativo.",
+    "Crescimento do mercado de hardware de segurança (Yubico) impulsionado pela demanda de plataformas de IA.",
+    "Possível regulamentação governamental exigindo chaves físicas para acesso a modelos de IA de alto risco."
+  ],
+  "editorial_angle": "O artigo vai além da notícia de segurança ao conectar a medida a uma tese econômica: o valor da credibilidade do acesso supera o valor do modelo em si, posicionando a OpenAI como precursora de um novo padrão de mercado."
+}
