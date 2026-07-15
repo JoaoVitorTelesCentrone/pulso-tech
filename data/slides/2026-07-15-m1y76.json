@@ -1,0 +1,56 @@
+{
+  "title": "O Novo Elo Perdido da Big Pharma: Por Que um Pesquisador da OpenAI Vale US$ 2 Bilhões Antes de Lançar Produto",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "US$ 2 Bilhões Antes do Produto: O Novo Elo Perdido da Big Pharma",
+      "subtext": "Como um pesquisador da OpenAI está redefinindo o valuation de startups de IA em ciências da vida",
+      "image_prompt": "A futuristic biotech lab with glowing DNA helix and AI neural network overlays, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Miles Wang, pesquisador da OpenAI, está prestes a lançar uma startup de descoberta de medicamentos por IA — avaliada em US$ 2 bilhões antes de qualquer produto, receita ou anúncio público. O mercado de capitais está precificando a aplicação vertical de IA em ciências da vida como o próximo grande vórtice de valor.",
+      "highlight": "US$ 2 bilhões — antes do MVP"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um pesquisador sênior de big tech levanta capital bilionário com base em reputação técnica e promessa de aplicação vertical. Wang trabalha na interseção entre modelos generativos e biologia computacional — área que a OpenAI explora com projetos como o GPT-5.5 Bio Bug Bounty e o GeneBench-Pro.",
+      "visual_hint": "Ícone de cérebro humano conectado a uma dupla hélice de DNA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Enquanto OpenAI, Anthropic e Google competem por pontos percentuais em benchmarks de raciocínio, o dinheiro inteligente aposta em domínios onde a IA pode criar mercados inteiramente novos. A descoberta de medicamentos é um alvo óbvio: indústria de US$ 1,5 trilhão, com 90% de falha em ensaios clínicos e ciclos de 10 a 15 anos.",
+      "visual_hint": "Gráfico de seta ascendente saindo de uma molécula"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1,5 trilhão: tamanho do mercado global de descoberta de medicamentos",
+        "90%: taxa de falha em ensaios clínicos",
+        "10 a 15 anos: ciclo médio de desenvolvimento de um novo fármaco",
+        "US$ 3 bi: valuation da Isomorphic Labs (spin-off da DeepMind)",
+        "US$ 5 bi: valuation da Recursion Pharmaceuticals (IA em biologia)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Talento de big tech migra para aplicações científicas verticais",
+        "Valuations bilionários pré-produto se tornam o novo normal",
+        "IA pode reduzir ciclo de desenvolvimento em 30% e gerar centenas de bilhões",
+        "Corrida por dados proprietários substitui corrida por modelos genéricos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O valuation de US$ 2 bilhões é o sinal de que a próxima fronteira da IA não está nos modelos — está na ciência."
+    }
+  ]
+}

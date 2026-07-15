@@ -1,0 +1,53 @@
+{
+  "title": "O Sinal de US$ 1 Trilhão: Por Que Anthropic e Blackstone Estão Apostando que a Próxima Grande Fortuna da IA Não Está nos Modelos, Mas na Implantação",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Sinal de US$ 1 Trilhão",
+      "subtext": "A próxima grande fortuna da IA não está nos modelos, mas na implantação corporativa.",
+      "image_prompt": "A futuristic digital bridge connecting a glowing AI brain to a massive corporate city skyline, with data streams flowing like rivers, dark blue and neon orange tones, cinematic lighting, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Modelos de IA como GPT e Claude são cada vez mais potentes, mas 90% dos projetos corporativos nunca chegam à produção. O gargalo não é inteligência — é integração.",
+      "highlight": "90% dos projetos de IA nunca chegam à produção"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Anthropic e Blackstone lançaram a Ode: uma startup que não treina modelos, mas envia engenheiros de implantação para dentro de grandes empresas. O objetivo é fazer a IA funcionar em sistemas legados, processos reais e dados caóticos.",
+      "visual_hint": "Ícone de engrenagem conectada a um cérebro digital, com setas de integração"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O valor real da IA não está no melhor modelo, mas em quem consegue implantá-lo de forma confiável, segura e integrada aos processos que geram receita. A Ode assume o risco da implantação e cobra por resultados.",
+      "visual_hint": "Gráfico de valor crescente saindo de 'Modelo' para 'Implantação'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: a próxima fortuna estimada na implantação de IA corporativa",
+        "90% dos projetos de IA nunca chegam à produção",
+        "Blackstone: trilhões sob gestão apostando na 'cola' que conecta IA aos negócios"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Modelos de IA se tornam commodities; o valor está na integração",
+        "Surgimento de um novo mercado: consultoria de engenharia de implantação de IA",
+        "Empresas que dominarem a 'cola' da IA liderarão a próxima década"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não é mais inteligente — é mais integrado."
+    }
+  ]
+}

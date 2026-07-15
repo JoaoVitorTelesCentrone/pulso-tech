@@ -1,0 +1,53 @@
+{
+  "title": "O Motorola Edge 70 Max e o Qi2: O Sinal Silencioso de que a Economia dos Periféricos de IA Está se Padronizando",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Qi2 Chegou para Padronizar a Energia dos Periféricos de IA",
+      "subtext": "Motorola Edge 70 Max: o primeiro Android com carregamento Qi2 de 25W. O futuro dos wearables de IA depende disso.",
+      "image_prompt": "A futuristic smartphone floating above a wireless charging pad, with glowing magnetic rings and subtle AI holograms around it, dark tech background, neon blue and purple lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Motorola lançou o Edge 70 Max, o primeiro Android com suporte total ao padrão Qi2 de 25W. Enquanto o mercado foca em processadores e câmeras, esse detalhe de infraestrutura pode ser o verdadeiro divisor de águas para a economia dos dispositivos de IA vestíveis.",
+      "highlight": "Qi2: o padrão magnético universal que promete unificar o carregamento de smartphones, óculos inteligentes, anéis de saúde e agentes físicos de IA."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Qi2, baseado no Perfil de Potência Magnética (MPP), é uma versão aberta e licenciada da tecnologia MagSafe da Apple. Até agora, o suporte em Android era raro e limitado. O Edge 70 Max quebra essa barreira, entregando 25W de potência com alinhamento magnético perfeito.",
+      "visual_hint": "Ícone de um ímã com ondas de energia ao redor, simbolizando alinhamento e eficiência"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O grande gargalo dos dispositivos de IA vestíveis não é o modelo de linguagem — é a bateria e a conveniência de recarga. Um padrão universal elimina o atrito de múltiplos carregadores proprietários, reduz custos de desenvolvimento e acelera a adoção em massa. A Motorola está apostando que o futuro é um ecossistema unificado de energia.",
+      "visual_hint": "Gráfico de adoção de tecnologia em curva S, com destaque para o ponto de inflexão representado pelo Qi2"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "25W: potência total do Qi2 no Edge 70 Max, suficiente para smartphones e wearables",
+        "2023: ano de lançamento do padrão Qi2 pelo Wireless Power Consortium (WPC)",
+        "0: número de Androids com Qi2 completo antes do Edge 70 Max"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Startups de hardware de IA não precisarão mais investir em sistemas de carregamento proprietários",
+        "Um único carregador Qi2 servirá para smartphone, óculos de IA, anel inteligente e fones",
+        "A fragmentação energética deixa de ser um obstáculo para a adoção em massa de wearables de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Qi2 é o USB-C da energia sem fio. O futuro dos periféricos de IA está se padronizando — e você está vendo isso acontecer."
+    }
+  ]
+}

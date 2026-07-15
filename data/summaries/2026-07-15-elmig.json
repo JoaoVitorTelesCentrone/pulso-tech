@@ -1,0 +1,16 @@
+{
+  "tldr": "Um paper do arXiv propõe substituir o princípio do menor privilégio por uma 'teoria da menor autonomia' para agentes de IA, argumentando que controlar o grau de discricionariedade dos agentes é mais crítico que apenas limitar permissões estáticas.",
+  "key_facts": [
+    "Paper intitulado 'A Theory of Least Autonomy in AI' foi publicado no arXiv.",
+    "Economia de agentes de IA ultrapassou US$ 100 bilhões em gastos corporativos em 2026.",
+    "O framework proposto limita autonomia em três eixos: escopo temporal, escopo de ação e escopo de consequência.",
+    "Menor privilégio falha para agentes devido à imprevisibilidade de caminhos, entre outras razões."
+  ],
+  "why_it_matters": "A segurança de agentes de IA é um gargalo crítico para adoção empresarial; se a teoria estiver correta, ignorá-la pode custar bilhões em incidentes, perda de dados e responsabilidade legal, afetando diretamente a confiança e o ROI de sistemas autônomos.",
+  "watch_next": [
+    "Empresas como OpenAI, Anthropic, Microsoft e Google podem anunciar adoção ou adaptação do framework em seus agentes.",
+    "Possível surgimento de startups focadas em ferramentas de controle de autonomia para agentes de IA.",
+    "Debate regulatório sobre padrões de segurança para agentes autônomos, com base nessa teoria."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um conceito teórico de segurança (menor autonomia) a um valor de mercado concreto (US$ 1 trilhão), oferecendo uma análise profunda que vai além da notícia superficial, destacando as falhas do paradigma atual e propondo um framework acionável para a indústria."
+}

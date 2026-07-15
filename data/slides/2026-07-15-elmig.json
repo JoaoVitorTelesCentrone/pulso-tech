@@ -1,0 +1,53 @@
+{
+  "title": "O Princípio da Menor Autonomia: Por Que a Teoria de Controle de Acesso da IA Pode Valer US$ 1 Trilhão",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Menor Autonomia: A Teoria de Segurança que Pode Valer US$ 1 Trilhão",
+      "subtext": "Por que o princípio do menor privilégio é insuficiente para agentes de IA — e o que fazer agora",
+      "image_prompt": "Futuristic digital brain with glowing red and blue neural pathways, surrounded by lock icons and data streams, dark background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um paper do arXiv propõe que o 'princípio do menor privilégio' é insuficiente para agentes de IA. A indústria ainda não adotou o framework de segurança mais importante: a 'teoria da menor autonomia'.",
+      "highlight": "Economia de agentes de IA já ultrapassou US$ 100 bilhões em gastos corporativos"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Agentes de IA não são meros executores de comandos. Eles operam com autonomia, tomando decisões imprevisíveis. Um agente com permissão para ler um banco de dados pode decidir ler 10 milhões de registros em vez de 10.",
+      "visual_hint": "Ícone de robô com múltiplos braços, cada um apontando para diferentes direções, simbolizando ações imprevisíveis"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A segurança de agentes ainda é tratada como permissões estáticas. Você dá acesso ao e-mail e confia que ele não vai enviar 'responder a todos' para 5.000 pessoas. O custo de ignorar essa teoria pode ser medido em bilhões em incidentes e perda de dados.",
+      "visual_hint": "Ilustração de uma corrente se quebrando, com elos representando permissões estáticas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: gastos corporativos com agentes de IA em 2026",
+        "3 eixos de controle: escopo temporal, de ação e de consequência",
+        "Até 10 milhões de registros podem ser lidos por um agente sem supervisão"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Autonomia será tratada como variável de controle separada, não subproduto de permissões",
+        "Agentes precisarão de limites de tempo, ações consecutivas e impacto máximo",
+        "Empresas que adotarem o framework evitarão bilhões em responsabilidade legal"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A segurança dos agentes de IA não é um problema de permissões — é um problema de autonomia. E a solução pode valer US$ 1 trilhão."
+    }
+  ]
+}

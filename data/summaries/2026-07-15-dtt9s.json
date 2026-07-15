@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo método de destilação de conhecimento em dois estágios transforma o LLaMA 3 (8B) em um cross-encoder eficiente para reranking em RAG, reduzindo o custo de inferência de O(n²) para O(n) e atacando um gargalo de até US$ 12,5 bilhões no mercado corporativo.",
+  "key_facts": [
+    "Paper arXiv 2607.11933 propõe destilação de conhecimento em dois estágios para transformar LLMs em cross-encoders eficientes.",
+    "O método utiliza um teacher (cross-encoder maior) para destilar logits e fine-tuning com perda contrastiva no LLaMA 3 8B.",
+    "O custo de inferência é reduzido de quadrático (O(n²)) para próximo de linear (O(n)), mantendo acurácia em métricas como NDCG@10 e MAP.",
+    "O mercado de RAG corporativo deve ultrapassar US$ 50 bilhões até 2028, com 15-25% dos custos operacionais vindo do reranking com cross-encoders."
+  ],
+  "why_it_matters": "Este artigo aborda o principal gargalo econômico da adoção de RAG em produção: o custo de inferência dos cross-encoders. Ao transformar um modelo amplamente disponível (LLaMA 3) em um reranker eficiente, ele sinaliza uma mudança de paradigma na indústria de IA, que está migrando de 'construir modelos maiores' para 'otimizar a implantação dos existentes'.",
+  "watch_next": [
+    "Comparações de desempenho entre o LLaMA 3 destilado e cross-encoders tradicionais (como BERT) em benchmarks de reranking.",
+    "Adoção do método por empresas de infraestrutura de IA (como Hugging Face, Anthropic ou startups de RAG) para reduzir custos operacionais.",
+    "Possíveis extensões do método para outros LLMs (como Mistral ou GPT-4) e cenários de busca em tempo real."
+  ],
+  "editorial_angle": "O artigo se diferencia por não propor um novo modelo, mas sim uma técnica de otimização aplicada a um modelo existente e amplamente usado (LLaMA 3). Ele conecta diretamente um avanço técnico (destilação em dois estágios) a um problema de negócio mensurável (gargalo de US$ 10 bilhões), tornando a notícia relevante tanto para engenheiros de ML quanto para tomadores de decisão em empresas de tecnologia."
+}

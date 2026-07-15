@@ -1,0 +1,53 @@
+{
+  "title": "O Abismo de Preço que Enterra a Guerra de Modelos: Por Que Open Source Está 4 Meses Atrás, Mas 10x Mais Barato — e o Que Isso Significa para a Economia da Inferência",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Abismo de Preço que Enterra a Guerra de Modelos",
+      "subtext": "Open Source está 4 meses atrás, mas 10x mais barato — e isso redefine o ROI corporativo",
+      "image_prompt": "A futuristic digital abyss with two sides: one glowing gold with a small crown, the other vast and dark with a glowing price tag of 0.1x, connected by a bridge of data streams"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O The New Stack revela que modelos open-source estão 4 meses atrás dos líderes fechados em capacidade bruta. Mas o custo de inferência é 10x menor. A diferença de performance em tarefas reais é marginal — 5 a 15%.",
+      "highlight": "10x mais barato por token de inferência"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Modelos de peso aberto (Llama 4, Mistral Large 3, Qwen 3.5) entregam 90% da performance dos líderes fechados por 10% do custo. A decisão de adoção deixa de ser técnica e se torna puramente financeira.",
+      "visual_hint": "Ícone de balança com um lado pesando 'performance' e o outro 'custo', com o custo muito mais leve"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas que processam milhões de consultas por dia, a diferença entre US$ 0,15 e US$ 1,50 por milhão de tokens é a linha entre viabilidade econômica e queima de caixa. Startups e médias empresas ganham acesso a IA de fronteira.",
+      "visual_hint": "Gráfico de barras comparando custo por token: uma barra alta (fechado) e uma barra baixa (open source)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Modelos open-source: 4 meses de defasagem técnica",
+        "Custo de inferência: 10x mais barato que modelos fechados",
+        "Diferença de performance em tarefas reais: apenas 5-15%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Comoditização da capacidade: performance vira commodity, preço decide",
+        "Guerra de preços entre provedores fechados se intensifica",
+        "Startups e médias empresas ganham vantagem competitiva com IA acessível"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da inferência está mudando — e quem entender isso primeiro, lidera."
+    }
+  ]
+}

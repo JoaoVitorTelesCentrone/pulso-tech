@@ -1,0 +1,16 @@
+{
+  "tldr": "O Motorola Edge 70 Max, primeiro Android com Qi2 de 25W, sinaliza a padronização da infraestrutura de energia para dispositivos de IA vestíveis, transformando o carregamento sem fio em uma commodity.",
+  "key_facts": [
+    "Motorola lançou o Edge 70 Max, primeiro Android com suporte total ao Qi2 de 25W.",
+    "Qi2 é um padrão aberto do WPC baseado no MagSafe da Apple, com alinhamento magnético.",
+    "A fragmentação de carregamento é um gargalo para a adoção em massa de dispositivos de IA vestíveis.",
+    "A padronização reduz custos de desenvolvimento para startups de hardware de IA."
+  ],
+  "why_it_matters": "A notícia importa porque a adoção do Qi2 pela Motorola resolve o maior gargalo dos agentes físicos de IA (bateria e recarga), criando um ecossistema unificado que pode acelerar a adoção em massa de óculos, anéis e pingentes de IA, além de reduzir barreiras de entrada para novos fabricantes.",
+  "watch_next": [
+    "Outros fabricantes Android (Samsung, Google) devem seguir a Motorola e adotar Qi2 completo em seus próximos flagships.",
+    "Startups de hardware de IA (como Humane, Rabbit) podem anunciar compatibilidade com Qi2 para reduzir custos e aumentar a conveniência.",
+    "O WPC pode anunciar uma nova especificação Qi3 com potências maiores (30W+) para carregamento rápido de dispositivos maiores."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar um lançamento de smartphone não como uma guerra de especificações, mas como um marco de infraestrutura para a economia de periféricos de IA, conectando um detalhe técnico (Qi2) a uma tese macro de padronização e redução de atrito no ecossistema de hardware de IA."
+}

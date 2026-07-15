@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Silencioso de US$ 10 Bilhões no RAG: Como a Destilação de Conhecimento Está Transformando Cross-Encoders em Motores de Busca Viáveis",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Silencioso de US$ 10 Bilhões no RAG",
+      "subtext": "Como a Destilação de Conhecimento Está Transformando Cross-Encoders em Motores de Busca Viáveis",
+      "image_prompt": "A futuristic data center with glowing blue server racks, a subtle dollar sign made of light particles floating above, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Cross-encoders são a peça mais precisa do pipeline de RAG, mas seu custo de inferência quadrático inviabiliza o uso em tempo real. O trade-off histórico era simples: lentos e precisos ou rápidos e imprecisos.",
+      "highlight": "US$ 7,5 a US$ 12,5 bilhões em custos de inferência por ano"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe transformar o LLaMA 3 (8B) em um reranker eficiente via destilação de conhecimento em dois estágios. O resultado é um 'drop-in reranker' que substitui cross-encoders tradicionais sem modificar o pipeline.",
+      "visual_hint": "Ícone de funil com engrenagens e setas de otimização"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de RAG corporativo deve ultrapassar US$ 50 bilhões até 2028. Reduzir o custo de reranking de O(n²) para O(n) desbloqueia a adoção em produção para milhares de empresas que hoje dependem de bi-encoders imprecisos.",
+      "visual_hint": "Gráfico de barras comparando custo antes e depois"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 50 bilhões: mercado de RAG projetado para 2028",
+        "15-25% do custo operacional de RAG vem do reranking",
+        "LLaMA 3 8B transformado em cross-encoder eficiente via destilação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Cross-encoders se tornam viáveis para aplicações em tempo real",
+        "Economia da IA migra de 'construir modelos maiores' para 'otimizar implantação'",
+        "Empresas podem substituir bi-encoders sem perder acurácia"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo de US$ 10 bilhões está com os dias contados. Veja como."
+    }
+  ]
+}

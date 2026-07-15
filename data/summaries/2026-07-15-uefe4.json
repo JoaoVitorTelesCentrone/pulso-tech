@@ -1,0 +1,16 @@
+{
+  "tldr": "Modelos open-source estão 4 meses atrás dos líderes fechados em performance, mas custam 10x menos em inferência, redefinindo o ROI corporativo e comoditizando a capacidade de IA.",
+  "key_facts": [
+    "Modelos open-source estão aproximadamente 4 meses atrás dos modelos fechados de fronteira em capacidade bruta.",
+    "Modelos open-source são 10x mais baratos para executar em inferência.",
+    "A diferença de performance em tarefas do mundo real é marginal (5-15%), enquanto o custo por token é uma fração.",
+    "O custo de inferência para modelos fechados pode ser US$ 1,50 por milhão de tokens de entrada, contra US$ 0,15 para open-source."
+  ],
+  "why_it_matters": "Para empresas que processam milhões de consultas diárias, a diferença de custo entre modelos open-source e fechados é a linha entre viabilidade econômica e queima de caixa, tornando a decisão de adoção puramente financeira e não técnica.",
+  "watch_next": [
+    "Intensificação da guerra de preços entre provedores de modelos fechados para competir com o custo do open-source.",
+    "Aumento da adoção de modelos open-source por startups e empresas de médio porte, impulsionando provedores de hospedagem de baixo custo.",
+    "Possível aceleração do ciclo de lançamentos open-source para reduzir a defasagem de 4 meses."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar na economia da inferência como o verdadeiro campo de batalha, em vez da tradicional 'guerra de modelos' baseada em benchmarks, oferecendo uma análise prática de ROI para o leitor corporativo."
+}

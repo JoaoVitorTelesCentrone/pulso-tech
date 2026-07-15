@@ -1,0 +1,53 @@
+{
+  "title": "O Game Boy no Bolso: Como o FlipPad da 8BitDo Revela a Nova Economia dos Periféricos de Smartphone na Era da IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Game Boy no Bolso",
+      "subtext": "Como o FlipPad da 8BitDo revela a nova economia dos periféricos de smartphone na era da IA",
+      "image_prompt": "A futuristic smartphone transforming into a retro Game Boy, with glowing USB-C connection, dark neon cyberpunk style, sleek and minimal"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A 8BitDo anunciou o FlipPad, um controle dobrável que transforma o smartphone em um Game Boy. Ele é alimentado exclusivamente pela porta USB-C do telefone, sem bateria, Bluetooth ou pareamento.",
+      "highlight": "Conectou, funcionou."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O FlipPad elimina todo atrito técnico: sem pareamento, sem recarga, sem configuração. É plug-and-play no sentido mais literal. O smartphone se torna o console portátil definitivo.",
+      "visual_hint": "Ícone de USB-C com raio, seta verde de 'conectado', ícone de Game Boy estilizado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O maior inimigo da adoção de um acessório não é o preço, mas o custo de configuração e manutenção. O FlipPad resolve isso com design de atrito zero, transformando o celular em um hub de entretenimento sem complexidade.",
+      "visual_hint": "Gráfico de barras comparando 'atrito técnico' entre Bluetooth e USB-C, com a barra do FlipPad zerada"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado mobile gaming: mais de US$ 100 bilhões globalmente (Newzoo, 2025)",
+        "Controles Bluetooth exigem pareamento de 30s a 2min e recarga periódica",
+        "FlipPad: custo de BOM drasticamente menor que controles Bluetooth tradicionais"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Smartphone se consolida como plataforma de jogos dominante",
+        "Acessórios inteligentes substituem consoles dedicados (Switch, Steam Deck)",
+        "Economia de periféricos migra para design de atrito zero e baixo custo"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro dos periféricos está no bolso. Não perca as próximas análises."
+    }
+  ]
+}
