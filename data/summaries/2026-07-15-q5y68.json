@@ -1,0 +1,17 @@
+{
+  "tldr": "Um hacker vazou o dataset de treinamento do Suno, provando que a empresa usou milhões de músicas protegidas por direitos autorais sem licenciamento, desafiando a defesa de fair use e expondo a economia oculta da IA generativa.",
+  "key_facts": [
+    "Hacker obteve acesso ao código-fonte do Suno usando credenciais de funcionário.",
+    "Dataset inclui milhões de faixas completas de artistas como Taylor Swift, The Beatles e Drake, raspadas de YouTube Music, Deezer e Genius.",
+    "Suno criou scripts para simular usuários reais e contornar sistemas de detecção de bots.",
+    "Empresa se defendia com fair use, mas evidências mostram coleta sistemática de conteúdo protegido sem autorização.",
+    "Valuation de US$ 500 milhões do Suno pode evaporar com as revelações."
+  ],
+  "why_it_matters": "O caso expõe o calcanhar de Aquiles da indústria de IA generativa: a dependência de dados não licenciados. Para leitores de IA/Tech, isso sinaliza riscos legais e de investimento, além de um possível precedente que pode redefinir regras de treinamento de modelos e a economia da criatividade sintética.",
+  "watch_next": [
+    "Ações judiciais de gravadoras e artistas contra o Suno, com potencial para criar jurisprudência sobre fair use em IA.",
+    "Impacto no valuation de startups de IA generativa e exigência de auditoria forense de datasets por investidores.",
+    "Possível regulamentação ou acordo de licenciamento coletivo para dados de treinamento musical."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o vazamento técnico a uma análise da economia oculta da IA, mostrando que o problema não é apenas legal, mas estrutural: o modelo de negócios bilionário foi construído sobre infrações. A escolha editorial reflete a urgência de debater a ética e a sustentabilidade da IA generativa."
+}

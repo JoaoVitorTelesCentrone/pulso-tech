@@ -1,0 +1,53 @@
+{
+  "title": "O Vazamento que Expõe a Economia Oculta da Música Gerada por IA: Suno Ensinou a Máquina a Roubar",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Suno Ensinou a Máquina a Roubar",
+      "subtext": "O vazamento que expõe a economia oculta da música gerada por IA",
+      "image_prompt": "A dark, futuristic server room with glowing red warning lights, a single broken chain hanging from a server rack, and musical notes dissolving into digital code, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um hacker acessou o código-fonte do Suno, um dos maiores geradores de música por IA. Descobriu-se que o modelo foi treinado com milhões de músicas protegidas por direitos autorais — sem licenciamento, sem pagamento, sem autorização.",
+      "highlight": "O dataset continha entre 50 e 100 milhões de faixas, cobrindo décadas de música popular ocidental."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Suno criou scripts que simulavam usuários reais para baixar faixas completas do YouTube Music, Deezer e Genius, contornando sistemas de detecção de bots. O modelo foi alimentado com áudio de alta qualidade, letras e metadados de artistas como Taylor Swift, The Beatles e Drake — tudo sem autorização.",
+      "visual_hint": "Ícone de robô com mãos sujas de tinta e partituras rasgadas ao fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Este é o tiro de partida para uma batalha legal que pode redefinir a economia da criatividade sintética. Se a IA pode gerar música que soa como Taylor Swift sem pagar um centavo, o que sobra para os artistas? Para investidores, o valuation de US$ 500 milhões do Suno pode evaporar da noite para o dia.",
+      "visual_hint": "Gráfico de barras em queda livre com cifrões voando para fora"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "50 a 100 milhões de faixas no dataset de treinamento",
+        "Artistas como Taylor Swift, The Beatles, Drake e Beyoncé tiveram músicas usadas sem licença",
+        "Valuation de US$ 500 milhões em 2025 — agora sob risco"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Gravadoras e artistas ganham munição para processar e exigir compensação",
+        "Due diligence em startups de IA generativa exigirá auditoria forense de datasets",
+        "O argumento de 'fair use' para treinamento de IA pode ruir nos tribunais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia oculta da IA generativa está sendo revelada — e o futuro da criatividade está em jogo."
+    }
+  ]
+}

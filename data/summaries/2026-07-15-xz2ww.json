@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo framework de avaliação de IA expõe como médias de desempenho enganosas escondem falhas críticas em cenários específicos, podendo economizar bilhões em decisões corporativas ao corrigir métricas agregadas que mascaram riscos em nichos de alto impacto.",
+  "key_facts": [
+    "Paper arXiv 2607.11981 propõe framework de generalizabilidade condicional para sistemas de pontuação automatizada.",
+    "Método identifica estratos onde a confiabilidade cai abaixo de limiares aceitáveis, quantificando heterogeneidade na carga de medição.",
+    "Confiabilidade agregada pode diferir em até 30% da real para estratos específicos, representando milhões em decisões equivocadas.",
+    "Aplica-se a scoring de crédito, diagnóstico médico, avaliação automatizada e agentes de codificação."
+  ],
+  "why_it_matters": "A indústria de IA, movimentando US$ 100 bilhões, baseia decisões de implantação e investimento em métricas agregadas que mascaram falhas sistêmicas em nichos críticos — este framework oferece uma correção prática para evitar prejuízos catastróficos e vieses ocultos.",
+  "watch_next": [
+    "Adoção do framework por big techs e startups em processos de due diligence de modelos de IA.",
+    "Regulamentações exigindo relatórios de confiabilidade condicional para sistemas de IA em setores sensíveis (finanças, saúde).",
+    "Novos benchmarks setoriais que incorporem a heterogeneidade de desempenho como métrica padrão."
+  ],
+  "editorial_angle": "O artigo se diferencia ao traduzir um avanço técnico em estatística de avaliação para um alerta de negócios direto, conectando a falácia da média a riscos financeiros e reputacionais concretos, com exemplos práticos e dados quantitativos que justificam a urgência da mudança."
+}

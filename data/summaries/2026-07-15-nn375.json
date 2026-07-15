@@ -1,0 +1,14 @@
+{
+  "tldr": "OpenAI revela o GPT-Red, um sistema automatizado de red teaming baseado em auto-play que escala a segurança ofensiva em IA, reduzindo custos e criando uma vantagem competitiva defensiva bilionária.",
+  "key_facts": [
+    "GPT-Red usa auto-play para treinar modelos a serem mais robustos contra ataques adversariais, com ciclos de ataque e defesa que se repetem milhões de vezes.",
+    "O sistema foca em robustez contra injeção de prompt, alinhamento e segurança geral, substituindo equipes humanas lentas e caras.",
+    "Estima-se que empresas de IA gastem centenas de milhões de dólares por ano em testes de segurança manuais, que o GPT-Red pode reduzir drasticamente."
+  ],
+  "why_it_matters": "Esta notícia importa porque a segurança de modelos de IA é o maior gargalo da indústria, e o GPT-Red representa uma mudança de paradigma: a segurança ofensiva em escala industrial, que pode definir quem domina o mercado de IA nos próximos anos.",
+  "watch_next": [
+    "Outras empresas (Anthropic, Google, Meta) devem anunciar sistemas similares de red teaming automatizado, iniciando uma corrida armamentista de segurança.",
+    "O GPT-Red pode ser disponibilizado como serviço ou API, criando um novo mercado de segurança ofensiva como serviço (Red Teaming as a Service)."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o lançamento técnico do GPT-Red com a tese mais ampla de que a segurança de modelos só pode ser resolvida por modelos, e ao destacar o impacto econômico — a criação de uma nova economia de segurança ofensiva em escala industrial, em vez de apenas descrever a ferramenta."
+}

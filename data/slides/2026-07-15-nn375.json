@@ -1,0 +1,53 @@
+{
+  "title": "GPT-Red: O Super-Hacker que a OpenAI Criou para Treinar seus Modelos — e a Nova Economia da Segurança Ofensiva em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-Red: O Exército de Hackers Sintéticos da OpenAI",
+      "subtext": "Como o auto-play está criando uma nova economia de segurança ofensiva em escala industrial",
+      "image_prompt": "A futuristic digital battlefield with a glowing red AI entity attacking a blue fortress of code, neon circuits, dark background, cinematic lighting, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 15 de julho de 2026, a OpenAI revelou o GPT-Red, um sistema automatizado de red teaming que usa auto-play para treinar modelos de IA a serem mais robustos contra ataques adversariais. Diferente de equipes humanas — caras, lentas e que escalam mal — o GPT-Red opera em loop contínuo: um modelo tenta quebrar as defesas de outro, e o perdedor aprende com a derrota.",
+      "highlight": "O red teaming tradicional custa centenas de milhões de dólares por ano para empresas como OpenAI, Anthropic e Google."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-Red é um sistema de três camadas: uma camada de ataque (Red) que gera variações maliciosas de prompts, uma camada de defesa (Blue) que tenta resistir, e uma camada de aprendizado que ajusta ambos os modelos após cada rodada. O ciclo se repete milhões de vezes, gerando um exército de 'super-hackers' sintéticos que pressionam os limites de segurança dos modelos da OpenAI.",
+      "visual_hint": "Ícone de um loop infinito com um cérebro digital no centro, setas vermelhas e azuis se cruzando"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O GPT-Red escala a segurança onde humanos falham: um especialista encontra dezenas de vulnerabilidades por mês; o sistema encontra milhares por dia. Ele é adaptativo — aprende com cada falha, criando uma corrida armamentista interna que força os modelos a evoluírem continuamente. O custo marginal de cada novo ataque é quase zero, apenas o preço da inferência.",
+      "visual_hint": "Gráfico de linha ascendente mostrando vulnerabilidades encontradas ao longo do tempo, comparando humanos (linha baixa e plana) vs GPT-Red (linha exponencial)"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Milhares de vulnerabilidades encontradas por dia vs. dezenas por mês com equipes humanas",
+        "Custo marginal de segurança reduzido a quase zero após investimento inicial",
+        "Três áreas críticas: injeção de prompt, alinhamento e segurança geral contra jailbreaks"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Vantagem competitiva defensiva bilionária para quem dominar o auto-play",
+        "Segurança de modelos se torna um ativo intangível que pode destruir ou salvar empresas",
+        "A tese se confirma: segurança de IA só pode ser resolvida por modelos, não por humanos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "A segurança ofensiva em escala industrial chegou",
+      "subtext": "Acompanhe o blog para entender como o auto-play está redefinindo o futuro da IA — e quem vai dominar essa nova economia."
+    }
+  ]
+}

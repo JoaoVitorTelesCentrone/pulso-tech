@@ -1,0 +1,53 @@
+{
+  "title": "O Teclado de US$ 230 da OpenAI: O Sinal de que a Economia da Programação Está Sendo Fisicamente Reconfigurada",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Teclado de US$ 230 da OpenAI",
+      "subtext": "O sinal de que a economia da programação está sendo fisicamente reconfigurada",
+      "image_prompt": "A futuristic keyboard with glowing RGB lights floating in a dark digital space, surrounded by holographic code and AI agent interfaces, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI lança um teclado físico dedicado ao Codex, seu ambiente de programação agêntico, por US$ 230. O lançamento ocorre em meio a uma batalha legal com a Apple por suposto roubo de propriedade intelectual de hardware.",
+      "highlight": "Primeira incursão da OpenAI em hardware de entrada — um dispositivo que promete otimizar o fluxo de trabalho de programadores que usam agentes de IA."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI lançou um teclado iluminado de US$ 230 projetado especificamente para ser emparelhado com o Codex. O dispositivo tem teclas de atalho dedicadas para ações do agente de codificação e iluminação RGB que indica o estado do agente — pensando, executando, aguardando input.",
+      "visual_hint": "Ícone de teclado com engrenagens e linhas de código fluindo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A interface física importa. Se o agente de código é o novo 'compilador', o teclado é o novo 'terminal'. Controlar o hardware significa controlar a experiência de ponta a ponta — e, mais importante, os dados de interação. A próxima fronteira de competição não será apenas sobre qual modelo gera o melhor código, mas sobre quem possui o canal físico entre o humano e a máquina.",
+      "visual_hint": "Diagrama mostrando a cadeia: humano → teclado → agente IA → código"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 230: preço do teclado premium da OpenAI",
+        "Faixa de mercado: teclados mecânicos de alta qualidade custam entre US$ 150 e US$ 300",
+        "Batalha legal em andamento com a Apple por propriedade intelectual de hardware"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Criação de uma nova categoria econômica: o periférico de IA para programação",
+        "Potencial receita recorrente com hardware proprietário e integração profunda com Codex",
+        "Redefinição de quem controla a interação física entre humano e máquina no desenvolvimento de software"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da programação está sendo reconfigurada — e o teclado é só o começo."
+    }
+  ]
+}

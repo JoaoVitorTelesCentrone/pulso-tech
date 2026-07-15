@@ -1,0 +1,16 @@
+{
+  "tldr": "OpenAI lança teclado de US$ 230 para o Codex, sinalizando que a competição em ferramentas de programação com IA está migrando do software para o hardware, com implicações econômicas e legais.",
+  "key_facts": [
+    "OpenAI lançou um teclado físico de US$ 230 dedicado ao Codex, seu ambiente de programação agêntico.",
+    "O lançamento ocorre durante uma batalha legal com a Apple por suposto roubo de propriedade intelectual de hardware.",
+    "O teclado é o primeiro hardware de entrada da OpenAI, com teclas de atalho e iluminação RGB integradas ao fluxo do agente de IA.",
+    "O preço premium (US$ 230) posiciona o dispositivo como um periférico de produtividade para IA, não apenas um teclado comum."
+  ],
+  "why_it_matters": "A notícia importa porque sinaliza que a próxima fronteira da competição em dev tools não será apenas sobre modelos de IA ou IDEs, mas sobre quem controla a interface física entre o humano e o agente de código — um movimento que pode redefinir a economia do setor e criar uma nova categoria de periféricos.",
+  "watch_next": [
+    "Possível escalada da disputa legal entre OpenAI e Apple, com impacto no design de futuros hardwares de IA.",
+    "Adoção do teclado Codex por desenvolvedores e empresas, validando ou não a nova categoria de periférico.",
+    "Reação de concorrentes como Microsoft, JetBrains e Cursor, que podem lançar seus próprios hardwares dedicados a agentes de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o lançamento de hardware com a estratégia econômica mais ampla da OpenAI, destacando a briga legal com a Apple como pano de fundo e analisando o teclado como um 'canal físico' de controle de dados e experiência, em vez de tratá-lo como um simples periférico."
+}

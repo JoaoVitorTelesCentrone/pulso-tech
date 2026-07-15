@@ -1,0 +1,16 @@
+{
+  "tldr": "Allen AI expõe fragilidades ocultas em sistemas multi-agente, mostrando que coordenação, memória compartilhada e custos de inferência são gargalos econômicos e técnicos que podem inviabilizar aplicações corporativas.",
+  "key_facts": [
+    "A perda de fidelidade na transferência de informações entre agentes pode chegar a 40% em cadeias de 3 ou mais agentes, mesmo com modelos de 95% de precisão individual.",
+    "A memória compartilhada entre agentes sofre 'contaminação de contexto', levando a loops de realimentação e sobrescrita de informações.",
+    "A solução de sistema de permissões entre agentes reduziu a contaminação, mas aumentou a latência em 35%.",
+    "O custo de inferência escala de forma não-linear quando agentes precisam se comunicar entre si."
+  ],
+  "why_it_matters": "Este artigo revela que a corrida para colocar agentes de IA em produção esbarra em problemas fundamentais de arquitetura e economia, não apenas de capacidade dos modelos. Para leitores de IA/Tech, é um alerta crucial sobre os riscos reais de sistemas multi-agente em ambientes corporativos.",
+  "watch_next": [
+    "Empresas que estão desenvolvendo agentes multi-agente podem precisar revisar suas arquiteturas de comunicação e memória.",
+    "Surgimento de novas soluções de middleware para coordenação de agentes, como sistemas de permissões e buffers de contexto controlados.",
+    "Possível desaceleração na adoção de agentes multi-agente em produção até que os problemas de coordenação e custo sejam resolvidos."
+  ],
+  "editorial_angle": "O artigo se destaca por ir além das demos impressionantes e expor as dores reais de engenharia, com dados concretos sobre perda de fidelidade e trade-offs entre consistência e performance. É uma peça rara que conecta problemas técnicos a implicações econômicas diretas para o mercado corporativo."
+}

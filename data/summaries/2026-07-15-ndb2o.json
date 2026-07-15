@@ -1,0 +1,15 @@
+{
+  "tldr": "Atlassian está transformando o Jira em um hub de orquestração para agentes de codificação, sinalizando que o gargalo da produtividade em engenharia de software está migrando da escrita de código para a gestão coordenada de tarefas geradas por IA.",
+  "key_facts": [
+    "Atlassian anunciou integração que permite desenvolvedores executar tarefas de codificação, revisão e deploy diretamente dentro do Jira.",
+    "A mudança visa comprimir o fluxo de trabalho de agentes de codificação (entrada, contexto, geração, validação, entrega) em uma única plataforma.",
+    "Dados indicam que desenvolvedores perdem de 12 a 15 minutos por hora alternando entre ferramentas, custando US$ 15 bilhões anuais ao ecossistema enterprise."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, a notícia revela que o próximo campo de batalha da produtividade não é a velocidade dos LLMs, mas a orquestração de agentes — e que ferramentas legadas como Jira podem se tornar o centro de comando da nova economia de desenvolvimento.",
+  "watch_next": [
+    "Concorrentes como GitHub e GitLab devem anunciar integrações similares para não perder o controle do pipeline de valor.",
+    "Surgimento de novas métricas de produtividade focadas em 'eficiência de orquestração' em vez de 'linhas de código por hora'.",
+    "Possível reação negativa de desenvolvedores que resistem a centralizar ainda mais o trabalho no Jira."
+  ],
+  "editorial_angle": "O artigo se diferencia ao argumentar que a verdadeira disrupção não está nos modelos de IA, mas na reconfiguração das ferramentas de gestão para capturar o valor dos agentes de codificação — um ponto cego na cobertura atual focada em benchmarks e lançamentos de LLMs."
+}

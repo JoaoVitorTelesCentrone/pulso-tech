@@ -1,0 +1,53 @@
+{
+  "title": "O Fim da Média Enganosa: Como um Novo Framework de Avaliação de IA Pode Economizar Bilhões em Decisões Corporativas",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim da Média Enganosa",
+      "subtext": "Como um novo framework de avaliação de IA pode economizar bilhões em decisões corporativas",
+      "image_prompt": "A futuristic data dashboard with a shattered glass effect over a single misleading average number, revealing hidden cracks and failures beneath the surface, dark blue and neon orange tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria de IA confia cegamente em médias de desempenho para tomar decisões de bilhões de dólares. Um novo paper do arXiv revela que essa confiança pode estar escondendo falhas críticas em cenários específicos — exatamente onde o erro custa mais caro.",
+      "highlight": "A média de desempenho do seu modelo pode ser excelente, enquanto ele falha miseravelmente em cenários críticos para o seu negócio."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores apresentam um framework de generalizabilidade condicional que expõe a heterogeneidade oculta na confiabilidade dos modelos de IA. Em vez de uma única métrica agregada, o método identifica estratos específicos onde a performance despenca — revelando riscos que antes eram invisíveis.",
+      "visual_hint": "Ícone de lupa sobre um gráfico de barras, destacando uma barra vermelha isolada em meio a barras verdes"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Sistemas de scoring de crédito, diagnósticos médicos e avaliações automatizadas podem funcionar bem para 95% dos casos, mas falhar sistematicamente para minorias, dialetos ou comorbidades raras. O custo? Decisões equivocadas que podem representar milhões de dólares e danos reputacionais irreversíveis.",
+      "visual_hint": "Três ícones lado a lado: um gráfico de crédito, um estetoscópio e um texto sendo corrigido, todos com um ponto de interrogação vermelho"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Confiabilidade estimada pode diferir em até 30% da real para estratos específicos de resposta",
+        "Economia global de US$ 100 bilhões em sistemas de IA corporativos opera com métricas potencialmente enganosas",
+        "Framework identifica e quantifica a heterogeneidade da carga de medição entre diferentes condições"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão auditar modelos com precisão cirúrgica, evitando falhas em nichos críticos",
+        "Decisões de implantação e investimento serão baseadas em confiabilidade condicional, não em médias ilusórias",
+        "Reguladores ganharão ferramentas para exigir transparência real em avaliação de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da avaliação de IA não está na média — está nos detalhes que ela esconde."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Atlassian Quer Que os Devs Finalmente Gostem do Jira: O Sinal de que a Economia dos Agentes de Codificação Está Engolindo a Gestão de Projetos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Jira: De Ferramenta Odiada a Hub de Orquestração de Agentes de IA",
+      "subtext": "Enquanto o mercado foca em LLMs, a Atlassian reconfigura a interface mais odiada da engenharia — e isso pode valer mais que qualquer novo modelo.",
+      "image_prompt": "A futuristic, dark tech control room with multiple holographic screens displaying Jira tickets, code snippets, and AI agent avatars, glowing blue and orange neon lights, cinematic, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Atlassian anunciou uma integração que permite desenvolvedores passarem mais tempo dentro do Jira. A ironia é intencional: o símbolo da burocracia agora quer ser o centro da ação. Agentes de codificação (Cursor, Copilot, Claude Code) automatizam a escrita de código, e o gargalo mudou: de escrever para gerenciar o que foi escrito.",
+      "highlight": "O gargalo da produtividade deixou de ser escrever código e passou a ser gerenciar o que foi escrito."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Atlassian está transformando o Jira em um hub central onde agentes de IA executam tarefas de codificação, revisão e deploy diretamente a partir dos tickets. Em vez de alternar entre IDE, terminal, Slack e Jira, o desenvolvedor vive no Jira — que se torna o painel de controle da fábrica de software.",
+      "visual_hint": "Ícone de engrenagem com um cérebro digital no centro, setas circulares representando fluxo de dados entre ferramentas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A economia dos agentes de codificação está criando uma nova dívida de gestão: como coordenar milhares de agentes escrevendo código simultaneamente? O Jira, como sistema de registro de intenção de desenvolvimento, deixa de ser uma ferramenta de acompanhamento e se torna uma ferramenta de orquestração. Para devs, a era de ignorar o Jira acabou.",
+      "visual_hint": "Gráfico de barras mostrando aumento de produtividade vs. complexidade de coordenação, com destaque para o ponto de inflexão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Tempo médio de um dev alternando entre ferramentas: 12 a 15 minutos por hora",
+        "Custo de produtividade estimado: US$ 15 bilhões anuais no ecossistema enterprise",
+        "ROI da adoção de agentes de codificação pode estar mais na integração com gestão do que na velocidade de escrita"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Jira se torna o hub de orquestração de agentes de IA, não apenas de tarefas",
+        "Desenvolvedores precisarão dominar a gestão de fluxos de agentes, não só código",
+        "Empresas que integrarem agentes ao fluxo de gestão existente terão vantagem competitiva"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A era de ignorar o Jira acabou. A pergunta agora é: quem vai orquestrar seus agentes?"
+    }
+  ]
+}
