@@ -1,0 +1,53 @@
+{
+  "title": "A Guerra Invisível dos Narrativos: Como Grafos Estão Mapeando a Desinformação entre Ucrânia e Rússia e Criando um Novo Mercado de Auditoria de Conteúdo em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Guerra Invisível dos Narrativos",
+      "subtext": "Como grafos estão mapeando a desinformação entre Ucrânia e Rússia — e criando um novo mercado de auditoria de conteúdo em IA",
+      "image_prompt": "Digital network graph glowing in red and blue, nodes connected by lines, abstract war map, dark background, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram no arXiv um framework baseado em teoria de grafos para detectar a difusão de narrativas de desinformação entre canais do Telegram na Ucrânia e na Rússia. A moderação tradicional, baseada em palavras-chave e revisão manual, não acompanha a escala e velocidade da desinformação em tempo real.",
+      "highlight": "US$ 10 bilhões: custo anual combinado de moderação de conteúdo das big techs"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O framework opera em três camadas: extração de narrativas de texto bruto, construção de um grafo de difusão que mapeia o fluxo entre canais, e detecção de padrões anômalos — como loops de amplificação e hubs de origem — que indicam coordenação ou operação de influência.",
+      "visual_hint": "Ícone de grafo com nós e arestas pulsando, representando fluxo de informação"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Em vez de perguntar 'este post é falso?', a abordagem pergunta 'esta narrativa está se comportando como uma operação de influência?'. Isso permite detecção antecipada, atribuição de autoria e escalabilidade em tempo real — um salto de moderação reativa para inteligência de rede autônoma.",
+      "visual_hint": "Comparação visual: olho humano vs. grafo de rede digital"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: gasto anual das big techs com moderação de conteúdo",
+        "3 camadas: extração, grafo de difusão, detecção de anomalias",
+        "Tempo real: detecção antes da viralização, não depois"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Plataformas migrarão de moderação manual para sistemas autônomos de inteligência de rede",
+        "Governos e empresas de segurança cibernética ganharão ferramentas de prevenção, não apenas apagamento de incêndios",
+        "Surge um novo mercado de auditoria de conteúdo em IA, baseado em assinaturas de rede"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra invisível está só começando — e quem entender os grafos, entenderá o jogo."
+    }
+  ]
+}

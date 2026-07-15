@@ -1,0 +1,14 @@
+{
+  "tldr": "O paper CANDI propõe um mecanismo de alinhamento contextual que adapta LLMs a domínios especializados sem fine-tuning massivo, atacando o gargalo de confiabilidade que impede a adoção corporativa em setores como saúde e finanças.",
+  "key_facts": [
+    "CANDI utiliza recuperação contextual adaptativa e alinhamento semântico por projeção para especializar LLMs sem fine-tuning completo.",
+    "O método exige ordens de magnitude menos dados que fine-tuning tradicional, usando um classificador leve e um adaptador treinado com pares pergunta-resposta do domínio.",
+    "Resultados preliminares mostram ganhos significativos em precisão para perguntas de nicho sem degradação em tarefas de conhecimento geral."
+  ],
+  "why_it_matters": "A notícia importa porque revela uma abordagem prática e escalável para resolver o principal gargalo econômico da IA corporativa: a falta de confiabilidade em contextos especializados, que trava a adoção em setores regulados e de alto valor.",
+  "watch_next": [
+    "Publicação de benchmarks específicos de domínio (saúde, finanças, direito) para validar CANDI em escala.",
+    "Possível integração da técnica em plataformas de IA corporativa como Azure AI, AWS Bedrock ou soluções open-source."
+  ],
+  "editorial_angle": "O artigo se diferencia ao quantificar o problema da confiabilidade contextual como um gargalo de US$ 100 bilhões, conectando um paper técnico do arXiv diretamente ao impacto econômico e estratégico para empresas, em vez de focar apenas na inovação acadêmica."
+}

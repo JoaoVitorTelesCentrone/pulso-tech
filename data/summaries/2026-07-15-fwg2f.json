@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe framework baseado em grafos para detectar desinformação no Telegram entre Ucrânia e Rússia, sinalizando a migração da moderação de conteúdo para sistemas autônomos de inteligência de rede.",
+  "key_facts": [
+    "Pesquisadores publicaram paper (2607.11894) no arXiv sobre detecção de difusão de narrativas de desinformação via grafos no Telegram.",
+    "O framework opera em três camadas: extração de narrativas, construção de grafo de difusão e detecção de padrões anômalos.",
+    "Custo anual combinado de moderação de conteúdo das big techs ultrapassa US$ 10 bilhões (estimativa de 2025).",
+    "Abordagem baseada em grafos permite detecção antecipada, atribuição de autoria e escalabilidade em tempo real."
+  ],
+  "why_it_matters": "Representa uma mudança de paradigma na economia da moderação de conteúdo, saindo de reações manuais para sistemas de inteligência de rede autônomos, com potencial de criar um novo mercado de auditoria de conteúdo em IA.",
+  "watch_next": [
+    "Adoção do framework por plataformas como Meta, Google e Telegram para moderação em tempo real.",
+    "Surgimento de startups especializadas em auditoria de conteúdo baseada em grafos.",
+    "Regulamentações governamentais exigindo sistemas de detecção de desinformação com análise de rede."
+  ],
+  "editorial_angle": "O artigo conecta um paper acadêmico específico a uma tendência de mercado bilionária, destacando a transição da moderação reativa para a preventiva, com foco no valor econômico e estratégico para leitores de IA/Tech."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "CANDI: O Alinhamento Contextual que Pode Desbloquear o Gargalo de US$ 100 Bilhões dos LLMs em Domínios Especializados",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 100 Bilhões dos LLMs",
+      "subtext": "Modelos brilhantes em demonstrações, frágeis em domínios especializados. CANDI propõe a solução.",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways, partially obscured by a complex web of financial and medical symbols, dark background with blue and gold accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "LLMs de propósito geral falham silenciosamente em domínios como medicina e finanças. Benchmarks tradicionais (MMLU, GSM8K) não capturam nuances de diagnósticos diferenciais ou cláusulas contratuais complexas.",
+      "highlight": "Modelos que acertam 95% no MMLU podem errar 10% em contraindicações de medicamentos."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores publicaram o paper CANDI, que ataca o problema pela contextualização na inferência. Em vez de fine-tuning massivo, ele usa um mecanismo de recuperação de contexto dinâmico e alinhamento semântico para adaptar LLMs a domínios de nicho.",
+      "visual_hint": "Ícone de engrenagem com um cérebro e uma lupa sobrepostos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O principal gargalo para adoção de LLMs em setores regulados não é a capacidade do modelo, mas a confiabilidade em contexto. CANDI promete especialização sem perda de generalidade, desbloqueando um mercado de US$ 100 bilhões.",
+      "visual_hint": "Gráfico de barra mostrando adoção de IA em saúde e finanças vs. outros setores"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Benchmarks tradicionais (MMLU) não medem conhecimento de nicho",
+        "CANDI exige ordens de magnitude menos dados que fine-tuning completo",
+        "Ganhos significativos em precisão para perguntas de nicho sem degradação geral"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Adoção de LLMs em saúde e finanças se torna viável e confiável",
+        "Redução drástica de custos com fine-tuning e coleta de dados especializados",
+        "Novos benchmarks específicos por domínio substituirão métricas genéricas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "CANDI pode redefinir a economia da adoção corporativa de IA. Não fique para trás."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "OpenAI Vai Fazer um Alto-Falante: O Sinal de que a Economia da IA Está Saindo da Tela",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A IA Ganha um Corpo: OpenAI Lança Seu Primeiro Alto-Falante",
+      "subtext": "O dispositivo que pode enterrar Alexa, Siri e Google Assistant de uma vez.",
+      "image_prompt": "Futuristic smart speaker with glowing blue lights, sleek black design, placed in a modern living room, cinematic lighting, photorealistic, high contrast, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI, até agora puramente de software, está prestes a anunciar seu primeiro hardware: um alto-falante inteligente com câmera e sensores. O movimento ocorre dias após a Apple abrir um processo contra a empresa, sinalizando uma guerra pelo controle da interface do usuário.",
+      "highlight": "Primeiro dispositivo físico da OpenAI: uma caixa que ouve e vê."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI está criando um smart speaker sem tela, mas com câmera e sensores para entender o ambiente. O objetivo é dar um corpo ao ChatGPT, permitindo interação contínua, contextual e always-on — algo que assistentes como Alexa e Siri nunca conseguiram entregar.",
+      "visual_hint": "Ícone de alto-falante com olho estilizado no centro, representando visão + áudio"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Assistentes de voz atuais são 'burros': seguem scripts e falham em conversas abertas. O ChatGPT entende nuance, contexto e intenção. Um dispositivo que vê sua geladeira e sugere receitas, ou que interrompe uma conversa pelo tom de voz, pode tornar obsoletos todos os concorrentes em um único ciclo de produto.",
+      "visual_hint": "Ilustração de um cérebro digital saindo de uma tela e entrando em um alto-falante"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Smart speakers vendem 150M+ unidades/ano, mas 70% dos usuários não usam para mais que timer e música.",
+        "ChatGPT atingiu 100M usuários em 2 meses; assistentes de voz tradicionais levaram anos para engajar.",
+        "OpenAI já vale US$ 300B+ e agora fecha o loop: software + hardware + dados do ambiente."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Apple, Amazon e Google perdem o controle do hub doméstico para uma IA de fronteira.",
+        "O modelo de negócios da OpenAI deixa de depender de intermediários (Apple, Google) e passa a controlar a experiência física.",
+        "A corrida por 'agentes físicos' começa: quem dominar o hardware + IA ditará a próxima década da tecnologia."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A IA está saindo da tela. O próximo passo? Ela entra na sua sala."
+    }
+  ]
+}

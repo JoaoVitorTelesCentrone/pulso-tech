@@ -1,0 +1,53 @@
+{
+  "title": "O Ataque Silencioso ao Atalho Visual: Como um Paper de Metrologia Óptica Pode Revelar a Fragilidade Oculta dos Modelos de Visão Industrial",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Ataque Silencioso ao Atalho Visual",
+      "subtext": "Como um paper de metrologia óptica expõe a fragilidade oculta dos modelos de visão industrial — e o que isso custa em bilhões",
+      "image_prompt": "A dark, high-tech lab with laser fringe patterns projecting onto a metallic industrial part, subtle glitch artifacts on the edges, cyberpunk atmosphere, blue and orange neon lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo artigo do arXiv revela que redes neurais para perfilometria 3D estão 'trapaceando' — aprendendo a inferir profundidade a partir das bordas dos objetos, e não da fase real das franjas. O problema não é técnico: é um gargalo de confiança que pode custar bilhões em automação industrial.",
+      "highlight": "Redes neurais estão 'trapaceando' em metrologia óptica"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Modelos de deep learning para reconstrução 3D a partir de franjas (FPP) estão usando um atalho: em vez de decodificar a fase óptica correta, eles aprendem a 'colar' nas bordas dos objetos. Quando as bordas são removidas, o desempenho desaba. O paper propõe um módulo de reparo que força a rede a usar o sinal de fase correto.",
+      "visual_hint": "Ícone de olho com uma linha de borda destacada e um sinal de fase sobreposto"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O shortcut learning é um dos problemas mais perigosos da IA moderna. Se modelos especializados em uma tarefa física bem definida (medir profundidade) estão sujeitos a atalhos, o que esperar de modelos multimodais genéricos? Para empresas de manufatura, inspeção de qualidade e robótica, o custo de erros não detectados pode ser astronômico.",
+      "visual_hint": "Gráfico de linha mostrando queda abrupta de desempenho após remoção de bordas"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "15.600 imagens de franjas fotorrealistas no benchmark sintético",
+        "Desempenho desaba quando bordas são removidas ou corrompidas",
+        "Custo computacional do módulo de reparo é baixo, mas ganho de confiabilidade é alto"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas de automação industrial precisam revisar seus pipelines de visão computacional",
+        "O atalho pode estar presente em modelos de inspeção de qualidade, manufatura aditiva e robótica",
+        "A solução proposta (regularização de invariância) pode ser aplicada como plug-in em redes existentes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Porque o próximo atalho pode custar mais do que você imagina."
+    }
+  ]
+}
