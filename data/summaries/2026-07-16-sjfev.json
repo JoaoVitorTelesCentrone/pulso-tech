@@ -1,0 +1,14 @@
+{
+  "tldr": "A segurança em agentes de IA está sendo redefinida pela injeção de prompt, com a OpenAI automatizando ataques via GPT-Red e defensores usando 'context bombing' para explorar a mesma vulnerabilidade como mecanismo de defesa, criando um campo de batalha econômico de US$ 1 trilhão.",
+  "key_facts": [
+    "OpenAI lançou GPT-Red, ferramenta automatizada que gera ataques de injeção de prompt para testar a segurança de agentes de IA.",
+    "Times de segurança estão adotando 'context bombing', técnica que injeta comandos de desligamento no contexto do agente atacante para desarmá-lo.",
+    "O mercado de agentes de IA corporativos deve ultrapassar US$ 100 bilhões até 2028, mas a segurança por injeção de prompt é seu calcanhar de Aquiles."
+  ],
+  "why_it_matters": "A injeção de prompt não é mais teórica: agentes de IA já executam tarefas críticas como acessar bancos de dados e APIs financeiras. Se a segurança não for resolvida, todo o mercado de agentes corporativos pode colapsar, impactando investimentos e a adoção em larga escala.",
+  "watch_next": [
+    "OpenAI pode integrar GPT-Red como padrão em sua plataforma, forçando concorrentes a adotar ferramentas similares.",
+    "O 'context bombing' pode evoluir para uma categoria de 'defesa ativa' em agentes, gerando startups especializadas em segurança ofensiva-defensiva para IA."
+  ],
+  "editorial_angle": "O artigo se destaca ao conectar duas notícias aparentemente opostas (ataque automatizado e defesa por injeção) para revelar uma simetria brutal: o mesmo vetor de vulnerabilidade está sendo usado como arma e escudo, reescrevendo a economia da segurança em IA. A escolha editorial foi mostrar que o problema não é técnico, mas estratégico e econômico."
+}

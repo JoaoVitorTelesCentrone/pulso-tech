@@ -1,0 +1,54 @@
+{
+  "title": "Bolas de Basquete e a Economia do Sinal: Por Que a OpenAI Está Vendendo Hardware que Parece uma Piada de US$ 1 Trilhão",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Bolas de Basquete e a Economia do Sinal",
+      "subtext": "Por que a OpenAI está vendendo hardware que parece uma piada de US$ 1 trilhão",
+      "image_prompt": "A glowing orange basketball with the ChatGPT logo floating in a dark, futuristic tech arena, neon lights reflecting on the floor, cinematic lighting, high contrast, cyberpunk aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a OpenAI lançou seu primeiro hardware oficial: uma bola de basquete da marca ChatGPT. Enquanto o mercado esperava um wearable ou dispositivo de IA, a empresa entregou um objeto esportivo — gerando risos e alertas estratégicos.",
+      "highlight": "Não é um chip. Não é um robô. É uma bola."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI não está vendendo uma bola. Está vendendo um sinal. Em um mercado onde a diferenciação técnica desaparece, a marca se torna a única vantagem defensável. O hardware 'inútil' é, na verdade, um movimento de economia de atenção e cultura aspiracional.",
+      "visual_hint": "Ícone de bola de basquete com seta de sinalização wireless ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Apple construiu um império vendendo símbolos de pertencimento. A OpenAI está testando se pode fazer o mesmo com IA. Cada bola que circula em ginásios e escritórios vira um outdoor permanente — e gera cobertura de mídia gratuita que vale milhões em marketing.",
+      "visual_hint": "Ilustração de uma bola de basquete sendo usada como outdoor ambulante em uma cidade futurista"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de produção por bola: US$ 5 a US$ 15",
+        "Preço estimado de venda: US$ 40 a US$ 80",
+        "Margem bruta estimada: 70% a 85%",
+        "Receita potencial (100 mil unidades): US$ 4 a 8 milhões"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Marca vira o principal ativo defensável na economia da IA",
+        "Empresas de tecnologia vão replicar o modelo de 'hardware sinal'",
+        "Atenção e cultura substituem benchmarks como métrica de valor"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "Porque às vezes o movimento mais absurdo é o mais estratégico."
+    }
+  ]
+}

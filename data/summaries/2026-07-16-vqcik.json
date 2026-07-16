@@ -1,0 +1,14 @@
+{
+  "tldr": "OpenAI criou o GPT-Red, um LLM especializado em red teaming automatizado para hackear outros modelos de IA, inaugurando uma nova economia de segurança ofensiva em IA.",
+  "key_facts": [
+    "OpenAI revelou o GPT-Red, um modelo de IA projetado para atuar como adversário sintético e encontrar vulnerabilidades em outros modelos da empresa.",
+    "O GPT-Red é treinado especificamente para hackear LLMs, realizando ataques de engenharia de prompt, injeção de contexto e exploração de falhas de alinhamento em escala.",
+    "O modelo permite um ciclo contínuo de ataque e defesa, gerando dados de treinamento para corrigir as falhas que encontra."
+  ],
+  "why_it_matters": "A notícia sinaliza que a segurança de modelos de fronteira está migrando de auditoria passiva para um campo de batalha ativo entre IAs, criando um novo mercado de segurança ofensiva automatizada que pode substituir red teams humanos e consultorias tradicionais.",
+  "watch_next": [
+    "Outras empresas de IA (Google, Anthropic, Meta) podem anunciar seus próprios modelos de red teaming automatizado, iniciando uma corrida armamentista de segurança.",
+    "Surgimento de startups especializadas em oferecer 'IA hacker como serviço' para testar sistemas de terceiros, expandindo a economia de segurança ofensiva."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o lançamento técnico do GPT-Red com uma tese econômica mais ampla — a criação de uma nova categoria de mercado (segurança ofensiva automatizada para IA) —, em vez de apenas reportar o fato como uma novidade de produto."
+}

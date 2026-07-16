@@ -1,0 +1,53 @@
+{
+  "title": "A Balança da Injeção de Prompt: Como GPT-Red e o 'Context Bombing' Estão Criando o Novo Campo de Batalha de US$ 1 Trilhão da Segurança em Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Balança da Injeção de Prompt",
+      "subtext": "Como GPT-Red e o 'Context Bombing' estão reescrevendo a segurança em agentes de IA — e criando um campo de batalha de US$ 1 trilhão",
+      "image_prompt": "A futuristic digital scale balancing a glowing red attack prompt on one side and a blue defensive shield on the other, with neural network nodes and binary code in the background, dark cyberpunk aesthetic, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Duas notícias do mesmo dia revelam uma guerra silenciosa: a OpenAI lança o GPT-Red, um super-hacker automatizado que testa agentes de IA com milhões de variações de ataques. Enquanto isso, defensores descobrem que a melhor defesa é usar a própria injeção de prompt como arma — com a técnica 'Context Bombing'.",
+      "highlight": "O mesmo vetor de ataque que compromete um agente agora também o desarma."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-Red é um agente especializado que analisa, gera ataques adaptativos e escala testes de segurança em paralelo — algo que humanos levariam semanas para fazer. Já o 'Context Bombing' inverte a lógica: em vez de bloquear o ataque, ele programa o agente para se autodesligar ao detectar uma injeção hostil.",
+      "visual_hint": "Ícone de robô hacker vs. escudo com interruptor de desligamento"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Agentes de IA já acessam bancos de dados, enviam e-mails, modificam código e interagem com APIs financeiras. Uma injeção de prompt bem-sucedida pode significar exfiltração de dados, transações não autorizadas ou comprometimento de cadeias inteiras de agentes. Sem segurança, o mercado de agentes corporativos simplesmente não existirá.",
+      "visual_hint": "Ícone de cadeado quebrado sobre engrenagens de IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado de agentes de IA corporativos projetado para ultrapassar US$ 100 bilhões até 2028",
+        "GPT-Red testa milhares de variações de ataque em paralelo, algo que uma equipe humana levaria semanas",
+        "Injeção de prompt é o calcanhar de Aquiles de toda a economia dos agentes de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Segurança em IA deixa de ser reativa e se torna preditiva e automatizada",
+        "Empresas precisarão de times especializados em 'red teaming' de IA para sobreviver",
+        "A injeção de prompt se consolida como o novo campo de batalha da cibersegurança global"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra dos agentes de IA está apenas começando — e a injeção de prompt é a nova linha de frente."
+    }
+  ]
+}

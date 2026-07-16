@@ -1,0 +1,53 @@
+{
+  "title": "GPT-Red: O Super-Hacker que a OpenAI Criou para Treinar seus Modelos — e a Nova Economia da Segurança Ofensiva em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GPT-Red: O Super-Hacker que a OpenAI Criou para Treinar seus Modelos",
+      "subtext": "A segurança de IA deixou de ser passiva — agora é um campo de batalha entre modelos adversários.",
+      "image_prompt": "A futuristic digital battlefield with two AI entities facing each other, one glowing red with malicious intent, the other blue and defensive, surrounded by data streams and code, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI revelou o GPT-Red, um LLM especializado em atuar como 'super-hacker' para testar a segurança de outros modelos. O anúncio foi feito pela MIT Technology Review em julho de 2026, marcando uma nova era na segurança ofensiva automatizada para IA.",
+      "highlight": "Segurança de IA deixa de ser auditoria passiva e se torna um campo de batalha ativo entre modelos."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-Red é um 'parceiro de sparring' — um sistema de red teaming automatizado que realiza ataques de engenharia de prompt, injeção de contexto e exploração de falhas de alinhamento em escala. Diferente de ferramentas genéricas, ele foi treinado especificamente para hackear outros LLMs.",
+      "visual_hint": "Ícone de robô hacker com capuz vermelho, cercado por cadeados quebrados e linhas de código"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Red teams humanos são caros e lentos. O GPT-Red executa milhões de testes em horas, encontra vulnerabilidades específicas de LLMs e gera dados para corrigi-las. Isso cria um ciclo contínuo de ataque e defesa que acelera o aprimoramento da segurança — e inaugura uma nova economia de segurança ofensiva para IA.",
+      "visual_hint": "Gráfico de ciclo infinito com setas de ataque (vermelho) e defesa (azul) se alternando"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Milhões de testes de penetração em horas — o que uma equipe humana levaria meses para fazer",
+        "Mercado de segurança em IA avaliado em US$ 1 trilhão",
+        "GPT-Red é otimizado para vulnerabilidades específicas: injeção de prompt, jailbreaks, vazamento de contexto e alinhamento quebrado"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Segurança de modelos de fronteira passa a ser tratada como defesa em profundidade, não apenas guardrails",
+        "Empresas poderão contratar modelos especializados para testar seus sistemas — ou construir os seus próprios",
+        "O adversarial training e reinforcement learning se tornam padrão na indústria de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A nova economia da segurança ofensiva em IA está apenas começando. Fique por dentro."
+    }
+  ]
+}

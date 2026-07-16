@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo framework matemático propõe seguros nativos para agentes de IA autônomos, precificando riscos em tempo real e criando a infraestrutura de confiança para um mercado de US$ 1 trilhão.",
+  "key_facts": [
+    "Paper do arXiv propõe o primeiro framework atuarial completo para seguros de IA agentiva.",
+    "Modelo precifica riscos com base em autonomia (α), exposição a ferramentas (β) e histórico de ações (γ).",
+    "Seguro seria uma camada nativa da arquitetura, com apólices ativadas antes da execução de ações autônomas.",
+    "Mercado de agentes autônomos corporativos é estimado em US$ 1 trilhão até 2030."
+  ],
+  "why_it_matters": "O maior gargalo para adoção empresarial de agentes autônomos é a responsabilidade legal e a confiança; este artigo mostra que o seguro nativo de IA pode ser a chave para desbloquear esse mercado, transformando risco em ativo segurado.",
+  "watch_next": [
+    "Primeiras seguradoras a adotarem o framework e lançarem produtos comerciais para agentes de IA.",
+    "Reguladores começarem a exigir seguro nativo como pré-requisito para operação de agentes autônomos em setores críticos.",
+    "Startups de IA agentiva incorporarem o seguro como feature de produto, similar a garantias de SaaS."
+  ],
+  "editorial_angle": "Diferencia-se por tratar o seguro não como um add-on, mas como infraestrutura nativa de confiança para agentes autônomos, conectando inovação atuarial com o maior desafio prático da adoção empresarial de IA."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "O Seguro Nativo de IA: Como a Precificação de Riscos Autônomos Está Criando o Mercado de US$ 1 Trilhão da Responsabilidade de Agentes",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Seguro Nativo de IA: A Nova Infraestrutura de Confiança para Agentes Autônomos",
+      "subtext": "Quando agentes de IA decidem, erram e causam danos — quem paga a conta? Um novo framework matemático promete desbloquear um mercado de US$ 1 trilhão.",
+      "image_prompt": "Futuristic digital insurance policy glowing over a network of autonomous AI agents, dark blue and neon green tones, abstract data streams, high tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA autônomos já tomam decisões, invocam APIs e interagem com o mundo real. Mas o maior gargalo para adoção empresarial não é técnico — é a falta de clareza sobre responsabilidade legal e financeira quando algo dá errado.",
+      "highlight": "O mercado de agentes autônomos corporativos é estimado em US$ 1 trilhão até 2030 — mas só será desbloqueado com uma camada de confiança segurada."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um paper do arXiv propõe o primeiro framework matemático nativo de IA para precificar, subscrever e automatizar seguros para sistemas agentivos. O modelo considera autonomia, exposição a ferramentas, histórico de ações e capacidade de auto-modificação — tudo em tempo real.",
+      "visual_hint": "Ícone de apólice digital com engrenagens e linhas de código ao redor"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas hesitam em delegar decisões críticas a agentes de IA por medo de danos financeiros, operacionais ou reputacionais sem responsável claro. Este seguro não é um add-on — é uma camada nativa da arquitetura: antes de executar uma transação, o agente precisa de uma apólice ativa e precificada dinamicamente.",
+      "visual_hint": "Diagrama de agente IA com escudo de seguro integrado ao fluxo de decisão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Coeficiente de Autonomia (α): de 0.1 (supervisão total) a 0.9 (decisões autônomas) — prêmio de risco escala exponencialmente",
+        "Índice de Exposição a Ferramentas (β): quanto mais APIs e sistemas o agente acessa, maior a superfície de risco",
+        "Histórico de Ações (γ): registro imutável de cada decisão para precificação baseada em comportamento real"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Seguro se torna requisito de arquitetura, não pós-venda — agentes só operam com apólice ativa",
+        "Precificação dinâmica em tempo real substitui modelos atuariais populacionais tradicionais",
+        "Mercado de US$ 1 trilhão em agentes autônomos corporativos se torna viável com infraestrutura de confiança"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da economia autônoma está sendo segurado agora. Não fique de fora."
+    }
+  ]
+}

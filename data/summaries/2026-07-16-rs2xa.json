@@ -1,0 +1,16 @@
+{
+  "tldr": "A Moonshot AI está lançando o Kimi K3, um modelo de 3 trilhões de parâmetros que pode rivalizar com o Anthropic Opus 4.8, redefinindo a economia da guerra de modelos ao demonstrar que a China pode liderar a corrida mesmo com restrições de hardware.",
+  "key_facts": [
+    "O Kimi K3 tem entre 2 e 3 trilhões de parâmetros, tornando-se o maior modelo aberto da China.",
+    "A Moonshot usa arquitetura MoE (Mixture of Experts) para escalar sem aumentar proporcionalmente o custo de inferência.",
+    "O modelo anterior da empresa, Kimi K2, tinha cerca de 1 trilhão de parâmetros.",
+    "O lançamento ocorre em meio a restrições de exportação de chips dos EUA para a China."
+  ],
+  "why_it_matters": "Esta notícia importa porque sinaliza que a China está reduzindo o gap com os modelos de fronteira ocidentais, pressionando os preços de inferência e desafiando a vantagem dos modelos fechados, o que afeta diretamente desenvolvedores e empresas que precisam escolher entre custo, performance e soberania de dados.",
+  "watch_next": [
+    "Comparações de benchmark entre Kimi K3 e Opus 4.8 devem surgir rapidamente, validando ou refutando as ambições da Moonshot.",
+    "Novas rodadas de restrições de exportação dos EUA podem ser anunciadas em resposta ao avanço chinês.",
+    "Empresas ocidentais podem acelerar a abertura de seus modelos para competir com a oferta chinesa de baixo custo."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no impacto econômico e geopolítico do Kimi K3, em vez de apenas nos números técnicos, destacando como a inovação em eficiência (MoE, otimização de hardware) está mudando a economia da guerra de modelos e desafiando a hegemonia ocidental."
+}

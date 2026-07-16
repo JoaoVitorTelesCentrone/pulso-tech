@@ -1,0 +1,53 @@
+{
+  "title": "O Investimento de US$ 300 Milhões Sem Produto: Por Que o Mercado de IA Está Pagando por Potencial, Não por Prova",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "US$ 300 Milhões Sem Produto: O Currículo Vale Mais que o Faturamento",
+      "subtext": "Como um ex-pesquisador da DeepMind levantou capital bilionário antes do MVP — e o que isso revela sobre a nova economia da IA",
+      "image_prompt": "A futuristic abstract background with glowing neural networks and a silhouette of a person standing in front of a massive digital brain, dark blue and neon purple tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Andrew Dai, ex-DeepMind, levantou US$ 300 milhões em valuation pré-seed sem ter um produto. O mercado de IA está pagando por potencial, não por prova — e o talento de fronteira virou o ativo mais valioso.",
+      "highlight": "Valuation pré-seed de US$ 300 milhões — sem MVP, sem receita, sem clientes."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Investidores estão apostando em pessoas, não em produtos. Pesquisadores com histórico comprovado em DeepMind, OpenAI e Google Brain levantam rodadas milionárias baseadas apenas em reputação e capacidade técnica.",
+      "visual_hint": "Ícone de cérebro humano com cifrões ou gráfico de valuation disparando antes do lançamento do produto"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo de oportunidade do talento superou o custo do capital. Para tirar um pesquisador de ponta do mercado, investidores precisam oferecer valuations que antes seriam considerados absurdos. O diferencial competitivo agora é o cérebro, não a ideia.",
+      "visual_hint": "Balança com um lado pesando 'Talento' e o outro 'Capital'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 300 milhões: valuation pré-seed de Andrew Dai sem produto lançado",
+        "Salários de US$ 1-5 milhões/ano para pesquisadores sênior em big techs",
+        "Múltiplos casos nos últimos 18 meses de rodadas baseadas em reputação"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Bolha de valuation em estágio inicial pode distorcer incentivos para construir enxuto",
+        "IA visual e multimodal se consolidam como a próxima fronteira de investimento",
+        "Escassez de talento de fronteira redefine a economia do capital de risco em IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo salto da IA será multimodal — e quem tem o cérebro certo está no comando."
+    }
+  ]
+}
