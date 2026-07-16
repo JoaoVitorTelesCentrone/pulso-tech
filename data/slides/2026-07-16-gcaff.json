@@ -1,0 +1,53 @@
+{
+  "title": "Agentes que Aprendem Sozinhos: O Survey Que Mapeia o Gargalo de US$ 1 Trilhão da Auto-Melhoria em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Agentes que Aprendem Sozinhos: O Gargalo de US$ 1 Trilhão",
+      "subtext": "90% das empresas ainda estão presas no paradigma errado — enquanto a auto-melhoria em IA já é realidade.",
+      "image_prompt": "A futuristic digital brain evolving and rewriting its own neural pathways, glowing circuits, dark background, high tech, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A indústria gasta bilhões em fine-tuning e prompts, mas um novo survey do arXiv revela que o verdadeiro ouro está nos sistemas que evoluem sozinhos. O paper 'Self-Improvements in Modern Agentic Systems' é o primeiro mapeamento sistemático de como agentes de IA aprendem a se aperfeiçoar sem intervenção humana.",
+      "highlight": "US$ 1 trilhão em valor potencial — e 90% das empresas ainda operam com prompts estáticos."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O survey categoriza a auto-melhoria em três famílias: auto-feedback e reflexão, aprendizado por experiência e evolução controlada. Sistemas em produção já mostram agentes de codificação que aprendem com seus próprios bugs e assistentes de vendas que otimizam scripts baseados em taxas de conversão históricas.",
+      "visual_hint": "Ícone de engrenagem com setas circulares e um cérebro digital ao centro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A maioria dos agentes em produção opera com prompts estáticos e fine-tuning periódico — repetindo erros e exigindo intervenção humana constante. A auto-melhoria não é um 'nice-to-have': é o único caminho para agentes que realmente funcionam em cenários do mundo real. Empresas que dominarem isso criarão vantagens competitivas impossíveis de replicar.",
+      "visual_hint": "Gráfico de linha ascendente com um ponto de inflexão marcado como 'Auto-melhoria'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Nível 1 (Reflexão Pós-Ação): redução de 15-30% em retrabalho humano — já em produção",
+        "Nível 2 (Aprendizado por Experiência): melhoria contínua sem intervenção humana — emergente",
+        "Nível 3 (Evolução Arquitetural): sistemas que se adaptam sozinhos — potencial transformacional"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes de codificação que evoluem com cada bug que encontram",
+        "Assistentes de suporte que aprendem sozinhos o que gera satisfação",
+        "Sistemas que reescrevem seus próprios prompts e estratégias de raciocínio"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está em prompts melhores — está em sistemas que aprendem a se reescrever sozinhos."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "Mira Murati, ex-CTO da OpenAI, lança pela Thinking Machines o modelo Inkling de 975 bilhões de parâmetros com pesos abertos, desafiando o modelo fechado da OpenAI e oferecendo uma alternativa ocidental aos modelos chineses de código aberto.",
+  "key_facts": [
+    "Thinking Machines, startup de Mira Murati, lançou o Inkling, um modelo de 975 bilhões de parâmetros com pesos abertos.",
+    "O modelo utiliza arquitetura Mixture-of-Experts (MoE) otimizada para inferência eficiente e auditabilidade.",
+    "O lançamento ocorre em 15 de julho de 2026, coberto por The Register e TechCrunch.",
+    "Inkling é uma alternativa direta aos modelos abertos chineses (DeepSeek, Alibaba) e aos modelos fechados como GPT-5.6 e Claude Sonnet 5."
+  ],
+  "why_it_matters": "O lançamento redefine a economia da soberania em IA, oferecendo a governos e empresas uma alternativa ocidental auditável e de baixo custo para inferência, quebrando o domínio de APIs proprietárias e modelos chineses no ecossistema open source.",
+  "watch_next": [
+    "Reação da OpenAI e de outros players fechados (Google, Anthropic) ao movimento de abertura de pesos.",
+    "Adoção do Inkling por governos europeus e sul-americanos como base para soberania digital.",
+    "Possível guerra de preços entre modelos abertos e APIs proprietárias, com impacto nos custos de inferência corporativa."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o lançamento técnico a uma narrativa geopolítica e econômica, destacando a aposta de Murati na transparência como diferencial competitivo e posicionando o Inkling como um marco na descentralização da IA, em contraste com o modelo de plataforma fechada do Vale do Silício."
+}

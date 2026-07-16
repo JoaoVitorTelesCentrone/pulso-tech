@@ -1,0 +1,53 @@
+{
+  "title": "O Legado de Mira Murati: Thinking Machines Lança o Modelo Aberto de 975 Bilhões que a OpenAI Se Recusou a Criar",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Legado de Mira Murati: O Modelo de 975 Bilhões que a OpenAI Não Criou",
+      "subtext": "Thinking Machines entrega o Inkling: pesos abertos, soberania digital e o fim do monopólio das APIs.",
+      "image_prompt": "A futuristic, dark tech lab with a glowing, open-source AI brain floating above a server rack, neon blue and purple lights, cinematic lighting, high contrast, 8k resolution."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Mira Murati, ex-CTO da OpenAI, deixou a empresa em 2024 em meio a turbulências. Agora, sua nova startup Thinking Machines lança o Inkling, um modelo de fronteira de 975 bilhões de parâmetros com pesos abertos — algo que a OpenAI jamais fez.",
+      "highlight": "Enquanto Sam Altman defende portas fechadas, Murati entrega um modelo aberto que reconfigura a economia da IA."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Inkling é um modelo Mixture-of-Experts (MoE) de 975 bilhões de parâmetros, com pesos totalmente abertos. Ele foi projetado para ser baixado, auditado e implantado em data centers próprios, sem depender de APIs caras ou acordos de confidencialidade.",
+      "visual_hint": "Ícone de engrenagem aberta com um cadeado quebrado ao lado, simbolizando transparência e liberdade."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, uma empresa ocidental de peso libera um modelo de quase 1 trilhão de parâmetros com pesos abertos. Isso ataca três gargalos: soberania digital, custo de inferência e auditabilidade. Governos e empresas agora têm uma alternativa viável aos modelos chineses e às APIs proprietárias.",
+      "visual_hint": "Mapa-múndi com pontos de luz representando data centers independentes, conectados por linhas de dados abertos."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "975 bilhões de parâmetros — o maior modelo aberto do Ocidente.",
+        "Arquitetura MoE otimizada para inferência eficiente, similar à DeepSeek V4.",
+        "Redução de custos de inferência em até 10x para empresas que rodam localmente."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Governos europeus, asiáticos e sul-americanos ganham soberania digital com uma alternativa ocidental aberta.",
+        "Empresas podem auditar cada peso do modelo, essencial para setores regulados como saúde e defesa.",
+        "O modelo de 'aluguel' de APIs dá lugar à 'propriedade' — uma terceira via contra o monopólio dos hyperscalers."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA é aberto, auditável e descentralizado. Você está pronto para essa mudança?"
+    }
+  ]
+}

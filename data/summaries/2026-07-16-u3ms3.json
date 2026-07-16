@@ -1,0 +1,17 @@
+{
+  "tldr": "Pesquisa com 101 empresas revela que a maioria dos 'agentes de IA' corporativos são chatbots disfarçados, e a orquestração multi-etapa confiável está se consolidando em torno da Anthropic.",
+  "key_facts": [
+    "Estudo do VentureBeat com 101 organizações empresariais sobre adoção de agentes de IA.",
+    "Maioria dos 'agentes' implantados são chatbots com automação superficial, não agentes autônomos.",
+    "Orquestração de agentes está se consolidando em plataformas de provedores de modelos, com Claude da Anthropic liderando.",
+    "Empresas têm um problema de deployment, não de plataforma: possuem ferramentas, mas falham em tarefas complexas de ponta a ponta.",
+    "Escolha pela Anthropic se deve à confiabilidade na execução multi-etapa, não apenas à qualidade do modelo."
+  ],
+  "why_it_matters": "A notícia expõe uma fratura bilionária entre o hype de agentes autônomos e a realidade modesta nas empresas, indicando que o ROI esperado pode não se materializar, gerando risco de bolha de desilusão e freio nos investimentos em IA corporativa.",
+  "watch_next": [
+    "Possível correção no mercado de agentes de IA, com desvalorização de soluções superfaturadas.",
+    "Movimento de concorrentes (OpenAI, Google) para resolver o gargalo de orquestração confiável e capturar fatia de mercado.",
+    "Adoção mais lenta e criteriosa de agentes por empresas, focando em deployment robusto em vez de hype."
+  ],
+  "editorial_angle": "O artigo se diferencia ao basear-se em dados concretos de uma pesquisa abrangente, contrastando o discurso de vendas com a realidade operacional, e ao identificar um vencedor claro (Anthropic) na economia de orquestração, oferecendo uma análise estratégica e não apenas técnica."
+}

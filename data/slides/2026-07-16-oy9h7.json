@@ -1,0 +1,53 @@
+{
+  "title": "O Juiz Silencioso: Como a Aprendizagem de Preferências Humanas em Mundos Virtuais Pode Desbloquear o Mercado de US$ 10 Bilhões da Segurança em Agentes Físicos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Juiz Silencioso",
+      "subtext": "Como preferências humanas em mundos virtuais podem desbloquear um mercado de US$ 10 bilhões em segurança de agentes físicos",
+      "image_prompt": "A futuristic digital courtroom with a silent holographic judge overlooking a virtual city, neon blue and purple tones, high-tech atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Robôs e veículos autônomos enfrentam um gargalo crítico: como garantir segurança em ambientes imprevisíveis sem recompensas artificiais que geram comportamentos perigosos? O mercado de robótica vale centenas de bilhões, mas a confiança ainda é o maior obstáculo.",
+      "highlight": "Ninguém quer um robô que aprenda a maximizar a recompensa errada — à custa de segurança."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe um framework que ensina agentes de IA a serem seguros usando preferências humanas e justificativas, dentro de modelos de mundo. Sem recompensas numéricas, o agente aprende por que uma ação é preferível, eliminando o reward hacking.",
+      "visual_hint": "Ícone de um cérebro digital com setas de feedback humano entrando e saindo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como Tesla, Amazon e a indústria de manufatura podem finalmente implantar agentes físicos com segurança auditável. Isso desbloqueia um mercado de US$ 10 bilhões em robótica que hoje fica travado por medo de falhas catastróficas e responsabilidade legal.",
+      "visual_hint": "Gráfico de uma barreira sendo rompida por uma seta dourada"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: mercado de segurança em agentes físicos desbloqueado",
+        "Centenas de bilhões: valor total da robótica e automação industrial",
+        "0 recompensas artificiais: fim do reward hacking com preferências humanas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Agentes treinados em simulação poderão ser implantados no mundo real com segurança",
+        "Justificativas humanas criam uma camada de explicabilidade e auditoria",
+        "Empresas de veículos autônomos e robótica ganham confiança para escalar"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O juiz silencioso já está decidindo o futuro da IA física. Você está pronto?"
+    }
+  ]
+}

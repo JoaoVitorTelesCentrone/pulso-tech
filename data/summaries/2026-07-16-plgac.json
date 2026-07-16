@@ -1,0 +1,14 @@
+{
+  "tldr": "Paper do arXiv propõe middleware agentic (SPINE) para automatizar a ponte entre modelos de IA e robôs físicos, atacando o gargalo de US$ 1 trilhão em deploy de IA física.",
+  "key_facts": [
+    "Paper SPINE propõe arquitetura de middleware agentic para conectar LLMs/VLMs a robôs físicos sem calibração manual.",
+    "Custo de integrar IA a robôs industriais hoje é proibitivo, exigindo engenharia personalizada para cada tarefa e plataforma.",
+    "Mercado de robótica industrial e de serviços projetado para US$ 500 bi até 2030, mas depende de deploy escalável de IA física."
+  ],
+  "why_it_matters": "A notícia revela que o verdadeiro gargalo da IA física não é o cérebro (modelos), mas a medula espinhal (deploy). Se o SPINE escalar, pode desbloquear centenas de bilhões em automação hoje inviável, impactando fábricas, armazéns e hospitais.",
+  "watch_next": [
+    "Validação do SPINE em ambientes reais (não só simulados) e comparação com soluções concorrentes (ex: RT-2 da Google, sistemas proprietários).",
+    "Movimento de grandes players (Fanuc, KUKA, Boston Dynamics) para adotar ou criar camadas de abstração similares, ou aquisição de startups focadas em middleware de robótica."
+  ],
+  "editorial_angle": "O artigo se diferencia ao quantificar economicamente o gargalo de deploy (US$ 1 trilhão) e posicionar o SPINE como uma 'ponte' crítica, em vez de apenas mais um paper de IA. A escolha editorial reflete o timing: a corrida por modelos maiores está dando lugar à infraestrutura de deploy, tema quente para leitores de IA/Tech."
+}

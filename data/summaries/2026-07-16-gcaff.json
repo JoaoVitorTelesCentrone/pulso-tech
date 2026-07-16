@@ -1,0 +1,15 @@
+{
+  "tldr": "Survey do arXiv mapeia como agentes de IA podem se auto-melhorar sem intervenção humana, revelando que 90% das empresas ainda usam prompts estáticos e fine-tuning, enquanto o verdadeiro valor está em sistemas que evoluem sozinhos.",
+  "key_facts": [
+    "Survey 'Self-Improvements in Modern Agentic Systems' (arXiv:2607.13104) é o primeiro mapeamento sistemático de auto-melhoria em agentes de IA.",
+    "Os mecanismos são categorizados em três níveis: Reflexão Pós-Ação, Aprendizado por Experiência e Evolução Arquitetural.",
+    "Nível 1 já está em produção e pode reduzir retrabalho humano em 15-30%.",
+    "Nível 3 (Evolução Arquitetural) ainda é pesquisa, mas promete sistemas que se adaptam sozinhos a novos problemas."
+  ],
+  "why_it_matters": "A auto-melhoria é o gargalo que impede agentes de IA de escalar em cenários reais. Empresas que dominarem essa capacidade criarão vantagens competitivas impossíveis de replicar com fine-tuning ou prompts manuais, enquanto as que ignorarem o tema ficarão presas em sistemas frágeis e dependentes de intervenção humana.",
+  "watch_next": [
+    "Empresas de infraestrutura de IA lançando plataformas de memória e reflexão para agentes (ex: bancos de memória vetorial com auto-aprendizado).",
+    "Startups focadas em 'Evolução Arquitetural' começando a atrair investimentos de risco, com promessas de agentes que reescrevem seus próprios prompts e cadeias de raciocínio."
+  ],
+  "editorial_angle": "Diferencia-se por não ser apenas mais um paper acadêmico: ele documenta sistemas em produção e quantifica o ROI de cada nível de maturidade, conectando diretamente a pesquisa ao impacto econômico e estratégico para gestores e investidores."
+}

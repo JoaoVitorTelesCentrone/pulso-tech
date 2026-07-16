@@ -1,0 +1,53 @@
+{
+  "title": "A Guerra Fria da Microsoft: Por Que a Maior Cliente de IA Está Treinando Vendedores para Enterrar OpenAI e Anthropic",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Guerra Fria da Microsoft",
+      "subtext": "Por que a maior cliente de IA está treinando vendedores para enterrar OpenAI e Anthropic",
+      "image_prompt": "Futuristic corporate war room, two opposing sides with glowing blue and red AI logos, cold tension, dark tech atmosphere, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Microsoft investiu mais de US$ 13 bilhões na OpenAI e é sua maior cliente de nuvem. Agora, está treinando sua força de vendas para convencer clientes de que seus próprios modelos são superiores — aos da OpenAI e da Anthropic.",
+      "highlight": "US$ 13 bilhões investidos — e o manual de vendas agora aponta contra o parceiro."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Microsoft está ensinando vendedores a posicionar seus modelos internos como 'mais eficientes e custo-efetivos' que os da OpenAI e Anthropic. Um movimento silencioso e agressivo que transforma a aliança em campo de batalha.",
+      "visual_hint": "Ícone de vendedor apontando para gráfico de custo decrescente, com logos da OpenAI e Anthropic ao fundo em tom vermelho de alerta."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A aliança Microsoft-OpenAI nunca foi um casamento, mas uma transação com prazo de validade. A Microsoft quer ser a plataforma de IA — não um revendedor de modelos de terceiros. Para CTOs, é um alerta: a lealdade entre fornecedores dura até o próximo ciclo de vendas.",
+      "visual_hint": "Ilustração de duas mãos apertadas se transformando em punhos cerrados, com engrenagens de plataforma ao fundo."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 3 a 5 bilhões anuais em taxas de licenciamento e computação para a OpenAI",
+        "Modelos internos (Phi, MAI-1) podem eliminar essa drenagem de caixa",
+        "Maioria dos fundadores do YC está migrando para OpenAI e Anthropic — talento foge do ecossistema Microsoft"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A commoditização dos modelos de fronteira torna a guerra de plataforma mais importante que a de performance",
+        "Startups que usam OpenAI/Anthropic podem se tornar concorrentes diretos da Microsoft",
+        "Espere mais movimentos de independência: parcerias com Mistral, Meta e modelos próprios ganharão força"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra de fornecedores de IA está só começando. Fique à frente."
+    }
+  ]
+}
