@@ -1,0 +1,16 @@
+{
+  "tldr": "GoDaddy lança API que permite agentes de IA gerenciarem domínios diretamente, transformando o registro de domínios em uma plataforma programável e criando guardrails que podem definir o padrão para a infraestrutura web.",
+  "key_facts": [
+    "GoDaddy lançou em 15 de julho de 2026 uma plataforma de desenvolvedor que permite agentes de IA gerenciarem domínios via API.",
+    "A API permite registrar, renovar, transferir domínios e gerenciar DNS programaticamente, integrando o ciclo de vida de domínios em workflows automatizados.",
+    "A GoDaddy teve que construir guardrails específicos para evitar danos sistêmicos ao ecossistema de DNS causados por agentes mal configurados ou maliciosos.",
+    "O movimento sinaliza a migração da economia dos agentes de IA para a operação direta em serviços de infraestrutura web."
+  ],
+  "why_it_matters": "Esta notícia importa porque marca a transição dos agentes de IA de ambientes controlados para a modificação da infraestrutura fundamental da web, expandindo exponencialmente a superfície de ataque e criando um novo mercado de confiança, segurança e orquestração que pode definir precedentes regulatórios para toda a indústria.",
+  "watch_next": [
+    "Como outras plataformas de infraestrutura (AWS, Cloudflare, Namecheap) responderão com APIs similares para agentes de IA.",
+    "Possíveis incidentes de segurança ou falhas em cascata que podem surgir com a automação do gerenciamento de domínios.",
+    "Desenvolvimento de padrões regulatórios e de segurança inspirados nos guardrails da GoDaddy para acesso de agentes a serviços web."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo silencioso da fragmentação de APIs de infraestrutura como o verdadeiro limitador da economia dos agentes de IA, em vez de apenas reportar o lançamento da GoDaddy, e foi escolhido por antecipar um movimento estratégico que pode redefinir a relação entre automação e infraestrutura web."
+}

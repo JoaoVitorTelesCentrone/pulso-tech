@@ -1,0 +1,53 @@
+{
+  "title": "Cars24 e a Revolução Silenciosa: Como um Marketplace Indiano Está Provando que o ROI da IA Está na Voz, Não nos Chatbots",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Revolução Silenciosa da IA na Índia",
+      "subtext": "Como a Cars24 recuperou 12% dos leads perdidos com agentes de voz — e por que o ROI da IA não está nos chatbots",
+      "image_prompt": "A futuristic Indian car marketplace with glowing digital voice waves connecting buyers and sellers, neon blue and orange tones, dark background, high tech vibe"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado se distrai com benchmarks de modelos e promessas de AGI, uma empresa indiana de carros usados está mostrando o caminho mais pragmático para o ROI da IA generativa: integrar agentes de voz e chat diretamente no funil de vendas.",
+      "highlight": "Cada segundo de conversa perdido é um lead que escapa"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Cars24 implementou agentes de IA baseados na OpenAI (GPT-4o/5.x + API de voz em tempo real) para escalar operações de atendimento e vendas. O resultado: mais de 1 milhão de minutos de conversa por mês processados por agentes de voz e chat.",
+      "visual_hint": "Ícone de onda sonora pulsando sobre um mapa da Índia com pontos de conexão"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A Índia é um dos mercados mais competitivos e sensíveis a preço do mundo. Se a IA está gerando ROI mensurável lá — em um negócio de margens apertadas como compra e venda de carros usados —, o argumento de que 'IA é cara demais para operações reais' perde força.",
+      "visual_hint": "Gráfico de linha ascendente com ícone de carro e cifrão"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "1 milhão de minutos de conversa por mês processados por agentes de IA",
+        "12% dos leads perdidos recuperados — leads que antes caíam no vazio",
+        "Agentes de IA integrados a workflows agenticos que abrangem múltiplos times"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Voz está vencendo o chat como canal de maior impacto em conversão",
+        "O ROI da IA não está em cortar custos, mas em capturar receita perdida",
+        "Empresas de mercados emergentes lideram a adoção pragmática de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está nos laboratórios — está nas linhas de frente dos negócios reais."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Gemini Notebook: O Enterro Silencioso do NotebookLM e a Estratégia de US$ 1 Trilhão do Google para Unificar a Experiência de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Enterro Silencioso do NotebookLM",
+      "subtext": "Como o Google está canibalizando seus próprios produtos para construir o sistema operacional da sua vida digital",
+      "image_prompt": "A futuristic digital graveyard with a glowing 'NotebookLM' tombstone being absorbed by a massive, luminous 'Gemini' logo, dark tech atmosphere, neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, o Google renomeou o NotebookLM para Gemini Notebook. O que parecia uma simples mudança de marca é, na verdade, o fim de um dos produtos mais queridos por pesquisadores e o início de uma consolidação radical de plataforma.",
+      "highlight": "NotebookLM não é mais um experimento de laboratório. Agora é parte da máquina Gemini."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Google está enterrando a marca NotebookLM e integrando o produto ao ecossistema Gemini. O app continua existindo, mas agora se alimenta de Gmail, Drive, Search e YouTube. Não é mais um 'caderno de IA' — é uma interface de conhecimento unificada.",
+      "visual_hint": "Ícone de um caderno sendo sugado por um círculo brilhante com o símbolo do Gemini"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para o usuário, o Gemini Notebook ganha distribuição massiva e integração nativa com o Google Workspace. Para startups de IA focadas em nicho, este é o aviso: os gigantes estão dispostos a canibalizar seus próprios sucessos para dominar a plataforma.",
+      "visual_hint": "Gráfico de um funil mostrando várias ferramentas sendo absorvidas por um único círculo central"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "NotebookLM nasceu como Project Tailwind em 2023, um dos primeiros produtos do Google Labs",
+        "A renomeação resolve 3 problemas: descoberta, integração e posicionamento corporativo",
+        "O mercado de 'segundo cérebro' com IA (Mem, Reflect, Notion AI) vale bilhões e está na mira do Google"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Ferramentas de nicho precisam de trincheiras defensáveis — ou serão absorvidas",
+        "O Gemini se torna o 'sistema operacional do conhecimento', unificando busca, anotações e produtividade",
+        "Usuários do Google Workspace não precisarão mais de apps de terceiros para análise de documentos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O Google está construindo o futuro da IA. E está disposto a enterrar seus próprios filhos para chegar lá."
+    }
+  ]
+}

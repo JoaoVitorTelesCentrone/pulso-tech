@@ -1,0 +1,16 @@
+{
+  "tldr": "Um novo paper do arXiv propõe um framework para gerenciar o 'harness' de agentes de IA, expondo que a infraestrutura de orquestração é o verdadeiro gargalo de US$ 1 trilhão na evolução dos agentes, superando a obsessão do mercado por modelos maiores.",
+  "key_facts": [
+    "O artigo 'Harness Handbook' (2607.13285) propõe um framework para tornar harnesses de agentes de IA legíveis, navegáveis e editáveis.",
+    "O harness é o código de infraestrutura que orquestra prompts, gerencia estado, invoca ferramentas e coordena a execução de agentes.",
+    "O paper argumenta que a capacidade de um agente depende tanto do modelo de fundação quanto do seu harness, e que 90% dos projetos de IA nunca chegam à produção devido a problemas de harness.",
+    "O framework se baseia em três pilares: legibilidade, navegabilidade e editabilidade."
+  ],
+  "why_it_matters": "Esta notícia importa porque revela que a corrida por modelos melhores está criando uma crise de infraestrutura que pode engolir bilhões em custos operacionais, alertando gestores e investidores sobre a dívida técnica de integração e confirmando para desenvolvedores que o código de infraestrutura é tão crítico quanto os modelos.",
+  "watch_next": [
+    "Empresas como OpenAI, Anthropic e Google podem adotar ou integrar os princípios do Harness Handbook em seus frameworks de agentes.",
+    "O mercado de ferramentas de desenvolvimento de agentes pode se fragmentar ou consolidar em torno de padrões de harness mais robustos.",
+    "Investidores podem começar a avaliar startups de IA não apenas pelos modelos, mas pela qualidade e modularidade de sua infraestrutura de agentes."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no gargalo negligenciado da infraestrutura de agentes (o harness) em vez dos modelos ou benchmarks, oferecendo uma análise crítica e oportuna para um público que precisa entender onde o valor real está sendo perdido na economia dos agentes de IA."
+}

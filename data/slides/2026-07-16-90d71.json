@@ -1,0 +1,53 @@
+{
+  "title": "GoDaddy Abre Seu Registro de Domínios para Agentes de IA: O Novo Campo de Batalha de US$ 10 Bilhões da Infraestrutura Web",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "GoDaddy Abre o Registro de Domínios para Agentes de IA",
+      "subtext": "O campo de batalha de US$ 10 bilhões que vai redefinir a infraestrutura web",
+      "image_prompt": "Futuristic digital landscape with glowing domain name nodes connected by AI agents, dark blue and neon green tones, abstract network visualization"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado debate modelos de fronteira, a GoDaddy transformou silenciosamente o registro de domínios em um campo de provas para a economia real dos agentes de IA. A nova plataforma permite que agentes gerenciem domínios diretamente de ambientes de desenvolvimento, sem intervenção humana.",
+      "highlight": "Dezenas de milhões de domínios agora podem ser operados por IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A GoDaddy lançou uma API que conecta agentes de IA, pipelines de CI/CD e assistentes de código ao maior registrador de domínios do mundo. Agora, agentes podem registrar, renovar, transferir e configurar DNS programaticamente — tudo sem um humano abrir o painel de controle.",
+      "visual_hint": "Ícone de engrenagem com um robô conectado a um globo terrestre"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada serviço web que se torna acessível por API para agentes expande o perímetro da automação. Isso cria um novo mercado de confiança, segurança e orquestração — e sinaliza que a economia dos agentes está migrando do 'o que eles podem fazer' para 'onde eles podem operar'.",
+      "visual_hint": "Gráfico de crescimento exponencial com nós de rede se expandindo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "GoDaddy gerencia dezenas de milhões de domínios globalmente",
+        "Mercado de infraestrutura web para agentes estimado em US$ 10 bilhões",
+        "API permite registro, renovação, transferência e gestão de DNS via agentes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Ciclo de vida de projetos web pode ser completamente automatizado, da ideação ao deploy",
+        "Superfície de ataque para erros automatizados cresce exponencialmente",
+        "Guardrails da GoDaddy podem se tornar modelo regulatório para AWS, Cloudflare e Namecheap"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A infraestrutura web nunca mais será a mesma — e os agentes de IA estão no comando."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Traceforce e o Gargalo de US$ 10 Bilhões: Por Que o Monitoramento de Segurança de Apps de IA Está se Tornando o Novo Campo de Batalha Corporativo",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 10 Bilhões",
+      "subtext": "Como o shadow IT de IA está criando o maior risco de compliance que sua empresa ainda não enxergou",
+      "image_prompt": "A dark, futuristic corporate boardroom with a giant glowing AI brain floating above a table, surrounded by invisible security cameras and red warning lines, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Traceforce, startup recém-lançada no Y Combinator S26, está atacando um problema silencioso: a falta de visibilidade sobre como funcionários usam ChatGPT, Claude e Gemini no trabalho. Enquanto empresas gastam milhões em firewalls tradicionais, a adoção descontrolada de IA criou um novo vetor de risco que a infraestrutura legada simplesmente não cobre.",
+      "highlight": "70% dos funcionários já usaram IA generativa no trabalho — e 40% sem autorização."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Traceforce instala um agente em todos os dispositivos corporativos para monitorar não apenas quais apps de IA estão sendo usados, mas o conteúdo dos prompts, dados compartilhados e padrões de uso. O funcionário que cola um contrato confidencial no ChatGPT ou usa o Claude para resumir dados financeiros opera em um ponto cego total da segurança corporativa.",
+      "visual_hint": "Ícone de olho digital escaneando prompts de texto em um laptop, com alertas vermelhos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O problema não é só produtividade: é exposição legal, vazamento de propriedade intelectual e violação de compliance (LGPD, GDPR, HIPAA, SOX). Empresas como Samsung, Apple e Amazon já proibiram ChatGPT após vazamentos — mas proibição nunca funcionou. O que funciona é visibilidade e controle.",
+      "visual_hint": "Gráfico de barras mostrando aumento de incidentes de vazamento de dados por IA ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mais de 70% dos funcionários de escritório já usaram IA generativa no trabalho",
+        "Cerca de 40% usaram ferramentas de IA sem autorização explícita da empresa",
+        "O mercado de monitoramento de segurança de apps de IA é estimado em US$ 10 bilhões"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Segurança corporativa precisará evoluir para monitorar prompts e APIs, não só tráfego HTTP",
+        "Ferramentas de shadow IT de IA se tornarão tão críticas quanto firewalls e DLP",
+        "Empresas que não adotarem visibilidade sobre uso de IA enfrentarão riscos legais e de compliance"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O shadow IT de IA é o novo campo de batalha corporativo — e a guerra está apenas começando."
+    }
+  ]
+}

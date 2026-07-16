@@ -1,0 +1,53 @@
+{
+  "title": "O Abismo do Compute Corporativo: Por Que as Empresas Estão Gastando Bilhões em Infraestrutura de IA Sem Saber Quanto Custa",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Abismo do Compute Corporativo",
+      "subtext": "Bilhões em IA sem saber o custo real — o próximo dólar vai para o que ninguém usa.",
+      "image_prompt": "A dark, abstract digital abyss with glowing data streams and GPU clusters fading into a void, futuristic and ominous."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisa da VentureBeat com 107 empresas revela um paradoxo: os gastos com infraestrutura de IA aceleram, mas a capacidade de medir e controlar custos fica para trás. O mercado corre para computação especializada que quase ninguém domina.",
+      "highlight": "Aceleração dos gastos supera a capacidade de medição e controle."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Empresas operam IA sobre hyperscalers e APIs, mas o próximo investimento está em GPUs dedicadas e clusters on-premise — algo que a maioria não usa hoje. A decisão é guiada por FOMO, não por ROI.",
+      "visual_hint": "Ícone de gráfico de foguete subindo, com um ponto de interrogação sobre o destino."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Não é um problema técnico, mas econômico e de gestão. Um único experimento de fine-tuning pode custar o orçamento anual de um time. Sem métricas adequadas, o risco de estouro de orçamentos e más decisões de arquitetura é imenso.",
+      "visual_hint": "Ilustração de uma balança desequilibrada com dinheiro de um lado e um chip de IA do outro."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "107 empresas pesquisadas revelam gap de governança.",
+        "Maioria usa hyperscalers (AWS, Azure, GCP) e APIs de modelos.",
+        "Próximo dólar vai para computação especializada (GPUs, clusters) — quase não usado hoje."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Estouro de orçamentos sem contrapartida em receita ou produtividade.",
+        "Decisões ruins de arquitetura baseadas em hype, não em necessidade.",
+        "Novo ciclo de 'cloud repatriation' — mais caro e traumático que o anterior."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O abismo do compute corporativo é real. Não deixe sua empresa cair nele."
+    }
+  ]
+}

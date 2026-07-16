@@ -1,0 +1,53 @@
+{
+  "title": "O Harness Invisível: Como um Novo Framework do arXiv Expõe o Gargalo de US$ 1 Trilhão na Evolução dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Harness Invisível: O Gargalo de US$ 1 Trilhão na Evolução dos Agentes de IA",
+      "subtext": "Enquanto o mercado corre atrás de modelos maiores, o verdadeiro gargalo está no código esquecido que mantém os agentes vivos.",
+      "image_prompt": "A futuristic digital harness made of glowing blue code lines, restraining a powerful AI agent, dark tech background with subtle grid lines and neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo artigo no arXiv (2607.13285) propõe o 'Harness Handbook', um framework para documentar e gerenciar o código de infraestrutura que orquestra agentes de IA. O problema? Enquanto LLMs evoluem em semanas, os harnesses são monolíticos, mal documentados e impossíveis de modificar sem quebrar o sistema.",
+      "highlight": "90% dos projetos de IA nunca chegam à produção — e o harness é uma das principais razões."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Harness Handbook não é um novo modelo de IA — é um framework de engenharia de software para tornar harnesses 'legíveis, navegáveis e editáveis'. Os autores argumentam que a capacidade de um agente depende TANTO do modelo quanto do harness, e que este precisa ser tratado como artefato de primeira classe.",
+      "visual_hint": "Ícone de engrenagem com código-fonte entrelaçado, destacando a complexidade da infraestrutura"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para gestores e investidores: a corrida por modelos melhores está criando uma crise de infraestrutura que pode engolir bilhões em custos operacionais. Para desenvolvedores: 'vibe-coding' e engenharia de prompt não bastam — o código importa, e muito. O harness é o calcanhar de Aquiles da economia dos agentes de IA.",
+      "visual_hint": "Gráfico de barras mostrando investimento em modelos vs. infraestrutura, com desequilíbrio evidente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: gargalo estimado na evolução dos agentes de IA devido à dívida técnica de integração",
+        "10x: queda nos preços dos LLMs em 18 meses, enquanto harnesses continuam artesanais",
+        "3 pilares do framework: Legibilidade, Navegabilidade e Editabilidade"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Harnesses deixam de ser 'detalhes de implementação' e viram ativos estratégicos de engenharia",
+        "Empresas que ignorarem a dívida técnica de integração perderão bilhões em custos operacionais",
+        "Frameworks como o Harness Handbook podem se tornar padrão para documentação e evolução de agentes"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O código invisível que define o futuro dos agentes de IA — e por que você precisa prestar atenção agora."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Google Vids e o Seu Avatar de IA: O Sinal de US$ 1 Trilhão de que a Economia da Criação Está Sendo Reconfigurada",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Avatar de IA do Google Vids: O Fim da Presença Humana como Gargalo",
+      "subtext": "Como uma atualização de ferramenta está reconfigurando a economia de US$ 1 trilhão da criação de conteúdo",
+      "image_prompt": "A futuristic digital avatar face made of glowing blue particles, emerging from a dark background with subtle Google Vids interface elements, cinematic lighting, high tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Google anunciou uma atualização no Google Vids que permite criar avatares de IA personalizados a partir de algumas imagens. Esses avatares podem estrelar vídeos gerados por comando de texto, com movimentos, expressões e sincronia labial realistas.",
+      "highlight": "O maior gargalo da produção de vídeo — a presença humana — acaba de se tornar um recurso de custo marginal zero."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Gemini Omni agora não só entende o que você quer filmar, mas também quem você quer que apareça. O avatar é gerado sinteticamente, eliminando a necessidade de câmeras, iluminação, atores e até do talento humano para atuar.",
+      "visual_hint": "Ícone de um boneco avatar se transformando em engrenagens de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Qualquer funcionário pode se tornar um apresentador de TV sem sair da mesa. O ativo mais valioso deixa de ser a aparência ou presença de palco e passa a ser a qualidade do roteiro, a direção criativa e a curadoria do resultado final.",
+      "visual_hint": "Gráfico mostrando uma seta apontando de 'Talento Humano' para 'Ideia e Roteiro'"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de produção de vídeo corporativo: até US$ 5.000 por minuto (média de mercado)",
+        "Tempo médio para gravar e editar um vídeo com talento humano: 3 a 5 dias úteis",
+        "Google Vids com avatar: geração em minutos, custo marginal próximo de zero"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A presença humana em vídeo se torna commodity — o diferencial será a ideia, não o rosto",
+        "Ferramentas de criação de conteúdo se consolidam em plataformas de IA integradas (Google Workspace)",
+        "O mercado de atores e apresentadores para conteúdo corporativo sofre disrupção imediata"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da criação está sendo reconfigurada. A pergunta é: você vai ser o roteirista ou o avatar?"
+    }
+  ]
+}

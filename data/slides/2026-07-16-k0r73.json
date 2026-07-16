@@ -1,0 +1,53 @@
+{
+  "title": "O Dilema de US$ 1 Trilhão: Por Que a OpenAI Está de Olho nos Adolescentes e o Que Isso Significa para a Economia da Confiança em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Dilema de US$ 1 Trilhão",
+      "subtext": "Por que a OpenAI está de olho nos adolescentes — e o que isso revela sobre o futuro da confiança em IA",
+      "image_prompt": "A futuristic digital landscape with a glowing teenage silhouette facing a massive AI brain, neon blue and purple tones, dark background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A OpenAI anunciou hoje uma iniciativa para levar o ChatGPT a adolescentes com filtros de conteúdo, controles parentais e ferramentas educacionais. O movimento, porém, vai muito além da responsabilidade corporativa.",
+      "highlight": "63% dos americanos acreditam que a IA avança rápido demais"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A OpenAI está adaptando o ChatGPT para menores de 18 anos com proteções específicas, parcerias com especialistas em segurança infantil e recursos de aprendizado. O objetivo não é apenas vender para jovens — é garantir que a próxima geração confie na IA.",
+      "visual_hint": "Ícone de adolescente com escudo digital ao lado de um cérebro de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A crise de confiança é o maior gargalo econômico da IA. Empresas enfrentam resistência interna, reguladores estão hostis e a Geração Z cresce desconfiada. OpenAI quer moldar a percepção antes que seja tarde demais.",
+      "visual_hint": "Gráfico de confiança em queda com seta apontando para cima após a iniciativa"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "63% dos americanos acham que a IA avança rápido demais",
+        "Apenas 16% veem impacto positivo da IA",
+        "UE já regula IA para crianças no AI Act; FTC investiga coleta de dados de menores"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "OpenAI estabelece padrão de mercado que concorrentes terão que seguir",
+        "Escolas e universidades passam a adotar ChatGPT como ferramenta legítima",
+        "Adolescentes de hoje se tornam profissionais que confiam na IA amanhã"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da confiança em IA está sendo construída agora — e os adolescentes são a chave."
+    }
+  ]
+}

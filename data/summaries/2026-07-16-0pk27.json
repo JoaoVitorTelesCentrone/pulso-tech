@@ -1,0 +1,16 @@
+{
+  "tldr": "A Traceforce, startup do YC S26, aborda o shadow IT de IA ao oferecer monitoramento corporativo de prompts e dados compartilhados em apps como ChatGPT, revelando um gargalo de compliance de US$ 10 bilhões.",
+  "key_facts": [
+    "Traceforce foi lançada no Y Combinator S26 para monitorar uso corporativo de apps de IA como ChatGPT, Claude e Gemini.",
+    "Mais de 70% dos funcionários de escritório já usaram IA generativa no trabalho, e 40% sem autorização explícita.",
+    "Empresas como Samsung, Apple e Amazon proibiram o uso de ChatGPT após vazamentos, mas proibições são ineficazes.",
+    "A infraestrutura de segurança legada (firewalls, DLP, SIEMs) não consegue inspecionar prompts criptografados ou tráfego de APIs de IA."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, a notícia destaca que o shadow IT de IA é um risco de compliance e vazamento de dados que cresce exponencialmente, exigindo novas soluções de monitoramento além das ferramentas tradicionais de segurança.",
+  "watch_next": [
+    "Aquisição da Traceforce por grandes players de segurança (CrowdStrike, Palo Alto) ou parcerias com plataformas de governança de IA.",
+    "Regulamentações específicas para uso corporativo de IA generativa, como extensões de LGPD/GDPR para prompts.",
+    "Surgimento de concorrentes focados em monitoramento de IA, fragmentando o mercado de segurança corporativa."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar o lançamento de uma startup específica (Traceforce) a uma tendência macro de mercado (shadow IT de IA), oferecendo análise técnica do mecanismo do problema (criptografia, APIs, multiplicidade de endpoints) e posicionando o tema como um novo campo de batalha corporativo, não apenas uma notícia de produto."
+}

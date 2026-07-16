@@ -1,0 +1,14 @@
+{
+  "tldr": "Empresas estão investindo bilhões em infraestrutura de IA sem métricas de custo ou governança, criando um gap perigoso entre gastos e controle.",
+  "key_facts": [
+    "Pesquisa da VentureBeat com 107 empresas revela que a maioria opera IA em hyperscalers e APIs, mas o próximo investimento será em computação especializada (GPUs, clusters on-premise) que quase ninguém usa hoje.",
+    "A aceleração dos gastos supera a capacidade de medir e controlar custos, gerando um 'AI compute gap' de governança.",
+    "Decisões estão sendo guiadas por FOMO, não por ROI, criando risco de estouro de orçamentos e decisões ruins de arquitetura."
+  ],
+  "why_it_matters": "O artigo expõe um problema econômico e de gestão que pode queimar bilhões em valor, análogo à era da nuvem, mas em escala muito maior e mais volátil, afetando diretamente a sustentabilidade dos investimentos em IA.",
+  "watch_next": [
+    "Crise de 'cloud repatriation' mais cara e traumática que a anterior, à medida que empresas tentam reverter decisões de infraestrutura baseadas em hype.",
+    "Surgimento de um novo mercado de FinOps para IA, com ferramentas e métricas específicas para governar custos de compute especializado."
+  ],
+  "editorial_angle": "Diferencia-se ao focar no desequilíbrio estrutural entre oferta e maturidade da demanda, usando dados concretos de pesquisa para alertar sobre o risco de um ciclo de investimento irracional, em vez de apenas celebrar o crescimento do setor."
+}
