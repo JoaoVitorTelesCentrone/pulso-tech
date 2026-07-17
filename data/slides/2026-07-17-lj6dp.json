@@ -1,0 +1,54 @@
+{
+  "title": "Fora e Norm: O Sinal de que a Economia da IA Está Engolindo Setores Analógicos de US$ 1 Trilhões",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A IA Está Engolindo Setores de US$ 1 Trilhões",
+      "subtext": "Dois unicórnios em turismo e direito mostram que o capital de risco não aposta mais em modelos, mas em nichos com alta ineficiência.",
+      "image_prompt": "A futuristic digital wave consuming traditional analog industries like travel and law, glowing neon lines, dark background, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Julho de 2026 marca o mês dos unicórnios verticais de IA. Duas startups — Fora (turismo) e Norm (direito) — atingiram valuations bilionários. O capital de risco está mais seletivo, mas o ticket médio por rodada Série C+ subiu 34%.",
+      "highlight": "Investimento em IA caiu 18%, mas o ticket médio subiu 34%"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Fora (US$ 1 bi) automatiza planejamento de viagens complexas em segundos. Norm (US$ 1,2 bi) automatiza revisão de contratos e due diligence. Ambas não são tech com IA adicionada — são serviços tradicionais reconstruídos do zero com IA no centro.",
+      "visual_hint": "Ícone de engrenagem digital sobreposta a um globo e a um martelo de juiz"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O mercado de viagens global movimenta US$ 1,5 trilhão. O de serviços jurídicos nos EUA ultrapassa US$ 350 bilhões. Ambos são dominados por intermediários humanos com altas margens e baixa digitalização. A IA está reescrevendo a estrutura de custos desses setores.",
+      "visual_hint": "Gráfico de barras mostrando setores analógicos vs. potencial de automação"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Fora: US$ 60M em Série D, valuation de US$ 1 bilhão",
+        "Norm: US$ 120M em Série C, valuation de US$ 1,2 bilhão",
+        "Fora processou 500 mil reservas em 2025, ticket médio de US$ 4.200",
+        "Norm reduziu tempo de revisão contratual em 73%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim do 'AI-washing': investidores exigem receita real, não demos",
+        "Dados proprietários são o novo petróleo — quem treina com dados reais vence",
+        "Setores analógicos de US$ 1 trilhão serão os próximos alvos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da IA está apenas começando. Não fique para trás."
+    }
+  ]
+}

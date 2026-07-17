@@ -1,0 +1,53 @@
+{
+  "title": "NVIDIA Nemotron 3 Embed: A Vitória Silenciosa no RTEB que Redefine a Economia da Recuperação de Dados para Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "NVIDIA Nemotron 3 Embed: A Vitória Silenciosa no RTEB",
+      "subtext": "O modelo que está redefinindo a economia da recuperação de dados para agentes de IA corporativos",
+      "image_prompt": "A futuristic data center with glowing blue neural network connections, NVIDIA logo subtly embedded in the background, dark tech aesthetic with neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto a indústria se distrai com benchmarks de raciocínio e geração de código, a NVIDIA conquistou o topo do ranking mais estratégico da IA: o RTEB. O Nemotron 3 Embed não é apenas mais um modelo — é a peça que faltava para destravar a economia dos agentes de IA corporativos.",
+      "highlight": "RTEB: o benchmark que mede a qualidade da recuperação de informação, base para RAG e agentes autônomos"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Em 16 de julho de 2026, o Nemotron 3 Embed alcançou a primeira posição geral no RTEB, superando modelos especializados da Cohere, OpenAI (text-embedding-3-large), Google (Gecko) e modelos abertos como BGE e E5. A vitória sinaliza que a NVIDIA está se consolidando como fornecedora de software de infraestrutura de IA de alto valor.",
+      "visual_hint": "Ícone de troféu ou ranking com seta ascendente sobre fundo de rede neural"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A economia dos agentes de IA enfrenta um gargalo silencioso de US$ 1 trilhão: a qualidade da recuperação de dados. Um agente pode ter o melhor raciocínio do mundo, mas sem encontrar o documento certo no momento certo, sua utilidade despenca. O Nemotron 3 Embed resolve precisão em domínios especializados, escalabilidade corporativa e custo de inferência.",
+      "visual_hint": "Gráfico de barras comparando custo vs. precisão entre modelos de embedding"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "1º lugar geral no RTEB, superando OpenAI, Google e Cohere",
+        "Mais de 20 tarefas avaliadas, incluindo busca semântica, classificação e clustering",
+        "Destaque em recuperação de código-fonte e documentação técnica"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A guerra de modelos muda: de 'qual gera melhor texto' para 'qual encontra o dado certo mais rápido e com menor custo'",
+        "Empresas podem reduzir custos de infraestrutura com embeddings mais eficientes",
+        "Agentes de IA corporativos ganham precisão em domínios como direito, medicina e engenharia"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da IA não está apenas em gerar — está em encontrar. E a NVIDIA acabou de vencer essa batalha."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "O algoritmo C3R resolve o problema de contaminação entre domínios em sistemas RAG, oferecendo garantias estatísticas formais para evitar que documentos relevantes, mas do contexto errado, gerem decisões corporativas equivocadas.",
+  "key_facts": [
+    "C3R é um algoritmo drop-in que se acopla a sistemas RAG existentes sem modificar a arquitetura.",
+    "Utiliza controle de risco conformal para garantir que a taxa de contaminação por domínio fique abaixo de um limiar pré-definido (ex.: 5% ou 1%).",
+    "A detecção de domínios é feita sem supervisão, via embeddings e clustering, eliminando a necessidade de metadados ou anotação manual.",
+    "Estima-se que sistemas RAG mal calibrados geram taxas de erro contextual entre 5% e 15% em aplicações multi-domínio."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o C3R expõe um gargalo crítico e subestimado na adoção corporativa de RAG: a contaminação de domínio. Em setores como saúde e finanças, onde um erro de contexto pode ter consequências graves e bilionárias, a falta de garantias formais era um risco oculto. O C3R oferece uma solução prática e estatisticamente rigorosa, viabilizando aplicações mais seguras e confiáveis.",
+  "watch_next": [
+    "Adoção do C3R por plataformas de RAG corporativo (ex.: LangChain, LlamaIndex) como plugin padrão.",
+    "Publicação de benchmarks multi-domínio que incluam métricas de contaminação, forçando provedores a adotar garantias formais.",
+    "Regulamentações setoriais (saúde, finanças) exigindo controle de contaminação em sistemas de IA usados para tomada de decisão."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas noticiar um novo paper, mas por conectar o problema técnico (contaminação de domínio) a um impacto econômico concreto (US$ 100 bilhões) e a uma lacuna de métricas (recall/precisão não capturam o erro). A escolha editorial é alertar o leitor sobre um risco silencioso que afeta a confiabilidade de sistemas RAG em produção, oferecendo uma solução prática e imediata."
+}

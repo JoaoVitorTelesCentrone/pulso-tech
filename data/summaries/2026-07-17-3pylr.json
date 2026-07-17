@@ -1,0 +1,15 @@
+{
+  "tldr": "Pesquisas da VentureBeat revelam que 54% das empresas sofreram incidentes com agentes de IA, a maioria ainda compartilha credenciais e a confiança na infraestrutura de contexto é baixa, indicando uma crise de governança e segurança.",
+  "key_facts": [
+    "54% das 107 empresas pesquisadas tiveram incidentes ou quase incidentes com agentes de IA.",
+    "A maioria das organizações permite que agentes compartilhem credenciais de acesso, violando o princípio do menor privilégio.",
+    "1 em cada 20 empresas confia plenamente em suas avaliações automatizadas de agentes; metade já enviou para produção um agente que falhou com clientes reais."
+  ],
+  "why_it_matters": "A corrida para implantar agentes autônomos está repetindo erros clássicos de segurança, mas com riscos amplificados pela autonomia dos agentes. A falta de identidade granular e a confiança fraturada no contexto podem levar a danos sistêmicos e bilhões em responsabilidades, tornando este um alerta crítico para líderes de tecnologia e segurança.",
+  "watch_next": [
+    "Regulamentações e frameworks de governança específicos para agentes de IA devem ganhar urgência.",
+    "Ferramentas de identidade e acesso para agentes (como IAM específico para IA) devem se tornar prioridade de mercado.",
+    "A crise de confiança no RAG pode acelerar a adoção de abordagens híbridas ou de auditoria contínua de contexto."
+  ],
+  "editorial_angle": "O artigo se destaca por basear-se em três pesquisas originais da VentureBeat, oferecendo dados concretos e alarmantes sobre a lacuna entre implantação e segurança. Ele não apenas denuncia o problema, mas decompõe os mecanismos (identidade e contexto) que o causam, conectando falhas técnicas a riscos de governança corporativa."
+}

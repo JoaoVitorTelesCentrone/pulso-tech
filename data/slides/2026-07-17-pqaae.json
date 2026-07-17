@@ -1,0 +1,53 @@
+{
+  "title": "Networked Intelligence: Por Que Grafos de Contexto Compartilhado Podem Desbloquear o Gargalo de US$ 1 Trilhão da Ciência Colaborativa com IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo de US$ 1 Trilhão da Ciência",
+      "subtext": "Grafos de Contexto Compartilhado podem desbloquear a próxima era da descoberta científica com IA",
+      "image_prompt": "A futuristic network of interconnected glowing nodes representing human and AI researchers collaborating in real time, digital art, dark background, neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A ciência moderna é colaborativa e distribuída, mas os sistemas de IA ainda operam no paradigma de 'usuário único'. Isso cria um gargalo de coordenação que custa US$ 1 trilhão em inovação não realizada.",
+      "highlight": "US$ 1 trilhão em potencial de descoberta científica perdido por falta de coordenação"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe os Active Shared Context Graphs (ASCGs): uma infraestrutura que permite que múltiplos humanos e agentes de IA colaborem em tempo real, compartilhando um grafo dinâmico de hipóteses, dados e experimentos.",
+      "visual_hint": "Ícone de rede neural com múltiplos nós humanos e robóticos conectados"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas como OpenAI e Google investem bilhões em modelos maiores, mas o verdadeiro gargalo não é a capacidade de um único modelo — é a coordenação entre múltiplas inteligências. ASCGs podem acelerar descobertas em biologia, materiais e muito mais.",
+      "visual_hint": "Gráfico de barras comparando investimento em modelos maiores vs. infraestrutura de coordenação"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: valor estimado do gargalo de coordenação na ciência colaborativa",
+        "3x mais rápida: formulação de hipóteses em equipes usando ASCGs",
+        "100%: aumento na detecção de contradições em bases de conhecimento"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pesquisadores poderão colaborar com múltiplos agentes de IA em tempo real, como uma equipe integrada",
+        "Gestores de P&D terão uma infraestrutura para coordenar descobertas em larga escala",
+        "Investidores em deep tech devem focar em plataformas de coordenação, não apenas em modelos maiores"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A próxima fronteira da IA na ciência não será um modelo maior — será uma infraestrutura de coordenação."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "UniSAGE: A Arquitetura que Pode Desbloquear o Gargalo de US$ 100 Bilhões na Modelagem de Dados Heterogêneos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "UniSAGE: A Arquitetura que Pode Desbloquear o Gargalo de US$ 100 Bilhões",
+      "subtext": "Enquanto a indústria foca em modelos maiores, um paper do arXiv expõe o calcanhar de Aquiles da IA corporativa: a incapacidade de unificar dados estáticos e dinâmicos.",
+      "image_prompt": "A futuristic digital network with interconnected glowing nodes and hyper-edges, representing a hypergraph structure, dark background with neon blue and purple lights, tech abstract art"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Pesquisadores publicaram no arXiv o paper UniSAGE, que aborda um dos problemas mais espinhosos da IA aplicada: como modelar dados que combinam atributos estáticos (perfil de cliente) com registros dinâmicos (transações, logs). Atualmente, a abordagem é fragmentada, com silos de dados e pipelines complexos.",
+      "highlight": "US$ 100 bilhões em gargalos invisíveis na economia da IA corporativa"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A UniSAGE propõe uma arquitetura que utiliza hiper-estruturas — uma generalização de grafos onde arestas conectam múltiplos nós simultaneamente — para representar, em um único espaço, atributos estáticos e a evolução temporal dos dinâmicos. O resultado: representações mais ricas sem pré-processamento específico.",
+      "visual_hint": "Ícone de hipergrafo com nós conectados por arestas múltiplas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O problema não é teórico. Ele afeta detecção de fraude, manutenção preditiva industrial e CRM. Hoje, cada sistema é construído do zero, com pipelines customizados e caros. A UniSAGE promete uma abordagem unificada: menos engenharia de dados, modelos mais generalizáveis e redução drástica de custos.",
+      "visual_hint": "Ícone de engrenagens conectadas a um gráfico de crescimento"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: gargalo estimado na modelagem de dados heterogêneos",
+        "Pipelines de dados customizados: custo elevado e retrabalho constante",
+        "Hiper-estruturas: arestas que conectam múltiplos nós simultaneamente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica no custo de implantação de IA em domínios complexos",
+        "Modelos mais generalizáveis, capazes de lidar com dados estáticos e dinâmicos",
+        "Menos engenharia de dados manual e mais foco em inovação"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "UniSAGE pode ser a chave para destravar um mercado que vale centenas de bilhões. Fique por dentro."
+    }
+  ]
+}

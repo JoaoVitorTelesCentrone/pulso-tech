@@ -1,0 +1,53 @@
+{
+  "title": "Branching Policy Optimization: O Algoritmo que Pode Economizar Bilhões no Treinamento de Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Branching Policy Optimization: O Algoritmo que Pode Economizar Bilhões no Treinamento de Agentes de IA",
+      "subtext": "Um novo método de reinforcement learning promete cortar custos e redefinir a economia do pós-treinamento de LLMs.",
+      "image_prompt": "A futuristic AI agent branching into multiple glowing paths in a dark digital sandbox, with data streams and neural network nodes, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Treinar agentes de IA que interagem com o mundo real — como escrever código ou navegar na web — é extremamente caro. Cada iteração de RL exige múltiplos rollouts, e o custo computacional escala exponencialmente com o número de ramificações exploradas.",
+      "highlight": "Empresas gastam milhões de dólares em compute para treinar agentes de IA."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper (arXiv 2607.14171) introduz o Branching Policy Optimization (BPO), um algoritmo de RL que otimiza a própria estratégia de ramificação dos rollouts. Diferente de métodos como PPO e GRPO, o BPO aprende quando e como explorar múltiplos caminhos simultaneamente, reduzindo o número total de rollouts necessários.",
+      "visual_hint": "Ícone de árvore de decisão com ramificações otimizadas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O BPO ataca o gargalo central do treinamento de agentes: o custo de explorar múltiplos caminhos. Para empresas que automatizam código, atendimento ou pesquisa, isso significa cortar custos ou treinar agentes mais capazes com o mesmo orçamento. É uma mudança na equação de custo-benefício do treinamento de IA.",
+      "visual_hint": "Gráfico de barras comparando custo de treinamento com e sem BPO"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Ganhos de eficiência amostral de 2x a 3x em tarefas complexas de codificação e raciocínio.",
+        "Redução significativa no número de rollouts necessários para convergir para uma política eficaz.",
+        "Custo computacional escala exponencialmente com ramificações em métodos tradicionais — BPO quebra essa curva."
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas podem treinar agentes mais inteligentes sem aumentar o orçamento de compute.",
+        "Aceleração na automação de tarefas complexas, como desenvolvimento de software e pesquisa científica.",
+        "Novo padrão para algoritmos de RL em ambientes sandbox, tornando o pós-treinamento de LLMs mais acessível."
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O BPO pode ser a chave para desbloquear a próxima geração de agentes de IA — e você não vai querer ficar de fora."
+    }
+  ]
+}

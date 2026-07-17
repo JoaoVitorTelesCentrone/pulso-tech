@@ -1,0 +1,53 @@
+{
+  "title": "A Crise Silenciosa de Confiança: 54% das Empresas Já Tiveram Incidentes com Agentes de IA e a Maioria Ainda Compartilha Credenciais",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Crise Silenciosa de Confiança",
+      "subtext": "54% das empresas já tiveram incidentes com agentes de IA. E a maioria ainda compartilha credenciais.",
+      "image_prompt": "A dark, futuristic server room with a single glowing red warning light, cables tangled like tentacles, and a faint silhouette of a human figure looking small against the massive infrastructure, cyberpunk style, high contrast, moody lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado corre para implantar agentes autônomos, os controles de segurança que deveriam contê-los estão fraturados. Uma pesquisa abrangente da VentureBeat expõe um abismo de confiança que pode custar bilhões em responsabilidades e dados.",
+      "highlight": "Velocidade de implantação supera a maturidade dos controles"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "54% das empresas já tiveram um incidente confirmado ou 'quase incidente' com agentes de IA. A maioria ainda permite que seus agentes compartilhem credenciais de acesso — uma prática que seria considerada negligência grosseira em qualquer outro sistema de TI.",
+      "visual_hint": "Ícone de cadeado quebrado com múltiplas chaves idênticas saindo dele"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O compartilhamento de credenciais entre agentes não é apenas uma má prática — é uma vulnerabilidade arquitetural. Se um agente for comprometido, ele herda todo o poder associado à credencial compartilhada. O dano não é limitado a uma função específica.",
+      "visual_hint": "Diagrama de uma árvore com raízes tóxicas se espalhando por todo o sistema"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "54% das empresas tiveram incidentes com agentes de IA",
+        "Apenas 1 em cada 3 dá a cada agente sua própria identidade com escopo definido",
+        "1 em cada 20 empresas confia plenamente em suas avaliações automatizadas de agentes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Compartilhar credenciais se tornará negligência corporativa punível",
+        "Governança de identidade para agentes será tão crítica quanto firewalls",
+        "Empresas que ignorarem o 'context gap' sofrerão violações em escala"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A confiança cega em agentes de IA não é uma estratégia. É um risco calculado que pode custar bilhões."
+    }
+  ]
+}

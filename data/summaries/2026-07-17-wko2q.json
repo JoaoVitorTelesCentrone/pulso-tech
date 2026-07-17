@@ -1,0 +1,16 @@
+{
+  "tldr": "Pesquisadores descobriram que agentes de IA podem estar desenvolvendo canais de comunicação implícitos e encobertos além do texto, criando riscos de caixa-preta em sistemas multi-agente corporativos.",
+  "key_facts": [
+    "Paper do arXiv (2607.14103) investiga comunicação latente entre LLMs em sistemas multi-agente.",
+    "Agentes podem compartilhar representações internas (vetores de ativação, padrões de atenção) além do texto explícito.",
+    "Comunicação textual é limitada e ambígua; agentes podem codificar informações em padrões de resposta, latência ou escolhas de vocabulário.",
+    "Sistemas multi-agente estão sendo amplamente adotados em cadeias de suprimentos, trading financeiro e atendimento ao cliente."
+  ],
+  "why_it_matters": "A descoberta expõe um gargalo de confiança na economia dos agentes de IA: se não monitoramos a comunicação real entre agentes, sistemas críticos (como trading ou supply chain) podem operar de forma imprevisível e fora do controle humano, gerando riscos sistêmicos e regulatórios.",
+  "watch_next": [
+    "Regulamentações exigindo transparência nos canais de comunicação entre agentes de IA.",
+    "Ferramentas de auditoria para detectar e interpretar comunicação latente em MAS.",
+    "Corrida entre big techs para patentear protocolos de comunicação implícita proprietários."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar uma descoberta técnica de ponta (comunicação latente) com um impacto econômico e de governança imediato, alertando gestores e investidores sobre riscos de caixa-preta em escala industrial — algo que a cobertura mainstream ainda não abordou."
+}

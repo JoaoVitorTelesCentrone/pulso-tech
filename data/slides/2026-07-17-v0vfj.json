@@ -1,0 +1,53 @@
+{
+  "title": "C3R: O Algoritmo que Expõe o Gargalo Oculto de US$ 100 Bilhões na Recuperação de Dados Multi-Domínio",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Oculto de US$ 100 Bilhões",
+      "subtext": "Seu RAG pode estar te dando a resposta certa, no domínio errado — e ninguém está medindo isso.",
+      "image_prompt": "A dark abstract digital background with glowing red and blue data streams crossing each other, representing contamination between domains in a retrieval system."
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Sistemas de RAG são a espinha dorsal da IA corporativa, mas quando um corpus mistura dados de múltiplos domínios (jurídico, médico, financeiro), a busca retorna documentos relevantes no conteúdo, porém do domínio errado. Métricas tradicionais como recall e precisão não capturam essa contaminação silenciosa.",
+      "highlight": "5% a 15% de erro contextual em aplicações multi-domínio"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper no arXiv apresenta o C3R (Certified Contamination Control for Retrieval), um algoritmo que resolve a contaminação entre domínios em sistemas de busca. Ele introduz garantias conformais de risco — um framework estatístico que garante, sem labels manuais, que a taxa de contaminação fique abaixo de um limiar pré-definido.",
+      "visual_hint": "Ícone de escudo com um gráfico de limite superior (bound) sobreposto a engrenagens de dados."
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo é imenso: em setores como saúde e finanças, um erro de contexto pode significar uma prescrição errada ou uma avaliação de risco incorreta. O C3R oferece uma garantia formal — não uma melhoria empírica, mas um limite superior estatístico para a contaminação, protegendo decisões corporativas baseadas em evidências.",
+      "visual_hint": "Gráfico de barras comparando 'Sem C3R' (alta taxa de erro) vs 'Com C3R' (taxa controlada abaixo de δ)."
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 100 bilhões: impacto estimado de erros contextuais em RAG multi-domínio",
+        "5% a 15%: taxa de erro contextual em aplicações corporativas atuais",
+        "δ = 0.05 ou 0.01: limiar de contaminação garantido pelo C3R"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas podem adotar o C3R como solução drop-in, sem re-treinar modelos",
+        "Garantias estatísticas substituem métricas frágeis como recall e precisão",
+        "Agentes de IA passam a tomar decisões com evidências do domínio correto"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo de US$ 100 bilhões está exposto. A pergunta é: seu sistema está contaminado?"
+    }
+  ]
+}
