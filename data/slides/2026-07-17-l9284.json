@@ -1,0 +1,53 @@
+{
+  "title": "O Salto Quântico da Lógica: Como a Extensão Probabilística da IA Neuro-Simbólica Pode Redefinir a Economia dos Robôs Autônomos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Salto Quântico da Lógica",
+      "subtext": "Como a extensão probabilística da IA Neuro-Simbólica pode destravar trilhões em automação",
+      "image_prompt": "A futuristic robotic arm with glowing neural network nodes and symbolic logic equations floating around it, dark blue and neon orange color scheme, cinematic lighting, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado corre atrás de modelos maiores e mais caros, um paper do arXiv propõe a peça que faltava para transformar robôs experimentais em sistemas de produção confiáveis.",
+      "highlight": "O gargalo de US$ 1 trilhão entre o robô que 'funciona no demo' e o que 'funciona na fábrica'"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper propõe uma arquitetura que combina aprendizado neural com raciocínio simbólico formal, usando a Lógica de Primeira Ordem Intensional Tipada de Belnap (IFOL_B) como estrutura matemática central. Pela primeira vez, robôs podem lidar com autorreferência e raciocínio lógico em tempo real.",
+      "visual_hint": "Ícone de cérebro dividido: metade rede neural, metade engrenagens lógicas"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Robôs puramente neurais são frágeis: generalizam bem em ambientes conhecidos, mas falham catastroficamente diante de situações que exigem raciocínio lógico encadeado. Esta pesquisa resolve o calcanhar de Aquiles da robótica com IA, abrindo caminho para cirurgia robótica, manufatura de precisão e robôs domésticos que realmente funcionam.",
+      "visual_hint": "Gráfico de linha mostrando confiabilidade vs. complexidade da tarefa, com um salto na curva neuro-simbólica"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 45 bilhões: mercado de robôs autônomos em 2025",
+        "US$ 100+ bilhões: projeção para 2030 (crescimento travado por limitações técnicas)",
+        "3 gargalos resolvidos simultaneamente: autorreferência, fusão neural-simbólica probabilística e interpretabilidade em tempo real"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Robôs que 'sabem que não sabem' — tomada de decisão sob incerteza se torna possível",
+        "Sistemas auditáveis em tempo real — certificação regulatória em saúde e aviação se torna viável",
+        "A economia da automação de alto valor é finalmente destravada"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O salto quântico da lógica já começou — e ele não precisa de um datacenter inteiro para acontecer."
+    }
+  ]
+}

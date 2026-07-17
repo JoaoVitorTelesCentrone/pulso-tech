@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo paper propõe métrica de 'Eficiência de Ferramentas' (Tool Efficiency) para medir e reduzir o desperdício de bilhões de dólares em chamadas de API inúteis por agentes de IA.",
+  "key_facts": [
+    "Paper arXiv 'Eta Given Delta' introduz Marginal Tool Utility (MTU) e Tool Efficiency como métricas quantitativas.",
+    "Estima-se que 40% a 60% das chamadas de ferramentas em agentes de IA são redundantes ou não agregam valor.",
+    "A cada 10% de melhoria na eficiência de ferramentas, o custo total de inferência cai cerca de 8%.",
+    "Agentes não otimizados apresentam eficiência abaixo de 30%; treinamento com custo marginal explícito pode elevar para acima de 70%."
+  ],
+  "why_it_matters": "A métrica oferece uma forma objetiva de diagnosticar e corrigir o maior vazamento de recursos em agentes de IA, impactando diretamente o ROI de automação em escala corporativa, onde bilhões são queimados anualmente em chamadas inúteis.",
+  "watch_next": [
+    "Adoção da métrica por provedores de infraestrutura de IA (como OpenAI, Anthropic, Google) em suas plataformas de agentes.",
+    "Surgimento de ferramentas de monitoramento e otimização baseadas em MTU para empresas que operam agentes em produção.",
+    "Possível pressão por transparência de eficiência de ferramentas em benchmarks e relatórios de desempenho de LLMs."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar no aspecto econômico e de custo oculto da ineficiência de agentes, em vez de apenas discutir acurácia técnica, conectando uma métrica teórica a um problema prático de bilhões de dólares."
+}

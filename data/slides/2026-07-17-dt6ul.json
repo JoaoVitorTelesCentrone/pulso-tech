@@ -1,0 +1,53 @@
+{
+  "title": "OriginBlame: A Rastreabilidade de Dados que Pode Desbloquear o Mercado de US$ 10 Bilhões do 'Direito ao Esquecimento' em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "OriginBlame: A Chave para o Direito ao Esquecimento em IA",
+      "subtext": "Como a rastreabilidade granular de dados pode desbloquear um mercado de US$ 10 bilhões e resolver o maior gargalo regulatório da inteligência artificial.",
+      "image_prompt": "Futuristic digital network with glowing data nodes and a central lock icon, dark blue and neon green tones, high tech abstract background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O 'direito ao esquecimento' é uma exigência legal no GDPR e CCPA, mas impraticável para modelos de IA. Sem ferramentas para localizar dados específicos em datasets massivos, empresas enfrentam multas bilionárias ou custos proibitivos de retreinamento.",
+      "highlight": "Impossível remover dados de um modelo treinado sem saber exatamente onde eles estão."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper OriginBlame propõe um sistema de proveniência em nível de registro e token, mapeando cada dado de volta à sua fonte original. Isso permite identificar e extrair o 'forget set' necessário para algoritmos de unlearning.",
+      "visual_hint": "Ícone de lupa sobre uma grade de dados, com setas conectando tokens a suas origens"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas de IA poderão finalmente cumprir leis de privacidade sem retreinar modelos do zero. Isso reduz riscos legais, abre caminho para novos serviços de auditoria e monetiza o 'direito ao esquecimento' como infraestrutura.",
+      "visual_hint": "Ícone de balança da justiça com um chip de IA ao centro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: mercado potencial de infraestrutura de auditoria de dados",
+        "Multas de até 4% do faturamento global por violação de GDPR",
+        "Milhões de registros em datasets como Common Crawl ou The Pile"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Surgimento de um novo mercado de ferramentas de proveniência granular",
+        "Viabilidade prática do unlearning para modelos de larga escala",
+        "Redução drástica de riscos legais e de direitos autorais para empresas de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "OriginBlame é o começo de uma nova era para a regulação de IA. Fique por dentro."
+    }
+  ]
+}

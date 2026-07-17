@@ -1,0 +1,53 @@
+{
+  "title": "O Auditor Silencioso: Como o Teste de Premissas em Cadeias de Raciocínio de LLMs Pode Desbloquear (ou Travar) um Mercado de US$ 100 Bilhões em Governança de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Auditor Silencioso",
+      "subtext": "Teste de Premissas em Cadeias de Raciocínio de LLMs: A Chave para um Mercado de US$ 100 Bilhões em Governança de IA",
+      "image_prompt": "A futuristic, dark control room with a giant holographic brain being audited by a silent, shadowy figure, digital chains of thought glowing in red and blue, cinematic lighting, high contrast"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Um novo método de auditoria, o 'Interventional Grounding Audit', expõe uma fragilidade oculta nos LLMs: eles podem produzir raciocínios aparentemente lógicos que ignoram as premissas declaradas. Isso coloca em xeque a confiança em sistemas de IA para decisões críticas.",
+      "highlight": "23% das cadeias de raciocínio em diagnósticos médicos são 'não fundamentadas'"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Pesquisadores desenvolveram um teste de caixa-preta que substitui premissas em cadeias de raciocínio de LLMs. Se a conclusão não muda com a premissa alterada, o raciocínio é decorativo, não lógico. O método funciona em GPT-4, Claude 3 e Llama 3.",
+      "visual_hint": "Ícone de um cadeado sendo quebrado por uma chave de teste"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Empresas gastam bilhões em sistemas que 'explicam' decisões médicas, financeiras e jurídicas. Se essas explicações são decorativas, o risco é sistêmico. Reguladores, investidores e gestores de risco precisam de novas ferramentas de auditoria.",
+      "visual_hint": "Gráfico de uma linha do tempo mostrando o crescimento do mercado de governança de IA"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "23% das cadeias de raciocínio em diagnósticos médicos são não fundamentadas",
+        "31% em tarefas jurídicas são não fundamentadas",
+        "12% em matemática são não fundamentadas (domínios formais são mais seguros)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Mercado de auditoria de IA pode saltar de US$ 10 bi para US$ 100 bi",
+        "Empresas de tecnologia precisarão adotar testes de premissas como padrão",
+        "Reguladores podem exigir auditorias de cadeias de raciocínio para aprovação de sistemas críticos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da governança de IA depende de auditores silenciosos. Não fique para trás."
+    }
+  ]
+}

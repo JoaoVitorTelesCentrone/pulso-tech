@@ -1,0 +1,53 @@
+{
+  "title": "A Métrica Que Pode Economizar Bilhões em Agentes de IA: Por Que a 'Eficiência de Ferramentas' Está se Tornando o Novo ROI da Automação",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "A Métrica Que Pode Economizar Bilhões em Agentes de IA",
+      "subtext": "Por que a 'Eficiência de Ferramentas' está se tornando o novo ROI da automação",
+      "image_prompt": "Futuristic digital dashboard showing billions of dollars being saved, glowing blue and green data streams, abstract AI agent nodes connected by tool call lines, dark background with neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Problema Oculto de US$ 100 Bilhões",
+      "body": "O mercado de agentes de IA está projetado para ultrapassar US$ 100 bilhões. Mas a maioria das chamadas de ferramentas em agentes autônomos é inútil — entre 40% e 60% são redundantes ou mal direcionadas.",
+      "highlight": "40-60% das chamadas de API em agentes de IA são desperdício puro"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe a métrica 'Marginal Tool Utility' (MTU) para medir o valor incremental de cada chamada de ferramenta. A 'Tool Efficiency' (η) calcula a taxa de chamadas úteis sobre o total — revelando o custo real de cada ação do agente.",
+      "visual_hint": "Ícone de gráfico de barras comparando chamadas úteis vs. inúteis, com seta destacando a métrica η"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada chamada inútil custa latência, tokens de inferência, taxas de API e ciclos de GPU. Em escala corporativa, isso representa bilhões de dólares queimados anualmente. A MTU permite identificar chamadas parasitas, loops de ferramentas e custos de oportunidade.",
+      "visual_hint": "Ícone de engrenagem com cifrão e chamas, simbolizando desperdício de recursos"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Agentes não otimizados têm eficiência de ferramentas abaixo de 30%",
+        "Treinamento com custo marginal explícito eleva eficiência para acima de 70%",
+        "A cada 10% de melhoria na eficiência, o custo total de inferência cai ~8%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Empresas poderão auditar e otimizar agentes com métricas objetivas",
+        "Redução drástica de custos operacionais em infraestrutura de IA",
+        "Novo padrão de ROI para automação: eficiência de ferramentas vira KPI central"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A métrica que pode economizar bilhões está apenas começando. Não fique para trás."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tldr": "A falta de trilhas de auditoria granulares para decisões de agentes de IA cria um gargalo operacional que trava a adoção em setores regulados, abrindo um mercado de US$ 10 bilhões em ferramentas de governança e 'recibos de decisão'.",
+  "key_facts": [
+    "Agentes de IA corporativos operam como caixas-pretas, impossibilitando auditoria de decisões como ajustes de preço ou triagem de pacientes.",
+    "A proposta central é a criação de 'evidence packets' (pacotes de evidências) imutáveis e estruturados para cada ação do agente.",
+    "Setores regulados (finanças, saúde, seguros) limitam agentes de IA a tarefas de baixo risco justamente pela falta de rastreabilidade.",
+    "O mercado de automação corporativa de US$ 1 trilhão previsto para 2028-2030 pode não se concretizar sem resolver essa questão."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, este artigo sinaliza que o próximo grande campo de batalha não será apenas construir agentes mais inteligentes, mas sim construir a infraestrutura de confiança e compliance que permita escalá-los em produção — um mercado de ferramentas de auditoria e governança que pode valer dezenas de bilhões.",
+  "watch_next": [
+    "Surgimento de startups focadas em 'observability para agentes de IA' e padrões abertos de recibos de decisão.",
+    "Movimentos regulatórios (SEC, FDA, ANVISA) exigindo trilhas de auditoria para decisões automatizadas em setores críticos.",
+    "Grandes players de cloud (AWS, Azure, GCP) incorporando nativamente soluções de 'evidence packet' em seus serviços de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema técnico profundo (falta de observabilidade em agentes) com uma oportunidade de mercado concreta e mensurável (US$ 10 bilhões), indo além da reflexão filosófica e oferecendo uma tese de investimento e desenvolvimento para o ecossistema."
+}

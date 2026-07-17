@@ -1,0 +1,53 @@
+{
+  "title": "O Scorecard da OpenAI: A Métrica que Pode Salvar o ROI Corporativo de US$ 1 Trilhão em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim do Gasto Cego em IA",
+      "subtext": "A OpenAI lança um scorecard que pode salvar US$ 1 trilhão em ROI corporativo — e mudar para sempre como medimos inteligência artificial.",
+      "image_prompt": "A futuristic dark control room with holographic financial charts and AI data streams, glowing blue and orange neon lights, high-tech corporate atmosphere"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Empresas gastam bilhões em IA, mas 90% dos projetos nunca chegam à produção. CFOs e boards ainda não sabem responder: 'Isso gera mais valor do que custa?' A OpenAI, maior beneficiária da falta de métricas, publica um framework para medir o ROI real.",
+      "highlight": "90% dos projetos de IA nunca chegam à produção"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Sarah Friar, CFO da OpenAI, lança um scorecard com quatro pilares: Trabalho Útil, Custo por Tarefa Bem-Sucedida, Confiabilidade e Retorno sobre Compute. O foco sai de 'tokens gerados' para 'resultados reais entregues'.",
+      "visual_hint": "Ícone de um painel de controle com quatro medidores coloridos (verde, azul, laranja, roxo)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, o principal vendedor de IA diz: 'Pare de comprar GPUs sem justificativa.' O scorecard força empresas a calcular o custo real por tarefa — incluindo falhas, retrabalho e supervisão humana. Modelos baratos por token podem se tornar caros por tarefa.",
+      "visual_hint": "Gráfico de barras comparando 'Custo por Token' vs 'Custo por Tarefa Bem-Sucedida', com a segunda barra muito maior"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "90% dos projetos de IA nunca chegam à produção",
+        "Maioria dos projetos em produção não tem métricas claras de sucesso",
+        "US$ 1 trilhão em gastos corporativos de IA em risco sem ROI mensurável"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "CFOs ganham uma ferramenta para justificar (ou cortar) investimentos em IA",
+        "Fornecedores de IA serão forçados a provar valor por tarefa, não por volume",
+        "Empresas que adotarem o scorecard terão vantagem competitiva real"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O scorecard da OpenAI pode ser o maior sinal de que a era do 'gasto sem métrica' está chegando ao fim. Não fique para trás."
+    }
+  ]
+}

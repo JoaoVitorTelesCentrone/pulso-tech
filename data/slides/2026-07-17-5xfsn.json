@@ -1,0 +1,53 @@
+{
+  "title": "O Fim da Cegueira Estrutural: Como Pequenos Modelos de Linguagem Estão Aprendendo a Ver Moléculas e Redefinindo a Economia da Descoberta de Fármacos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim da Cegueira Estrutural",
+      "subtext": "Como pequenos modelos de linguagem estão aprendendo a ver moléculas e redefinindo a economia da descoberta de fármacos",
+      "image_prompt": "A futuristic digital rendering of a small language model transforming a linear string of chemical symbols into a glowing 3D molecular graph, with nodes and edges representing atoms and bonds, set against a dark tech background with subtle grid lines and blue neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Desenvolver um novo fármaco custa entre US$ 1 bilhão e US$ 2,6 bilhões, com 90% de taxa de falha na transição para ensaios clínicos. A indústria enfrenta o 'abismo da produtividade', onde o custo por medicamento aprovado dobra a cada 9 anos.",
+      "highlight": "US$ 50 bilhões em P&D farmacêutico podem ser desbloqueados"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Um novo paper do arXiv propõe curar a 'cegueira estrutural' de Small Language Models (SLMs) integrando representações baseadas em grafos. Agora, modelos pequenos e baratos conseguem 'enxergar' a estrutura tridimensional das moléculas a partir de strings SMILES, algo que antes era perdido na representação linear.",
+      "visual_hint": "Ícone de um olho se abrindo sobre uma molécula 3D, com setas conectando texto a átomos"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "SLMs que rodam em hardware modesto agora podem prever propriedades moleculares com precisão comparável a modelos gigantes. Isso democratiza a descoberta de fármacos: startups e laboratórios acadêmicos podem competir com gigantes farmacêuticos, filtrando moléculas inviáveis antes mesmo de sintetizá-las.",
+      "visual_hint": "Gráfico de barras comparando custo de SLM vs. modelos gigantes, com ícone de um microscópio e um chip de computador"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo médio por novo fármaco: US$ 1 bi a US$ 2,6 bi",
+        "Taxa de falha pré-clínica para clínica: ~90%",
+        "Custo dobra a cada 9 anos (abismo da produtividade)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Redução drástica do ciclo de P&D com filtragem virtual de moléculas",
+        "Democratização da descoberta: qualquer laboratório pode participar",
+        "Precisão zero-shot elimina a necessidade de dados rotulados caros"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A inovação está saindo dos laboratórios das grandes farmacêuticas e chegando à academia — o futuro da medicina é aberto, barato e inteligente."
+    }
+  ]
+}

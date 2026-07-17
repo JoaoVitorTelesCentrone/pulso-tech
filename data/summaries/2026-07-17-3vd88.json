@@ -1,0 +1,16 @@
+{
+  "tldr": "Novo método de auditoria 'Interventional Grounding Audits' revela que até 31% das cadeias de raciocínio de LLMs em tarefas críticas são decorativas, ignorando as premissas que afirmam usar, o que pode desestabilizar o mercado de governança de IA.",
+  "key_facts": [
+    "O método 'Interventional Grounding Audits' substitui predicados em cadeias de raciocínio para verificar se a conclusão do LLM depende das premissas declaradas.",
+    "Em diagnósticos médicos, 23% das cadeias de raciocínio são 'não fundamentadas'; em tarefas jurídicas, o índice sobe para 31%.",
+    "O teste é black-box, não requer acesso aos pesos do modelo, e foi aplicado a GPT-4, Claude 3 e Llama 3.",
+    "O paper é de pesquisadores acadêmicos, não ligados a grandes laboratórios de IA."
+  ],
+  "why_it_matters": "A notícia expõe que a confiança em LLMs para decisões críticas (médicas, jurídicas, financeiras) pode ser baseada em explicações decorativas, criando riscos sistêmicos e abrindo um novo mercado de auditoria obrigatória para governança de IA.",
+  "watch_next": [
+    "Reguladores podem adotar o método como padrão para certificação de modelos em setores regulados.",
+    "Grandes provedores de LLMs podem ser forçados a divulgar taxas de 'grounding' ou enfrentar desconfiança do mercado.",
+    "Surgimento de startups de auditoria focadas em testes de fundamentação de raciocínio."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar uma descoberta técnica sutil (substituição de predicados) a um impacto de mercado concreto (US$ 10 bi em auditoria de IA), alertando que a própria base do mercado de governança pode ser frágil. A escolha editorial destaca o vácuo deixado pela indústria e o papel da academia como 'auditor silencioso'."
+}

@@ -1,0 +1,15 @@
+{
+  "tldr": "Um paper do arXiv propõe uma extensão probabilística da lógica de Belnap para IA neuro-simbólica, prometendo resolver a fragilidade de robôs autônomos em cenários reais e destravar trilhões em automação de alto valor.",
+  "key_facts": [
+    "Paper intitulado 'Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL' foi publicado no arXiv (cs.AI).",
+    "A arquitetura combina aprendizado neural com raciocínio simbólico formal usando a Lógica de Primeira Ordem Intensional Tipada de Belnap (IFOL_B).",
+    "O mercado de robôs autônomos movimentou US$ 45 bi em 2025, com projeção de US$ 100 bi até 2030, mas o crescimento é travado pela falta de sistemas confiáveis em produção."
+  ],
+  "why_it_matters": "Porque ataca o gargalo central da robótica com IA: a incapacidade de sistemas puramente neurais de raciocinar logicamente, lidar com autorreferência e oferecer interpretabilidade em tempo real — requisitos para aplicações críticas como cirurgia, manufatura e logística não estruturada.",
+  "watch_next": [
+    "Empresas de robótica industrial (ex.: Boston Dynamics, Fanuc) podem anunciar parcerias ou integrações com essa abordagem lógica.",
+    "Órgãos reguladores (FDA, FAA) podem usar a trilha de raciocínio lógico gerada pelo sistema como base para certificação de robôs autônomos.",
+    "Startups de IA neuro-simbólica podem atrair investimentos significativos para aplicar a IFOL_B em domínios como veículos autônomos e drones."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um paper acadêmico denso a um problema econômico concreto (o gargalo de US$ 1 trilhão entre demo e produção), oferecendo uma análise técnica acessível que mostra por que a pesquisa fundamental pode ter impacto imediato no mercado de automação."
+}

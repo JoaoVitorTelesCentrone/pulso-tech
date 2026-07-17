@@ -1,0 +1,16 @@
+{
+  "tldr": "A CFO da OpenAI publica um scorecard de quatro pilares para medir ROI em IA, sinalizando o fim da era de gastos sem métricas e pressionando empresas a justificarem investimentos bilionários.",
+  "key_facts": [
+    "Sarah Friar, CFO da OpenAI, publicou o artigo 'A scorecard for the AI age' com um framework de métricas financeiras e operacionais.",
+    "O scorecard tem quatro pilares: Useful Work, Cost per Successful Task, Dependability e Return on Compute.",
+    "90% dos projetos de IA nunca chegam à produção e a maioria não tem métricas claras de sucesso.",
+    "A métrica 'Cost per Successful Task' inclui custos de falha, retrabalho e supervisão humana, não apenas inferência."
+  ],
+  "why_it_matters": "A notícia importa porque a própria OpenAI, principal beneficiária da falta de métricas, agora oferece um manual para medir ROI, o que pode forçar uma reavaliação realista dos gastos corporativos em IA e expor projetos sem retorno mensurável.",
+  "watch_next": [
+    "Adoção do scorecard por grandes empresas e possíveis revisões de orçamentos de IA.",
+    "Reação de concorrentes (Google, Anthropic) que podem publicar frameworks próprios para não perder relevância.",
+    "Impacto no valuation de startups de IA que dependem de métricas vagas de 'engajamento'."
+  ],
+  "editorial_angle": "O artigo se diferencia por não ser um anúncio de produto, mas um sinal estratégico vindo da liderança financeira da OpenAI, indicando que a empresa reconhece a insustentabilidade do atual modelo de gastos e busca moldar a narrativa de medição de valor antes que o mercado o faça de forma mais crítica."
+}

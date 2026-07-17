@@ -1,0 +1,16 @@
+{
+  "tldr": "Paper do arXiv propõe sistema de proveniência de dados em nível granular (registro/token) para viabilizar o 'direito ao esquecimento' em IA, resolvendo gargalo técnico que impedia a remoção prática de dados de modelos treinados.",
+  "key_facts": [
+    "OriginBlame é um framework de proveniência de dados em nível de registro e token para datasets de treinamento de IA.",
+    "O paper aborda a impossibilidade prática de localizar dados de um autor específico em datasets massivos como Common Crawl.",
+    "Sem essa ferramenta, empresas enfrentam dilema entre ignorar solicitações de remoção (risco de multas) ou retreinar modelos inteiros (custo proibitivo).",
+    "O sistema cria uma camada de indexação que mapeia tokens/registros de volta à fonte original, gerando o 'forget set' necessário para algoritmos de unlearning."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o artigo revela que o 'direito ao esquecimento' está saindo do campo teórico e se tornando um problema de engenharia com soluções viáveis. Isso impacta diretamente a conformidade regulatória (GDPR, CCPA), a gestão de riscos legais de direitos autorais e abre um novo mercado de infraestrutura de auditoria de dados, estimado em US$ 10 bilhões.",
+  "watch_next": [
+    "Empresas de big tech (Google, OpenAI, Meta) podem anunciar parcerias ou implementações próprias de sistemas similares ao OriginBlame.",
+    "Reguladores podem usar o paper como referência técnica para exigir proveniência granular em futuras leis de IA.",
+    "Surgimento de startups focadas em 'unlearning-as-a-service' e ferramentas de auditoria de datasets."
+  ],
+  "editorial_angle": "O artigo se diferencia por não apenas reportar um paper técnico, mas por conectá-lo diretamente a um gargalo econômico e regulatório concreto — o mercado de US$ 10 bilhões do 'direito ao esquecimento'. A escolha editorial se justifica por antecipar um ponto de inflexão: a transição de um problema legal abstrato para uma solução de infraestrutura de dados, com implicações imediatas para investidores, CTOs e advogados de IA."
+}

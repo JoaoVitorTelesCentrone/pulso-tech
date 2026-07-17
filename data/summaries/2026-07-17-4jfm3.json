@@ -1,0 +1,14 @@
+{
+  "tldr": "Trump está vendendo acesso prioritário em tempo real às suas postagens no Truth Social via uma API paga, criando um mercado de informação assimétrica que pode valer bilhões e desafia a regulação financeira.",
+  "key_facts": [
+    "A Trump Media lançou a Truth API, que oferece a traders e fundos de hedge acesso prioritário às postagens de Trump no Truth Social.",
+    "Os pacotes de licenciamento variam de assinaturas mensais de seis dígitos a contratos anuais milionários, dependendo da latência e do volume de dados.",
+    "A API entrega as postagens antes de aparecerem no feed público, criando uma vantagem de segundos ou minutos sobre o público geral."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, este caso demonstra como a latência de dados não estruturados está sendo monetizada como infraestrutura crítica, impactando trading algorítmico, agentes de IA e a economia da informação em tempo real, além de levantar questões éticas e regulatórias sobre acesso assimétrico a informações de figuras públicas.",
+  "watch_next": [
+    "Possível investigação da SEC dos EUA sobre venda de informação material antes da divulgação pública.",
+    "Adoção do modelo por outras figuras públicas ou plataformas, criando um mercado de APIs de dados governamentais e presidenciais."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar a monetização de dados governamentais com a infraestrutura de trading de alta frequência e agentes de IA, expondo a fragilidade do mercado de informações simétricas e posicionando o Truth API como um case de estudo para a economia da latência."
+}
