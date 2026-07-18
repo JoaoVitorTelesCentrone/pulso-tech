@@ -1,0 +1,53 @@
+{
+  "title": "Kimi K3: O Modelo Chinês de 3 Trilhões de Parâmetros que Pode Redefinir a Economia da Guerra de Modelos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Kimi K3: 3 Trilhões de Parâmetros que Mudam o Jogo da IA",
+      "subtext": "O sinal mais forte de que a economia da inteligência artificial está se deslocando do Vale do Silício para Pequim",
+      "image_prompt": "Futuristic digital brain with Chinese flag colors, glowing neural network connections, dark background with blue and red neon lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Moonshot AI, startup chinesa discreta, lançou o Kimi K3: um modelo de linguagem com 3 trilhões de parâmetros. Ele supera em larga escala os modelos ocidentais mais conhecidos, como o GPT-5.6 (estimado em 1,8 trilhão) e o Claude Opus.",
+      "highlight": "3 trilhões de parâmetros — o maior modelo de IA já anunciado"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Kimi K3 não é apenas grande; ele inverte a lógica da competição. Até agora, o Ocidente liderava em capacidade de modelo. A China agora força uma reação: escalar ainda mais (bilhões em custo) ou mudar para eficiência e nicho.",
+      "visual_hint": "Ícone de balança com um lado pesando mais (China) e o outro levantando (Ocidente)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo de treinar e inferir modelos dessa escala é astronômico. O Kimi K3 sinaliza que a China está disposta a queimar capital para dominar a fronteira da inteligência geral, desafiando o modelo de mercado aberto do Ocidente.",
+      "visual_hint": "Gráfico de foguete subindo com cifrões e bandeira chinesa ao fundo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Kimi K3: 3 trilhões de parâmetros",
+        "GPT-5.6: ~1,8 trilhão de parâmetros",
+        "Custo estimado de treino: > US$ 500 milhões em compute"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "China encontrou rota de contorno para sanções de chips (H100/Huawei)",
+        "Ocidente precisa reagir: escalar ou focar em eficiência",
+        "Corrida por parâmetros pode encontrar seu limite econômico"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra de modelos mudou de eixo — e o próximo capítulo será definido por quem ousar escalar primeiro."
+    }
+  ]
+}

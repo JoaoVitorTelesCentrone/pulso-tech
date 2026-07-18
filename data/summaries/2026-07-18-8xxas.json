@@ -1,0 +1,16 @@
+{
+  "tldr": "A startup Aina levantou US$ 5,5 milhões para criar wearables que atuam como controles remotos para agentes de IA, invertendo a lógica passiva de coleta de dados dos concorrentes.",
+  "key_facts": [
+    "Aina levantou US$ 5,5 milhões em rodada de investimento.",
+    "O fundador é ex-VP de hardware da Ultrahuman.",
+    "O dispositivo da Aina é um atuador, não um sensor passivo, permitindo comandar agentes de IA em tempo real.",
+    "O mercado atual de wearables (Ray-Ban Meta, Humane AI Pin) foca em capturar dados, não em controlar ações."
+  ],
+  "why_it_matters": "A notícia sinaliza uma mudança de paradigma na interação humano-máquina: em vez de alimentar IAs com dados, o foco passa a ser o controle humano sobre agentes cada vez mais capazes, resolvendo o gargalo cognitivo da orquestração manual.",
+  "watch_next": [
+    "Resultados do piloto do dispositivo da Aina nas próximas semanas.",
+    "Reação dos grandes players (Meta, Humane, Apple) a essa abordagem de 'controle remoto' para agentes.",
+    "Possível corrida de VCs para startups que resolvem o gargalo de interação, não apenas o modelo de IA."
+  ],
+  "editorial_angle": "O artigo se destaca por conectar um aporte aparentemente modesto a uma tese de investimento de US$ 1 trilhão, contrastando com o hype dos wearables passivos e oferecendo uma análise profunda sobre a comoditização dos modelos e o verdadeiro gargalo: a interface de controle."
+}

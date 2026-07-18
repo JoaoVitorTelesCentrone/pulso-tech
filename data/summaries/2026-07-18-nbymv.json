@@ -1,0 +1,14 @@
+{
+  "tldr": "O lançamento do modelo chinês Kimi K3, com 3 trilhões de parâmetros, sinaliza uma mudança na economia da guerra de modelos de IA, deslocando o eixo competitivo do Vale do Silício para Pequim e levantando questões sobre o limite econômico da escalada de parâmetros.",
+  "key_facts": [
+    "A Moonshot AI lançou o Kimi K3, um modelo de linguagem com 3 trilhões de parâmetros, superando modelos ocidentais como GPT-5.6 (1,8 trilhão).",
+    "O treinamento do modelo exigiu clusters de GPUs que rivalizam com os maiores do mundo, apesar das sanções dos EUA contra chips avançados para a China.",
+    "O custo estimado de treinamento ultrapassa US$ 500 milhões, representando um risco existencial para a startup, a menos que haja apoio estatal ou visão de longo prazo."
+  ],
+  "why_it_matters": "A notícia importa porque inverte a narrativa de que o Ocidente lidera a corrida de IA, mostra que a China pode estar disposta a queimar capital para dominar a fronteira da inteligência geral, e força o Ocidente a reagir com escalada de modelos ou mudança estratégica para eficiência e nicho.",
+  "watch_next": [
+    "Possível reação do Ocidente: escalada de parâmetros (ex.: GPT-6) ou mudança para modelos mais eficientes e especializados.",
+    "Investigação sobre como a Moonshot AI contornou as sanções dos EUA para obter poder computacional suficiente."
+  ],
+  "editorial_angle": "O artigo se diferencia ao focar não apenas no feito técnico, mas na economia geopolítica da guerra de modelos, destacando o deslocamento do eixo competitivo para a China e o possível limite econômico da escalada de parâmetros, em vez de apenas celebrar ou temer o avanço chinês."
+}

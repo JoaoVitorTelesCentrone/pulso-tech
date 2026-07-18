@@ -1,0 +1,16 @@
+{
+  "tldr": "Resets semanais de cotas em agentes de IA não são bugs, mas sintomas de um gargalo econômico e arquitetural na precificação e persistência de estado desses sistemas.",
+  "key_facts": [
+    "Resets aleatórios de cotas semanais estão se tornando endêmicos em plataformas de agentes de IA.",
+    "O reset força a perda de contexto acumulado, interrompendo tarefas longas e gerando retrabalho.",
+    "O custo de tarefas de agentes varia de centavos a dezenas de dólares, tornando a precificação imprevisível.",
+    "Plataformas adotam cotas semanais como mecanismo de controle de custos, expondo falta de persistência de estado e memória de longo prazo."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, o artigo revela que a escalabilidade dos agentes autônomos está travada não por limitações de modelo, mas por problemas de infraestrutura e modelo de negócio, impactando diretamente a confiabilidade e adoção empresarial dessas ferramentas.",
+  "watch_next": [
+    "Surgimento de soluções de memória persistente e estado compartilhado para agentes (ex.: bancos de dados vetoriais especializados).",
+    "Novos modelos de precificação baseados em valor da tarefa, e não em tokens ou tempo de uso.",
+    "Consolidação do mercado de plataformas de agentes, com as que resolverem o gargalo de persistência ganhando vantagem competitiva."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um problema aparentemente técnico (reset de cotas) a uma questão econômica e arquitetural mais profunda, expondo um gargalo sistêmico que a indústria está tentando esconder sob o tapete. A escolha editorial se justifica pela originalidade da análise e pela relevância prática para quem desenvolve ou utiliza agentes de IA."
+}

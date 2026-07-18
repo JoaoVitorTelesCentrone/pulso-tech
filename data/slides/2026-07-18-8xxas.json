@@ -1,0 +1,53 @@
+{
+  "title": "O Controle Sobre os Agentes: O Sinal de US$ 5,5 Mi que a Aina Está Enviando Sobre a Próxima Fronteira da Interação Humano-Máquina",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Controle Sobre os Agentes",
+      "subtext": "US$ 5,5 milhões que apontam para a próxima fronteira da interação humano-máquina",
+      "image_prompt": "A futuristic wearable device with glowing buttons and holographic interface, held by a human hand, dark tech background with neon blue and purple lights"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de wearables de IA está saturado de dispositivos que apenas capturam dados — áudio, vídeo, biométricos. O usuário vira um gerador de informações, mas a ação ainda exige o celular.",
+      "highlight": "Wearables atuais: sensores passivos que gravam, mas não comandam."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Aina, startup fundada por ex-VP da Ultrahuman, levanta US$ 5,5 Mi para criar o primeiro dispositivo que controla agentes de IA em tempo real. Não é um sensor — é um atuador. Um controle remoto para a economia dos agentes.",
+      "visual_hint": "Ícone de controle remoto com ondas de comando saindo em direção a múltiplos robôs/agentes"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O maior gargalo da adoção de agentes de IA não é o preço do modelo, mas o custo de orquestração humana. Cada tarefa exige formular prompt, verificar, corrigir. A Aina reduz esse custo a quase zero com um dispositivo físico otimizado para comando.",
+      "visual_hint": "Gráfico de barras mostrando 'custo de orquestração' caindo drasticamente com o novo dispositivo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 5,5 Mi: rodada de investimento da Aina",
+        "Mercado de wearables de IA: foco em captura passiva de dados",
+        "Custo de orquestração humana: maior barreira para adoção de agentes"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Dispositivos deixam de ser câmeras de vigilância pessoal e viram controles remotos para IA",
+        "Usuário comanda, não apenas gera dados — a interação vira ativa",
+        "Comoditização dos modelos de IA acelera: a vantagem migra para orquestração e interface"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O próximo passo da interação humano-máquina está sendo escrito agora. Não fique só observando."
+    }
+  ]
+}

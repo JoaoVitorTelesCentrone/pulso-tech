@@ -1,0 +1,53 @@
+{
+  "title": "O Sinal de Peter Thiel: Founders Fund Contrata Ex-Exec da OpenAI e a Nova Economia do Capital de Risco em IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Sinal de Peter Thiel: A Nova Economia do Capital de Risco em IA",
+      "subtext": "Founders Fund contrata ex-OpenAI não pelo networking, mas pela análise fria. O mercado precisa prestar atenção.",
+      "image_prompt": "A futuristic dark tech boardroom with glowing blue data streams and a single spotlight on a chair, symbolizing strategic hiring and venture capital intelligence"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Founders Fund, co-fundado por Peter Thiel, contratou Ryan Beiermeister, ex-executiva da OpenAI. O motivo não foi networking, mas sua capacidade analítica demonstrada em uma série do YouTube. O mercado de venture capital em IA está mudando.",
+      "highlight": "Ela não foi contratada para abrir portas — foi contratada para fechar portas erradas."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Beiermeister se destacou na série 'Mafia' do Founders Fund, onde ex-funcionários de grandes empresas de IA analisam startups. Sua precisão e profundidade nas avaliações a levaram a ser contratada como sócia. O fundo está priorizando tese analítica sobre relacionamentos.",
+      "visual_hint": "Ícone de cérebro com engrenagens e uma lupa sobre gráficos de crescimento"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A era de 'apostar no time fundador' está dando lugar a 'apostar na tese analítica'. Com a complexidade dos modelos de IA, a capacidade de separar sinal de ruído virou o ativo mais valioso. Founders Fund está refinando seu filtro para a segunda onda de investimentos.",
+      "visual_hint": "Gráfico de onda com duas fases: 'Rede de Contatos' caindo e 'Análise Profunda' subindo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Volume de capital em startups de IA cresceu 340% nos últimos 18 meses",
+        "Exits bem-sucedidos caíram 22% no mesmo período",
+        "Taxa de mortalidade de startups de IA no primeiro ano: 67%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Investimento em IA migra de infraestrutura para aplicação e monetização real",
+        "Fundos de VC vão contratar mais analistas técnicos do que 'conectores'",
+        "Startups precisarão provar tese analítica, não apenas time fundador"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A segunda onda do investimento em IA está chegando. Quem tem análise fria vai liderar."
+    }
+  ]
+}

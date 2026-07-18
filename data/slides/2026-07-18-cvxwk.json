@@ -1,0 +1,53 @@
+{
+  "title": "O Mecanismo Invisível: Por Que os Agentes de IA Estão Perdendo Suas 'Memórias' Toda Semana",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Mecanismo Invisível",
+      "subtext": "Por que os Agentes de IA estão perdendo suas 'memórias' toda semana — e ninguém está falando sobre isso.",
+      "image_prompt": "A futuristic digital brain with fading memory fragments, glowing circuits, dark background, cinematic lighting, tech noir style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Engenheiros de software estão expondo um padrão alarmante: agentes de IA estão perdendo contexto acumulado devido a resets semanais de cotas. O que parece um bug é, na verdade, um sintoma de um gargalo econômico e técnico profundo.",
+      "highlight": "Não é um bug — é um sinal de que a economia da inferência está enfrentando seu primeiro gargalo de escala real."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Plataformas de agentes autônomos estão implementando cotas semanais para controlar custos imprevisíveis. Mas quando a cota acaba, o agente não apenas para — ele perde todo o contexto acumulado, forçando reinicializações completas de tarefas.",
+      "visual_hint": "Ícone de um cronômetro sendo resetado, com um cérebro digital se apagando ao fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas que dependem de agentes para automação, isso significa perda de produtividade, custos ocultos com retrabalho e falta de confiabilidade. Agentes viram ferramentas de curto prazo, não parceiros de longo prazo.",
+      "visual_hint": "Gráfico de linha mostrando produtividade caindo após reset de cota"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo de uma única tarefa de agente pode variar de centavos a dezenas de dólares",
+        "Agentes executam múltiplas chamadas de LLM em sequência ou paralelo",
+        "Reset de cotas está se tornando sistêmico em múltiplas plataformas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Indústria precisa repensar persistência de estado e memória de longo prazo",
+        "Modelos de precificação precisam equilibrar previsibilidade e risco",
+        "Agentes confiáveis exigem arquiteturas que não percam contexto"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O reset silencioso de cotas semanais não é o fim — é o começo de uma nova conversa sobre infraestrutura de IA."
+    }
+  ]
+}

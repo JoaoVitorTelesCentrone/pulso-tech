@@ -1,0 +1,53 @@
+{
+  "title": "O Gargalo Invisível de US$ 1 Trilhão: Por Que a Camada de Contexto Está se Tornando o Novo Campo de Batalha dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gargalo Invisível de US$ 1 Trilhão",
+      "subtext": "O verdadeiro gargalo da IA não está no cérebro — está no sistema circulatório.",
+      "image_prompt": "A futuristic digital brain with glowing neural pathways, but with a bottleneck constriction in the middle, dark tech background, cinematic lighting, 8k"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Dois sinais convergiram esta semana: uma análise do The New Stack revelou que equipes trocam modelos caros sem resolver problemas de confiabilidade. A IBM Research expôs a complexidade oculta do roteamento de modelos. O gargalo não é mais o modelo — é a camada de contexto.",
+      "highlight": "O gargalo não está mais no modelo. Está na camada de contexto."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Agentes de IA enfrentam um teto de confiabilidade de 80-85%. A tentação é culpar o modelo, mas a troca raramente resolve. O motivo é estrutural: a camada de contexto — o que o modelo 'vê' e 'sabe' — é o elo mais fraco e mais caro de corrigir.",
+      "visual_hint": "Ícone de engrenagem quebrada com um cérebro ao lado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Isso inverte a lógica econômica da IA. Se o gargalo é o contexto, todo o investimento em modelos maiores gera retornos decrescentes. O dinheiro precisa ser redirecionado para infraestrutura de dados, pipelines de contexto e sistemas de roteamento inteligente.",
+      "visual_hint": "Gráfico de barras invertido mostrando investimento em modelos vs. retorno"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Teto de confiabilidade de agentes: 80-85%",
+        "Custo de errar o roteamento: bilionário",
+        "Reconfiguração econômica estimada: US$ 1 trilhão"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Infraestrutura de contexto será o novo campo de batalha",
+        "Roteamento inteligente entre múltiplas fontes se torna crítico",
+        "Investimento migra de modelos maiores para pipelines de dados"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O gargalo invisível está exposto. Como sua empresa vai reagir?"
+    }
+  ]
+}

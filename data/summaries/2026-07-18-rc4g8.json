@@ -1,0 +1,14 @@
+{
+  "tldr": "A indústria de agentes de IA descobre que o verdadeiro gargalo não são os modelos, mas a camada de contexto, redirecionando investimentos de US$ 1 trilhão para infraestrutura de dados e roteamento inteligente.",
+  "key_facts": [
+    "Análise do The New Stack revela que equipes de agentes de IA enfrentam teto de confiabilidade de 80-85% devido à má qualidade do contexto, não do modelo.",
+    "IBM Research publica artigo sobre roteamento de modelos, mostrando que a escolha do modelo para cada requisição é um problema complexo e de alto custo.",
+    "O gargalo de contexto inverte a lógica econômica: investimentos em modelos maiores geram retornos decrescentes se o sistema de contexto for deficiente."
+  ],
+  "why_it_matters": "Para leitores de IA/Tech, este artigo expõe que a corrida por modelos maiores está perdendo relevância, e o próximo campo de batalha será a infraestrutura de contexto e roteamento, impactando decisões de investimento e arquitetura de sistemas.",
+  "watch_next": [
+    "Empresas de infraestrutura de dados e pipelines de contexto devem receber mais investimento e atenção do mercado.",
+    "Surgimento de startups focadas em roteamento inteligente e otimização de camada de contexto para agentes de IA."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar duas fontes aparentemente distintas (The New Stack e IBM Research) para revelar um padrão estrutural ignorado pela indústria, oferecendo uma análise econômica e técnica que vai além do hype de modelos maiores."
+}

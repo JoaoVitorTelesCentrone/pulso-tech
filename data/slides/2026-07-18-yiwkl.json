@@ -1,0 +1,53 @@
+{
+  "title": "Bioresiliência como Mercado: O Sinal de US$ 1 Trilhão que Isomorphic Labs e DeepMind Estão Enviando sobre o Futuro da Biologia Sintética",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Bioresiliência como Mercado: O Sinal de US$ 1 Trilhão",
+      "subtext": "DeepMind e Isomorphic Labs estão redefinindo infraestrutura crítica — e criando um novo setor econômico.",
+      "image_prompt": "Futuristic digital network overlaying a DNA double helix, glowing blue and green, with abstract data streams and a global map in the background, dark tech aesthetic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Enquanto o mercado discute benchmarks de IA, DeepMind e Isomorphic Labs publicam 'Our Approach to Bioresilience'. O artigo propõe um sistema de alerta precoce e resposta autônoma para crises biológicas, usando IA como infraestrutura central.",
+      "highlight": "38 pontos no Hacker News em horas — o mercado está prestando atenção."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A DeepMind está integrando AlphaFold e Isomorphic Labs em um sistema coerente de bioresiliência: vigilância preditiva, resposta rápida e infraestrutura distribuída. O objetivo é transformar a biologia em um domínio computacional tratável.",
+      "visual_hint": "Ícone de um cérebro digital conectado a uma molécula de proteína e um globo terrestre"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Não é ficção científica: é engenharia de sistemas aplicada à biologia. O mercado de rastreabilidade por IA já explodiu após o surto de ciclosporíase. Agora, DeepMind está dizendo: isso foi apenas um ensaio.",
+      "visual_hint": "Gráfico de linha ascendente com pico em 2026, representando o crescimento do mercado de bioresiliência"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1 trilhão: tamanho estimado do novo setor econômico da bioresiliência",
+        "3 pilares: vigilância preditiva, resposta rápida, infraestrutura distribuída",
+        "Dias, não anos: geração autônoma de candidatos terapêuticos"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pandemias e superbactérias serão monitoradas em tempo real por IA",
+        "Cadeias de suprimento de medicamentos se tornarão preditivas e resilientes",
+        "A biologia sintética se consolida como o próximo grande mercado de tecnologia"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O futuro da biologia está sendo escrito agora. Não fique para trás."
+    }
+  ]
+}
