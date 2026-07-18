@@ -1,0 +1,14 @@
+{
+  "tldr": "Recall da Taylor Farms por surto de ciclosporíase expõe a fragilidade da cadeia de suprimentos alimentar de US$ 1,4 trilhão e a urgência de implementar rastreabilidade em tempo real baseada em IA.",
+  "key_facts": [
+    "Taylor Farms recolheu toda a alface iceberg do mercado norte-americano após surto de ciclosporíase ligado a restaurantes como Taco Bell.",
+    "Cada recall custa em média US$ 10 milhões em despesas diretas e até US$ 100 milhões em danos indiretos.",
+    "A cadeia de suprimentos alimentar é um dos setores mais subdigitalizados, dependendo de métodos reativos do século XIX."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, o artigo destaca um gargalo de US$ 1,4 trilhão onde sensores IoT, visão computacional e modelos preditivos poderiam gerar eficiência e segurança, mas são subutilizados por falta de incentivos econômicos e integração entre atores fragmentados.",
+  "watch_next": [
+    "Possível movimento regulatório nos EUA exigindo rastreabilidade digital em tempo real para alimentos frescos.",
+    "Aumento de investimentos em startups de agtech focadas em IA para monitoramento de contaminação e blockchain para cadeia de suprimentos."
+  ],
+  "editorial_angle": "O artigo se diferencia ao conectar um recall alimentar específico a uma crítica econômica e tecnológica mais ampla, argumentando que o problema não é técnico, mas de incentivos e fragmentação do setor, posicionando a IA como solução urgente e não apenas como modismo."
+}

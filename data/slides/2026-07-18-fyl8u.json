@@ -1,0 +1,53 @@
+{
+  "title": "NVIDIA NeMo Automodel + Diffusers: O Fim do Fine-Tuning Artesanal e a Nova Economia da Customização de Modelos Visuais",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Fim do Fine-Tuning Artesanal",
+      "subtext": "NVIDIA e Hugging Face automatizam a customização de modelos visuais — e desbloqueiam um mercado de US$ 50 bilhões",
+      "image_prompt": "Futuristic digital brain with neon circuits merging into a camera lens, dark background with blue and purple lighting, cinematic tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Empresas gastam semanas e equipes especializadas para adaptar modelos como Stable Diffusion ao seu domínio. O custo humano do fine-tuning trava a adoção em massa da IA visual corporativa.",
+      "highlight": "Fine-tuning ainda é artesanal, caro e lento — um gargalo estrutural de US$ 50 bilhões"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A integração do NeMo Automodel com a biblioteca Diffusers automatiza todo o pipeline de fine-tuning: preparação de dados, busca de hiperparâmetros, treinamento distribuído em centenas de GPUs e validação — com poucas linhas de código.",
+      "visual_hint": "Ícone de engrenagem com raio, representando automação de pipeline de ML"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O custo marginal de customizar um modelo visual cai para próximo de zero. Times de produto sem expertise em ML podem criar modelos proprietários. A NVIDIA aposta que o valor futuro da IA está na adaptação rápida a domínios específicos.",
+      "visual_hint": "Gráfico de barras mostrando queda drástica de custo e tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Fine-tuning que levava semanas agora leva horas",
+        "Escalabilidade horizontal: treinamento em centenas de GPUs sem intervenção manual",
+        "Mercado de customização visual corporativa estimado em US$ 50 bilhões"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Varejo gera catálogos com fotos de produtos em qualquer cenário (US$ 5 bi/ano)",
+        "Arquitetura e moda criam visuais consistentes com marca sem equipe de ML",
+        "Democratização do acesso: qualquer empresa pode ter seu próprio modelo de imagem"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O fine-tuning virou commodity. A nova economia visual está apenas começando."
+    }
+  ]
+}

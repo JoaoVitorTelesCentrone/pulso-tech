@@ -1,0 +1,14 @@
+{
+  "tldr": "1Password e Anthropic lançam integração nativa que transforma o gerenciador de senhas em um hub de autenticação para agentes de IA, resolvendo o gargalo de segurança no acesso a sistemas corporativos.",
+  "key_facts": [
+    "1Password anunciou integração nativa com Claude da Anthropic, funcionando como hub de autenticação para agentes de IA.",
+    "A integração usa o Agent Authentication Framework (AAF), protocolo aberto que permite autenticação sem expor credenciais ao modelo.",
+    "Estudo interno da 1Password estima que 54% das empresas já tiveram incidentes de segurança relacionados a agentes de IA, principalmente por vazamento de credenciais via prompt."
+  ],
+  "why_it_matters": "A autenticação segura é o maior gargalo para adoção corporativa de agentes autônomos de IA; esta integração cria um padrão de infraestrutura que pode viabilizar o uso em larga escala, com implicações diretas para segurança, compliance e economia de credenciais.",
+  "watch_next": [
+    "Expansão do AAF para outros gerenciadores de senhas e modelos de IA, criando um padrão de mercado.",
+    "Adoção por grandes plataformas de SaaS (Salesforce, Google Workspace) como método oficial de autenticação para agentes."
+  ],
+  "editorial_angle": "O artigo se diferencia ao tratar a integração não como um mero update de produto, mas como um movimento de infraestrutura que resolve um problema estrutural ignorado pelo mercado, com dados concretos de incidentes e uma análise técnica da arquitetura de autenticação por intenção."
+}

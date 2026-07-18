@@ -1,0 +1,14 @@
+{
+  "tldr": "Nous Research, criadora do agente Hermes, negocia captação de US$ 75 milhões a um valuation de US$ 1,5 bilhão, sinalizando a ascensão de agentes especializados de código aberto sobre modelos monolíticos.",
+  "key_facts": [
+    "Nous Research busca levantar ao menos US$ 75 milhões liderados pela Robot Ventures, com participação da USV.",
+    "O valuation pretendido é de US$ 1,5 bilhão, um salto expressivo em relação a rodadas anteriores.",
+    "O agente Hermes compete com Claude Code e GPT-5.6, mas é construído sobre modelos abertos e pesos disponíveis."
+  ],
+  "why_it_matters": "A notícia marca a transição da guerra de modelos para a economia de agentes especializados, onde o valor está na aplicação final e na capacidade de execução local, não no tamanho do modelo. Isso redefine riscos e oportunidades para investidores e empresas que buscam alternativas a APIs caras.",
+  "watch_next": [
+    "Outras startups de agentes abertos (como a Mercor) podem seguir com rodadas bilionárias, acelerando a fragmentação do mercado.",
+    "Gigantes como OpenAI e Anthropic podem responder com versões open-source ou parcerias para não perder espaço em automação corporativa."
+  ],
+  "editorial_angle": "O artigo se diferencia ao interpretar o valuation não como um número isolado, mas como o sintoma de uma mudança estrutural: a substituição da competição por parâmetros pela competição por usabilidade e especialização em agentes de código aberto, um ângulo pouco explorado pela cobertura mainstream focada em APIs e modelos fechados."
+}

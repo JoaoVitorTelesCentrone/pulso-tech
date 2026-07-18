@@ -1,0 +1,53 @@
+{
+  "title": "Kimi K3 Assume a Liderança de Código: O Marco que Enterra a Guerra de Modelos Proprietários e Abre a Economia dos Pesos Abertos",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Kimi K3: O Fim da Guerra de Modelos Fechados",
+      "subtext": "Um modelo open-weight de 1,6 trilhão de parâmetros destrona GPT e Claude no ranking de código — e reescreve as regras da economia da IA.",
+      "image_prompt": "A futuristic digital battlefield where an open-source phoenix rises above shattered proprietary logos of GPT and Claude, glowing blue and orange circuits, dark tech background, cinematic lighting, 8k resolution"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Por anos, a corrida da IA foi dominada por modelos proprietários fechados da OpenAI e Anthropic. Modelos abertos eram vistos como alternativas inferiores. Mas a China, com DeepSeek e Qwen, vinha silenciosamente reduzindo a distância.",
+      "highlight": "Agora, o Kimi K3 não é apenas 'bom para um modelo aberto' — ele é o melhor, ponto final."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Kimi K3, da Moonshot AI, alcançou o topo do ranking de codificação do Chatbot Arena (LMSYS), superando GPT-5.6 Sol e Claude Fable em testes cegos com usuários reais. O feito é histórico porque o modelo é open-weight: seus pesos estão disponíveis publicamente para download e fine-tuning.",
+      "visual_hint": "Ícone de troféu com engrenagens e cadeado quebrado ao fundo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para desenvolvedores e empresas, isso elimina a dependência de APIs caras e fechadas. Agora é possível rodar um modelo de ponta localmente, customizar para necessidades específicas e reduzir custos de inferência. A guerra não é mais sobre quem tem o melhor modelo, mas sobre quem controla a infraestrutura.",
+      "visual_hint": "Diagrama mostrando um cadeado se abrindo e uma corrente se quebrando, com setas indicando liberdade de uso"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "1,6 trilhão de parâmetros totais (arquitetura MoE)",
+        "Apenas 160 bilhões ativados por token — eficiência de custo",
+        "Líder no benchmark de codificação do Chatbot Arena (preferência humana real)"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim da hegemonia de modelos fechados: open-weight agora compete de igual para igual",
+        "Empresas podem implantar IA de código localmente, sem depender de terceiros",
+        "A corrida migra para infraestrutura e distribuição, não apenas performance bruta"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O open-weight é o cavalo de Troia que vai reconfigurar todo o mercado de IA. Não fique de fora."
+    }
+  ]
+}

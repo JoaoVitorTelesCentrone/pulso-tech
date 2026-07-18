@@ -1,0 +1,53 @@
+{
+  "title": "Taylor Farms, Ciclosporíase e a Fragilidade Oculta da Cadeia de Suprimentos Alimentar: O Sinal de que a Economia da Rastreabilidade por IA é Urgente",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Surto de Alface que Revelou um Buraco de US$ 1,4 Trilhões",
+      "subtext": "Como um parasita expôs a fragilidade oculta da cadeia de suprimentos alimentar — e por que a IA é a única saída.",
+      "image_prompt": "A dark, high-tech control room with holographic screens showing a lettuce field, a parasite icon, and a broken supply chain map, glowing red alerts, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a Taylor Farms recolheu toda a sua alface iceberg após um surto de ciclosporíase ligado a restaurantes como o Taco Bell. O parasita Cyclospora, de difícil rastreio, expôs a fragilidade de uma cadeia que movimenta centenas de bilhões de dólares.",
+      "highlight": "Recall voluntário de toda a alface iceberg do mercado norte-americano"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A indústria ainda depende de métodos reativos — testes pós-colheita e recalls manuais — para conter contaminações. O Cyclospora leva semanas para mostrar sintomas, tornando a origem quase impossível de rastrear sem monitoramento em tempo real.",
+      "visual_hint": "Ícone de um microscópio sobre uma folha de alface, com uma linha do tempo quebrada"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada recall custa dezenas de milhões em despesas diretas e até US$ 100 milhões em danos indiretos. Mais grave: a confiança do consumidor se desgasta, reduzindo o consumo de categorias inteiras e afetando produtores, distribuidores e varejistas.",
+      "visual_hint": "Gráfico de barras mostrando queda no consumo após recalls"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Mercado global de alimentos frescos: US$ 1,4 trilhão",
+        "Custo médio direto de um recall: US$ 10 milhões",
+        "Danos indiretos por recall: até US$ 100 milhões"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Sensores IoT, visão computacional e IA preditiva podem detectar contaminações em minutos, não semanas",
+        "Blockchain já rastreia lotes em nichos de alto valor — o desafio é escalar para commodities",
+        "A cadeia de suprimentos alimentar precisa de incentivos econômicos para se digitalizar"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A rastreabilidade por IA não é mais opcional — é a única forma de evitar a próxima crise."
+    }
+  ]
+}

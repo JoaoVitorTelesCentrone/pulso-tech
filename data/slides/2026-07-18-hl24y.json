@@ -1,0 +1,53 @@
+{
+  "title": "Nous Research e o Valuation de US$ 1,5 Bilhão: O Sinal de que o Mercado de Agentes de Código Aberto Está se Fragmentando",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Nous Research Vale US$ 1,5 Bi: O Fim da Guerra de Modelos e o Início da Economia dos Agentes Especializados",
+      "subtext": "Enquanto o mercado foca em gigantes, a Nous Research — criadora do agente Hermes — está prestes a levantar US$ 75 milhões. Este não é apenas mais um round bilionário. É o sinal mais claro de que a economia da IA está trocando a guerra de modelos monolíticos pela fragmentação em agentes especializados e de código aberto.",
+      "image_prompt": "A futuristic digital landscape with a glowing, fragmented network of specialized AI agents, each represented by a unique geometric shape, connected by luminous threads, with a dark blue and purple tech background"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Nous Research, startup conhecida por desenvolver o agente de IA Hermes e por sua forte atuação no ecossistema de modelos abertos, está em negociações avançadas para um novo round de captação. A empresa busca levantar pelo menos US$ 75 milhões, liderados pela Robot Ventures, com participação da Union Square Ventures (USV) e outros investidores proeminentes.",
+      "highlight": "Valuation pretendido de US$ 1,5 bilhão"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O Hermes, principal produto da Nous, é um agente que compete diretamente com soluções como o Claude Code da Anthropic e o GPT-5.6 em tarefas de automação, mas com uma diferença crucial: ele é construído sobre modelos abertos e pesos disponíveis. Este movimento ocorre em um momento em que o mercado de venture capital para IA está em ebulição, com rodadas complexas e valuations que desafiam a lógica tradicional.",
+      "visual_hint": "Ícone de um robô com engrenagens, representando automação e código aberto"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "O valuation de US$ 1,5 bilhão da Nous Research não é apenas um número. Ele sinaliza uma mudança tectônica na economia da IA. Até recentemente, o mercado era dominado por uma narrativa binária: de um lado, os modelos proprietários fechados (OpenAI, Anthropic, Google); do outro, os modelos abertos (Llama, Mistral, DeepSeek). A Nous Research representa um terceiro vetor: o de agentes especializados construídos sobre infraestrutura aberta.",
+      "visual_hint": "Gráfico de pizza mostrando a fragmentação do mercado de IA em três partes: proprietário, aberto e agentes especializados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 75 milhões: valor que a Nous Research busca levantar",
+        "US$ 1,5 bilhão: valuation pretendido, um salto expressivo em relação a rodadas anteriores",
+        "Mercor em negociações para avaliação de US$ 20 bilhões; Valar Atomics busca US$ 6 bilhões"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "O valuation não está no modelo, está no agente: a Nous vende um produto final que executa tarefas, mudando a equação de monetização",
+        "O código aberto está virando plataforma: o Hermes pode ser executado localmente, customizado e integrado sem depender de APIs caras",
+        "A fragmentação é o novo normal: agentes especializados como o Hermes oferecem ROI superior em nichos específicos"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da IA está se fragmentando. Esteja à frente da curva."
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "tldr": "O boom da IA generativa está elevando os requisitos de hardware em smartphones, causando uma crise de memória na Índia que encarece os aparelhos, comprime margens e freia a substituição de dispositivos, revelando um novo gargalo estrutural na cadeia de suprimentos global.",
+  "key_facts": [
+    "Smartphones precisam de 8-12 GB de RAM e armazenamento UFS 3.1+ para rodar IA no dispositivo, elevando o BOM em 15-25% nos segmentos de médio e baixo custo.",
+    "O custo de uma DRAM LPDDR5X de 12 GB (US$ 40-50) pode representar até 25% do BOM de um smartphone de US$ 200 na Índia.",
+    "A crise indiana é o primeiro sinal de que a economia da IA está colidindo com as limitações físicas da cadeia de suprimentos de semicondutores e memória."
+  ],
+  "why_it_matters": "A notícia revela que a democratização da IA de bolso está ameaçada por um gargalo de memória, que se torna o novo 'GPU crunch' para inferência local, impactando desde fabricantes até consumidores globais e redefinindo as prioridades de inovação em hardware.",
+  "watch_next": [
+    "Aumento de preços nos smartphones de entrada e médio porte na Índia e em mercados emergentes, com possível migração de consumidores para aparelhos de segunda mão ou com menos recursos de IA.",
+    "Pressão sobre fabricantes de memória (Samsung, SK Hynix, Micron) para expandir capacidade de produção de DRAM de alta largura de banda e armazenamento UFS, podendo gerar nova escassez global."
+  ],
+  "editorial_angle": "O artigo se diferencia por conectar um fenômeno local (desaceleração do mercado indiano) a uma causa estrutural global (exigências de hardware da IA generativa), expondo um gargalo econômico e técnico que vai além da simples escassez de componentes, e por antecipar um novo ciclo de crise na cadeia de suprimentos de memória."
+}

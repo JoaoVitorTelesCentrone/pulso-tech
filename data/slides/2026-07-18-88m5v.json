@@ -1,0 +1,53 @@
+{
+  "title": "1Password + Claude: O Gesto de US$ 1 Trilhão que Transforma Senhas na Infraestrutura Oculta dos Agentes de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Gesto de US$ 1 Trilhão",
+      "subtext": "Como 1Password e Claude estão transformando senhas na infraestrutura oculta dos agentes de IA",
+      "image_prompt": "A futuristic digital vault door opening into a glowing network of AI agents and data streams, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Agentes de IA autônomos estão explodindo em adoção corporativa, mas esbarram em um gargalo crítico: como acessar sistemas protegidos por autenticação sem comprometer a segurança. Soluções ad-hoc como compartilhar senhas no prompt ou criar service accounts com privilégios excessivos se tornaram um pesadelo de segurança.",
+      "highlight": "54% das empresas já tiveram incidentes de segurança relacionados a agentes de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A 1Password anunciou uma integração nativa com o Claude da Anthropic, transformando o gerenciador de senhas em um hub de autenticação para agentes de IA. Quando um agente precisa acessar um serviço, ele solicita acesso via API ao 1Password, que gera um token temporário com escopo mínimo — sem nunca expor a senha ao modelo.",
+      "visual_hint": "Ícone de cadeado com setas de conexão entre um robô (agente) e vários serviços (nuvem, dashboard, planilha)"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Pela primeira vez, um protocolo nativo de IA resolve o dilema entre autonomia e segurança. O Agent Authentication Framework (AAF) permite que agentes declarem sua intenção ('preciso consultar leads no Salesforce') e recebam acesso granular e temporário. Isso desbloqueia a adoção corporativa em larga escala de agentes autônomos.",
+      "visual_hint": "Diagrama de três camadas: Descoberta → Autorização → Acesso, com um cadeado verde no centro"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "54% das empresas já tiveram incidentes de segurança com agentes de IA",
+        "Mercado de credenciais compartilhadas: US$ 10 bilhões",
+        "Token temporário com escopo mínimo e tempo de vida limitado — sem exposição de senhas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim do compartilhamento de senhas no prompt — segurança por design",
+        "Agentes de IA podem operar com privilégio mínimo, reduzindo riscos de injeção de prompt",
+        "Protocolo aberto (AAF) pode se tornar o padrão de autenticação para agentes em todo o ecossistema"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A infraestrutura oculta dos agentes de IA está sendo construída agora — e ela começa com uma senha que ninguém vê."
+    }
+  ]
+}
