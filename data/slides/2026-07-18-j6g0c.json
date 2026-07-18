@@ -1,0 +1,53 @@
+{
+  "title": "O Acordo Silencioso de US$ 1,25 Bilhão por Mês: Como a SpaceX de Musk Está Virando a Infraestrutura Oculta da Anthropic",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Acordo Silencioso de US$ 1,25 Bilhão por Mês",
+      "subtext": "Como a SpaceX de Musk está virando a infraestrutura oculta da Anthropic",
+      "image_prompt": "Futuristic data center with glowing servers and a satellite dish in the background, dark blue and neon green tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A guerra de modelos de IA não é mais sobre quem tem o melhor algoritmo. É sobre quem controla o compute — e Elon Musk acabou de provar que pode cobrar o preço que quiser.",
+      "highlight": "US$ 1,25 bilhão por mês"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Anthropic — principal rival da OpenAI — está pagando US$ 1,25 bilhão por mês para a SpaceX AI (xAI) pelo acesso ao modelo Grok. Musk abriu o código do Grok Build especificamente para combater a Anthropic, lucrando US$ 15 bilhões anuais da empresa que tenta enfraquecer.",
+      "visual_hint": "Ícone de aperto de mãos com cifrões e um símbolo de código aberto ao lado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Os inimigos não podem mais se dar ao luxo de ignorar a infraestrutura uns dos outros. O mercado de IA de fronteira está se consolidando em torno de apenas dois recursos reais: dados de treinamento em tempo real e capacidade de inferência em escala planetária.",
+      "visual_hint": "Dois globos conectados por um feixe de luz, representando dados e compute"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 1,25 bilhão por mês pagos pela Anthropic à SpaceX AI",
+        "US$ 15 bilhões anuais de receita para Musk vinda de seu rival",
+        "5% de todo o faturamento trimestral da AWS em um único cliente"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A guerra de narrativas não vence a guerra de infraestrutura",
+        "O capital supera o idealismo quando o custo de não ter acesso a dados é maior",
+        "Open source não é altruísmo — é tática de venda de serviços complementares"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O acordo que redefine a economia da IA — e ninguém está falando sobre isso."
+    }
+  ]
+}

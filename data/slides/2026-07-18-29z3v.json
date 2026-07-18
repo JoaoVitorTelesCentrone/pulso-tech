@@ -1,0 +1,53 @@
+{
+  "title": "O Muro Digital de Patreon: Como o Bloqueio Ativo a Bots de IA Está Criando um Novo Campo de Batalha de US$ 10 Bilhões na Economia dos Criadores",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Muro Digital de Patreon",
+      "subtext": "Como o bloqueio ativo a bots de IA está criando um novo campo de batalha de US$ 10 bilhões na economia dos criadores",
+      "image_prompt": "A massive glowing digital wall with a 'NO BOTS' warning sign, futuristic cityscape, dark blue and neon orange lighting, cyberpunk style, high contrast, cinematic"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 17 de julho de 2026, o Patreon anunciou o fim da era do 'robots.txt' — o pedido educado para que bots de IA não raspem conteúdo. Agora, a plataforma parte para o bloqueio técnico ativo em parceria com a Cloudflare, identificando e impedindo scrapers em tempo real.",
+      "highlight": "A era do 'por favor, não raspe' acabou. Agora é bloqueio ou nada."
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Patreon está trocando a cortesia digital por barreiras técnicas reais contra bots de IA. A plataforma se junta a Reddit e Tumblr, mas seu movimento é mais significativo: abriga criadores que dependem da exclusividade de conteúdo de alta qualidade — exatamente o que as empresas de IA mais desejam para treinar seus modelos.",
+      "visual_hint": "Ícone de escudo com um cadeado digital sobreposto a um robô sendo repelido"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "A decisão expõe uma tensão fundamental: a IA generativa precisa de dados abundantes e baratos, enquanto a economia dos criadores depende de escassez e controle. Durante anos, as empresas de IA operaram em uma zona cinzenta legal. O Patreon está dizendo: 'Chega.' Quem controla o combustível dos modelos de IA controla uma alavanca de poder econômico gigantesca.",
+      "visual_hint": "Ilustração de uma balança desequilibrada: de um lado, dados sendo sugados por um robô; do outro, um criador segurando uma chave"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bilhões: valor estimado do novo campo de batalha na economia dos criadores",
+        "1994: ano de criação do robots.txt — um protocolo de cortesia, não de segurança",
+        "Múltiplas varreduras: a web pública já foi completamente raspada por empresas de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim da 'cortesia digital': barreiras técnicas substituem pedidos educados",
+        "Conteúdo de criadores vira a última fronteira de dados de alta qualidade para IA",
+        "Plataformas se tornam guardiãs ativas — e o custo de proteger conteúdo dispara"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra fria da infraestrutura contra os modelos de treinamento está apenas começando."
+    }
+  ]
+}

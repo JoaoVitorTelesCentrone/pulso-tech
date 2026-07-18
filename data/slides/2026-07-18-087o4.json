@@ -1,0 +1,53 @@
+{
+  "title": "Novos Modelos, Mesma Vantagem: O Sinal de que a Economia da Inferência Está se Consolidando em Torno de um Novo Padrão",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Novos Modelos, Mesma Vantagem",
+      "subtext": "A economia da inferência está redefinindo o que significa vencer em IA",
+      "image_prompt": "Futuristic data center with glowing server racks and abstract AI neural network patterns, dark blue and neon cyan tones, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O mercado de modelos de IA está em um ponto de inflexão. Enquanto a guerra de benchmarks se intensifica, a verdadeira vantagem competitiva não está mais em ter o modelo mais poderoso, mas em como ele é implantado e otimizado para o mundo real.",
+      "highlight": "A corrida por modelos maiores está dando lugar à economia da inferência"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "A Dharma AI, em parceria com a Hugging Face, publicou um artigo que argumenta que a vantagem real está se deslocando para custo por token, latência, escalabilidade e facilidade de integração — não apenas para benchmarks.",
+      "visual_hint": "Ícone de balança pesando um modelo grande vs. um modelo pequeno otimizado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas, isso é um alívio e um alerta: os preços estão caindo, mas a diferenciação baseada apenas no modelo escolhido está desaparecendo. A vantagem agora está em orquestrar, monitorar e otimizar a inferência em produção.",
+      "visual_hint": "Gráfico de linha mostrando custo por token caindo ao longo do tempo"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo por token caiu mais de 10x nos últimos 18 meses",
+        "Modelos menores e ajustados superam gigantes genéricos em tarefas específicas",
+        "Otimização de KV-cache pode reduzir latência em até 40%"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "A vantagem competitiva migra do modelo para a infraestrutura de inferência",
+        "Empresas precisarão investir em camadas de software que abstraiam a complexidade dos modelos",
+        "A commoditização dos modelos de fronteira acelera a inovação em aplicações reais"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A economia da inferência está apenas começando. Fique à frente."
+    }
+  ]
+}

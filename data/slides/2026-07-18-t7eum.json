@@ -1,0 +1,54 @@
+{
+  "title": "A Engenharia de Plataforma em Modo Agente: O Fim dos Ambientes Estáticos e a Reinvenção da Infraestrutura de Entrega",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Engenharia de Plataforma em Modo Agente",
+      "subtext": "O fim dos ambientes estáticos e a reinvenção da infraestrutura de entrega para a era dos agentes de IA",
+      "image_prompt": "Futuristic data center with glowing neon blue server racks and autonomous AI agents as streams of light moving at hyperspeed, dark tech aesthetic, cinematic lighting"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "90% das organizações já adotaram plataformas internas para desenvolvedores. O conceito de 'golden paths' venceu. Mas o consumidor da plataforma mudou: agora são agentes de IA autônomos que escrevem, testam e implantam código em ciclos de segundos.",
+      "highlight": "90% das organizações já têm uma IDP — mas o gargalo mudou"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "Ferramentas como Claude Code, Cursor e Copilot estão pressionando as plataformas ao limite. Agentes executam dezenas de iterações em paralelo e não podem esperar 30 segundos por um ambiente. A demanda por provisionamento instantâneo e isolamento radical virou o novo campo de batalha.",
+      "visual_hint": "Ícone de engrenagem com raios de luz representando agentes em paralelo"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Cada segundo de espera multiplica o tempo total de execução de um loop de feedback e o custo computacional. Agentes servidos por plataformas lentas têm custo operacional até 10x maior. Em um mercado onde o custo por inferência define a competição, a eficiência da plataforma é vantagem decisiva.",
+      "visual_hint": "Gráfico de barras comparando custo operacional: plataforma lenta vs. rápida"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "90% das organizações já implementaram pelo menos uma IDP",
+        "Agentes executam 50 a 100 iterações por tarefa de correção",
+        "Cada iteração em plataforma tradicional leva de 30s a 2min",
+        "Custo operacional até 10x maior com plataformas lentas"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Ambientes efêmeros e provisionamento subsegundo se tornam padrão",
+        "Isolamento radical por ambiente para conter agentes imprevisíveis",
+        "Fim do estado compartilhado — cada agente exige seu próprio sandbox"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A infraestrutura de entrega não é mais um detalhe operacional — é o novo gargalo da produtividade. Fique à frente."
+    }
+  ]
+}

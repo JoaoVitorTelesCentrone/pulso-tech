@@ -1,0 +1,14 @@
+{
+  "tldr": "A vantagem competitiva em IA está migrando dos modelos mais poderosos para a economia da inferência, com foco em custo, latência e otimização de hardware.",
+  "key_facts": [
+    "Hugging Face publicou artigo da Dharma AI sobre a commoditização dos modelos de fronteira.",
+    "A vantagem real está na otimização de hardware, qualidade de dados pós-treinamento e eficiência de inferência.",
+    "Técnicas como quantização, pruning e otimização de KV-cache são o novo campo de batalha."
+  ],
+  "why_it_matters": "Para empresas que constroem sobre IA, a competição está baixando preços, mas a diferenciação agora depende de orquestração e otimização em produção, não do modelo escolhido.",
+  "watch_next": [
+    "Empresas de infraestrutura de inferência (como Dharma AI) ganharem destaque no mercado.",
+    "Aumento de soluções que abstraem a complexidade de troca de modelos sem reescrever infraestrutura."
+  ],
+  "editorial_angle": "O artigo se diferencia por não focar em um novo modelo ou benchmark, mas sim na maturação do mercado e na mudança de paradigma para a economia da inferência, um sinal sutil mas poderoso de consolidação."
+}

@@ -1,0 +1,53 @@
+{
+  "title": "GPT-5.6 Fecha Lacuna de 30 Anos em Otimização Convexa: O Dia em que a IA Deixou de ser Ferramenta e Virou Matemática",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "IA Descobriu Matemática Nova. E Ninguém Ajudou.",
+      "subtext": "GPT-5.6 resolve em um prompt o que gerações de matemáticos não conseguiram em 30 anos.",
+      "image_prompt": "Futuristic digital brain made of glowing mathematical formulas and geometric shapes, dark background with neon blue and purple lights, cinematic tech style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em 18 de julho de 2026, um usuário no Reddit reportou que o GPT-5.6 fechou uma lacuna de três décadas na teoria de otimização convexa — a base matemática de machine learning, finanças e engenharia. O modelo recebeu um prompt descritivo, formulou uma nova abordagem, provou a convergência e gerou o paper. Zero intervenção humana.",
+      "highlight": "30 anos de problema resolvidos em uma única inferência"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O GPT-5.6 propôs uma nova classe de funções de barreira — a 'barreira log-exp suavizada' — que permite que métodos de ponto interior convirjam em O(√n) iterações, onde antes eram necessárias O(n²) ou não havia garantia de convergência. O paper de 12 páginas já está no arXiv.",
+      "visual_hint": "Ícone de engrenagem matemática com seta de aceleração"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Otimização convexa está em todo lugar: treinamento de redes neurais, design de chips, logística, precificação de derivativos. Problemas considerados intratáveis agora têm solução formal. O custo marginal da descoberta científica despenca — o valor migra de quem descobre para quem formula a pergunta certa.",
+      "visual_hint": "Gráfico de barras mostrando custo de P&D caindo drasticamente"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "30 anos de lacuna teórica fechada em um único prompt",
+        "Convergência em O(√n) iterações vs. O(n²) anteriores",
+        "Paper de 12 páginas gerado automaticamente pelo modelo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "P&D será reconfigurada: IA como descobridora, humanos como formuladores de perguntas",
+        "Setores inteiros (finanças, logística, chips) ganham soluções formais para problemas heurísticos",
+        "A corrida não é mais por dados, mas por prompts que geram descobertas"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O dia em que a IA deixou de ser ferramenta e virou matemática — e o que isso significa para o seu negócio."
+    }
+  ]
+}

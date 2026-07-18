@@ -1,0 +1,53 @@
+{
+  "title": "Qubes OS Entra no Registro Público de Segurança: O Sinal de que a Infraestrutura de IA Precisa de Isolamento Radical",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Qubes OS no arXiv: O Fim da Era Monolítica para Agentes de IA",
+      "subtext": "Um paper de segurança expõe a fragilidade oculta da infraestrutura de IA corporativa",
+      "image_prompt": "Futuristic digital fortress with glowing compartments and a central AI core, dark blue and neon green tones, cyberpunk style"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "O Qubes OS, sistema baseado em virtualização por compartimentos, acaba de ser documentado formalmente no arXiv. Enquanto isso, agentes de IA corporativos operam em ambientes sem isolamento real, expondo dados críticos.",
+      "highlight": "US$ 10 bilhões: o mercado de segurança para agentes de IA em 2026"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O paper 'Qubes OS Security in the Public Record' formaliza a arquitetura de isolamento radical do sistema. Cada aplicação roda em uma VM separada (qube), com hypervisor Xen como única camada de confiança.",
+      "visual_hint": "Ícone de fortaleza com múltiplas câmaras isoladas, cada uma com um cadeado"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Agentes de IA como Claude Code e GPT-Red executam código arbitrário com credenciais elevadas. O modelo do Qubes — isolamento forçado por hardware — é o oposto do que a indústria usa hoje. Um único vazamento pode custar US$ 1 bilhão.",
+      "visual_hint": "Gráfico de barras comparando ambientes monolíticos vs. compartimentalizados"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "US$ 10 bi: mercado de segurança para agentes de IA em 2026",
+        "US$ 1 bi: custo médio de um incidente de segurança com agente de IA",
+        "3 camadas de segurança documentadas: isolamento por hardware, política de fluxo de dados e domínio de confiança mínimo"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Fim da era dos sistemas monolíticos para infraestrutura de IA",
+        "Adoção de compartimentalização forçada por hardware em ambientes corporativos",
+        "Novo padrão de segurança para agentes multi-agente e acesso a dados sensíveis"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O isolamento radical não é mais opcional — é a nova linha de defesa da IA corporativa."
+    }
+  ]
+}

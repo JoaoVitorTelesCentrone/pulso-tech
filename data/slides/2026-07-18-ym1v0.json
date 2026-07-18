@@ -1,0 +1,53 @@
+{
+  "title": "Grok 4.5 vs. Opus: O Teste que Expõe a Guerra de Preços na Inferência de IA",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "Grok 4.5 vs. Opus: A Guerra de Preços na Inferência de IA",
+      "subtext": "Um modelo de fronteira por um quarto do custo? O teste que pode reconfigurar o mercado.",
+      "image_prompt": "A futuristic digital battlefield with two AI models represented as glowing data streams colliding, one labeled 'Grok 4.5' in green and the other 'Opus' in blue, with a price tag icon in the center, dark tech background with neon accents"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "Em julho de 2026, a xAI lançou o Grok 4.5, prometendo performance equivalente ao Claude Opus da Anthropic — o padrão ouro para tarefas complexas — mas consumindo apenas 25% dos tokens. Um teste independente colocou essa afirmação à prova.",
+      "highlight": "25% dos tokens para a mesma qualidade?"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O teste do The New Stack comparou Grok 4.5 e Claude Opus em programação, raciocínio lógico e análise de código. Resultado: o Grok entregou qualidade comparável na maioria dos cenários, com consumo de tokens 60-80% menor. A eficiência veio de um raciocínio mais direto, sem o 'pensamento em voz alta' do Opus.",
+      "visual_hint": "Ícone de balança com um token de um lado e uma moeda do outro"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Para empresas que rodam agentes autônomos, pipelines de RAG ou sistemas de codificação, a economia é imediata. O diferencial competitivo não será mais apenas qualidade bruta, mas eficiência econômica. O Grok 4.5 não precisa ser melhor em 100% dos casos — só precisa ser 'bom o suficiente' por um preço muito menor.",
+      "visual_hint": "Gráfico de barras comparando custo por token entre Grok e Opus"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Geração de código: Grok consumiu 20-30% dos tokens do Opus",
+        "Raciocínio lógico: 35-40% dos tokens, com qualidade comparável",
+        "Economia potencial: US$ 1,125 milhão por dia para grandes operações"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "Pressão sobre Anthropic, OpenAI e Google para cortar preços ou justificar prêmios",
+        "ROI de projetos de IA pode disparar com custos de inferência reduzidos",
+        "Mercado de modelos se reconfigura: eficiência vira novo campo de batalha"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "A guerra de preços na inferência de IA está apenas começando. Fique por dentro das próximas jogadas."
+    }
+  ]
+}

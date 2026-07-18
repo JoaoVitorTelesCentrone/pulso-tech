@@ -1,0 +1,17 @@
+{
+  "tldr": "A engenharia de plataforma, já consolidada em 90% das organizações, enfrenta um novo gargalo: a infraestrutura de entrega precisa ser repensada para atender à velocidade e ao isolamento exigidos por agentes de IA autônomos, sob pena de inviabilizar economicamente o ciclo de desenvolvimento.",
+  "key_facts": [
+    "90% das organizações já implementaram pelo menos uma plataforma interna para desenvolvedores (IDP).",
+    "Agentes de IA como Claude Code, Cursor e Copilot executam ciclos de codificação, teste e deploy em segundos, não horas.",
+    "Cada iteração de um agente de IA em plataformas tradicionais pode levar de 30 segundos a 2 minutos apenas para provisionar o ambiente de teste.",
+    "Agentes que executam 50-100 iterações por tarefa podem acumular mais de 3 horas de espera por infraestrutura em uma única correção.",
+    "O custo operacional de agentes de IA servidos por plataformas lentas pode ser até 10x maior do que com infraestrutura de provisionamento subsegundo."
+  ],
+  "why_it_matters": "Para o leitor de IA/Tech, este artigo revela que o próximo campo de batalha da produtividade não está nos modelos ou nos agentes em si, mas na infraestrutura que os sustenta. Ignorar a latência de ambiente e o isolamento radical significa perder competitividade econômica e operacional em um mercado onde o custo por inferência já é crítico.",
+  "watch_next": [
+    "Surgimento de plataformas especializadas em provisionamento subsegundo e ambientes efêmeros para agentes de IA.",
+    "Reformulação das IDPs existentes para oferecer isolamento radical e eliminar estado compartilhado entre ambientes.",
+    "Adoção de métricas de eficiência de plataforma (como 'tempo médio de provisionamento por agente') como KPI central de times de infraestrutura."
+  ],
+  "editorial_angle": "O artigo se diferencia ao deslocar o debate de 'como construir uma IDP' para 'como a IDP precisa ser reinventada para servir agentes, não humanos'. Ele conecta um problema operacional (latência de ambiente) a um impacto econômico direto (custo 10x maior), tornando a discussão relevante tanto para CTOs quanto para líderes de produto. Foi escolhido por antecipar um gargalo que ainda é subnotificado na cobertura mainstream de agentes de IA."
+}

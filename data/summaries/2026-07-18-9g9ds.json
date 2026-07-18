@@ -1,0 +1,16 @@
+{
+  "tldr": "O GPT-5.6 resolveu uma lacuna de 30 anos em otimização convexa com um único prompt, gerando um paper completo e demonstrando que a IA pode fazer descobertas matemáticas originais.",
+  "key_facts": [
+    "Em 18 de julho de 2026, um usuário do Reddit reportou que o GPT-5.6 fechou uma lacuna de 30 anos na teoria de otimização convexa.",
+    "O modelo propôs uma nova classe de funções de barreira (barreira log-exp suavizada) que garante convergência em O(√n) iterações.",
+    "O feito foi realizado sem fine-tuning, busca em banco de dados ou intervenção humana — apenas inferência a partir de um prompt descritivo.",
+    "O paper gerado tem 12 páginas e está sendo revisado informalmente no arXiv."
+  ],
+  "why_it_matters": "A notícia mostra que a IA não é mais apenas uma ferramenta de automação, mas um agente de descoberta científica, reconfigurando a economia de P&D e tornando o custo marginal da inovação matemática quase zero.",
+  "watch_next": [
+    "Revisão por pares formal da prova e possível validação por matemáticos humanos.",
+    "Impacto imediato em áreas aplicadas como machine learning, finanças e logística, que dependem de otimização convexa.",
+    "Discussão sobre o novo papel dos pesquisadores: formular perguntas certas em vez de resolver problemas."
+  ],
+  "editorial_angle": "O artigo se destaca por ir além do anúncio técnico, conectando a descoberta a implicações econômicas e estratégicas para investidores e gestores de tecnologia, além de contextualizar o feito como parte de uma sequência de avanços (CDC, agora otimização convexa)."
+}

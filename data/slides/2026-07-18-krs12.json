@@ -1,0 +1,53 @@
+{
+  "title": "O Assistente de US$ 6.880: O Luxo da IA Está Testando os Limites do Valor Real",
+  "theme": "dark-tech",
+  "slides": [
+    {
+      "type": "cover",
+      "headline": "O Assistente de US$ 6.880: Inovação ou o Ápice do Hype?",
+      "subtext": "A Vertu lançou um smartphone com IA de luxo. O mercado precisa decidir se isso é o futuro ou um exagero.",
+      "image_prompt": "A futuristic luxury smartphone with a glowing AI hologram, dark background with gold accents, high-end materials, sleek design"
+    },
+    {
+      "type": "context",
+      "heading": "O Cenário",
+      "body": "A Vertu, conhecida por celulares de luxo, lançou um smartphone dobrável com um agente de IA integrado por US$ 6.880. O dispositivo promete automatizar fluxos de trabalho complexos e oferecer segurança de dados para executivos de alto escalão.",
+      "highlight": "US$ 6.880 por um assistente de IA"
+    },
+    {
+      "type": "insight",
+      "heading": "O que está acontecendo",
+      "body": "O hardware é premium, mas o agente de IA apresentou resultados mistos: do 'funcional' ao 'decepcionante'. A promessa de um assistente 'sobrenatural' esbarra nos mesmos gargalos de qualquer IA: latência, alucinações e contextos longos.",
+      "visual_hint": "Ícone de smartphone com um ponto de interrogação brilhante"
+    },
+    {
+      "type": "insight",
+      "heading": "Por que importa",
+      "body": "Se um agente de US$ 6.880 não entrega uma experiência superior a um assistente de US$ 20/mês, a tese de 'IA de luxo' desmorona. Isso afeta a precificação de startups e grandes empresas que apostam em agentes corporativos.",
+      "visual_hint": "Gráfico de barras comparando preço vs. valor percebido"
+    },
+    {
+      "type": "data",
+      "heading": "Números que contam a história",
+      "bullets": [
+        "Custo do dispositivo: US$ 6.880",
+        "Custo de inferência de IA caiu 40% nos últimos 6 meses",
+        "54% das empresas já tiveram incidentes com agentes de IA"
+      ]
+    },
+    {
+      "type": "impact",
+      "heading": "O que muda daqui pra frente",
+      "bullets": [
+        "IA de luxo pode ser insustentável se não entregar valor real",
+        "Segurança em dispositivos premium vira diferencial crítico",
+        "Startups precisam repensar precificação de agentes de IA"
+      ]
+    },
+    {
+      "type": "cta",
+      "headline": "Acompanhe o blog para saber mais",
+      "subtext": "O luxo da IA está testando os limites do valor real. Até onde isso vai?"
+    }
+  ]
+}
